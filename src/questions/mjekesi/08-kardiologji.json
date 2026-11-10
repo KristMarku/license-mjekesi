@@ -1,0 +1,977 @@
+[
+  {
+    "id": "licenca-kardiologji-001",
+    "question": "Kriza lipotimike kanë një incidence të rritur në:",
+    "answers": [
+      "Insuficencën e aortas",
+      "Stenozën e aortas",
+      "Stenozën e istmusit të aortas",
+      "Insuficiencën mitrale",
+      "Steno-insuficiencën mitrale"
+    ],
+    "correct": 1,
+    "explanation": "Në stenozën aortale debiti kardiak është i fiksuar dhe nuk rritet gjatë sforcimit, ndërsa rezistenca periferike bie → hipoperfuzion cerebral → sinkopë/lipotimi nga eforti. Triada: anginë, sinkopë, dispne."
+  },
+  {
+    "id": "licenca-kardiologji-002",
+    "question": "Cfarë kuptoni me termin miokard spongioz?",
+    "answers": [
+      "Mungesa e trabekulave normale në pjesën e brendshme të ventrikulit të majtë si pasojë e një defekti maturimi në jetën intrauterine",
+      "Prania e trabekulave në pjesën e brendshme të ventrikulit të majtë si pasojë e një defekti maturimi në jetën intrauterine",
+      "Ekzistenca e foramen ovale ndërventrikulare pas lindjes",
+      "Zëvendësimi i miokardit me ind dhjamor",
+      "Situatë klinike që karakterizohet nga zgjerimi i madh i ventrikulit"
+    ],
+    "correct": 1,
+    "explanation": "Miokardi spongioz (non-compaction i VM) është kardiomiopati kongjenitale ku ruhen trabekula të shumta dhe të thella me hapësira ndërtrabekulare, nga ndalimi i procesit embrional të kompaktimit. Rrezik: insuficiencë kardiake, aritmi, embolizëm."
+  },
+  {
+    "id": "licenca-kardiologji-003",
+    "question": "Rritja e vëllimit qarkullues (volemisë), vjen si pasoje e të gjithë gjendjeve të poshtë shënuara me përjashtim të:",
+    "answers": [
+      "Rritjes të filtrimit glomerular",
+      "Uljes të sekretimit të aldosteronit",
+      "Uljes të sekretimit të ADH",
+      "Uljes të përthithjes të natriumit",
+      "Rritjes të aktivitetit të reninës plazmatike"
+    ],
+    "correct": 4,
+    "explanation": "Rritja e aktivitetit të reninës → angiotensinë II dhe aldosteron → mbajtje Na dhe uji → rrit volemian (jo pasojë e saj). Përkundrazi, hipervolemia frenon reninën, aldosteronin, ADH-në dhe rrit filtrimin glomerular dhe natriurezën."
+  },
+  {
+    "id": "licenca-kardiologji-004",
+    "question": "Në infarktin e miokardit cila enzime paraqitet në vlerë më të rritur fillimisht?",
+    "answers": [
+      "Mioglobina",
+      "SGOT",
+      "LDH",
+      "CK-MB",
+      "Troponina"
+    ],
+    "correct": 0,
+    "explanation": "Mioglobina rritet e para (1–3 orë pas infarktit) por është jospecifike; pastaj troponinat dhe CK-MB (3–6 orë), AST dhe LDH më vonë."
+  },
+  {
+    "id": "licenca-kardiologji-005",
+    "question": "Në stenozën e valvulës mitrale evidentohen të gjitha këto me përjashtim të:",
+    "answers": [
+      "Hipertrofi e arterieve pulmonare",
+      "Hipertension venoz pulmonare",
+      "Hipertrofi e atriumit të majtë",
+      "Hipertrofi e ventrikulit të majtë",
+      "Zhurmë diastolike në apex"
+    ],
+    "correct": 3,
+    "explanation": "Në stenozën mitrale ventrikuli i majtë është i \"mbrojtur\" (mbushje e reduktuar), prandaj nuk hipertrofizohet. Ka dilatim/hipertrofi të atriumit të majtë, hipertension venoz dhe arterial pulmonar, zhurmë diastolike apikale."
+  },
+  {
+    "id": "licenca-kardiologji-006",
+    "question": "Angina gjoksore mund të shfaqet:",
+    "answers": [
+      "si pasojë e të ftohtit",
+      "gjatë sforcimit",
+      "në qetësi",
+      "gjatë stresit",
+      "të gjitha përgjigjet më lart janë të sakta"
+    ],
+    "correct": 4,
+    "explanation": "Angina mund të provokohet nga sforcimi, i ftohti, stresi emocional, ushqimi i bollshëm (angina stabile), ose të shfaqet në qetësi (angina e paqëndrueshme, vazospazma Prinzmetal)."
+  },
+  {
+    "id": "licenca-kardiologji-007",
+    "question": "Cila shenjë nuk zbulohet në stenozën mitrale?",
+    "answers": [
+      "zhurmë diastolike me përforcim presistolik",
+      "pulsi i shpejtë",
+      "theksim i tonit të dytë në apex",
+      "theksim i tonit të dytë në bazë",
+      "zhurmë në hapje të valvulës"
+    ],
+    "correct": 1,
+    "explanation": "Stenoza mitrale jep S1 të përforcuar, klik hapjeje, rrapëllimë diastolike me përforcim presistolik (në ritëm sinusal), P2 të theksuar në bazë (hipertension pulmonar). Pulsi periferik është i vogël, jo i shpejtë/kërcyes."
+  },
+  {
+    "id": "licenca-kardiologji-008",
+    "question": "Në stenozën e aortës cila nga shenjat e mëposhtme vihet re?",
+    "answers": [
+      "pulsi kërcyes",
+      "pulsimi i arterieve karotide",
+      "pulsimi i arterive femorale",
+      "pulsi i vonuar",
+      "asnjë nga këto"
+    ],
+    "correct": 3,
+    "explanation": "Në stenozën aortale pulsi është \"parvus et tardus\" — i vogël dhe i vonuar (ngritje e ngadaltë). Pulsi kërcyes (Corrigan) është tipik për insuficiencën aortale."
+  },
+  {
+    "id": "licenca-kardiologji-009",
+    "question": "Në stenozën e aortas, dëgjohet:",
+    "answers": [
+      "toni i II-të në sistol",
+      "kërcitje në fillimin e hapjes të valvulës",
+      "zhurma diastolike",
+      "zhurmë sistolike zbrazëse në hapsirën interkostale të II-të",
+      "të gjitha këto"
+    ],
+    "correct": 3,
+    "explanation": "Stenoza aortale jep zhurmë sistolike ejeksioni (në formë diamanti, crescendo-decrescendo) në hapësirën e II ndërbrinjore djathtas, që përhapet në karotide; A2 i dobësuar."
+  },
+  {
+    "id": "licenca-kardiologji-010",
+    "question": "Cili nga pohimet është I vërtetë për bllokun atrio-ventrikular të grades të II-të tip II?",
+    "answers": [
+      "Zgjatje e intervalit PR mbi 0.20 sek për çdo kompleks QRS",
+      "Zgjatje progresive e intervalit PR në tri komplekse QRS të një pas njëshme, shoqëruar me mungesë të vales P pasuese të QRS",
+      "Valë P ndjekur nga komplekse QRS me intervale PR normale ose të alteruar nga vale P që nuk pasohen me komplekse QRS",
+      "Nuk ka lidhje midis vales P dhe komplekseve QRS. Frekunca e komplekseve QRS është 30 bpm",
+      "Mungesa e valëve P të dukshme"
+    ],
+    "correct": 2,
+    "explanation": "Blloku AV i shkallës II tip Mobitz II: valë P të përçuara me PR konstant (normal ose i zgjatur), papritur një valë P nuk ndiqet nga QRS. Mobitz I (Wenckebach) ka zgjatje progresive të PR; blloku III ka disociacion të plotë."
+  },
+  {
+    "id": "licenca-kardiologji-011",
+    "question": "Në cilën prej këtyre sëmundjeve degjohet një “klik” mezo-sistolik?",
+    "answers": [
+      "insuficience mitrale",
+      "prolaps i valvulës mitrale",
+      "infarkt",
+      "aneurizëm aortale",
+      "defekt interventrikular"
+    ],
+    "correct": 1,
+    "explanation": "Prolapsi i valvulës mitrale jep klik mezosistolik (tensioni i papritur i kordave), shpesh i ndjekur nga zhurmë telesistolike nëse ka regurgitim."
+  },
+  {
+    "id": "licenca-kardiologji-012",
+    "question": "Në një pacient me fibrilacion atrial kronik cili është niveli i INR në mënyrë të tillë që të evitohet një iktus embolik?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "Në fibrilacionin atrial jo-valvular me warfarinë synohet INR 2–3 (objektivi 2,5); INR <2 nuk mbron mjaftueshëm nga iktusi, >3 rrit hemorragjitë."
+  },
+  {
+    "id": "licenca-kardiologji-013",
+    "question": "Një njeri 57 vjeç, hipertensiv, me hiperkolesterolemi dhe mbipeshë ankon për një dhimbje shtrënguese në kraharor në sforcime të lehta (si ngjitje shkallëve, dhënia e biçikletës). Cilin ekzaminim do të kërkonit fillimisht?",
+    "answers": [
+      "Shintigrafi me Talium 201",
+      "Cikloergometri",
+      "Koronarografi",
+      "Ekokardiograma",
+      "TAC"
+    ],
+    "correct": 1,
+    "explanation": "Dyshim për anginë stabile nga eforti te pacient me faktorë rreziku: ekzaminimi i parë funksional është testi i ushtrimit me EKG (cikloergometri/tapet rrotullues). Shintigrafia ose eko-stresi kur EKG është e painterpretueshme; koronarografia pas testeve pozitive/rrezik të lartë."
+  },
+  {
+    "id": "licenca-kardiologji-014",
+    "question": "Cili nga ndërlikimet e infarktit të miokardit mund të na çojë drejt tamponadës kardiake?",
+    "answers": [
+      "Insuficienca mitrale akute",
+      "Ruptura kardiake",
+      "Ruptura e septumit interventrikular",
+      "Insuficienca kardiake akute",
+      "Insuficienca mitrale"
+    ],
+    "correct": 1,
+    "explanation": "Ruptura e murit të lirë të ventrikulit të majtë pas infarktit (zakonisht ditët 3–7) jep hemoperikard → tamponadë kardiake dhe disociacion elektromekanik. Ruptura e septumit jep shunt majtas-djathtas."
+  },
+  {
+    "id": "licenca-kardiologji-015",
+    "question": "Cili është ndërlikimi më i rëndë që vërehet në stenozën mitrale?",
+    "answers": [
+      "Fibrilacioni atrial",
+      "Infarkti pulmonar",
+      "Infarki miokardit",
+      "Embolia sistemike",
+      "Asistolia"
+    ],
+    "correct": 3,
+    "explanation": "Ndërlikimi më i rëndë i stenozës mitrale është embolizmi sistemik (sidomos cerebral) nga trombet në atriumin e majtë të dilatuar, veçanërisht me fibrilacion atrial."
+  },
+  {
+    "id": "licenca-kardiologji-016",
+    "question": "Në EKG një ekstrasistol ventrikulare karakterizohet nga:",
+    "answers": [
+      "kompleksi QRS i ngushtë ndjekur nga një pauzë kompesatore",
+      "kompleksi QRS i gjerë ndjekur nga një pauzë kompesatore",
+      "kompleksi QRS i gjerë ndjekur nga një pauzë jo kompesatore",
+      "kompleksi QRS i ngushtë ndjekur nga një pauzë jo kompesatore",
+      "kompleksi QRS i gjerë pa pauzë"
+    ],
+    "correct": 1,
+    "explanation": "Ekstrasistola ventrikulare: QRS i parakohshëm, i gjerë (>120 ms) dhe bizar, pa valë P paraprirëse, me T në kahun e kundërt, e ndjekur nga pauzë kompensatore e plotë."
+  },
+  {
+    "id": "licenca-kardiologji-017",
+    "question": "Cila situatë klinike nuk karakterizohet nga ulja e fraksionit të mbushjes të ventrikulit të majtë shoqëruar me kongjestion pulmonar?",
+    "answers": [
+      "Stenoza mitrale",
+      "Kardiomiopatia hipertrofike",
+      "Tamponada kardiake",
+      "Insuficienca mitrale",
+      "Infarkti akut i miokardit"
+    ],
+    "correct": 3,
+    "explanation": "Në insuficiencën mitrale mbushja e VM është e rritur (gjaku i regurgituar kthehet në diastolë). Stenoza mitrale, kardiomiopatia hipertrofike, tamponada dhe infarkti ulin mbushjen e VM dhe japin kongjestion pulmonar."
+  },
+  {
+    "id": "licenca-kardiologji-018",
+    "question": "Cili është niveli i kolesterolit LDL që duhet të arrij një pacient me infarkt miokardi?",
+    "answers": [
+      "< 130 mg/dl",
+      "< 200 mg/dl",
+      "< 100 mg/dl",
+      "< 180 mg/dl",
+      "< 110 mg/d"
+    ],
+    "correct": 2,
+    "explanation": "Udhëzimet e vjetra: objektivi pas infarktit ishte LDL <100 mg/dl. Udhëzimet aktuale (ESC 2019) rekomandojnë LDL <55 mg/dl dhe ulje ≥50% për pacientët me rrezik shumë të lartë."
+  },
+  {
+    "id": "licenca-kardiologji-019",
+    "question": "Efekti inotrop pozitiv në zemër realizohet nga:",
+    "answers": [
+      "acidoza",
+      "rritja e hormoneve tiroides",
+      "hiperkalemia",
+      "hipokalemia",
+      "frenimi beta-adrenergjik"
+    ],
+    "correct": 1,
+    "explanation": "Hormonet tiroidiane rrisin kontraktilitetin (efekt inotrop pozitiv) duke rritur ekspresionin e SERCA, miozinës alfa dhe receptorëve beta. Acidoza, hiperkalemia dhe betabllokuesit ulin kontraktilitetin."
+  },
+  {
+    "id": "licenca-kardiologji-020",
+    "question": "Përcaktuesi kryesor i konsumit të oksigjenit nga miokardi është:",
+    "answers": [
+      "presioni arterial sistolik",
+      "presioni arterial diastolik",
+      "kontraktiliteti miokardit",
+      "frekuenca kardiake",
+      "vëllimi ventrikular telediastolik"
+    ],
+    "correct": 3,
+    "explanation": "Konsumi i O2 nga miokardi përcaktohet kryesisht nga frekuenca kardiake, tensioni i murit (presioni sistolik × rrezja) dhe kontraktiliteti; frekuenca është përcaktuesi kryesor (rrit punën dhe shkurton diastolën)."
+  },
+  {
+    "id": "licenca-kardiologji-021",
+    "question": "Shkaku më i shpeshtë i pamjaftueshmërisë të zemrës është:",
+    "answers": [
+      "disfunksioni diastolik i ventrikulit të majtë",
+      "disfunksioni sistolik i ventrikulit të majtë",
+      "hipovolemia",
+      "disfunksioni i ventrikulit të djathtë",
+      "shoku"
+    ],
+    "correct": 1,
+    "explanation": "Shkaku më i shpeshtë i insuficiencës kardiake është disfunksioni sistolik i VM (sidomos nga kardiopatia ishemike), megjithëse insuficienca me fraksion të ruajtur është gjithnjë e më e shpeshtë te të moshuarit."
+  },
+  {
+    "id": "licenca-kardiologji-022",
+    "question": "Raporti ventilim/perfuzion tregon raportin e:",
+    "answers": [
+      "kapacitetit vital dhe fluksit të gjakut qarkullues në mushkëri",
+      "PCO2 dhe Po2 në gjakun arterial",
+      "ventilimit dhe fluksit të gjakut qarkullues në njësinë e mushkërisë",
+      "vëllimin e gazeve dhe vëëlimin e gjakut qarkullues në mushkëri",
+      "kapacitetin pulmonar total dhe prurjen kardiake"
+    ],
+    "correct": 2,
+    "explanation": "Raporti V/Q krahason ventilimin alveolar me fluksin e gjakut kapilar në një njësi pulmonare (normalisht ~0,8). Mospërputhja V/Q është shkaku më i shpeshtë i hipoksemisë."
+  },
+  {
+    "id": "licenca-kardiologji-023",
+    "question": "Cilat janë karakteristikat elektrokardiografike të infarktit subendokardial?",
+    "answers": [
+      "subnivelimi i ST dhe shfaqja e valës Q",
+      "supraniveli ST dhe shfaqja e valës Q",
+      "subnivelimi i ST dhe mungesa e valës Q",
+      "subnivelimi i ST dhe shfaqja e valës U",
+      "ST në vijën izoelektrike dhe shfaqja e valës Q"
+    ],
+    "correct": 2,
+    "explanation": "Infarkti subendokardial (NSTEMI) jep zakonisht nënnivelim të ST dhe/ose inversion të T, pa zhvillim të valëve Q patologjike (nuk prek gjithë trashësinë e murit)."
+  },
+  {
+    "id": "licenca-kardiologji-024",
+    "question": "Në lidhje me një pacient 65 vjeç, hipertensiv, me fibrilacion atrial kronik të stabilizuar, pa faktorë të tjerë riskant, janë të vërteta të gjitha pohimet e më poshtme me përjashtim të:",
+    "answers": [
+      "Me përjashtim të rasteve kur ka një kundërindikacion absolut, terapia do të konsistonte në përdorimin e antikoagulantëve oral",
+      "Pacient nuk mund të trajtohet vetëm me aspirinë",
+      "Pacienti duhet të trajtohet vetëm me barna antihipertensiv",
+      "Duhet realizuar konvertimi i ritmit",
+      "Pacienti duhet trajtuar vazhdimisht me heparinë subcutane"
+    ],
+    "correct": 0,
+    "explanation": "Pacient 65 vjeç me hipertension dhe FA ka CHA2DS2-VASc ≥2 → indikohet antikoagulim oral, përveç nëse ka kundërindikacion absolut. Kjo është e vetmja pohim i saktë; pyetja duket e përkthyer me logjikë të përmbysur (aspirina vetëm nuk mjafton, heparina SC afatgjatë dhe vetëm antihipertensivët nuk janë të duhura)."
+  },
+  {
+    "id": "licenca-kardiologji-025",
+    "question": "Cili nga këta faktorë nuk lidhet me trombfilinë?",
+    "answers": [
+      "Defiçiti i proteinës C",
+      "Defiçiti i proteinës S",
+      "Defiçiti i antitrombinës III",
+      "Hiperhomocisteinemia",
+      "Neoplazia"
+    ],
+    "correct": 4,
+    "explanation": "Trombofilia (në kuptimin e ngushtë) janë defektet biokimike të koagulimit: deficiti i proteinës C, proteinës S, antitrombinës III, faktori V Leiden, mutacioni i protrombinës, hiperhomocisteinemia. Neoplazia është gjendje protrombotike klinike, jo trombofili. Çelësi (B) duket gabim, sepse deficiti i proteinës S është trombofili klasike."
+  },
+  {
+    "id": "licenca-kardiologji-026",
+    "question": "Përkufizohet si “angina nga eforti“:",
+    "answers": [
+      "Angina de nuova",
+      "Angina e qëndrueshme",
+      "Angina Prinzmetal",
+      "Angina e qetësisë",
+      "Angina si pasojë e ngarkesës"
+    ],
+    "correct": 1,
+    "explanation": "Angina e qëndrueshme (stabile) shfaqet me sforcim të parashikueshëm dhe qetësohet me pushim/nitrate; është \"angina nga eforti\" klasike. Prinzmetal shfaqet në qetësi nga vazospazma."
+  },
+  {
+    "id": "licenca-kardiologji-027",
+    "question": "Refluksi pozitiv hepato-jugular flet në favor të:",
+    "answers": [
+      "Pamjaftueshmërisë zemrore me natyrë kongjestive",
+      "Obstruksionit të vena cava superior",
+      "Obstruksionit të vena portës",
+      "Obstruksionit të vena kava inferior",
+      "Situatë fiziologjike"
+    ],
+    "correct": 0,
+    "explanation": "Refluksi hepatojugular pozitiv (rritje e qëndrueshme e presionit jugular kur shtypet mëlçia) tregon që zemra e djathtë nuk mund të pranojë volumin shtesë — shenjë e insuficiencës kardiake kongjestive (djathtas)."
+  },
+  {
+    "id": "licenca-kardiologji-028",
+    "question": "Terapia në insuficiencën kardiake përfshin përdorimin e të gjithë barnave të poshtë shënuar me përjashtim të:",
+    "answers": [
+      "beta-bllokuesve",
+      "ACE-inhibitorëve",
+      "Statinave",
+      "Eritropoetinës",
+      "Diuretikëve"
+    ],
+    "correct": 3,
+    "explanation": "Insuficienca kardiake trajtohet me betabllokues, ACE-inhibitorë/ARNI, antagonistë mineralokortikoidë, SGLT2i, diuretikë; statinat në etiologjinë ishemike. Eritropoietina nuk ka treguar përfitim (rrit trombozat)."
+  },
+  {
+    "id": "licenca-kardiologji-029",
+    "question": "Cili nuk është efekt anësor i terpaisë me ace-inhibitor?",
+    "answers": [
+      "Hipotensioni",
+      "Kolla e thatë",
+      "Ndryshimet në shije",
+      "Hiponatremia",
+      "Edema angioneurotike"
+    ],
+    "correct": 3,
+    "explanation": "Efektet anësore të ACE-inhibitorëve: hipotension (doza e parë), kollë e thatë, disgeuzi, angioedemë, hiperkalemi, insuficiencë renale. Hiponatremia nuk është efekt tipik."
+  },
+  {
+    "id": "licenca-kardiologji-030",
+    "question": "Zhurma e Flint dëgjohet në:",
+    "answers": [
+      "fibrilacion atrial",
+      "insuficiencë mitrale",
+      "stenozë aortale",
+      "insuficiencë aortale",
+      "duktus Botalli"
+    ],
+    "correct": 3,
+    "explanation": "Zhurma Austin Flint është rrapëllimë mezo-diastolike apikale në insuficiencën aortale të rëndë: rrjedha regurgitante shtyn kuspisin anterior mitral dhe krijon stenozë mitrale funksionale."
+  },
+  {
+    "id": "licenca-kardiologji-031",
+    "question": "Në pacientin hipertensiv graviteti i dëmtimit organor lidhet ngushtësisht me:",
+    "answers": [
+      "presionin arterial të monitoruar në klinikë",
+      "presionin arterial të monitoruar në shtëpi",
+      "presionin arterial të monitoruar dy herë në ditë",
+      "presionin arterial të monitoruar për 24 orë",
+      "presionin arterial të monitoruar gjatë natës"
+    ],
+    "correct": 3,
+    "explanation": "Monitorimi ambulator 24-orësh i presionit (ABPM) korrelon më mirë me dëmtimin e organeve objektiv dhe me prognozën sesa matjet në klinikë; dallon edhe \"hipertensionin e bluzës së bardhë\"."
+  },
+  {
+    "id": "licenca-kardiologji-032",
+    "question": "Nga pikëpamja klinike fibrilacioni ventrikular karakterizohet nga:",
+    "answers": [
+      "dispnea e rëndë",
+      "infarkti akut",
+      "arresti kardiocirkulator",
+      "cianoza",
+      "gishtat si shkop tamburi"
+    ],
+    "correct": 2,
+    "explanation": "Fibrilacioni ventrikular nuk prodhon debit kardiak: pacienti humb menjëherë vetëdijen, pa puls → arrest kardiocirkulator. Trajtimi: defibrilim i menjëhershëm + RKP."
+  },
+  {
+    "id": "licenca-kardiologji-033",
+    "question": "Cili është elementi që haset më shpesh në kuadrin klinik të stenozës mitrale?",
+    "answers": [
+      "prekordialgia",
+      "hemoptizia",
+      "dispnea",
+      "iktus",
+      "ngjirja e zërit"
+    ],
+    "correct": 2,
+    "explanation": "Simptoma më e shpeshtë e stenozës mitrale është dispnea (nga kongjestioni pulmonar), fillimisht nga sforcimi; pasojnë hemoptizia, palpitacionet (FA) dhe embolitë. Çelësi (D, \"iktus\") nuk është elementi më i shpeshtë; edhe në Mjekësi Interne të njëjtën pyetje ka përgjigje \"dispne\"."
+  },
+  {
+    "id": "licenca-kardiologji-034",
+    "question": "Cili lloj i infarktit akut të miokardit (IAM) mund të shoqërohet me një aktivizim vagal?",
+    "answers": [
+      "IAM septal",
+      "IAM lateral",
+      "IAM anterior",
+      "IAM diafragmatik",
+      "Asnjë nga këto"
+    ],
+    "correct": 3,
+    "explanation": "Infarkti inferior/diafragmatik (arteria koronare e djathtë) shoqërohet shpesh me reflekse vagale (Bezold-Jarisch): bradikardi, hipotension, nauze, blloqe AV."
+  },
+  {
+    "id": "licenca-kardiologji-035",
+    "question": "Cili prej elementëve të mëposhtëm mund të përdoret për të diferencuar insufiçirncën ventrikulare të majtë nga insuficienca ventrikulare e djathtë?",
+    "answers": [
+      "Rritja e enzimave hepatike",
+      "Edema pulmonare",
+      "Asciti",
+      "Edema periferike",
+      "Tendosja e venave jugulare"
+    ],
+    "correct": 1,
+    "explanation": "Edema pulmonare (kongjestion pulmonar) është shenjë e insuficiencës së zemrës së majtë. Turgori jugular, hepatomegalia me enzima të rritura, asciti dhe edemat periferike janë shenja të insuficiencës së djathtë."
+  },
+  {
+    "id": "licenca-kardiologji-036",
+    "question": "Cili duhet të jetë bari që i duhet dhënë fillimisht një pacienti me hiperkalemi dhe komplekse QRS të zgjeruar ne EKG?",
+    "answers": [
+      "klorur kalçiumi",
+      "kayexalate",
+      "digoksin",
+      "furosemid",
+      "bikarbonat natriumi"
+    ],
+    "correct": 0,
+    "explanation": "Hiperkalemia me ndryshime EKG (QRS i zgjeruar) kërkon së pari kalcium IV (klorur/glukonat) që stabilizon membranën miokardike brenda minutash; pastaj insulinë+glukozë, salbutamol, bikarbonat (zhvendosin K+), dhe rezina/diuretikë/dializë për ta eliminuar."
+  },
+  {
+    "id": "licenca-kardiologji-037",
+    "question": "Angioplastika koronare percutane indikohet në:",
+    "answers": [
+      "stenozën koronare",
+      "insuficiencën kardiake",
+      "difektin interatrial",
+      "artropatinë e anësisë të poshtme",
+      "amiloidozën kardiake"
+    ],
+    "correct": 0,
+    "explanation": "Angioplastika koronare perkutane (PCI me stent) indikohet në stenozat koronare sinjifikative (SKA, angina refraktare, ishemi e provuar)."
+  },
+  {
+    "id": "licenca-kardiologji-038",
+    "question": "Në disekacionin e aortës e dhëna semiotike më e rëndësishme është:",
+    "answers": [
+      "mungesa e pulseve arterial",
+      "hipokratizmi digitalik",
+      "cianoza",
+      "bllok i degës së djathtë",
+      "pectus excavatum"
+    ],
+    "correct": 0,
+    "explanation": "Në disekimin e aortës shenjat kryesore: dhimbje torakale e menjëhershme \"si therje\" që rrezaton në shpinë, me mungesë ose asimetri të pulseve dhe të presionit midis krahëve."
+  },
+  {
+    "id": "licenca-kardiologji-039",
+    "question": "Në cilën nga këto kardiopati dëgjohet një “ klik “ mezosistolik?",
+    "answers": [
+      "Insuficienca mitrale",
+      "Prolaps i valvulës mitrale",
+      "Kardiopati infarkti",
+      "Aneurizma aortës",
+      "Defekti interventrikular"
+    ],
+    "correct": 1,
+    "explanation": "Klik-u mezosistolik është shenjë karakteristike e prolapsit të valvulës mitrale (sindroma Barlow)."
+  },
+  {
+    "id": "licenca-kardiologji-040",
+    "question": "Cili nga këta faktorë nuk lidhet me vdekshmërinë e rritur të një pacienti me pamjaftueshmëri kardiake?",
+    "answers": [
+      "Ulja e intervlait RR",
+      "Përdorimi i ACE-inhibitorëve",
+      "Rritja e BNP (brain natriuretik peptide) qarkulluese",
+      "Ventrikuli i majtë merr formë sferike",
+      "TA më pak se 80/60 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Faktorë prognostikë negativë në insuficiencën kardiake: takikardia (RR i shkurtuar), BNP i lartë, VM sferik, hipotensioni, hiponatremia. ACE-inhibitorët përkundrazi ulin vdekshmërinë."
+  },
+  {
+    "id": "licenca-kardiologji-041",
+    "question": "Shkaku më i shpeshtë i stenozës të valvulës aortale është:",
+    "answers": [
+      "Sëmundje të lindura",
+      "Sëmundje reumatizmale",
+      "Degjenerimet fibrokalçike të pleqërisë",
+      "Degjenerimet fibrokalçike të valvulës aortale bikuspidale",
+      "Endokarditi infektiv"
+    ],
+    "correct": 2,
+    "explanation": "Te popullsia e moshuar, shkaku më i shpeshtë i stenozës aortale është degjenerimi fibrokalcifik i valvulës trikuspide. Te <65 vjeç mbizotëron valvula bikuspide; reumatizmi është më i rrallë në vendet e zhvilluara."
+  },
+  {
+    "id": "licenca-kardiologji-042",
+    "question": "Cili është simptomi i menjëhershëm i rupturës të aneurizmës të aortës?",
+    "answers": [
+      "Dhimbja e menjëhershme dhe/ose shoku",
+      "Melena",
+      "Hematemeza",
+      "Anuria",
+      "Zhdukje e pulseve periferike"
+    ],
+    "correct": 0,
+    "explanation": "Ruptura e aneurizmës së aortës abdominale jep dhimbje të menjëhershme abdominale/lumbare, masë pulsatile dhe shok hemorragjik — urgjencë kirurgjikale."
+  },
+  {
+    "id": "licenca-kardiologji-043",
+    "question": "Pulsi “parvus et tardus” është i pranishëm në:",
+    "answers": [
+      "Stenozën mitrale",
+      "Insuficiencën e valvulës aortale",
+      "Insuficiencën e valvulës pulmonare",
+      "Stenozën aortale",
+      "Inseficiencën mitrale"
+    ],
+    "correct": 3,
+    "explanation": "Pulsi \"parvus et tardus\" (amplitudë e vogël, ngritje e vonuar) është tipik për stenozën aortale të rëndë."
+  },
+  {
+    "id": "licenca-kardiologji-044",
+    "question": "Në një pacient me kardiopati ishemike dhe diabet cila është vlera që duhet të ketë tensioni arterial që të quhet optimale?",
+    "answers": [
+      "= 130/80",
+      "= 120/80",
+      "= 100/80",
+      "< 120/80",
+      "< 130/80"
+    ],
+    "correct": 0,
+    "explanation": "Te pacienti me kardiopati ishemike dhe diabet, objektivi i presionit është ≤130/80 mmHg (shenjat \"≤\" kanë humbur në tekst), duke shmangur uljen nën 120/70."
+  },
+  {
+    "id": "licenca-kardiologji-045",
+    "question": "Në ekzaminimin objektiv të një pacienti me flater arterial nuk mund të degjohet:",
+    "answers": [
+      "toni i I-rë",
+      "toni i II-të",
+      "toni i IV-të",
+      "zhurmë e insuficiencës mitrale",
+      "zhurmë e stenozës mitrale"
+    ],
+    "correct": 2,
+    "explanation": "Toni i IV-të lind nga kontraksioni efektiv atrial kundër një ventrikuli të ngurtë; në flutter/fibrilacion atrial nuk ka kontraksion efektiv atrial, prandaj S4 nuk dëgjohet."
+  },
+  {
+    "id": "licenca-kardiologji-046",
+    "question": "Në insuficiencën e valvulës aortale vihen re të gjithë elementët e poshtëshënuar me përjashtim të:",
+    "answers": [
+      "zbehje e lëkurës dhe mukozave",
+      "rritje e diferencës midis presioneve arterial",
+      "pulsi tardus",
+      "pulsim i dukshëm arterial",
+      "zhurma Flinit"
+    ],
+    "correct": 2,
+    "explanation": "Insuficienca aortale jep presion diferencial të madh, puls kërcyes \"celer et altus\" (jo tardus), pulsime të dukshme arteriale (Musset, Quincke), zbehje dhe zhurmë Austin Flint."
+  },
+  {
+    "id": "licenca-kardiologji-047",
+    "question": "Ulçerimi i pllakës ateromatoze koronare lidhet me:",
+    "answers": [
+      "isheminë",
+      "vazokonstriksionin fokal koronar",
+      "grumbullimin e trombociteve",
+      "anginën e paqëndrueshme",
+      "të gjitha"
+    ],
+    "correct": 4,
+    "explanation": "Ulçerimi/ruptura e pllakës ateromatoze nxit agregim trombocitar, trombozë, vazokonstriksion fokal dhe ishemi — mekanizmi i sindromave koronare akute (angina e paqëndrueshme, infarkti)."
+  },
+  {
+    "id": "licenca-kardiologji-048",
+    "question": "Cili nga elementët e poshtë shënuar nuk është një faktor rreziku kardiovaskular?",
+    "answers": [
+      "Hiperhomocisteinemia",
+      "Proteina C reaktive > 1mg/dl",
+      "Dislipidemi",
+      "Cirkumferenca abdominale= 102 cm në meshkuj dhe =88cm në femra",
+      "Rritja e TNF qarkulluese"
+    ],
+    "correct": 4,
+    "explanation": "Faktorë rreziku kardiovaskular: dislipidemia, obeziteti abdominal (≥102 cm meshkuj, ≥88 cm femra), hiperhomocisteinemia, PCR e rritur. TNF qarkullues nuk përdoret si faktor rreziku klinik."
+  },
+  {
+    "id": "licenca-kardiologji-049",
+    "question": "Cili nuk është faktor rreziku për emboli pulmonare?",
+    "answers": [
+      "Trauma/fraktura",
+      "Mosha e madhe",
+      "Insuficienca kronike venoze",
+      "Hipotiroidizmi",
+      "Obeziteti"
+    ],
+    "correct": 3,
+    "explanation": "Faktorët e rrezikut për tromboembolizëm venoz: trauma/frakturat, mosha, insuficienca venoze, obeziteti, imobilizimi, kirurgjia, kanceri, estrogjenet, shtatzënia, trombofilitë. Hipotiroidizmi nuk është faktor rreziku i njohur."
+  },
+  {
+    "id": "licenca-kardiologji-050",
+    "question": "Të gjitha janë karakteristika të anginës të qëndrueshme më përjashtim të:",
+    "answers": [
+      "Ndjesia e rëndesës ose e djeies në regjionin retrosternal",
+      "Fillon në qetësi dhe përkeqësohet me sforcimet",
+      "Nuk zgjat më shumë se 20 min",
+      "Qetësohet pas përdorimit të nitrateve",
+      "Gjatë gjumit shpërthen më shumë gjatë fazës REM të tij"
+    ],
+    "correct": 1,
+    "explanation": "Angina stabile shfaqet me sforcim (jo në qetësi), zgjat pak minuta (<20 min), qetësohet me pushim/nitrate. Dhimbja që nis në qetësi sugjeron anginë të paqëndrueshme ose vazospazmë."
+  },
+  {
+    "id": "licenca-kardiologji-051",
+    "question": "Studimi fiziologjik endokavitar është i domosdoshëm në :",
+    "answers": [
+      "Pacientët me ekstrasistola të shpeshta",
+      "Pacientët me insuficiencë kardiake",
+      "Pacientët me bllok të degës të djathtë",
+      "Pacientet me bllok dege",
+      "Pacientet me aritmi ventrikulare malinje"
+    ],
+    "correct": 4,
+    "explanation": "Studimi elektrofiziologjik endokavitar indikohet te pacientët me aritmi ventrikulare malinje (TV, FV të mbijetuar), sinkopë të pashpjeguar me kardiopati, për stratifikim rreziku dhe ablacion. Ekstrasistolat dhe blloqet e degës zakonisht nuk e kërkojnë."
+  },
+  {
+    "id": "licenca-kardiologji-052",
+    "question": "Nëse pacienti ka bërë për herë të parë një episod anginoz, si do ta klasifikojmë sëmundjen?",
+    "answers": [
+      "Angina parainfarktit",
+      "Angina stabile",
+      "Angina jostabile",
+      "Angina me rrezik të lartë",
+      "Asnjë"
+    ],
+    "correct": 2,
+    "explanation": "Angina me fillim të ri (de novo) klasifikohet si anginë e paqëndrueshme, sepse rreziku i infarktit në javët e para është i lartë."
+  },
+  {
+    "id": "licenca-kardiologji-053",
+    "question": "Një djalë 30 vjeç paraqitet tek mjeku me temperaturë me frisione, palpitacione, djerësistje e shtuar; në ekzaminim objektiv evidentohet një zhurmë sistolike. Për çfarë do të dyshonit?",
+    "answers": [
+      "Rupturë e kordave tendine",
+      "Insuficiencë aortale",
+      "Mixoma atriale",
+      "Endokardit bakterial",
+      "Infarkt"
+    ],
+    "correct": 3,
+    "explanation": "I ri me ethe me drithërima, djersitje, palpitacione dhe zhurmë e re kardiake → dyshim për endokardit infektiv. Duhen 3 hemokultura dhe ekokardiografi (transtorakale/transezofageale)."
+  },
+  {
+    "id": "licenca-kardiologji-054",
+    "question": "Në një të sëmurë i cili mban proteza valvulare të tipit mekanik, çfarë terapie do të ndiqnit?",
+    "answers": [
+      "Terapi me antikoagulant, duke rruajtur INR 2.5-3.5 për 6 muaj ndjekur nga terapia me antiagregant",
+      "Terapi me antikoagulant, duke rruajtur INR 2.5-3.5 për një kohë të pa përcaktuar",
+      "Terapi me antikoagulant, duke rruajtur INR 2-3 për një kohë të pa përcaktuar",
+      "Terapi me antikoagulant, duke rruajtur INR 2-3për 6 muaj ndjekur nga terapia me antiagregant",
+      "Terapi me antikoagulant, duke rruajtur INR 2.5-3.5 për 1 vit ndjekur nga terapia me antiagregant"
+    ],
+    "correct": 1,
+    "explanation": "Protezat valvulare mekanike kërkojnë antikoagulim me antagonistë të vitaminës K gjatë gjithë jetës, me INR 2,5–3,5 (sipas tipit/pozicionit të protezës dhe faktorëve të rrezikut). NOAC-et kundërindikohen."
+  },
+  {
+    "id": "licenca-kardiologji-055",
+    "question": "Kontraktiliteti i miokardit zvogëlohet si pasojë e:",
+    "answers": [
+      "Përdorimit të glukozidëve digitalik",
+      "Angiotenzinës II",
+      "glukagonit",
+      "katekolaminave",
+      "hiperkapnisë"
+    ],
+    "correct": 4,
+    "explanation": "Hiperkapnia/acidoza respiratore ul kontraktilitetin miokardik. Digitalikët, angiotensina II, glukagoni dhe katekolaminat kanë efekt inotrop pozitiv."
+  },
+  {
+    "id": "licenca-kardiologji-056",
+    "question": "Dhimbja torakale që fillon në mënyrë të papritur shoqëruar me polipne dhe hemoptizi modeste vihet re në:",
+    "answers": [
+      "pleurite hemorragjike",
+      "pleurite eksudative",
+      "pachipleurite",
+      "infarkt pulmonar",
+      "infarkt miokardial"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbje torakale e papritur pleuritike, takipne/polipne dhe hemoptizi modeste janë tipike për emboli pulmonare me infarkt pulmonar."
+  },
+  {
+    "id": "licenca-kardiologji-057",
+    "question": "Vendidëgjimi i valvulës aortale, në kushte normale, është:",
+    "answers": [
+      "hapsira e II-të interkostale majtas parasternale",
+      "hapsira e III-të interkostale majtas parasternale",
+      "hapsira e IV interkostale majtas parasternale",
+      "hapsira e II-të interkostale djathtas parasternale",
+      "hapsira interkostal subklavikulare"
+    ],
+    "correct": 3,
+    "explanation": "Fokusi i auskultimit aortal është hapësira e II ndërbrinjore djathtas, buzë sternumit; fokusi pulmonar në hapësirën e II majtas; mitral në apeks; trikuspidal në buzën e majtë të poshtme të sternumit."
+  },
+  {
+    "id": "licenca-kardiologji-058",
+    "question": "Palpitacionet, cefalea pulsante, djersitja natën janë tipike të:",
+    "answers": [
+      "insuficiencës aortale",
+      "stenozës aortale",
+      "insuficiencës pulmonare",
+      "insuficiencës trikuspidale",
+      "stenozës mitrale"
+    ],
+    "correct": 0,
+    "explanation": "Insuficienca aortale e rëndë jep vëllim sistolik të madh dhe presion diferencial të lartë → ndjesi palpitacionesh, cefale pulsante, djersitje (sidomos natën/në shtrirje)."
+  },
+  {
+    "id": "licenca-kardiologji-059",
+    "question": "Cila nga këto situata konsiderohet si me rrezik të lartë për zhvillim të endokarditit bakterial:",
+    "answers": [
+      "endokardit bakterial i mëparshëm",
+      "kardiomiopati hipertrofike",
+      "ndërhyrje kirurgjikale për by-pass",
+      "prolaps i valvulës mitrale pa disfunksion valvular",
+      "prolaps i valvulës mitrale me insuficiencë mitrale"
+    ],
+    "correct": 0,
+    "explanation": "Rrezik të lartë për endokardit (indikacion për profilaksi): endokardit i mëparshëm, protezat valvulare, kardiopatitë kongjenitale cianogjene të pakorrigjuara. Prolapsi mitral pa regurgitim dhe by-pass-i nuk konsiderohen rrezik i lartë."
+  },
+  {
+    "id": "licenca-kardiologji-060",
+    "question": "Toni i II-të kardiak korrespondon me:",
+    "answers": [
+      "mbylljen e valvulave atrioventrikulare",
+      "kontraksionin atrial",
+      "mbylljen e valvulave semilunare",
+      "kontraksionin ventrikular",
+      "asnjë nga këto:"
+    ],
+    "correct": 2,
+    "explanation": "Toni i II-të (S2) lind nga mbyllja e valvulave semilunare (aortale dhe pulmonare) në fillim të diastolës; S1 nga mbyllja e valvulave atrioventrikulare."
+  },
+  {
+    "id": "licenca-kardiologji-061",
+    "question": "Cfarë tregon prania e valës P në derivacionet II-III dhe Vf të EKG-së?",
+    "answers": [
+      "IAM anterior",
+      "IAM inferior",
+      "IAM në zhvillim e siper në pjesën inferiore",
+      "Fibrilacion ventrikular",
+      "Flater atrial"
+    ],
+    "correct": 1,
+    "explanation": "Ndryshimet ishemike (supranivelimi ST/valët Q patologjike; në tekst \"P\" është gabim shtypi) në derivacionet II, III dhe aVF tregojnë infarkt të murit inferior (zakonisht nga arteria koronare e djathtë)."
+  },
+  {
+    "id": "licenca-kardiologji-062",
+    "question": "Insuficienca ventrikulare e djathtë sekondare është pasojë e:",
+    "answers": [
+      "Stenozës të istmusit të aortës",
+      "Insuficiencës valvulare aortale",
+      "Stenozës valvulare aortale",
+      "Sarkoidozës pulmonare kronike",
+      "Hipertensioni arterial malinj"
+    ],
+    "correct": 3,
+    "explanation": "Insuficienca e djathtë \"sekondare\" nga patologji pulmonare = cor pulmonale: sarkoidoza pulmonare kronike (fibrozë) jep hipertension pulmonar → mbingarkesë e VD. Valvulopatitë aortale dhe hipertensioni sistemik prekin fillimisht VM."
+  },
+  {
+    "id": "licenca-kardiologji-063",
+    "question": "Në meshkujt e popullatës, manifestimi i parë i një sëmundje kardiake shpesh herë përfaqësohet nga:",
+    "answers": [
+      "Angina kronike e paqëndrueshme",
+      "Infarkti",
+      "Vdekja e papritur",
+      "Angina e qëndrueshme",
+      "Insuficienca kardiake post-ishemike"
+    ],
+    "correct": 1,
+    "explanation": "Te meshkujt manifestimi i parë i sëmundjes koronare është shpesh infarkti akut i miokardit (në një pjesë të konsiderueshme edhe vdekja e papritur), pa anginë paraprake."
+  },
+  {
+    "id": "licenca-kardiologji-064",
+    "question": "Vlerësimi kryesor në kardiomiopatinë dilatatuese është:",
+    "answers": [
+      "EKG",
+      "Ekokardiografia",
+      "Koronarografia",
+      "Shintigrafia e miokardit",
+      "Cikloergometria"
+    ],
+    "correct": 1,
+    "explanation": "Ekokardiografia është ekzaminimi kryesor në kardiomiopatinë dilatative: tregon dilatimin e ventrikujve, uljen e fraksionit të ejeksionit, regurgitimet funksionale, trombet."
+  },
+  {
+    "id": "licenca-kardiologji-065",
+    "question": "Niveli serik i peptidit atrial natriuretik në një pacient me insuficincë kardiake kronike është në përputhje me:",
+    "answers": [
+      "moshën e pacientit",
+      "gjininë dhe moshën e pacientit",
+      "shkallën e dëmtimit të funksionit të zemrës",
+      "vlerat e presionit sistolik",
+      "nivelin e aterosklerozës në arteriet koronare"
+    ],
+    "correct": 2,
+    "explanation": "Peptidet natriuretike (ANP, BNP, NT-proBNP) sekretohen nga shtrirja e mureve kardiake; nivelet e tyre korrelojnë me shkallën e disfunksionit kardiak (klasa NYHA) dhe prognozën."
+  },
+  {
+    "id": "licenca-kardiologji-066",
+    "question": "Cili prej barnave të poshtëshënuar është bari i zgjedhur për parandalimin e fibrilacionit ventrikular gjatë trajtimit të infarktit akut të miokardit?",
+    "answers": [
+      "lidokaina",
+      "digoksina",
+      "kinidina",
+      "flrkanidi",
+      "propanololi"
+    ],
+    "correct": 0,
+    "explanation": "Praktika e vjetër: lidokaina konsiderohej bari i zgjedhur kundër aritmive ventrikulare gjatë infarktit akut. Sot nuk jepet profilaktikisht; në fibrilacion ventrikular trajtimi bazë është defibrilimi, me amiodaron si antiaritmik i parë."
+  },
+  {
+    "id": "licenca-kardiologji-067",
+    "question": "Të gjitha të mëposhtme janë shkaqe të ndalimit të zemrës me përjashtim të:",
+    "answers": [
+      "Bllok atrioventrikular grada III-të",
+      "Çrregullim i përçimit",
+      "Asistolia",
+      "Takikardia ventrikulare",
+      "Shok volemik"
+    ],
+    "correct": 0,
+    "explanation": "Asistolia, takikardia/fibrilacioni ventrikular dhe aktiviteti elektrik pa puls (p.sh. në shok hipovolemik të rëndë) shkaktojnë arrest kardiak. Blloku AV III zakonisht ruan një ritëm zëvendësues (bradikardi), ndaj nuk është vetë arrest kardiak."
+  },
+  {
+    "id": "licenca-kardiologji-068",
+    "question": "Në rastet me angina pectoris të paqëndrueshme, cili bar duhet konsideruar si terapia mbajtëse, përveç barnave të nevojshëm për të kontrroluar simptomat e anginës?",
+    "answers": [
+      "aspirina 100 mg/dita",
+      "aspirina 325 mg/dita + calciparina 0.5 mg per 2/dita",
+      "diltiazem 360 mg/die",
+      "verapamil 240 mg + nifedibinë 40 mg/dita",
+      "nitroderivate nën gjuhë sipas nevojës"
+    ],
+    "correct": 1,
+    "explanation": "Protokoll i vjetër: në anginën e paqëndrueshme jepet aspirinë + heparinë (kalciparinë SC) krahas barnave antianginozë. Sot terapia standarde është aspirinë + frenues P2Y12 + antikoagulim parenteral në fazën akute."
+  },
+  {
+    "id": "licenca-kardiologji-069",
+    "question": "Të gjithë barnat e mëposhtëm janë të nevojshëm në trajtimin e anginës gjoksore të paqëndrueshme me përjashtim të:",
+    "answers": [
+      "Nitrateve",
+      "Betabllokuesve",
+      "O2",
+      "Digoksinës",
+      "Kalçibllokuesve"
+    ],
+    "correct": 3,
+    "explanation": "Angina e paqëndrueshme trajtohet me nitrate, betabllokues, O2 (nëse ka hipoksemi), kalciumbllokues (kur betabllokuesit kundërindikohen), antiagregantë dhe antikoagulantë. Digoksina nuk ka rol (rrit konsumin e O2)."
+  },
+  {
+    "id": "licenca-kardiologji-070",
+    "question": "Duke patur parasysh fispatologjinë e shokut hipovolemik, cila nga veprimet e poshtëshënuara nuk duhet ndërmarrë?",
+    "answers": [
+      "terapia me oksigjen",
+      "pozicionimi i pacientit shtrirë me shpinë dhe me kokën e ulur",
+      "aplikimi i terapisë me vazokonstriktor për të ruajtur presionin arterial",
+      "aplikimi i terapisë endovenoze me solucione koloidale",
+      "monitorimi i presionit venoz qëndror"
+    ],
+    "correct": 2,
+    "explanation": "Në shokun hipovolemik problemi është mungesa e vëllimit; hapi themelor është rimbushja (kristaloidë/koloidë/gjak), O2, pozicioni Trendelenburg, monitorimi i PVQ. Vazokonstriktorët pa rimbushje përkeqësojnë perfuzionin e organeve."
+  },
+  {
+    "id": "licenca-kardiologji-071",
+    "question": "Tamponada kardiake është një situatë emergjence e cila evidentohet gjatë një:",
+    "answers": [
+      "goditje të fortë të toraksit",
+      "stenoze të rëndë mitrale",
+      "një aksidenti rrugor",
+      "grumbullimit të likidit të presuar në hapsirën perikardiale",
+      "stenoze të rëndë aortale"
+    ],
+    "correct": 3,
+    "explanation": "Tamponada kardiake = grumbullim likidi (gjak, eksudat) nën presion në perikard që kompreson zemrën dhe pengon mbushjen diastolike: triada Beck (hipotension, turgor jugular, tone të shuar), puls paradoksal. Trajtim: perikardiocentezë."
+  },
+  {
+    "id": "licenca-kardiologji-072",
+    "question": "Cili prej faktorëve të mëposhtëm riskant për zhvillimin e sëmundjeve kardiovaskulare përgjigjet edhe për disfunksionin erektil:",
+    "answers": [
+      "duhanpirja",
+      "dislipidemia",
+      "diabeti melitus",
+      "të gjitha përgjigjet e mësipërme",
+      "jeta sedentare"
+    ],
+    "correct": 3,
+    "explanation": "Duhanpirja, dislipidemia dhe diabeti dëmtojnë endotelin dhe janë faktorë rreziku si për sëmundjet kardiovaskulare ashtu edhe për disfunksionin erektil (DE shpesh paraprin sëmundjen koronare)."
+  },
+  {
+    "id": "licenca-kardiologji-073",
+    "question": "Cila nga ndryshime e poshtëshënuara është karakteristike e cor pulmonar:",
+    "answers": [
+      "hipertrofia e ventrikulit të djathtë",
+      "zgjerimi i ventrikulit të majtë",
+      "shunti interventrikular majtas-djathtas",
+      "persistimi i pulsit arterial",
+      "sindroma Claude-Bernard-Horner"
+    ],
+    "correct": 0,
+    "explanation": "Cor pulmonale = hipertrofi/dilatim i ventrikulit të djathtë nga hipertensioni pulmonar sekondar ndaj sëmundjeve të mushkërive (SPOK, fibrozë) ose enëve pulmonare."
+  },
+  {
+    "id": "licenca-kardiologji-074",
+    "question": "Të gjithë barnat antihipertensiv të shënuar më poshtë janë të kundërindikuar në shtatzani, me përjashtim të:",
+    "answers": [
+      "betabllokuesit",
+      "ACE-inhibitorët",
+      "kalçiantagonistët",
+      "nitratet",
+      "diuretikët"
+    ],
+    "correct": 2,
+    "explanation": "Në shtatzëni ACE-inhibitorët/sartanet kundërindikohen (fetotoksikë). Lejohen metildopa, labetalol dhe kalciumantagonistët (nifedipinë). Ndër opsionet, kalciumantagonistët janë ata që nuk kundërindikohen."
+  },
+  {
+    "id": "licenca-kardiologji-075",
+    "question": "Hipertensioni arterial në insufiçencën renale kronike vjen si pasojë e:",
+    "answers": [
+      "stenozës të arteries renale të njërës veshkë",
+      "stenozës të arteries renale në të dy veshkat",
+      "rritjes të vëllimit jashtëqelizor si pasojë e retensionit sodik",
+      "hiperaldosteronizmit primar",
+      "sindromës Barter"
+    ],
+    "correct": 2,
+    "explanation": "Në insuficiencën renale kronike hipertensioni vjen kryesisht nga mbajtja e Na dhe e ujit (rritja e vëllimit ekstraqelizor), plus aktivizimi i sistemit renin-angiotensin dhe simpatik."
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "licenca-farmakologji-toksikologji-klinike-001",
+    "question": "Mekanizmi kryesor me anë të së cilit AIJS dëmtojnë stomakun është:",
+    "answers": [
+      "bllokimi i sekretimit të mukusit gastrik",
+      "shtimi i aciditetit",
+      "stimulimi i receptorëve histaminik në nivel të mukozës gastrike",
+      "bllokimi i sintezës të prostaglandinave",
+      "prodhimi i gastrinës"
+    ],
+    "correct": 3,
+    "explanation": "AINS dëmtojnë mukozën gastrike kryesisht duke frenuar COX-1 dhe sintezën e prostaglandinave mbrojtëse (PGE2, PGI2), që rregullojnë sekretimin e mukusit dhe bikarbonatit, rrjedhjen e gjakut mukozal dhe ulin aciditetin; edhe efekt toksik lokal."
+  },
+  {
+    "id": "licenca-farmakologji-toksikologji-klinike-002",
+    "question": "Omeprazoli e realizon funksionin e tij falë:",
+    "answers": [
+      "antagonizimit të receptorëve H2",
+      "bllokimit të pompës protonike",
+      "frenimit të antiporterit Na+/H+",
+      "veprimtarisë antivirale",
+      "veprimtarisë antikolinergjike"
+    ],
+    "correct": 1,
+    "explanation": "Omeprazoli është frenues i pompës protonike (IPP): bllokon në mënyrë të pakthyeshme H+/K+-ATP-azën e qelizave parietale, hapin përfundimtar të sekretimit acid."
+  },
+  {
+    "id": "licenca-farmakologji-toksikologji-klinike-003",
+    "question": "Një prej këtyre cefalosporinave përthithet mirë me rrugë oral. Tregoni cila:",
+    "answers": [
+      "Cefalotina",
+      "Cefaloridina",
+      "Cefalexina",
+      "Cefamandoli",
+      "Cefuroksima"
+    ],
+    "correct": 2,
+    "explanation": "Cefaleksina (cefalosporinë e gjeneratës së parë) përthithet mirë nga rruga orale; cefalotina, cefaloridina dhe cefamandoli janë vetëm parenterale; cefuroksima përthithet si cefuroksim-aksetil (pro-barnë)."
+  },
+  {
+    "id": "licenca-farmakologji-toksikologji-klinike-004",
+    "question": "Manitoli është:",
+    "answers": [
+      "Antikoagulant oral",
+      "Diuretik osmotik",
+      "Beta bllokues",
+      "Antagonist i kalçiumit",
+      "Antidot në rastet e helmimit me plumb"
+    ],
+    "correct": 1,
+    "explanation": "Manitoli është diuretik osmotik: filtrohet dhe nuk reabsorbohet, mban ujin në tubul; përdoret për uljen e presionit intrakranial dhe intraokular."
+  },
+  {
+    "id": "licenca-farmakologji-toksikologji-klinike-005",
+    "question": "Simptomat më të rënda të abstinencës nga morfina vihen re pas:",
+    "answers": [
+      "2-4 orëve",
+      "10-20 orëve",
+      "24-72 orëve",
+      "5-8 ditëve",
+      "14 ditëve"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma e abstinencës nga morfina/heroina (opioide me veprim të shkurtër) fillon pas 6–12 orëve dhe arrin kulmin pas 24–72 orëve (midriazë, rinorre, lotim, dhimbje muskulare, diarre, piloerekcion, takikardi, ankth), duke u shuar në 7–10 ditë."
+  },
+  {
+    "id": "licenca-farmakologji-toksikologji-klinike-006",
+    "question": "Në një pacient me mbidozim nga heroina ndërhyet duke dhënë:",
+    "answers": [
+      "fenobarbital",
+      "metadon",
+      "aspirinë",
+      "naloxon",
+      "diazepam"
+    ],
+    "correct": 3,
+    "explanation": "Mbidozimi me heroinë (triada: koma, miozë \"si majë gjilpëre\", depresion respirator) trajtohet me naloksonë (antagonist opioid) IV/IM/intranazal, përsëritur sipas nevojës, krahas mbështetjes ventilatore."
+  }
+]

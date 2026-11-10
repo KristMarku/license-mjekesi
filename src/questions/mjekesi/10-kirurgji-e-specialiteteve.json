@@ -1,0 +1,2901 @@
+[
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-001",
+    "question": "Dega interventrikulare posteriore del nga:",
+    "answers": [
+      "Koronarja e majte",
+      "Koronarja e djathte",
+      "Arteria cirkumflekse",
+      "Dega interventrikulare posteriore",
+      "Direkt nga aorta ascendente"
+    ],
+    "correct": 1,
+    "explanation": "Arteria interventrikulare posteriore (descendente posteriore) del në ~70–85% të njerëzve nga koronarja e djathtë (\"dominancë e djathtë\"); në pjesën tjetër nga cirkumfleksi (dominancë e majtë)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-002",
+    "question": "Arsyeja me e shpeshte e sindromes kavale superiore mund te jete:",
+    "answers": [
+      "Neoplazia e lobit superior te djathte pulmonar",
+      "Tumori i timusit",
+      "Karcinoma folikulare e tiroides",
+      "Fibroza mediastinike",
+      "Struma e zhytur"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i sindromës së venës kava superiore (>70%) janë tumoret malinje, sidomos karcinoma bronkogjene e lobit të sipërm të djathtë (shpesh me qeliza të vogla), pastaj limfomat."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-003",
+    "question": "Cila nga te meposhtmet nuk eshte komponent i tetralogjise Fallot?",
+    "answers": [
+      "Hipertrofia ventrikulare e majte",
+      "Difekti i septumit interventrikular",
+      "Dekstro pozimi i aortes",
+      "Hipertrofia e ventrikulit te djathte",
+      "Stenoza infundibolare e arteries pulmonare"
+    ],
+    "correct": 0,
+    "explanation": "Tetralogjia Fallot: defekt i septumit interventrikular, aortë kalorëse (dekstropozim), stenozë pulmonare infundibulare, hipertrofi e ventrikulit të djathtë. Hipertrofia e ventrikulit të majtë nuk bën pjesë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-004",
+    "question": "Ne nje leter dalje nga spitali te nje pacienti te operuar me by-pass aorto koronar , termi “on-pump” do te thote:",
+    "answers": [
+      "Pacient i operuar me zemer qe rrihte",
+      "Qe gjate operacionit u be i nevojshem perdorimi i nje kontra pulsatori aortal",
+      "Pacienti nuk ruante funksion te pompes ne fund te operacionit",
+      "Operacion gjate te cilit u nevojit perdorimi i qarkullimit ekstra korporal",
+      "Nevoje gjate operacionit per te perdorur ventilim pulmonar me pompe te jashtme"
+    ],
+    "correct": 3,
+    "explanation": "\"On-pump\" = by-pass koronar i kryer me qarkullim ekstrakorporal (makina zemër-mushkëri) dhe zemër të ndalur; \"off-pump\" = me zemër që rreh."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-005",
+    "question": "Cili nga te meposhtmit eshte nje candida potenzia per nje trapiant kardiak?",
+    "answers": [
+      "Pacient 55 vjeç, me kushte insuficience kardiake sekondare nga cardiomiopatia dilatative familjare, qe nuk i pergjigjet me terapise mjekesore",
+      "Pacient 60 vjeç, ne kushte insuficience kardiake sekondare nga kardiopati iskemike qe nuk i pergjigjet terapise mjekesore",
+      "Pacient 55 vjeç ne kushte insuficience kardiake sekondare nga kardiopati iskemike qe nuk i pergjigjet terapise mjekesore me histori te kaluar dhe jo te tashme alkolizmi",
+      "Pacient 55 vjeç me insuficience kardiake sekonfìdare nga kardiopati iskemike qe nuk i pergjigjet me terapise mjekesore, me vlera te rritura te rezistences se shtrati vaskular pulmonar, qe nuk i pergjigjet me terapise me vasodilatatore.",
+      "Asnje nga keto."
+    ],
+    "correct": 3,
+    "explanation": "Pyetja duket e përkthyer pa mohimin: pacienti me rezistencë vaskulare pulmonare të rritur dhe të pakthyeshme me vazodilatatorë NUK është kandidat për transplant kardiak (ventrikuli i djathtë i dhuruesit do të dështonte). Opsionet A–C përshkruajnë kandidatë të përshtatshëm."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-006",
+    "question": "Cila nga strukturat e meposhtme, normalisht nuk eshte e vaskularizuar nga arteria koronare e djathte apo dege te saj?",
+    "answers": [
+      "Atriumi i djathte",
+      "Bordi i theksuar i i ventrikulit te djathte",
+      "Pjesa anteriore e septumit interventrikular",
+      "Pjesa posteriore e septumit interventrikular",
+      "Pjesa posteriore e ventrikulit te majte"
+    ],
+    "correct": 2,
+    "explanation": "Koronarja e djathtë furnizon atriumin e djathtë, ventrikulin e djathtë, nyjet SA/AV (shumicën), 1/3 posteriore të septumit dhe murin inferoposterior të VM. Pjesa anteriore e septumit furnizohet nga arteria descendente anteriore (koronarja e majtë)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-007",
+    "question": "Cila valvul kardiake eshte me shpesh e prekuar nga reumatizma?",
+    "answers": [
+      "Aortale",
+      "Mitrale",
+      "Pulmonare",
+      "Tricuspidale",
+      "Te gjitha keto me nje frekuence te ngjashme"
+    ],
+    "correct": 1,
+    "explanation": "Ethja reumatike prek më shpesh valvulën mitrale (stenozë/insuficiencë), pastaj aortalen; trikuspidalja dhe pulmonarja rrallë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-008",
+    "question": "Per cilat vlera te zones dhe te ndryshimeve te presionit mesatar trans valvular (delta p) vendoset indikacion per trajtim kirurgjik te stenozes se valvole aortale?",
+    "answers": [
+      "Zone < 1cm dhe delta P> 50 mmHg",
+      "Zone < 1,5cm dhe delta P> 30 mmHg",
+      "Zone < 2cm dhe delta P> 30 mmHg",
+      "Zone < 0,5cm dhe delta P> 50 mmHg",
+      "Zone < 2,5cm dhe delta P> 25 mmHg"
+    ],
+    "correct": 0,
+    "explanation": "Kirurgjia indikohet kur sipërfaqja valvulare është <1 cm² dhe gradienti mesatar >50 mmHg (sot kriteret: <1 cm², gradient mesatar ≥40 mmHg, Vmax ≥4 m/s, me simptoma ose disfunksion të VM)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-009",
+    "question": "Cili nga te meposhtmit nuk eshte nje komplikacion i mundshem i zevendesimit te nje valvule aortale",
+    "answers": [
+      "Shfaqja e nje blloku dege te majte",
+      "Demtim i ostiumeve koronare",
+      "Demtim i lembos anteriore mitrale",
+      "Endokardit infektiv",
+      "Shfaqje e nje blloku dege te djathte"
+    ],
+    "correct": 4,
+    "explanation": "Komplikacione të zëvendësimit aortal: blloqe përçimi (sidomos blloku i degës së majtë dhe AV, sepse sistemi i përçimit kalon pranë annulusit aortal), dëmtim i osteve koronare, dëmtim i kuspisit anterior mitral, endokardit protezik. Blloku i degës së djathtë nuk është tipik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-010",
+    "question": "Sipas protokolleve, cila nga te meposhtmet nuk eshte nje indikacion per trajtim kirurgjik per semundje te valvules aortale.",
+    "answers": [
+      "Paciente simptomatike me stenoze grave",
+      "Paciente me stenoze grave asimptomatike qe duhet te bejne by pass aorto coronar",
+      "Paciente me stenoze grave qe duhet te bejne nderhyrje kirurgjike ne aorte apo ne valvula te tjera",
+      "Ne parandalimin e vdekjes se papritur ne paciente asimptomatike me stenoze aortale grave",
+      "Ne paciente me stenoze te lehte por ku verehet nje progresion i shpejte i semundjes"
+    ],
+    "correct": 3,
+    "explanation": "Sipas udhëzimeve, kirurgjia indikohet në stenozën aortale të rëndë simptomatike, në të rëndën asimptomatike që i nënshtrohet by-pass-it/kirurgjisë tjetër kardiake, dhe në progresion të shpejtë. Vetëm parandalimi i vdekjes së papritur te asimptomatiku pa kritere të tjera nuk është indikacion."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-011",
+    "question": "Gjate nje nderhyrjeje kardiokirurgjike te by pass aorto koronar, perfuzionimi i qelizave hematike te perqendruara eshte:",
+    "answers": [
+      "Gjithmone i nevojshem",
+      "Kurre i nevojshem",
+      "Kryhet gjithmone ne paciente me probleme te koagulimit",
+      "Gjithmone i nevojshem ne nderhyrje qe kerkojne perdorimin e qarkullimit ekstrakorporal",
+      "Asnje nga keto nuk eshte e sakte"
+    ],
+    "correct": 4,
+    "explanation": "Transfuzioni i eritrociteve të përqendruara gjatë by-pass-it koronar nuk është rutinë: bëhet sipas nevojës (nivele të Hb/hematokritit, gjakderdhje), edhe me qarkullim ekstrakorporal. Asnjë nga pohimet absolute nuk është i saktë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-012",
+    "question": "Pas implantimit te nje valvule biologjike, terapi nga goja me warfarin:",
+    "answers": [
+      "Nuk ka indikacion",
+      "Ka indikacion dhe duhet te vazhdoje gjithe jeten",
+      "Duhet marre per nje muaj",
+      "Duhet marre per tre muaj",
+      "Duhet marre per 1 vit"
+    ],
+    "correct": 3,
+    "explanation": "Pas implantimit të protezës biologjike (sidomos mitrale) rekomandohet antikoagulim me warfarinë për ~3 muaj (endotelizimi i unazës), pastaj aspirinë; nëse ka FA, antikoagulimi vazhdon."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-013",
+    "question": "Ulçerat diabetike jane kryesisht:",
+    "answers": [
+      "Pre maleolare",
+      "Plantare",
+      "Dorsale te kembes",
+      "Pretibiale",
+      "Popliteale"
+    ],
+    "correct": 1,
+    "explanation": "Ulçerat diabetike neuropatike lokalizohen kryesisht në shputë (plantare), në pikat e presionit (koka e metatarseve, thembra), nga neuropatia sensitive dhe deformimet."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-014",
+    "question": "Mes shkaqeve te dhimbjes ekstra abdominale qe ngjasojne me abdomenin akut cila eshte jo e sakte?",
+    "answers": [
+      "Infarkti i miokardit",
+      "Embolia pulmonare",
+      "Perikarditi",
+      "Bronkiti azmatik",
+      "Pulmoniti"
+    ],
+    "correct": 3,
+    "explanation": "Infarkti i miokardit (inferior), embolia pulmonare, perikarditi dhe pneumonia bazale mund të imitojnë abdomen akut. Bronkiti astmatik nuk jep dhimbje abdominale të tillë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-015",
+    "question": "Leukocituria eshte patognomonike me:",
+    "answers": [
+      "Neoplazi vezikale",
+      "Kalkuloze urinare",
+      "Trauma te rrugeve urinare",
+      "Infeksion urinar",
+      "Veshke patkua"
+    ],
+    "correct": 3,
+    "explanation": "Leukocituria (piuria) tregon inflamacion të rrugëve urinare dhe është tipike e infeksionit urinar; mund të jetë edhe \"steril\" (TB, gurë), por në kontekstin e pyetjes lidhet me infeksionin."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-016",
+    "question": "Tipi me i shpeshte i kalkulave urinare eshte:",
+    "answers": [
+      "Urate",
+      "Fosfate-magnezium",
+      "Oksalate kalciumi",
+      "Cistina",
+      "Xantina"
+    ],
+    "correct": 2,
+    "explanation": "Gurët më të shpeshtë urinarë janë ata të oksalatit të kalciumit (~70–80%), radio-opakë; pastaj fosfati i kalciumit, struviti (infeksion), acidi urik, cistina."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-017",
+    "question": "Flebedema ne fazat e saj fillestare karakterizohet nga:",
+    "answers": [
+      "Edeme premaleolare e forte",
+      "Edeme premaleolare e bute",
+      "Inflamacion kronik premaleolar",
+      "Diskromi premaleolare",
+      "Ulçera kutane"
+    ],
+    "correct": 1,
+    "explanation": "Flebedema (edema venoze) fillestare është e butë, me gropëzim (pitting), premaleolare, që shtohet në mbrëmje dhe zhduket me pushim/ngritje të këmbës. Me kohë bëhet e fortë me ndryshime trofike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-018",
+    "question": "Vena safena e vogel derdhet ne:",
+    "answers": [
+      "Venen safena e madhe",
+      "Venen femorale",
+      "Vene iliake interne",
+      "Venen iliake eksterne",
+      "Venen poplitea"
+    ],
+    "correct": 4,
+    "explanation": "Vena safena e vogël kalon prapa maleolit lateral, ngjitet në pulpë dhe derdhet në venën poplitea në fosën poplitee (kryqi safeno-popliteal)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-019",
+    "question": "Çfare eshte nje cistoskop?",
+    "answers": [
+      "Instrument per te pare prostaten",
+      "Instrument per te pare uterusin",
+      "Instrument per te pare fshikezen e urines",
+      "Instrument per te pare ureterin",
+      "Instrument per te pare veshken"
+    ],
+    "correct": 2,
+    "explanation": "Cistoskopi është endoskop që futet përmes uretrës për të parë fshikëzën e urinës (dhe uretrën); lejon biopsi, heqje gurësh, resekcion tumoresh."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-020",
+    "question": "Ne aneurizmen e aortes abdominale cili nga pohimet e meposhtme eshte i sakte?",
+    "answers": [
+      "Vdekshmeria ne pazientet qe i nenshtrohen nderhyrjes se menjehershme riparuese eshte 80 – 90 %.",
+      "Vendosja me e shpeshte e aneurizmes eshte ne 90% te rasteve mbi arteriet renale.",
+      "Ne paziente me rupture te aneurizmes reziku i vedekjes para se te mberrijne ne spital eshte 70 – 80 %",
+      "Bakteret jane pergjegjes per rreth 50 % te aneurizmave",
+      "Vendosja me e shpeshte e aneurizmes eshte ne 90 % te rasteve poshte arterieve renale"
+    ],
+    "correct": 4,
+    "explanation": "Aneurizmat e aortës abdominale janë në ~90% infrarenale; ruptura ka mortalitet total shumë të lartë (shumë vdesin para spitalit); shkaku kryesor është ateroskleroza/degjenerimi, jo bakteret."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-021",
+    "question": "Vena safena e madhe e ka origine:",
+    "answers": [
+      "Posteriorisht maleolit intern",
+      "Anteriorisht maleolit intern",
+      "Anteriorisht maleolit lateral",
+      "Posteriorisht maleolit lateral",
+      "Ne nivelin e perforueses se hunter it."
+    ],
+    "correct": 1,
+    "explanation": "Vena safena e madhe fillon në anën mediale të dorsumit të këmbës, kalon përpara maleolit medial (intern), ngjitet në anën mediale të gjymtyrës dhe derdhet në venën femorale (kryqi safeno-femoral)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-022",
+    "question": "Neoplazia me e shpeshte e fshikezes se urines eshte:",
+    "answers": [
+      "Adenocarcinoma",
+      "Karcinoma me qeliza te tranzicionit",
+      "Sarkoma",
+      "Limfoma",
+      "Lejomiosarkoma"
+    ],
+    "correct": 1,
+    "explanation": "Neoplazia më e shpeshtë e fshikëzës urinare (>90%) është karcinoma uroteliale (me qeliza tranzicionale), e lidhur me duhanin dhe aminat aromatike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-023",
+    "question": "Arsyeja me e shpeshte e nje versamenti pleural hemorragjik eshte:",
+    "answers": [
+      "Tuberkulozi",
+      "Pulmoniti",
+      "Mikoza",
+      "Neoplazia",
+      "Azma"
+    ],
+    "correct": 3,
+    "explanation": "Efuzioni pleural hemorragjik (jo traumatik) shkaktohet më shpesh nga neoplazitë (metastaza, mezoteliomë), pastaj embolia pulmonare me infarkt dhe TB."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-024",
+    "question": "Ne sindromen mediastinale organet e para qe influencohen nga rritja e presionit endomediastinal jane:",
+    "answers": [
+      "Trakea",
+      "Ezofagu",
+      "Vena kava superiore dhe dy venat anonime",
+      "Arteriet",
+      "Nervat"
+    ],
+    "correct": 2,
+    "explanation": "Në sindromën mediastinale strukturat e para që shtypen janë venat (me mure të hollë dhe presion të ulët): vena kava superiore dhe venat brakiocefalike (anonime) → edemë \"pelerinë\", qarkullim kolateral."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-025",
+    "question": "Pacient 50 vjeç, duhan pires, pas nje sindromi influencal, paraqet nje insuficience respiratore te rendesishme. Ne torakocenteze aspirohen 1500 ml material sierohematik. Cila eshte diagnoza me e mundshme?",
+    "answers": [
+      "Mesotelioma",
+      "Tumor i pulmonit",
+      "Pleurit tuberkular",
+      "Empieme metapneumonare",
+      "Sarkoidoze"
+    ],
+    "correct": 1,
+    "explanation": "Duhanpirës 50 vjeç me efuzion pleural masiv serohemorragjik (që rimbushet) → tumor i mushkërisë me prekje pleurale. Mezotelioma lidhet me asbestin; empiema do të ishte purulente."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-026",
+    "question": "Cila nga keto semundje nuk eshte nje indikacion per trapiant pulmoni?",
+    "answers": [
+      "Adenocarcinoma",
+      "Linfangiolejomiomatoza",
+      "Enfizema",
+      "Histocitoza x",
+      "Fibroza cistike"
+    ],
+    "correct": 0,
+    "explanation": "Transplanti pulmonar indikohet në sëmundje pulmonare të fazës terminale beninje: emfizemë/SPOK, fibrozë kistike, fibrozë idiopatike, hipertension pulmonar, limfangioleiomiomatozë, histiocitozë X. Kanceri (adenokarcinoma) është kundërindikacion."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-027",
+    "question": "Ne paziente me “kancer pulmoni me qeliza te vogla” te stadit iii° b, cili eshte trajtimi qe kryhet me shpesh?",
+    "answers": [
+      "Kemioterapi + kirurgji + radioterapi",
+      "Kirurgji + kemioterapi",
+      "Kirurgji + kemioterapi + radioterapi",
+      "Kemio + radioterapi",
+      "Radioterapi"
+    ],
+    "correct": 3,
+    "explanation": "Kanceri me qeliza të vogla në stad të kufizuar/lokalisht të avancuar trajtohet me kemioterapi (platin + etopozid) + radioterapi torakale (± rrezatim profilaktik kranial); kirurgjia vetëm për nodule shumë të hershme."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-028",
+    "question": "Nje hemoftoe me grafi toraksi ne projeksion antero posterior dhe laterolateral negative, mund te jete shkaktuar nga:",
+    "answers": [
+      "Kaverne tuberkulare",
+      "Perforacioin i ezofagut",
+      "Pneumotoraks",
+      "Karcinome e bronkut principal",
+      "Kancer-abses"
+    ],
+    "correct": 3,
+    "explanation": "Hemoptizia me radiografi toraksi normale mund të vijë nga karcinoma e bronkut kryesor/endobronkiale (e fshehur pas hilusit), bronkiektazitë, bronkiti. Kërkon bronkoskopi dhe CT."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-029",
+    "question": "Ne atelektazi kemi:",
+    "answers": [
+      "Reduktim te ajrit ne alveola",
+      "Obstruksioni i nje bronku lobar jo gjithmone shkakton atelektazi",
+      "Murmuris vescicolaris eshte i ruajtur",
+      "Zhdukje te te gjithe ajrit nga alveolat",
+      "Pulmoni atelektazik i zhytur ne uje nuk shkon ne fund"
+    ],
+    "correct": 3,
+    "explanation": "Në atelektazë ajri alveolar zhduket plotësisht (rithithet pas obstruksionit ose shtypet): pjesa e mushkërisë kolabon, frymëmarrja vezikulare zhduket, indi atelektatik zhytet në ujë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-030",
+    "question": "Kilotoraksi eshte nje patologji qe e merr prejardhjen nga:",
+    "answers": [
+      "fistula trakeo-bronkiale",
+      "lezioni i diafragmes",
+      "lezioni i pleures viscerale",
+      "neoplazia pulmonare",
+      "lezioni i duktusit torakal"
+    ],
+    "correct": 4,
+    "explanation": "Kilotoraksi = grumbullim i limfës (kili, i pasur me trigliceride) në pleurë, nga dëmtimi i duktusit torakal (trauma, kirurgji, limfoma, neoplazi)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-031",
+    "question": "Ku vendoset rruga e hyrjes se mediastinoskopise?",
+    "answers": [
+      "permes sternumit",
+      "ne hapesiren e III-te interkostale, linja parasternale e djathte",
+      "ne hapesiren e II-te interkostale, linja parasternale e majte",
+      "ne fossen jugulare",
+      "ne regionin subksifoid"
+    ],
+    "correct": 3,
+    "explanation": "Mediastinoskopia klasike (cervikale) bëhet me incizion të vogël mbi fosën jugulare (suprasternale), duke futur instrumentin përpara trakesë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-032",
+    "question": "Tumori pulmonar me i shpeshte eshte :",
+    "answers": [
+      "kondrosarkoma",
+      "liposarkoma",
+      "karcinoma",
+      "adenoma",
+      "fibroma"
+    ],
+    "correct": 2,
+    "explanation": "Tumori më i shpeshtë i mushkërisë është karcinoma bronkogjene (primare) — si dhe metastazat nga tumore të tjera. Tumoret mezenkimale janë të rralla."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-033",
+    "question": "Tumori me i zakonshem i mediastinit eshte :",
+    "answers": [
+      "timoma",
+      "limfoma",
+      "cisti dermoid",
+      "tumori neurogjenik",
+      "adenoma paratiroide"
+    ],
+    "correct": 1,
+    "explanation": "Limfoma është tumori më i zakonshëm i mediastinit. Te të rriturit, në mediastinin anterior timoma është shumë e shpeshtë, ndërsa te fëmijët mbizotërojnë tumoret neurogjenike (mediastini posterior)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-034",
+    "question": "Çfare kuptohet me termin “brushing”?",
+    "answers": [
+      "prania e sibilancave inspiratore ne auskultimin pulmonar",
+      "teknika endoskopike e marrjes se materialit qelizor",
+      "prania e zhurmave te ferkimit pleural ne palpacionin e toraksit",
+      "prania e sibilancave ekspiratore ne auskultacionin pulmonar",
+      "teknike endoskopike e clirimit te obstruksionit bronkial"
+    ],
+    "correct": 1,
+    "explanation": "\"Brushing\" bronkial është teknikë endoskopike me një furçë të vogël që gërvisht mukozën për të marrë material citologjik/mikrobiologjik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-035",
+    "question": "Ne emfizemen senile insuficienca respiratore shoqerohet me :",
+    "answers": [
+      "hipersekrecion bronkial",
+      "djersitje",
+      "takikardi dhe hipertension",
+      "kongjestion i lekures dhe cianoze",
+      "te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Insuficienca respiratore në emfizemë/SPOK shoqërohet me hipersekrecion bronkial, djersitje (hiperkapni), takikardi e hipertension (stimulim simpatik), kongjestion lëkure dhe cianozë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-036",
+    "question": "Empiema pleurale me shpesh shkaktohet nga :",
+    "answers": [
+      "trauma e toraksit",
+      "infeksionet bronkopulmonare",
+      "nderlikimet kirurgjike",
+      "fistula bronko-pleurale",
+      "perhapja e infeksioneve abdominale"
+    ],
+    "correct": 1,
+    "explanation": "Empiema pleurale shkaktohet më shpesh nga infeksionet bronkopulmonare (pneumoni, abscese pulmonare = empiemë parapneumonike); pastaj kirurgjia/trauma."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-037",
+    "question": "Cila nga pohimet e meposhtme te lidhura me tromboemboline pulmonare nuk eshte e vertete:",
+    "answers": [
+      "trombet zhvillohen me shume ne venat e thella te anesive te poshtme",
+      "hapesira e vdekur zvogelohet, pa ndryshime te shkembimit alveolar te gazeve",
+      "verehet clirimi i lendeve vazoaktive me rritje te rezistencave vaskulare pulmonare",
+      "mund te instalohet incuficience ventrikulare e djathte",
+      "mund te verehet nje emboli arteriale paradokse nepermjet foramen ovale apertum"
+    ],
+    "correct": 1,
+    "explanation": "E pavërtetë: në tromboembolizmin pulmonar hapësira e vdekur alveolare rritet (alveola të ventiluara por pa perfuzion) dhe shkëmbimi i gazeve dëmtohet (hipoksemi). Të tjerat janë të vërteta."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-038",
+    "question": "Nje paciente 65-vjecare shfaq papritmas dhimbje retrosternale difuze ne bazen e qafes, qe me pas rrezatohet drejt shpatullave dhe shpines. Ne radiografine e toraksit konstatohet nje mase e madhe e mediastinit. Hipoteza me e mundshme diagnostike eshte :",
+    "answers": [
+      "timoma",
+      "Morbus Hodgkin",
+      "aneurizma disekante e aortes",
+      "struma retrosternale",
+      "tumor i pulmonit"
+    ],
+    "correct": 2,
+    "explanation": "E moshuar me dhimbje retrosternale të menjëhershme që rrezaton në qafë, shpatulla dhe shpinë, me mediastin të zgjeruar = disekim i aortës torakale."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-039",
+    "question": "Ne pneumotoraksin valvular mediastini zhvendoset :",
+    "answers": [
+      "drejt anes se shendoshe",
+      "drejt anes se pneumotoraksit",
+      "nuk zhvendoset",
+      "zhvendoset ne menyre rastesore",
+      "ndonje pergjigje tjeter"
+    ],
+    "correct": 0,
+    "explanation": "Në pneumotoraksin valvular (në tension) presioni pozitiv progresiv shtyn mediastinin drejt anës së shëndoshë, duke shtypur venat kava dhe mushkërinë kontralaterale → shok obstruktiv."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-040",
+    "question": "Cfare kuptojme me pneumotoraks valvular ?",
+    "answers": [
+      "kolapsin e plote pulmonar ne hipertensionin arterial",
+      "kolapsin pulmonar te plote me rritje te presionit intrakardiak",
+      "kolapsin e pjesshem ose te plote te pulmonit me rritje progresive te presionit te rrugeve ajrore",
+      "kolapsin e pjesshem ose te plote te te pulmonit me rritje progresive te presionit intrapleural",
+      "kolapsin e pjesshem ose te plote te pulmonit ne nje person me sindrom anksioz"
+    ],
+    "correct": 3,
+    "explanation": "Pneumotoraksi valvular: mekanizëm valvule që lejon hyrjen e ajrit në pleurë gjatë inspirimit por jo daljen → rritje progresive e presionit intrapleural, kolaps i mushkërisë dhe zhvendosje e mediastinit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-041",
+    "question": "Cili eshte shkaku i nje distonie qe manifestohet me ze bitonal?",
+    "answers": [
+      "paralize e nje korde vokale",
+      "kolle e qendrueshme per nje kohe te gjate",
+      "shtypje e trakese",
+      "obstruksion i laringut",
+      "devijim i trakese dhe ezofagut"
+    ],
+    "correct": 0,
+    "explanation": "Zëri bitonal (diplofoni) vjen nga paraliza e një korde vokale (zakonisht nga dëmtimi i nervit laringeal rekurrent: tumor i mushkërisë, tiroidektomi, aneurizmë e harkut aortal)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-042",
+    "question": "Dhimbje e menjehershme ne nje pike e lokalizuar ne hemitoraksin e majte, e shoqeruar me insuficience respiratore, jane simptomat me te rendesishme ne nje te ri 20- vjecar, i cili deri atehere nuk ka pasur asnje shqetesim dhe me nje anamneze pulmonare negative. Cila eshte hipoteza diagnostike e pare dhe me e mundshme?",
+    "answers": [
+      "pneumoni lobare",
+      "pneumotoraks spontan",
+      "infarkt i miokardit",
+      "emboli pulmonare",
+      "aneurizma disekante e aortes"
+    ],
+    "correct": 1,
+    "explanation": "Djalë i ri, i shëndetshëm, me dhimbje torakale të papritur të lokalizuar dhe dispne = pneumotoraks spontan primar (ruptura e bulave apikale subpleurale, tipike te të rinjtë e gjatë e të hollë, duhanpirës)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-043",
+    "question": "Ne kancerin e mushkerise ”jo me qeliza te vogla” te operuar, cili nga stadet e meposhtme paraqet prognozen me te keqe 5-vjecare?",
+    "answers": [
+      "T1 N0 M0",
+      "T2 N0 M0",
+      "T1 N1 M0",
+      "T1 N2 M0",
+      "T3 N0 M0"
+    ],
+    "correct": 3,
+    "explanation": "Në kancerin pulmonar jo-me-qeliza-të-vogla prognoza varet shumë nga N: T1N2M0 (stadi IIIA, nyje mediastinale homolaterale) ka mbijetesën më të keqe ndër opsionet; T1N0 (IA) më të mirën."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-044",
+    "question": "Pneumotoraksi i hapur shkaktohet nga:",
+    "answers": [
+      "semundjet pleuro-pulmonare",
+      "komunikim i qendrueshem ndermjet hapesires pleurale dhe mjedisit te jashtem",
+      "rupture e bules subpleurale",
+      "fistulizim bronkial",
+      "emboli pulmonare"
+    ],
+    "correct": 1,
+    "explanation": "Pneumotoraksi i hapur shkaktohet nga një plagë torakale penetruese që krijon komunikim të qëndrueshëm midis pleurës dhe ajrit të jashtëm (\"plagë thithëse\"). Trajtim: fashë okluzive me tre anë + dren."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-045",
+    "question": "Te gjitha situatat e meposhtme jane arsye per trajtimin kirurgjik te bronkiektazive, me perjashtim te :",
+    "answers": [
+      "prodhim i perditshem i me shume se 50 cc sekrecioneve, te eliminuar me sputum",
+      "hemoptizi te perseritura",
+      "rreziku i transformimit neoplazik",
+      "pneumoni rekurrente, pavaresisht nga terapia",
+      "bronkiektazite e kufizuara ne nje lob te vetem"
+    ],
+    "correct": 2,
+    "explanation": "Kirurgjia (rezeksion) në bronkiektazi indikohet për sëmundje të lokalizuar me sekrecione të bollshme, hemoptizi të përsëritura, pneumoni recidivante pavarësisht terapisë. Bronkiektazitë nuk kanë rrezik transformimi neoplazik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-046",
+    "question": "Bronkiektazite primitive mund te shkaktohen nga :",
+    "answers": [
+      "semundjet alergjike",
+      "infeksionet kronike",
+      "malformacionet bronkiale",
+      "traumat",
+      "obstruksionet bronkiale"
+    ],
+    "correct": 2,
+    "explanation": "Bronkiektazitë primitive (kongjenitale) vijnë nga malformacione bronkiale ose sëmundje kongjenitale (fibroza kistike, diskinezia ciliare primare – Kartagener, deficit i imunoglobulinave). Infeksionet dhe obstruksionet japin bronkiektazi sekondare."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-047",
+    "question": "Cili nga tipat histologjike te kancerit pulmonar ka prognozen me te keqe?",
+    "answers": [
+      "karcinoma epidermoide e mirediferencuar",
+      "adenokarcinoma",
+      "karcinoma me qeliza te vogla",
+      "karcinoma epidermoide pak e diferencuar",
+      "karcinoma bronko-alveolare"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma me qeliza të vogla (neuroendokrine) ka prognozën më të keqe: rritje shumë e shpejtë, metastaza të hershme; shumica diagnostikohen në stad të përhapur."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-048",
+    "question": "Cili eshte perkufizimi i aneurizmes se aortes?",
+    "answers": [
+      "eshte nje zgjerim mbi 2 cm ne pjesen infrarenale te aortes, ose nje zgjerim mbi 50% te diametrit normal",
+      "eshte nje zgjerim mbi 3 cm ne pjesen infrarenale te aortes, ose nje zgjerim mbi 50% te diametrit normal",
+      "eshte nje zgjerim mbi 3 cm ne pjesen infrarenale te aortes, ose nje zgjerim mbi 20% te diametrit normal",
+      "eshte nje zgjerim mbi 2,5 cm ne pjesen infrarenale te aortes, ose nje zgjerim mbi 20% te diametrit normal",
+      "eshte nje zgjerim mbi 2,5 cm ne pjesen infrarenale te aortes, ose nje zgjerim mbi 50% te diametrit normal"
+    ],
+    "correct": 1,
+    "explanation": "Aneurizma e aortës abdominale përkufizohet si dilatim i qëndrueshëm >3 cm i aortës infrarenale ose >50% e diametrit normal."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-049",
+    "question": "Cili eshte shkaku me i zakonshem i embolise arteriale?",
+    "answers": [
+      "prania e aneurizmes aortale",
+      "fibrilacioni atrial",
+      "prania e disa pllakave ateromatoze te ulceruara",
+      "marrja e barnave te kimioterapise",
+      "prania e sindromes se antikorpeve antifosfolipidike"
+    ],
+    "correct": 1,
+    "explanation": "Shkaku më i shpeshtë i embolive arteriale periferike është fibrilacioni atrial (trombe në auriculën e majtë); pastaj infarkti i miokardit me trombe murale, valvulopatitë, aneurizmat."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-050",
+    "question": "Testi i Allen-it vlereson :",
+    "answers": [
+      "pranine e anastomozave ndermjet qarkullimit arterial radial e brakial",
+      "pranine e anastomozave ndermjet qarkullimit arterial femoral siperfaqesor e te thelle",
+      "pranine e anastomozave ndermjet qarkullimit arterial radial e ulnar",
+      "pranine e anastomozave ndermjet qarkullimit arterial ulnar e brakial",
+      "pranine e anastomozave ndermjet qarkullimit venoz ulnar e brakia"
+    ],
+    "correct": 2,
+    "explanation": "Testi Allen vlerëson qarkullimin kolateral midis arteries radiale dhe ulnare (harqet palmare) — bëhet para punksionit/kateterizimit të arteries radiale."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-051",
+    "question": "Cili eshte objektivi i nderhyrjes se trombo-endoarterektomise karotide?",
+    "answers": [
+      "rivaskularizimi i nje pjese te trurit mbas iskemise cerebrale",
+      "parandalimi i nje aksidenti iskemik cerebral",
+      "mjekimi i iktusit cerebral",
+      "asnje nga pergjigjet e mesiperme",
+      "te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 1,
+    "explanation": "Endarterektomia karotide (heqja e pllakës nga bifurkacioni) ka si qëllim parandalimin e iktusit ishemik në stenozat karotide të rëndësishme (simptomatike ≥50–70%, asimptomatike ≥60–70%)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-052",
+    "question": "Kur shfaqet dhimbja abdominale ne iskemine celiako-mezenteriale kronike?",
+    "answers": [
+      "pak sekonda mbas marrjes se ushqimit",
+      "rreth 3 ore mbas marrjes se ushqimit",
+      "rreth 6 ore mbas marrjes se ushqimit",
+      "rreth 30 minuta mbas marrjes se ushqimit",
+      "zhduket mbas marrjes se ushqimit"
+    ],
+    "correct": 3,
+    "explanation": "Në isheminë mezenterike kronike dhimbja shfaqet rreth 15–30 minuta pas ngrënies (kur rritet kërkesa e zorrës për gjak) dhe zgjat 1–3 orë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-053",
+    "question": "Cfare eshte filtri Kim-Ray-Greenfield?",
+    "answers": [
+      "nje metode per parandalimin e recidives herniare",
+      "nje metode per parandalimin e dehishences se anastomozes",
+      "nje metode per parandalimin e kalkulozes biliare",
+      "nje metode per parandalimin e embolise pulmonare",
+      "nje metode per dializen peritoneale"
+    ],
+    "correct": 3,
+    "explanation": "Filtri Kim-Ray-Greenfield është filtër i venës kava inferiore për parandalimin e embolisë pulmonare kur antikoagulimi kundërindikohet ose dështon."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-054",
+    "question": "Arteria subklavia e majte origjinon nga :",
+    "answers": [
+      "aorta ashendente",
+      "trungu brakiocefalik",
+      "harku i aortes",
+      "aorta deshendente",
+      "arteria carotis communis e majte"
+    ],
+    "correct": 2,
+    "explanation": "Arteria subklaviane e majtë del drejtpërdrejt nga harku i aortës; e djathta del nga trungu brakiocefalik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-055",
+    "question": "Shenja e Homan eshte :",
+    "answers": [
+      "dhimbje ne pulpe kur kemba flektohet dorsalisht",
+      "dhimbje ne kofshe kur kemba flektohet dorsalisht",
+      "dhimbje ne gluteuse kur kemba flektohet dorsalisht",
+      "dhimbje ne gju kur flektohet kemba",
+      "dhimbje ne regionin inguinal kur kemba leviz anash"
+    ],
+    "correct": 0,
+    "explanation": "Shenja e Homans: dhimbje në pulpë (muskujt e kërcirit) gjatë dorsifleksionit pasiv të këmbës — e kërkuar në TVT."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-056",
+    "question": "Çfare eshte shenja e Bauer-it?",
+    "answers": [
+      "shfaqja e venave pretibiale",
+      "shfaqja e dhimbjes ne pulpe gjate dorsifleksionit te sforcuar te kembes",
+      "shfaqja e dhimbjes gjate palpacionit te thelle te pulpes",
+      "mungesa e pulseve arteriale periferike",
+      "shfaqja e dhimbjeve krampiforme ne pulpe gjate ecjes"
+    ],
+    "correct": 2,
+    "explanation": "Shenja e Bauer-it: dhimbje gjatë palpimit të thellë të pulpës (shtypje e muskujve të kërcirit kundër kockave), sugjeruese për trombozë venoze të thellë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-057",
+    "question": "Arteria femorale e merr origjinen nga :",
+    "answers": [
+      "aorta torakale",
+      "arteria iliake interne",
+      "arteria iliake eksterne",
+      "arteria femorale superficiale",
+      "arteria femorale profunda"
+    ],
+    "correct": 2,
+    "explanation": "Arteria femorale (e përbashkët) është vazhdimi i arteries iliake të jashtme pasi kalon nën ligamentin inguinal."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-058",
+    "question": "Prania ne nivelin e nje artikulacioni te nje zone te zbehte, me demarkacion te qarte ne lidhje me zonen e vaskularizuar mire eshte karakteristike e :",
+    "answers": [
+      "iskemise akute",
+      "iskemise kronike",
+      "iskemise siperfaqesore",
+      "trombozes venoze",
+      "asnjera nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Ishemia arteriale akute (emboli) jep ngjyrë të zbehtë me kufi të qartë demarkacioni (zakonisht një nivel artikular poshtë obstruksionit), me \"6 P\": dhimbje, zbehje, mungesë pulsi, parestezi, paralizë, poikilotermi."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-059",
+    "question": "Ndermjet simptomave kryesore te venave varikoze ne stadin e ulceruar nuk eshte e vertete qe:",
+    "answers": [
+      "edema maleolare zhduket gjate pushimit",
+      "ulcerat maleolare nuk jane te dhimbshme",
+      "jane te pranishem ekzema dhe pruriti",
+      "ka limfangoit retikular",
+      "ka interesim irritativ te nervit safen"
+    ],
+    "correct": 4,
+    "explanation": "Në stadin e ulçeruar të variçeve: edemat që përmirësohen me pushim, ulçera maleolare relativisht pak të dhimbshme, ekzemë dhe prurit, limfangit. Irritimi i nervit safen nuk është simptomë kryesore."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-060",
+    "question": "Ne terapine profilaktike pas procedures se angioplastikes koronare me vendosjen e stenteve te medikuar, terapia antiagregante e dyfishte (duke perjashtuar kundraindikacionet) duhet vazhduar per:",
+    "answers": [
+      "1 muaj",
+      "3 muaj",
+      "6 muaj",
+      "1 vit",
+      "nje kohe te pacaktuar"
+    ],
+    "correct": 3,
+    "explanation": "Sipas udhëzimeve të përdorura në këtë bankë, pas stentit farmakoaktiv (DES) terapia antiagreguese e dyfishtë (aspirinë + klopidogrel) vazhdohet 12 muaj (pas SKA); te angina stabile sot shpesh 6 muaj."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-061",
+    "question": "Ne rastin e koronarografise te planifikuar, cilet tip pacientesh duhet te bejne nje pergatitje te pershtatshme?",
+    "answers": [
+      "pacientet me infarkt te rende",
+      "pacientet me insuficience mitrale",
+      "pacientet me insuficience renale",
+      "pacientet mbi 75 vjec",
+      "pacientet me alergji ndaj penicilines"
+    ],
+    "correct": 2,
+    "explanation": "Pacientët me insuficiencë renale kanë rrezik nefropatie nga kontrasti, prandaj kërkojnë përgatitje (hidratim IV, kontrast i minimizuar, pezullim i nefrotoksikëve/metforminës)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-062",
+    "question": "Ne terapine profilaktike pas procedures se angioplastikes koronare me vendosje te stenteve te pamedikuar (BMS – Bare Metal Stent), terapia antiagregante e dyfishte (duke perjashtuar kundraindikacionet) duhet vazhduar per :",
+    "answers": [
+      "1 muaj",
+      "3 muaj",
+      "6 muaj",
+      "1 vit",
+      "nje kohe te pacaktuar"
+    ],
+    "correct": 0,
+    "explanation": "Pas stentit metalik të zhveshur (BMS) terapia antiagreguese e dyfishtë rekomandohej për të paktën 1 muaj (endotelizim i shpejtë), pastaj aspirinë për gjithë jetën."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-063",
+    "question": "Hemorragjia subaraknoide dyshohet ne prani te :",
+    "answers": [
+      "edemes se papiles dhe te vjellave",
+      "cefalese se menjehershme, rigor nucalis, humbje e ndergjegjes",
+      "ethe dhe rakialgji",
+      "diplopi dhe hemipareze progresive",
+      "ethe, diplopi dhe cefale"
+    ],
+    "correct": 1,
+    "explanation": "Hemorragjia subaraknoidale dyshohet para cefalesë së menjëhershme e shumë të fortë (\"më e keqja e jetës\"), ngurtësisë së qafës, të vjellave dhe humbjes së vetëdijes."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-064",
+    "question": "Cila eshte simptoma me e shpeshte ne hemorragjine subaraknoidale?",
+    "answers": [
+      "lumbalgjia",
+      "brakialgjia",
+      "dhimbja retrosternale",
+      "cefaleja nukale",
+      "sindroma vertiginoze"
+    ],
+    "correct": 3,
+    "explanation": "Simptoma më e shpeshtë e HSA është cefaleja e papritur, shumë e fortë, shpesh nukale/okcipitale, me meningizëm."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-065",
+    "question": "Cfare eshte hidrocefalia?",
+    "answers": [
+      "grumbullim i likidit ne sistemin ventrikular",
+      "rritje e mases cerebrale",
+      "rritje e likidit ekstraqelizor",
+      "zhvillim i manget i hemisferave cerebrale",
+      "difekt i mbylljes se tubit neural"
+    ],
+    "correct": 0,
+    "explanation": "Hidrocefalia = grumbullim i tepërt i LCR në sistemin ventrikular me dilatim të ventrikujve, nga obstruksioni, rithithja e pamjaftueshme ose (rrallë) mbiprodhimi."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-066",
+    "question": "Aneurizma cerebrale eshte :",
+    "answers": [
+      "tumor i regionit frontal",
+      "dilatacion i nje arterie cerebrale",
+      "malformacion i sistemit ventrikular",
+      "hematome intracerebrale",
+      "patologji e trakteve optike"
+    ],
+    "correct": 1,
+    "explanation": "Aneurizma cerebrale është dilatim (zakonisht sakular, \"kokërr rrushi\") i murit të një arterie cerebrale, shpesh në poligonin e Willis-it; ruptura jep HSA."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-067",
+    "question": "Triada simptomatike tipike e hipertensionit endokranial perbehet nga :",
+    "answers": [
+      "cefale, te vjella , edeme e papiles",
+      "cefale dhe humbje e ndergjegjes",
+      "dhimbje nukale dhe vertigo",
+      "ethe",
+      "skotoma dhe renie e vizusit"
+    ],
+    "correct": 0,
+    "explanation": "Triada e hipertensionit endokranial: cefale (sidomos në mëngjes), të vjella (shpesh në shatërvan, pa nauze) dhe edemë e papilës optike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-068",
+    "question": "Pacienti paraqet dhimbje te shpines me fashikulacione, crregullime te lehta te ecjes dhe sfinkterave, shoqeruar me crregullime te dyshimta sensitive : cili eshte dyshimi klinik?",
+    "answers": [
+      "astrocitoma cerebelare",
+      "skleroza laterale amiotrofike",
+      "hidrocefalia",
+      "sindroma e kompresionit medular",
+      "poliradikuloneuriti"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbje vertebrale + çrregullime të ecjes, sfinkterëve dhe të ndjeshmërisë (me nivel) sugjerojnë kompresion medular (tumor, disk, metastazë) — urgjencë që kërkon RM."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-069",
+    "question": "Spina bifida eshte :",
+    "answers": [
+      "anomali e lindur e tubit neural",
+      "agenezia cerebelare",
+      "mungese e corpus callosum",
+      "mungese e medules spinale",
+      "tumor temporal"
+    ],
+    "correct": 0,
+    "explanation": "Spina bifida është defekt kongjenital i mbylljes së tubit neural (harqeve vertebrale) — nga okulta deri te meningocela/mielomeningocela; parandalohet me acid folik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-070",
+    "question": "Nje pacient paraqet dhimbje te shpines me fashikulacione, crregullime te lehta te ecjes dhe sfinkterave, shoqeruar me crregullime te dyshimta sensitive, dyshimi klinik eshte per skleroze laterale amiotrofike, hidrocefali, kompresion medular ose poliradikuloneurit : cfare ekzaminimesh do te keshillonit per te vene diagnozen?",
+    "answers": [
+      "rezonance magnetike te trurit",
+      "elektromiografi",
+      "radiografi te kolones vertebrale dhe rezonance magnetike dorso-lombare",
+      "ekzaminim te likidit cerebro-spinal dhe rezonance magnetike te trurit dhe medules spinale",
+      "ekzaminim te likidit cerebro-spinal dhe elektromiografi"
+    ],
+    "correct": 2,
+    "explanation": "Në dyshimin për kompresion medular bëhen radiografia e kolonës dhe RM dorso-lumbare. RM e shtyllës është ekzaminimi vendimtar; EMG dhe LCR për diagnozat diferenciale neurologjike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-071",
+    "question": "Çfare jane gliomat?",
+    "answers": [
+      "reaksion inflamator i qelizave gliale",
+      "parazitoze cerebrale",
+      "tumore te serise gliale",
+      "semundje degjenerative cerebrale",
+      "malformacion i medules spinale"
+    ],
+    "correct": 2,
+    "explanation": "Gliomat janë tumore që lindin nga qelizat gliale (astrocitoma, glioblastoma, oligodendroglioma, ependimoma) — tumoret primare intrakraniale më të shpeshta."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-072",
+    "question": "Ne komocionin e shkaktuar nga trauma kranio-cerebrale, cili eshte ekzaminimi me i vlefshem per te perjashtuar lezionet endokraniale?",
+    "answers": [
+      "radiografia e kafkes",
+      "PET-skaneri",
+      "rezonanca magnetike",
+      "CT-skaneri",
+      "Ekografia"
+    ],
+    "correct": 3,
+    "explanation": "Pas traumës kranio-cerebrale, CT pa kontrast është ekzaminimi i zgjedhur për të përjashtuar hematomat dhe kontuzionet intrakraniale; është e shpejtë dhe e disponueshme."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-073",
+    "question": "Meningeomat jane :",
+    "answers": [
+      "tumore te meningjeve",
+      "tumore te qelizave gliale",
+      "degjenerim i meningjeve",
+      "inflamacion i meningjeve",
+      "hematome e hapesires meningeale"
+    ],
+    "correct": 0,
+    "explanation": "Meningiomat janë tumore (zakonisht beninjë) që lindin nga qelizat araknoidale të meningeve; më të shpeshta te gratë; shpesh me kalcifikime."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-074",
+    "question": "Cila eshte simptoma me e shpeshte ne hernien diskale lombare?",
+    "answers": [
+      "lumbalgjia",
+      "gonalgjia",
+      "shiatalgjia",
+      "cervikalgjia",
+      "brakialgjia"
+    ],
+    "correct": 2,
+    "explanation": "Hernia diskale lumbare (L4-L5, L5-S1) jep më shpesh lumboiskialgji (dhimbje radikulare që zbret në këmbë sipas dermatomës), me Lasègue pozitiv."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-075",
+    "question": "Cili eshte tumori me i shpeshte ne nje testikul kriptorkidik?",
+    "answers": [
+      "seminoma",
+      "teratoma",
+      "karcinoma embrionale",
+      "tumori me qeliza te Sertoli-se",
+      "tumori me qeliza te Leydig-ut"
+    ],
+    "correct": 0,
+    "explanation": "Tumori më i shpeshtë në testikulin kriptorkid (edhe pas orkidopeksisë) është seminoma."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-076",
+    "question": "Apendiciti akut ne femijet me pak se 5 vjec mund te kete :",
+    "answers": [
+      "asnjehere nderlikime",
+      "nderlikime te shpeshta",
+      "asnje simptome",
+      "nderlikime vetem ne seksin femer",
+      "nderlikime vetem ne seksin mashkull"
+    ],
+    "correct": 1,
+    "explanation": "Te fëmijët <5 vjeç apendiciti diagnostikohet vonë (anamnezë e vështirë, simptoma atipike) dhe omentumi i shkurtër nuk e kufizon infeksionin, prandaj perforacioni dhe peritoniti janë të shpeshta (deri 50–80%)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-077",
+    "question": "Cila nga gjendjet e meposhtme nuk eshte shkak i cianozes se neonatit?",
+    "answers": [
+      "policitemia",
+      "sepsisi",
+      "persistenca e qarkullimit fetal",
+      "kanali atrioventrikular i plote",
+      "tetrada e Fallot"
+    ],
+    "correct": 3,
+    "explanation": "Cianoza neonatale vjen nga kardiopatitë cianogjene (Fallot, transpozicion), persistenca e qarkullimit fetal (hipertension pulmonar), sepsa, policitemia. Kanali atrioventrikular i plotë jep shunt majtas-djathtas me insuficiencë kardiake, jo cianozë në fillim."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-078",
+    "question": "Cili tip i te vjellave karakterizon stenozen hipertrofike te pilorit tek femijet?",
+    "answers": [
+      "te vjellat biliare",
+      "te vjellat gastrike",
+      "te vjellat si ”shatrivan” biliare",
+      "te vjellat e here pas hereshme",
+      "te vjellat si „shatrivan“ jo-biliare“"
+    ],
+    "correct": 4,
+    "explanation": "Stenoza hipertrofike e pilorit (javët 2–8, më shpesh meshkuj të parëlindur) jep të vjella \"në shatërvan\", jo-biliare (obstruksioni është para papilës së Vaterit), pas çdo ushqyerjeje, me foshnjë të uritur."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-079",
+    "question": "Cili eshte rreziku nga kriptorkizmi i pa operuar?",
+    "answers": [
+      "disfunksioni erektil",
+      "degjenerimi neoplazik",
+      "orkiti",
+      "epididimiti",
+      "hipogonadizmi hipogonadotrop"
+    ],
+    "correct": 1,
+    "explanation": "Rreziku kryesor i kriptorkidisë së paoperuar është degjenerimi neoplazik (seminomë, rrezik 3–10 herë) dhe infertiliteti; orkidopeksia e hershme ul rrezikun dhe lejon vëzhgimin e testikulit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-080",
+    "question": "Nje femije 2-vjecar paraqet kriza te here pas hershme te renda dhimbjesh te tipit kolik, te shoqeruara nga te qara e te vjella. Gjate krizes eliminohen fece me gjak dhe mukus. Ne epigaster preket nje mase ovale. Cila nga diagnozat e meposhtme eshte me e mundshmja?",
+    "answers": [
+      "divertikuli i Meckel-it",
+      "stenoza kongjenitale e pilorit",
+      "ileusi mekonial",
+      "invaginacioni",
+      "enterokoliti nekrotik"
+    ],
+    "correct": 3,
+    "explanation": "Fëmijë 6 muaj–3 vjeç me kriza kolike të përsëritura me të qara, të vjella, feçe me gjak e mukus (\"pelte rrush pa fara\") dhe masë në formë salsiçeje = invaginim ileo-kolik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-081",
+    "question": "Nje grua 45-vjecare, e cila vuan nga poli-hidramnios, lind nje mashkull me sindromen Down. Disa ore pas lindjes femija fillon te vjelle likid te ngjyrosur me bile. Ne radiografine e toraksit dhe abdomenit dallohet shenja e „bules se dyfishte“ (double bubble sign). Cila nga diagnozat e meposhtme eshte me e mundshmja?",
+    "answers": [
+      "stenoza kongjenitale e pilorit",
+      "atrezia duodenale",
+      "invaginacioni",
+      "hernia diafragmale",
+      "perforacioni i nje organi visceral"
+    ],
+    "correct": 1,
+    "explanation": "Polihidramnios, sindroma Down, të vjella biliare në orët e para dhe shenja \"flluska e dyfishtë\" (stomak + duoden i dilatuar) = atrezi duodenale (obstruksion poshtë papilës)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-082",
+    "question": "Cila eshte shtrirja me e shpeshte e traktit aganglionar ne semundjen e Hirschprung-ut?",
+    "answers": [
+      "gjithe koloni",
+      "trakti rekto-sigmoid",
+      "ileumi dhe koloni",
+      "kanali anal",
+      "gjithe zorra"
+    ],
+    "correct": 1,
+    "explanation": "Në sëmundjen Hirschsprung segmenti aganglionar fillon gjithmonë nga rektumi dhe shtrihet në drejtim proksimal; në ~75–80% kufizohet në segmentin rekto-sigmoid."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-083",
+    "question": "Cili eshte standardi me i mire diagnostik ne semundjen e Hirschprung-ut?",
+    "answers": [
+      "biopsia rektale",
+      "manometria ano-rektale",
+      "irrigografia me kontrast",
+      "ekografia abdominale",
+      "Ph-metria"
+    ],
+    "correct": 0,
+    "explanation": "Standardi diagnostik i Hirschsprung-ut është biopsia rektale (me thithje), që tregon mungesën e qelizave ganglionare dhe hipertrofi të fibrave nervore (acetilkolinesterazë+). Manometria dhe klizma me kontrast janë mbështetëse."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-084",
+    "question": "Interventi i zgjedhur per trajtimin e stenozes kongjenitale te pilorit te femijet eshte :",
+    "answers": [
+      "gastrojejunostomia",
+      "gastroduodenostomia",
+      "piloroplastika ekstramukoze",
+      "antrektomia",
+      "rezeksioni gastro-duodenal"
+    ],
+    "correct": 2,
+    "explanation": "Stenoza hipertrofike e pilorit trajtohet me piloromiotomi ekstramukoze sipas Ramstedt (prerje gjatësore e muskulit pilorik deri në mukozë, pa e hapur atë), pas korrigjimit të alkalozës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-085",
+    "question": "Cila nga pohimet e meposhtme eshte e sakte ne lidhje me lokalizimin e varikoceles :",
+    "answers": [
+      "varikocela shfaqet vetem majtas",
+      "varikocela shfaqet vetem djathtas",
+      "varikocela shfaqet me shpeshtesi te njejte ne te dy anet",
+      "varikocela shfaqet ne pjesen me te madhe te rasteve majtas, mund te jete bilaterale, rralle shfaqet vetem djathtas",
+      "varikocela nuk mund te shfaqet djathtas"
+    ],
+    "correct": 3,
+    "explanation": "Varikocela është në ~90% të rasteve në të majtë (vena spermatike e majtë derdhet në kënd të drejtë në venën renale), mund të jetë bilaterale; varikocela vetëm djathtas është e rrallë dhe kërkon përjashtimin e masës retroperitoneale."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-086",
+    "question": "Ne nje te porsalindur, te prekur nga fibroza cistike, nje obstruksion intestinal ka me shume mundesi te shkaktohet nga :",
+    "answers": [
+      "atrezia duodenale",
+      "invaginacioni",
+      "ileusi nga mekoniumi",
+      "atrezia anale",
+      "malrotacioni intestinal"
+    ],
+    "correct": 2,
+    "explanation": "Te i porsalinduri me fibrozë kistike, mekoniumi i trashë dhe ngjitës bllokon ileumin terminal → ileus mekonial (shpesh manifestimi i parë i sëmundjes)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-087",
+    "question": "Te gjitha te dhenat e meposhtme jane shenja karakteristike te sindromes se hiperinsulinizmit (insulinomes), me perjashtim te :",
+    "answers": [
+      "crregullime neuro-psikike nga te pangrenet",
+      "glicemi bazale me e ulet se norma",
+      "qetesim i menjehershem nga marrja e sheqerit",
+      "hiperglicemia",
+      "kriza apneje"
+    ],
+    "correct": 3,
+    "explanation": "Insulinoma jep hipoglicemi esëll me simptoma neuropsikike, që kalojnë menjëherë me sheqer (triada Whipple). Hiperglicemia nuk është karakteristikë (është e kundërta)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-088",
+    "question": "Ne invaginacionin intestinal te femijeve trajtimi i rradhes se pare eshte :",
+    "answers": [
+      "laparotomia dhe dezinvaginimi manual",
+      "laparotomia dhe rezeksioni i segmentit te invaginuar",
+      "kolostomia",
+      "laparoskopia dhe dezinvaginimi",
+      "irrigografia (klizma) me barium"
+    ],
+    "correct": 4,
+    "explanation": "Në invaginimin e fëmijës pa shenja peritoniti/perforacioni, trajtimi i parë është reduktimi hidrostatik ose pneumatik me klizmë nën kontroll radiologjik/ekografik; kirurgjia kur dështon ose ka komplikacione."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-089",
+    "question": "Ne hipernefromen verehet shpesh :",
+    "answers": [
+      "anemi sideropenike",
+      "anemi hemolitike",
+      "anemi nga eritropoeza e reduktuar",
+      "poliglobulia",
+      "anemia mikrocitare"
+    ],
+    "correct": 3,
+    "explanation": "Karcinoma renale (hipernefroma) mund të prodhojë eritropoietinë ektopike → poliglobuli (sindromë paraneoplazike); por më shpesh jep anemi të sëmundjes kronike. Poliglobulia është karakteristike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-090",
+    "question": "Nje mashkull 28-vjecar, me shendet te mire pervec ankeses, paraqitet tek mjeku per nje zmadhim te padhimbshem te testikulit te djathte. Pacienti ka filluar te ndieje rendim ne hemiskrotumin e djathte rreth 6 muaj me pare. Ekzaminimi objektiv evidenton nje zmadhim difuz te testikulit te djathte, por eshte e veshtire te dallohet nese vjen nga nje lezion intratestikular apo ekstratestikular. Cila nga metodat diagnostike te meposhtme do te ishte hapi i pare me i pershtatshem per te arritur ne nje diagnoze ?",
+    "answers": [
+      "CT-skaner i skrotumit",
+      "percaktimi i niveleve serike te HCG, alfa-fetoproteinave dhe LDH",
+      "ekografia skrotale",
+      "ago-biopsia",
+      "orkiektomia inguinale"
+    ],
+    "correct": 2,
+    "explanation": "Hapi i parë para një mase skrotale është ekografia skrotale (me Doppler): dallon lezionin intratestikular (shumica malinjë) nga ai ekstratestikular (zakonisht beninj). Markuesit dhe orkiektomia inguinale vijnë pas."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-091",
+    "question": "Terapia kirurgjike ne disfunksioni erektil gjen perdorim ne :",
+    "answers": [
+      "ne cdo pacient me disfunksion erektil",
+      "vetem ne pacientet qe nuk permiresohen nga barnat te marra nga goja",
+      "ne pacientet qe nuk permiresohen; nuk mund te marrin; nuk tolerojne ose nuk pranojne terapine farmakologjike",
+      "ne asnje nga rastet e pershkruara me siper",
+      "ne pacientet psikotike"
+    ],
+    "correct": 2,
+    "explanation": "Kirurgjia (proteza peniene, rivaskularizimi) në disfunksionin erektil rezervohet për pacientët që nuk përgjigjen, nuk mund të marrin, nuk tolerojnë ose nuk pranojnë terapinë farmakologjike (PDE5i, injeksione intrakavernoze)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-092",
+    "question": "Nje mashkull 55-vjecar diagnostikohet me hiperplazi beninje te prostates. Pacienti refuzon trajtimin farmakologjik dhe zgjedh te operohet nepermjet rezeksionit transureteral te prostates. Cili nga nderlikimet e meposhtme haset me shpesh mbas kesaj procedure?",
+    "answers": [
+      "kontraktura e qafes se vezikes urinare",
+      "disfunksioni erektil",
+      "inkontinenca urinare",
+      "ejakulacioni retrograd",
+      "stenoza uretrale"
+    ],
+    "correct": 3,
+    "explanation": "Komplikacioni më i shpeshtë pas TURP është ejakulimi retrograd (65–90%), nga dëmtimi i qafës së fshikëzës. Stenoza uretrale, kontraktura e qafës dhe inkontinenca janë më të rralla."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-093",
+    "question": "Dizuria eshte :",
+    "answers": [
+      "veshtiresia gjate urinimit",
+      "dhimbja gjate urinimit",
+      "rritja e numrit te minksioneve",
+      "prania e leukociteve ne urine",
+      "prania e pusit ne urine"
+    ],
+    "correct": 0,
+    "explanation": "Në terminologjinë italiane/shqipe, disuria = vështirësi gjatë urinimit (mikcion i vështirë); dhimbja gjatë urinimit quhet stranguri/algouri; polakiuria = rritje e numrit të urinimeve."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-094",
+    "question": "Histologjikisht tumoret e prostates jane me shume :",
+    "answers": [
+      "karcinoma me qeliza atipike",
+      "adenokarcinoma",
+      "karcinoma skuamoqelizore",
+      "leiomiosarkoma",
+      "limfoma"
+    ],
+    "correct": 1,
+    "explanation": "Tumoret malinje të prostatës janë në >95% adenokarcinoma, që lindin kryesisht në zonën periferike (të palpueshme me tushe rektale)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-095",
+    "question": "Incizioni ne vijen e mesit umbiliko-pubike poshte planeve kutan dhe subkutan pret :",
+    "answers": [
+      "muskujt rectus abdominis",
+      "linean alba",
+      "fascia e muskujve rectus abdominis",
+      "muskujt rectus dhe obliquus extern e intern",
+      "muskujt obliquus extern e intern dhe transversus"
+    ],
+    "correct": 1,
+    "explanation": "Incizioni mesor nën umbilikus pret lëkurën, indin subkutan dhe linea alba (bashkimi i aponeurozave të muskujve të gjerë), pa prerë muskujt rektus."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-096",
+    "question": "Nje mashkull 19-vjecar, i perfshire ne nje aksident me motociklete, ka pesuar nje frakture te mbyllur te femurit te djathte dhe nje frakture pelvike. Pervec deformimit te dukshem te kembes, ekzaminimi objektiv evidenton pranine e nje hematome skrotale dhe pranine e gjakut ne meatusin uretral. Ekzaminimi rektal nuk evidenton pranine e gjakut, por nuk arrin te palpoje prostaten. Pacienti referon se deshiron te urinoje, por nuk mundet. Cili nga ekzaminimet e meposhtme perben hapin e pare me te pershtatshem per te arritur ne nje diagnoze te sakte?",
+    "answers": [
+      "CT-skaner i bacinit",
+      "ekografi skrotale",
+      "pielografi endovenoze",
+      "cistografi retrograde nepermjet kateterit Foley",
+      "uretrografi retrograde"
+    ],
+    "correct": 4,
+    "explanation": "Frakturë legeni + gjak në meatusin uretral + hematomë skrotale + prostatë e palpueshme lart/jo e palpueshme + pamundësi urinimi = dëmtim i uretrës. Hapi i parë: uretrografia retrograde, para çdo tentative me kateter Foley."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-097",
+    "question": "Cila nga keto kategori farmakologjike mund te jape vonese te ejakulacionit :",
+    "answers": [
+      "penicilinat",
+      "inhibitoret e re-uptake te serotonines",
+      "alfa-bllokuesit",
+      "beta-bllokuesit",
+      "kalci-antagonistet"
+    ],
+    "correct": 1,
+    "explanation": "SSRI-të (frenuesit e rikapjes së serotoninës) vonojnë ejakulimin (përdoren edhe për ejakulimin e parakohshëm, p.sh. dapoksetina). Alfa-bllokuesit mund të japin ejakulim retrograd/anejakulim."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-098",
+    "question": "Cilet jane receptoret me te perfshire ne hiperplazine e prostates?",
+    "answers": [
+      "alfa1-adrenergjiket",
+      "beta2-adrenergjiket",
+      "serotoninergjiket",
+      "kolinergjiket",
+      "dopaminergjiket"
+    ],
+    "correct": 0,
+    "explanation": "Tonusi i muskulit të lëmuar të prostatës dhe qafës së fshikëzës ndërmjetësohet nga receptorët alfa1-adrenergjikë (sidomos alfa1A) — prandaj alfa-bllokuesit (tamsulozina) përmirësojnë simptomat e HBP."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-099",
+    "question": "Cila nga gjendjet e meposhtme nuk eshte e shoqeruar me nefrolitiaze dhe hiperkalciuri?",
+    "answers": [
+      "hiperkalciuria idiopatike",
+      "hipoparatiroidizmi",
+      "hipervitaminoza D",
+      "sarkoidoza",
+      "semundja e Paget"
+    ],
+    "correct": 1,
+    "explanation": "Hipoparatiroidizmi jep hipokalcemi dhe kalciuri të ulët, ndaj nuk shoqërohet me nefrolitiazë. Hiperkalciuria idiopatike, hipervitaminoza D, sarkoidoza dhe Paget (imobilizimi) japin hiperkalciuri."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-100",
+    "question": "Nje ekografi renale dhe nje urografi endovenoze ne nje mashkull 65-vjecar, i cili po ekzaminohet ne lidhje me inkontinencen urinare, tregojne pranine e hidronefrozes bilaterale. Cila nga gjendjet e meposhtme ka me shume mundesi te kete cuar ne kete nderlikim?",
+    "answers": [
+      "semundja e Alzheimer",
+      "nje intervent i meparshem kirurgjik",
+      "inkontinenca nga stresi",
+      "hiperplazia e prostates",
+      "aktiviteti i shtuar i muskulit detrussor, i lidhur me moshen"
+    ],
+    "correct": 3,
+    "explanation": "Hidronefroza bilaterale te mashkulli 65 vjeç me \"inkontinencë\" (në fakt inkontinencë nga mbushja e tepërt/overflow) sugjeron obstruksion infravezikal nga hiperplazia e prostatës me retension kronik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-101",
+    "question": "Nje mashkull 35-vjecar shkon tek mjeku sepse ankon dhimbje te vazhdueshme ne regionin perineal dhe dizuri qe prej 6 muajsh. Pacienti nuk referon per infeksione urinare ose sekrecione uretrale. Temperatura eshte 37 grade. Ekzaminimi rektal evidenton prostaten pak te dhimbshme dhe pastoze, por jo te zmadhuar. Analiza e urines eshte normale. Ekzaminimi i sekrecioneve prostatike gjate shtrydhjes se saj tregon pranine e 30 leukociteve per fushe dhe asnje bakter. Kultura e sekrecioneve prostatike dhe e urines jane negative. Cila nga diagnozat e meposhtme eshte me e mundshme?",
+    "answers": [
+      "cistiti akut",
+      "prostatiti akut",
+      "prostatiti bakterial kronik",
+      "prostatitit jo-bakterial kronik",
+      "prostatodinia"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbje perineale dhe disuri >3 muaj, prostatë e ndjeshme, leukocite në sekrecionin prostatik por kultura negative = prostatit kronik jo-bakterial (inflamator, kategoria IIIA). Prostatodinia nuk ka leukocite."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-102",
+    "question": "Cila nga mikroorganizmat e meposhtme eshte me shpesh pergjegjese per infeksionet akute te rrugeve urinare?",
+    "answers": [
+      "Pseudomonas",
+      "Klebsiella",
+      "Escherichia coli",
+      "Proteus",
+      "Shighella"
+    ],
+    "correct": 2,
+    "explanation": "Escherichia coli (uropatogjene) është përgjegjëse për ~75–90% të infeksioneve urinare akute të pakomplikuara."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-103",
+    "question": "Stranguria eshte :",
+    "answers": [
+      "dhimbje qe ndjek ose shoqeron minksionin",
+      "minksion i veshtire",
+      "pamjaftueshmeri funksionale e sfinkterit uretral",
+      "rritje e frekuences se minksionit",
+      "pakesim i frekuences se minksionit"
+    ],
+    "correct": 0,
+    "explanation": "Stranguria është dhimbja (djegia) që shoqëron ose ndjek urinimin, shpesh me urinim pikë-pikë dhe tenezëm vezikal (p.sh. në cistit)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-104",
+    "question": "Cila nga gjendjet e meposhtme mund te perfaqesoje nje nderlikim te hipertrofise beninje te prostates?",
+    "answers": [
+      "formimi i kalkulave ne veziken urinare",
+      "retensioni urinar akut",
+      "divertikuloza vezikale",
+      "te gjitha pergjigjet e mesiperme",
+      "stranguria"
+    ],
+    "correct": 3,
+    "explanation": "Komplikacionet e HBP: retension urinar akut/kronik, gurë në fshikëz, divertikuj vezikalë, infeksione urinare, hematuri, hidronefrozë dhe insuficiencë renale."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-105",
+    "question": "Çfare eshte derivacioni urinar?",
+    "answers": [
+      "vendosja perfundimtare e uretereve ne lekure",
+      "nderhyrja per te korrigjuar humbjen e nxenesise se vezikes urinare",
+      "anastomoza kirurgjikale uretero-ureterale",
+      "drenazhi i vezikes urinare nepermjet kateterit",
+      "modifikimi kirurgjikal ne menyre te perkohshme ose perfundimtare i kalimit normal te urines"
+    ],
+    "correct": 4,
+    "explanation": "Derivacioni urinar është modifikimi kirurgjikal (i përkohshëm ose definitiv) i rrugës normale të urinës: ureterokutaneostomi, kanal ileal (Bricker), neovezikë ortotopike, nefrostomi."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-106",
+    "question": "Bakteriuria eshte sinjifikante nese numri i mikroorganizmave ne 1 ml urine eshte :",
+    "answers": [
+      "me shume se 100 000",
+      "me pak se 50 000",
+      "ndermjet 10 000 dhe 50 000",
+      "ndermjet 5 000 dhe 10 000",
+      "baraz me 5 000"
+    ],
+    "correct": 0,
+    "explanation": "Bakteriuria sinjifikative = ≥100.000 (10^5) CFU/ml në urinën e mesit të rrjedhës; në kampione me kateter ose te gratë simptomatike edhe vlera më të ulëta mund të jenë të rëndësishme."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-107",
+    "question": "Spermatorreja eshte :",
+    "answers": [
+      "derdhja e likidit seminal pa ereksion",
+      "derdhja e likidit seminal te perzier me gjak",
+      "derdhja e likidit seminal te perzier me pus",
+      "derdhja e likidit seminal me ereksion",
+      "asnjera nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Spermatorrea = rrjedhje e lëngut seminal pa ereksion dhe pa orgazëm. Hemospermia = spermë me gjak; piospermia = me qelb."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-108",
+    "question": "Me parafimoze kuptohet :",
+    "answers": [
+      "gjendje e krijuar nga retraksioni i detyruar i prepuciumit fimotik qe nuk reduktohet",
+      "gjendje e krijuar nga retraksioni i detyruar i prepuciumit qe nuk reduktohet",
+      "infeksioni i sulkusit balano-prepucial",
+      "flogoze e glansit",
+      "nderlikim i cirkumcizionit"
+    ],
+    "correct": 0,
+    "explanation": "Parafimoza: prepuciumi fimotik (i ngushtë) që tërhiqet me forcë pas glandit nuk mund të kthehet → unazë shtrënguese, edemë e glandit, rrezik ishemie. Urgjencë: reduktim manual ose incizion."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-109",
+    "question": "Me hidronefroze kuptohet :",
+    "answers": [
+      "riabsorbimi i urines nga tubujt kolektore",
+      "prania e urines purulente ne hapesirat pielo-kaliciene te dilatuara",
+      "staze urinare, me pasoje zgjerimin e hapesirave pielo-kaliciene",
+      "staze urinare vetem ne veziken urinare",
+      "vuajtje e pergjithshme e parenkimes renale dhe e rrugeve ekskretore"
+    ],
+    "correct": 2,
+    "explanation": "Hidronefroza = dilatim i pielit dhe kaliceve nga staza urinare (obstruksion ose refluks), që me kohë dëmton parenkimën renale. Piuria në kaviteteve të dilatuara = pionefrozë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-110",
+    "question": "Karcinoma e prostates metastazon me shpesh :",
+    "answers": [
+      "ne skelet",
+      "ne gjendrrat mbiveshkore",
+      "ne hepar",
+      "ne mushkeri",
+      "ne tru"
+    ],
+    "correct": 0,
+    "explanation": "Karcinoma e prostatës metastazon më shpesh në skelet (vertebra lumbare, legen, femur proksimal, brinjë), me lezione osteoblastike, si dhe në nyjet limfatike pelvike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-111",
+    "question": "Cila nga ekzaminimet klinike te meposhtme eshte e domosdoshme per diagnozen e disfunksionit erektil :",
+    "answers": [
+      "arteriografia selektive",
+      "vezikulodeferentografia",
+      "nuk jane te nevojshme ekzaminime klinike",
+      "matje e glicemise, lipideve dhe nivelit te testosteronit ne gjak",
+      "teste psikometrike"
+    ],
+    "correct": 3,
+    "explanation": "Te pacienti me disfunksion erektil duhen bërë glicemia, profili lipidik dhe testosteroni (faktorët vaskularë/metabolikë dhe hipogonadizmi); DE mund të jetë shenjë e hershme e sëmundjes kardiovaskulare."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-112",
+    "question": "Sfinkteri ekstern i vezikes urinare perbehet nga :",
+    "answers": [
+      "muskulature e strijuar",
+      "muskulature e lemuar",
+      "muskulature e perzier",
+      "ind fibroz",
+      "ind fibroadipoz"
+    ],
+    "correct": 0,
+    "explanation": "Sfinkteri i jashtëm i uretrës (rabdosfinkteri) përbëhet nga muskulaturë e strijuar vullnetare (inervim nga nervi pudend); sfinkteri i brendshëm (qafa e fshikëzës) është muskulaturë e lëmuar."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-113",
+    "question": "Nje hemorragji me origjine nga uretra subdiafragmatike jep :",
+    "answers": [
+      "uretrorragji",
+      "hematuri totale",
+      "hematuri iniciale",
+      "hematuri terminale",
+      "mikrohematuri"
+    ],
+    "correct": 0,
+    "explanation": "Gjakderdhja nga uretra distale ndaj sfinkterit të jashtëm (subdiafragmatike) jep uretrorragji: gjak që del nga meatusi edhe pa urinim. Lezionet supradiafragmatike japin hematuri."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-114",
+    "question": "Diagnoza radiologjike e nekrozes cefalike post-traumatike eshte e mundur :",
+    "answers": [
+      "menjehere",
+      "pas 1 muaji",
+      "pas 3 muajsh",
+      "pas te pakten 8 muajsh",
+      "pas te pakten 3 vjetesh"
+    ],
+    "correct": 3,
+    "explanation": "Nekroza avaskulare e kokës së femurit pas traumës bëhet e dukshme radiologjikisht (sklerozë, kolaps subkondral) pas disa muajsh, shpesh pas 8–12 muajsh. RM e zbulon shumë më herët."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-115",
+    "question": "Çfare eshte semundja e Dupyitren-it?",
+    "answers": [
+      "tenosinovit stenozant i vagines se muskujve fleksore te gishtave",
+      "sinostoze radioulnare kongjenitale",
+      "retraksion i aponeurozes palmare",
+      "nekroze aseptike e os skafoide",
+      "pseudoartroze e os skafoide"
+    ],
+    "correct": 2,
+    "explanation": "Sëmundja Dupuytren = fibromatozë dhe retraksion progresiv i aponeurozës palmare, me nodule dhe kordona që sjellin kontrakturë në fleksion të gishtave (sidomos IV dhe V)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-116",
+    "question": "Pamja si “mozaik” e kockes eshte tipike e :",
+    "answers": [
+      "osteomes osteoide",
+      "semundjes Camerati-Engelmann",
+      "semundjes se Paget",
+      "semundjes Albers-Schoenberg",
+      "osteomielitit kronik"
+    ],
+    "correct": 2,
+    "explanation": "Në sëmundjen Paget, rimodelimi kaotik (resorbim + formim i tepërt) i kockës jep në histologji pamjen \"mozaik\" të vijave të çimentimit; radiologjikisht kocka e trashë e deformuar."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-117",
+    "question": "Ne coxa vara :",
+    "answers": [
+      "kendi i varizmit arrin vlera me pak se 90 grade",
+      "kendi I antiversionit zakonisht rritet",
+      "kendi I varizmit rralle eshte me pak se 100 grade",
+      "ekziston vetem forma e lindur",
+      "asnjera nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Coxa vara = ulje e këndit cervikodiafizar të femurit (normal ~125–135°); në format e rënda ai bie poshtë 90–100°. Mund të jetë kongjenitale ose e fituar (rakitizëm, epifizioliza, fraktura)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-118",
+    "question": "Pseudoartroza eshte :",
+    "answers": [
+      "nje forme e artrozes juvenile",
+      "artroze qe prek artikulacionin e kycit te dores",
+      "kuadri klinik, radiologjik dhe anatomo-patologjik i nje frakture te pakonsoliduar",
+      "nje lloj nderhyrjeje kirurgjike",
+      "nje tumor beninj"
+    ],
+    "correct": 2,
+    "explanation": "Pseudoartroza = frakturë e pakonsoliduar pas kohës normale të shërimit, me fragmente të lëvizshme, skaje sklerotike/të rrumbullakosura dhe ind fibroz midis tyre (ndonjëherë \"neoartikulacion\")."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-119",
+    "question": "Ne nje subjekt te moshuar, anesia e poshtme e shkurtuar, e abduktuar dhe me rotacion ekstern te bejne te medosh per diagnozen e :",
+    "answers": [
+      "luksacionit kokso-femoral",
+      "fraktures se qafes se femurit",
+      "metastazes femorale",
+      "artrozes se artikulacionit kokso-femoral",
+      "distorsionit te artikulacionit kokso-femoral"
+    ],
+    "correct": 1,
+    "explanation": "Te i moshuari, gjymtyrë e shkurtuar, në abduksion dhe rrotullim të jashtëm pas rënies = frakturë e qafës së femurit (sidomos ekstrakapsulare/pertrokanterike)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-120",
+    "question": "Tortikolisi miogjen eshte nje pozicionim jo-normal i kokes i shkaktuar nga :",
+    "answers": [
+      "fibroza e muskulit sternokleidomastoid",
+      "fibroza e muskulit trapezius",
+      "laksitet i muskulit omohioid",
+      "presioni kockor cervikal",
+      "asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Tortikolisi miogjen kongjenital shkaktohet nga fibroza/shkurtimi i muskulit sternokleidomastoid (shpesh pas traumës së lindjes): koka anon nga ana e prekur dhe rrotullohet nga ana e kundërt."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-121",
+    "question": "Me talizem te kembes kuptohet :",
+    "answers": [
+      "fleksion i tepruar plantar",
+      "fleksion e tepruar dorsal",
+      "abduksion i tepruar",
+      "adduksion i tepruar",
+      "asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 1,
+    "explanation": "Talizmi i këmbës (pes calcaneus) = qëndrim i këmbës në dorsifleksion të tepruar, ku pacienti mbështetet mbi thembër. Fleksioni plantar i tepruar = pes equinus."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-122",
+    "question": "Sherimi biologjik i nje frakture karakterizohet nga :",
+    "answers": [
+      "reduktimi anatomik i fragmenteve",
+      "rifillimi i shpejte i funksionit",
+      "formimi i kallusit kockor",
+      "mungesa e nderlikimeve te hershme ose te vonshme",
+      "nevoja e traksionit skeletik"
+    ],
+    "correct": 2,
+    "explanation": "Shërimi biologjik i frakturës karakterizohet nga formimi i kallusit kockor (hematomë → kallus fibrokartilagjinoz → kallus kockor → rimodelim)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-123",
+    "question": "Ne pacientet e moshuar cila eshte terapia e zgjedhur ne frakturat mediale te qafes se femurit ?",
+    "answers": [
+      "imobilizimi me gips",
+      "osteosinteza",
+      "zevendesimi protezik",
+      "asnje trajtim",
+      "heqja e kokes se femurit"
+    ],
+    "correct": 2,
+    "explanation": "Në frakturat mediale (intrakapsulare) të qafës së femurit te i moshuari, për rrezikun e lartë të nekrozës avaskulare dhe pseudoartrozës, trajtimi i zgjedhur është zëvendësimi protezik (endoprotezë/artroprotezë), me ngritje të shpejtë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-124",
+    "question": "Te gjitha shenjat e meposhtme jane karakteristike per artrozen, me perjashtim te :",
+    "answers": [
+      "ngushtimi i hapesires artikulare",
+      "prania e osteofiteve",
+      "prania e geodeve",
+      "parregullsia e profilit artikular",
+      "zgjerimi i hapesires artikulare"
+    ],
+    "correct": 4,
+    "explanation": "Artroza jep ngushtim të hapësirës artikulare, osteofite, gjeode (kiste subkondrale), sklerozë subkondrale dhe çrregullim të profilit artikular. Zgjerimi i hapësirës nuk është tipik."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-125",
+    "question": "Me termin artrotomi kuptohet :",
+    "answers": [
+      "hapja e artikulacionit",
+      "hapja dhe drenazhi i artikulacionit",
+      "hapja e pjesshme e artikulacionit",
+      "mobilizimi i artikulacionit",
+      "sutura e lacerimit artikular"
+    ],
+    "correct": 0,
+    "explanation": "Artrotomia = hapja kirurgjikale e një artikulacioni (për drenim, heqje trupash të lirë, riparim)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-126",
+    "question": "Çfare eshte spondilolisteza?",
+    "answers": [
+      "nje lloj i vecante frakture vertebrale",
+      "frakture e epistrofeusit",
+      "osteokondrit vertebral",
+      "rreshqitje e vertebres mbi vertebren poshte saj",
+      "ecuria e nje frakture vertebrale"
+    ],
+    "correct": 3,
+    "explanation": "Spondilolisteza = rrëshqitje anteriore e një trupi vertebral mbi atë poshtë tij (zakonisht L5 mbi S1), shpesh nga spondiloliza e istmit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-127",
+    "question": "Cili ekzaminim instrumental-diagnostik mundeson diagnozen e hernies diskale?",
+    "answers": [
+      "ekografia",
+      "arteriografia",
+      "termografia",
+      "CT-skaneri dhe rezonanca magnetike",
+      "radiografia"
+    ],
+    "correct": 3,
+    "explanation": "Hernia diskale diagnostikohet me RM (zgjedhja e parë: tregon diskun dhe rrënjët) ose CT; radiografia tregon vetëm ngushtimin e hapësirës dhe kockat."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-128",
+    "question": "Ne nje pacient qe vuan nga hernia diskale L4-L5 ne te djathte, shanjat Lasegue dhe Wassermann jane :",
+    "answers": [
+      "te dy negative",
+      "te dy pozitive",
+      "Lasegue pozitiv dhe Wassermann negativ",
+      "Wassermann pozitiv dhe Lasegue negativ",
+      "Lasegue dhe Wassermann lehtesisht pozitive"
+    ],
+    "correct": 2,
+    "explanation": "Hernia L4-L5 (rrënja L5) dhe L5-S1 (rrënja S1) japin Lasègue pozitiv (shtrirje e nervit iskiatik). Shenja Wassermann (shtrirje e nervit femoral, L2–L4) është pozitive në herniet e larta lumbare, jo këtu."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-129",
+    "question": "Cili nga keta tendine nuk kalon ne kanalin karpal?",
+    "answers": [
+      "fleksori radial i karpeve",
+      "fleksori i thelle i gishtave",
+      "fleksori siperfaqesor i gishtave",
+      "fleksori ulnar i karpeve",
+      "fleksori i gjate i gishtit te madh"
+    ],
+    "correct": 3,
+    "explanation": "Në kanalin karpal kalojnë nervi median dhe 9 tendina: fleksorët sipërfaqësorë (4) dhe të thellë (4) të gishtave dhe fleksori i gjatë i gishtit të madh (fleksori radial i karpit kalon në një ndarje të veçantë). Fleksori ulnar i karpit nuk kalon aty (futet në pisiforme)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-130",
+    "question": "Genu varus quhet nje devijim i boshtit te anesise se poshtme, i tille qe midis tibias dhe femurit formohet :",
+    "answers": [
+      "nje kend i gjere lateralisht",
+      "nje kend i gjere medialisht",
+      "nje kend i gjere anteriorisht",
+      "asnje nga pergjigjet e mesiperme",
+      "nje kend i gjere posteriorisht"
+    ],
+    "correct": 1,
+    "explanation": "Genu varum (\"këmbë si O\"): gjunjët larg njëri-tjetrit, me kënd tibio-femoral të hapur medialisht (devijim i tibias medialisht). Genu valgum (\"këmbë si X\") ka kënd të hapur lateralisht."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-131",
+    "question": "Vlera fiziologjike e perqendrimit plazmatik te kalciumit total eshte :",
+    "answers": [
+      "8,9 – 10,4 mg/dL",
+      "2,2 – 2,6 mg/dL",
+      "8,9 – 10,4 mmol/L",
+      "4,2 – 4,6 mmol/L",
+      "Asnjera nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Kalcemia totale normale është ~8,5–10,5 mg/dL (2,2–2,6 mmol/L); kalciumi jonizues ~4,5–5,3 mg/dL."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-132",
+    "question": "Shkeputjet (distakot) epifizare jane :",
+    "answers": [
+      "lezione skeletike me natyre neoplazike",
+      "lezione te kartilagove artikulare",
+      "lezione traumatike te moshes se rritjes",
+      "lezione traumatike te adultit",
+      "lezione te lindura"
+    ],
+    "correct": 2,
+    "explanation": "Shkëputjet epifizare (lezione të kërcit të rritjes, klasifikimi Salter-Harris) janë lezione traumatike të moshës së rritjes; mund të shkaktojnë çrregullime të rritjes së gjymtyrës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-133",
+    "question": "Manovra e Lasegue eshte pozitive :",
+    "answers": [
+      "ne vuajtjen e nervit iskiadik",
+      "ne neoplazite e kolones vertebrale",
+      "ne pasojat e poliomielitit",
+      "ne miopatite",
+      "ne distorsionet vertebrale"
+    ],
+    "correct": 0,
+    "explanation": "Manovra Lasègue (ngritje e këmbës së shtrirë) është pozitive kur dhimbja radikulare shfaqet midis 30° dhe 70° — shenjë e tensionit/kompresionit të nervit iskiatik (hernie L4-L5, L5-S1)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-134",
+    "question": "Kur dhimbja e shpines persiston ne pacientet e operuar nga hernia diskale (”failed back syndrome”), ekzaminimi i zgjedhur per te evidentuar shkakun e dhimbjes (hernie e re ose ind cikatricial pas interventit te meparshem) eshte :",
+    "answers": [
+      "CT-skaneri",
+      "EMG",
+      "Shintigrafia kockore",
+      "Rezonanca magnetike me kontrast",
+      "Radiografia e thjeshte"
+    ],
+    "correct": 3,
+    "explanation": "Te \"failed back syndrome\", RM me gadolin dallon herninë rekurrente (nuk ngjyroset, përveç periferisë) nga fibroza cikatriciale postoperatore (ngjyroset në mënyrë difuze)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-135",
+    "question": "Nje plage prerese e pellembes se dores, e shoqeruar me deficit te muskulit fleksor te gishtit te madh dhe crregullime sensitive te mollezes se gishtit te madh eshte tregues i lezionit te mundshem te :",
+    "answers": [
+      "Tendinit te ekstensorit te gjate dhe venave dorsale",
+      "Tendinit te fleksorit te gjate dhe arteries digitale",
+      "Tendinit te fleksorit te gjate dhe nervave kolaterale volare",
+      "Ligamentit kolateral ulnar",
+      "Tendinit te ekstensorit te gjate dhe nervave dorsale"
+    ],
+    "correct": 2,
+    "explanation": "Plaga palmare me pamundësi fleksioni të falangës distale të gishtit të madh (tendini i fleksorit të gjatë të pollicis) dhe çrregullime sensitive në gishtin e madh tregon dëmtim të tendinit fleksor dhe të nervave digjitalë volarë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-136",
+    "question": "Semundja e Paget :",
+    "answers": [
+      "Rralle eshte poliostotike",
+      "Prek kryesisht seksin mashkull",
+      "Shfaqet zakonisht ne dekaden e dyte te jetes",
+      "Ka nje evolucion te shpejte",
+      "Karakterizohet nga rritja e turn-over-it kockor"
+    ],
+    "correct": 4,
+    "explanation": "Sëmundja Paget e kockave karakterizohet nga rritja e turn-over-it kockor (resorbim osteoklastik i tepërt + formim i çrregullt), me FA shumë të lartë; prek >50 vjeç, shpesh poliostotike, me evolucion të ngadaltë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-137",
+    "question": "Frakturat e ekstremitetit proksimal te femurit :",
+    "answers": [
+      "Nuk kane nevoje per trajtim kirurgjik",
+      "Prekin kryesisht subjektet e moshuar",
+      "Shkaktohen me shpesh nga traumat me energji te larte",
+      "Trajtohen me vendosje te gipsit",
+      "Jane tipike per moshen e rinise"
+    ],
+    "correct": 1,
+    "explanation": "Frakturat e femurit proksimal (qafa, pertrokanterike) prekin kryesisht të moshuarit me osteoporozë, pas traumave me energji të ulët (rënie); trajtohen kirurgjikalisht."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-138",
+    "question": "Dora e rene shkaktohet nga :",
+    "answers": [
+      "Paraliza e n. radial",
+      "Paraliza e n. median",
+      "Paraliza e n. ulnar",
+      "Paraliza e n. muskulokutan",
+      "Paraliza e n. aksilar"
+    ],
+    "correct": 0,
+    "explanation": "\"Dora e rënë\" (pamundësi për ekstension të kyçit të dorës dhe gishtave) shkaktohet nga paraliza e nervit radial (p.sh. frakturë e diafizës së humerusit, \"paraliza e së shtunës natën\")."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-139",
+    "question": "Nga cilat radikse origjinon nervi iskiadik?",
+    "answers": [
+      "L5-S1",
+      "L2-L3",
+      "S2-S3",
+      "L4-L5-S1-S2",
+      "L3-L4-L5-S1"
+    ],
+    "correct": 3,
+    "explanation": "Nervi iskiatik formohet nga rrënjët L4–S3 të pleksusit sakral (në opsion: L4-L5-S1-S2); është nervi më i madh i trupit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-140",
+    "question": "Cilat nga gjendjet e meposhtme jane faktore risku per kronicizimin e lumbalgjise :",
+    "answers": [
+      "histori e meparshme lumbalgjie",
+      "jeta sedentare",
+      "stresi psikologjik dhe gjendja depresive",
+      "moskenaqje ne mjedisin e punes",
+      "Te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Faktorë rreziku për kronicizimin e lumbalgjisë (\"yellow flags\"): episode të mëparshme, sedentarizmi, stresi psikologjik/depresioni, pakënaqësia në punë, sjellja e shmangies nga frika."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-141",
+    "question": "Skolioza :",
+    "answers": [
+      "Eshte nje devijim i kolones vertebrale ne planin sagital",
+      "Eshte idiopatike ne 70% te rasteve",
+      "Eshte shpesh e lindur",
+      "Shkakton heterometrine e anesive te poshtme",
+      "Eshte shpesh sekondare"
+    ],
+    "correct": 1,
+    "explanation": "Skolioza (devijim lateral i kolonës në planin frontal me rrotullim të vertebrave) është idiopatike në ~70–80% të rasteve (sidomos adoleshentja); format kongjenitale dhe neuromuskulare janë më të rralla."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-142",
+    "question": "Nderlikimet nervore me te shpeshta ne frakturat e olekranit jane :",
+    "answers": [
+      "Lezionet e n. ulnar",
+      "Lezionet e n. median",
+      "Lezionet e n. radial",
+      "Lezionet e n. aksilar",
+      "Lezionet e n. muskulokutan"
+    ],
+    "correct": 0,
+    "explanation": "Nervi ulnar kalon në kanalin kubital pas epikondilit medial, pranë olekranit, ndaj dëmtohet më shpesh në frakturat e olekranit dhe të bërrylit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-143",
+    "question": "Ne nje pacient qe vuan nga hernia diskale e nivelit L5-S1 djathtas shenjat e Lasegue dhe Wassermann jane :",
+    "answers": [
+      "te dy negative",
+      "te dy pozitive",
+      "Lasegue pozitiv dhe Wassermann negativ",
+      "Wassermann pozitiv dhe Lasegue negativ",
+      "Lasegue dhe Wassermann lehtesisht pozitive"
+    ],
+    "correct": 2,
+    "explanation": "Hernia L5-S1 dëmton rrënjën S1: Lasègue pozitiv; Wassermann (femorali, L2–L4) negativ. Shenja e Wassermann është pozitive në herniet lumbare të larta."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-144",
+    "question": "Hernia diskale perbehet :",
+    "answers": [
+      "Nga anulusi fibroz",
+      "Nga nukleusi pulpoz",
+      "Nga gjithe disku",
+      "Nga disku dhe ligamenti longitudinal anterior",
+      "Nga disku, nga ligamenti longitudinal anterior, nga ligamenti longitudinal posterior"
+    ],
+    "correct": 1,
+    "explanation": "Hernia diskale është dalja e nukleusit pulpoz përmes një çarjeje të anulusit fibroz, zakonisht posterolateralisht, duke shtypur rrënjën nervore."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-145",
+    "question": "Triada e Pott perbehet nga :",
+    "answers": [
+      "Skolioze, hemiplegji dhe dhimbje",
+      "Paraplegji, dhimbje dhe gibus",
+      "Gibus, skolioze dhe dhimbje",
+      "Paraplegji, hiperlordoze dhe dhimbje",
+      "Gibus, hemiplegji dhe skolioze"
+    ],
+    "correct": 1,
+    "explanation": "Triada e Pott (spondiliti tuberkular): gibus (kifozë këndore nga shembja vertebrale), dhimbje, paraplegji (nga abscesi/kompresioni medular)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-146",
+    "question": "Cili formacion anatomik eshte i perfshire ne sindromen e tunelit karpal?",
+    "answers": [
+      "Nervi ulnar",
+      "Nervi median",
+      "Arteria radiale",
+      "Nervi radial",
+      "Tendini i muskulit ekstensor carpi ulnaris"
+    ],
+    "correct": 1,
+    "explanation": "Në sindromën e tunelit karpal ngjeshet nervi median nën ligamentin tërthor të karpit: parestezi të gishtave I–III natën, testet Phalen dhe Tinel pozitive, atrofi e tenarit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-147",
+    "question": "Cfare kuptohet me sinoviektomi?",
+    "answers": [
+      "Shkaterrimi klinik i membranes sinoviale",
+      "Shkaterrimi kirurgjik i membranes sinoviale",
+      "Heqja kirurgjike e membranes sinoviale",
+      "Asnje nga pergjigjet e mesiperme",
+      "Te tri pergjigjet e mesiperme"
+    ],
+    "correct": 2,
+    "explanation": "Sinoviektomia është heqja kirurgjikale (ekscizioni) i membranës sinoviale të inflamuar (AR, hemofili, sinovit vilonodular). \"Shkatërrimi\" i saj me radioizotope/kimikate quhet sinoviortezë. Çelësi (B) e përkufizon pasaktë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-148",
+    "question": "Faktori kryesor i riskut per nekrozen avaskulare te qafes se femurit eshte :",
+    "answers": [
+      "Diabeti",
+      "Gutta",
+      "Terapia me preparate kortizonike",
+      "Hiperparatiroidizmi",
+      "Hipotiroidizmi"
+    ],
+    "correct": 2,
+    "explanation": "Faktori kryesor jo-traumatik i rrezikut për nekrozën avaskulare të kokës së femurit është terapia me kortikosteroide (doza të larta/të zgjatura), pastaj alkoolizmi, drepanocitoza, dislipidemia, LES."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-149",
+    "question": "Luksacioni skapulo-humeral ka nevoje gjithnje ne momentin e pare :",
+    "answers": [
+      "Reponim te hapur dhe sinteze interne",
+      "Reponim manual dhe imobilizim sipas Dessault",
+      "Mobilizim te menjehershem",
+      "Fiziokineziterapi",
+      "Vendosje e gipsit skapulo-humeral"
+    ],
+    "correct": 1,
+    "explanation": "Luksacioni skapulo-humeral kërkon në fillim reduktim manual të mbyllur (pas radiografisë) dhe imobilizim me fashë Desault/fashë krahu për ~3 javë; pastaj rehabilitim."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-150",
+    "question": "Cfare eshte osteosinteza :",
+    "answers": [
+      "Bashkimi me ane te nje mjeti te jashtem i dy apo me shume fragmenteve kockore",
+      "Nje lloj i vecante frakture",
+      "Sinteza e disa fragmenteve me nje lloj te vecante rezine",
+      "Nje semundje kockore",
+      "Ecuria e nje frakture"
+    ],
+    "correct": 0,
+    "explanation": "Osteosinteza = bashkimi/stabilizimi kirurgjikal i fragmenteve kockore me mjete (pllaka, vida, gozhdë endomedulare, fiksator i jashtëm)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-151",
+    "question": "Hipokalcemia mund te shkaktohet :",
+    "answers": [
+      "Nga insuficienca renale kronike",
+      "Nga hiperparatiroidizmi",
+      "Nga intoksikimi me vitaminen D",
+      "Nga acidoza",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Insuficienca renale kronike jep hipokalcemi: veshka nuk aktivizon vitaminën D (1-alfa-hidroksilaza) dhe fosfati i mbajtur lidh kalciumin → hiperparatiroidizëm sekondar. Hiperparatiroidizmi primar dhe intoksikimi me vitaminë D japin hiperkalcemi."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-152",
+    "question": "Kalcitonina :",
+    "answers": [
+      "Eshte nje hormon steroid",
+      "Sintetizohet nga qelizat C te paratiroides",
+      "Eshte nje hormon hiperkalcemizues",
+      "Sekretohet mbas hiperkalcemise",
+      "Sekretohet mbas hipokalcemise"
+    ],
+    "correct": 3,
+    "explanation": "Kalcitonina është hormon peptid (jo steroid), sekretohet nga qelizat C parafolikulare të tiroides në përgjigje të hiperkalcemisë dhe ul kalcemin duke frenuar osteoklastet."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-153",
+    "question": "Me cervikobrakialgji kuptohet dhimbja e lokalizuar ne :",
+    "answers": [
+      "Kolonen cervikale",
+      "Kolonen cervikale dhe anesine e siperme",
+      "Kolonen cervikale dhe aperturen toracike superiore",
+      "Te gjitha pergjigjet e mesiperme",
+      "Regionin e qafes dhe anesine e siperme"
+    ],
+    "correct": 1,
+    "explanation": "Cervikobrakialgjia = dhimbje në shtyllën cervikale që përhapet në gjymtyrën e sipërme (krahu/dora), zakonisht nga kompresioni i një rrënje cervikale (hernie diskale, artrozë)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-154",
+    "question": "Karakteristika dalluese midis skoliozes dhe qendrimit skoliotik eshte :",
+    "answers": [
+      "Lokalizimi i deformimit",
+      "Rotacioni vertebral",
+      "Mosha e shfaqjes",
+      "Dhimbja",
+      "Heterometria e anesive te poshtme"
+    ],
+    "correct": 1,
+    "explanation": "Skolioza strukturale ka rrotullim të vertebrave (gungë brinjore në testin Adams me përkulje përpara); qëndrimi skoliotik (funksional) nuk ka rrotullim dhe korrigjohet me përkulje ose shtrirje."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-155",
+    "question": "Cfare kuptohet me semundjen e De Quervain?",
+    "answers": [
+      "Tenosinovit kronik stenozant i vagines se perbashket te muskujve ekstensor i shkurter dhe abduktor i gjate i gishtit te madh",
+      "Tenosinovite reumatike tranzitore te vagines te tendineve te muskujve fleksore dhe ekstensore te gishtave te dores",
+      "Nekroze aseptike e kockes skafoide",
+      "Flegmone e thelle sub-aponeurotike e vagines se tendineve te muskujve fleksore te gishtave",
+      "Sinostoze e lindur ndermjet kockave te rreshtit te pare te karpeve"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja De Quervain është tenosinovit stenozant i ndarjes së parë dorsale (abduktori i gjatë dhe ekstensori i shkurtër i gishtit të madh) mbi stiloidin radial; testi Finkelstein pozitiv."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-156",
+    "question": "Embolia gazoze eshte nje nderlikim i rende i :",
+    "answers": [
+      "Traumave te renda me fraktura multiple",
+      "Frakturave te qafes se femurit",
+      "Luksacionit traumatik te artikulacionit kokso-femoral",
+      "Frakturave te kolones vertebrale",
+      "Frakturave te ekstremitetit proksimal te humerusit"
+    ],
+    "correct": 0,
+    "explanation": "Embolia (në tekst \"gazoze\", ka shumë gjasa \"yndyrore\") është ndërlikim i rëndë i traumave të rënda me fraktura të shumëfishta të kockave të gjata/legenit: dispne, hipoksemi, petekie, konfuzion 24–72 orë pas traumës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-157",
+    "question": "Rakitizmi shkaktohet :",
+    "answers": [
+      "Nga mungesa e vitamines D",
+      "Nga mungesa e vitamines E",
+      "Nga mungesa e kalcitonines",
+      "Nga mungesa e vitamines A",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Rakitizmi (te fëmijët) shkaktohet nga mungesa e vitaminës D (ose metabolizmi i saj) → mineralizim i dobët i kërcit të rritjes dhe kockës: deformime, rruzare rakitike, vonesë në mbylljen e fontanelës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-158",
+    "question": "Luksacioni i vjeter i artikulacionit koksofemoral eshte :",
+    "answers": [
+      "Nje proces inflamator i luksacionit",
+      "Nje luksacion i patrajtuar",
+      "Nje frakture e femurit shoqeruar me luksacion",
+      "Asnje nga pergjigjet e mesiperme",
+      "Te tri pergjigjet e mesiperme"
+    ],
+    "correct": 1,
+    "explanation": "Luksacioni i vjetër (i \"neglizhuar\") është luksacion që nuk është reduktuar në kohë (javë-muaj); bëhet i pareduktueshëm me manovra të mbyllura për retraksion të indeve dhe kërkon kirurgji."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-159",
+    "question": "Me termin luksacion kuptohet :",
+    "answers": [
+      "Nje lacerim i plote i ligamentit",
+      "Nje humbje e perkohshme e raporteve artikulare",
+      "Nje frakture artikulare",
+      "Nje humbje e perhershme e raporteve artikulare",
+      "Nje frakture artikulare e shoqeruar me lezione kapsulo-ligamentoze"
+    ],
+    "correct": 3,
+    "explanation": "Luksacioni = humbje e plotë dhe e përhershme (deri në reduktim) e kontaktit midis sipërfaqeve artikulare. Humbja e pjesshme/kalimtare quhet subluksacion ose distorsion."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-160",
+    "question": "Me termin spondilolisteze kuptohet :",
+    "answers": [
+      "Nje nderprerje e procesit spinoz",
+      "Nje rreshqitje perpara e vertebres",
+      "Nje nderprerje e istmusit vertebral",
+      "Nje nderprerje e trupit te vertebres",
+      "Nje artroze vertebrale"
+    ],
+    "correct": 1,
+    "explanation": "Spondilolisteza = rrëshqitje anteriore e një vertebre mbi atë poshtë saj; ndërprerja e istmusit (pars interarticularis) quhet spondilolizë dhe është shkaku i shpeshtë i saj."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-161",
+    "question": "Miorelaksantet japin pergjumje :",
+    "answers": [
+      "Ne 5% te rasteve",
+      "Ne 10% te rasteve",
+      "Ne 20% te rasteve",
+      "Ne 30% te rasteve",
+      "Asnjehere"
+    ],
+    "correct": 3,
+    "explanation": "Miorelaksantët (me veprim qendror) shkaktojnë përgjumje në rreth 30% të pacientëve — efekti anësor më i shpeshtë, që kufizon përdorimin në lumbalgji."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-162",
+    "question": "Shenja e Trendelenburg eshte pozitive :",
+    "answers": [
+      "Ne displazine e lindur te artikulacionit kokso-femoral",
+      "Ne kemben e shtrember te lindur",
+      "Ne skoliozen lumbare",
+      "Ne skoliozen dorso-lumbare",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Shenja Trendelenburg (rënie e legenit nga ana e kundërt kur pacienti qëndron në një këmbë) tregon dobësi të muskujve abduktorë të ijes — pozitive në displazinë kongjenitale/luksacionin e ijes."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-163",
+    "question": "Cili eshte vendi me i shpeshte i hernies diskale?",
+    "answers": [
+      "Lumbare",
+      "Dorsale",
+      "Cervikale",
+      "Cervikale e dorsale",
+      "Dorsale e lumbare"
+    ],
+    "correct": 0,
+    "explanation": "Hernia diskale më e shpeshtë është lumbare (L4-L5 dhe L5-S1, ~95% e herniove lumbare), pastaj cervikale (C5-C6, C6-C7); torakale e rrallë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-164",
+    "question": "Osteosarkoma :",
+    "answers": [
+      "Eshte transformimi malinj i ekzostozes solitare",
+      "Prek subjektet me moshe 60 – 70 vjec",
+      "Prek ekskluzivisht metafizat distale te femurit dhe proksimale te tibias dhe humerusit",
+      "Perbehet nga qeliza gjigande polinukleare",
+      "Perbehet nga qeliza mezenkimale qe prodhojne matriks osteoid dhe ind kockor te pamaturuar"
+    ],
+    "correct": 4,
+    "explanation": "Osteosarkoma është tumor malinj mezenkimal ku qelizat prodhojnë drejtpërdrejt osteoid/kockë të papjekur; prek adoleshentët (dhe të moshuarit me Paget), metafizat rreth gjurit. Qelizat gjigante janë të tumorit me qeliza gjigante."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-165",
+    "question": "Fraktura e Colles-it eshte me e shpeshte :",
+    "answers": [
+      "Tek femijet",
+      "Tek te rinjte",
+      "Ne meshkujt e moshuar",
+      "Ne femrat e moshuara",
+      "Ne gravidance"
+    ],
+    "correct": 3,
+    "explanation": "Fraktura Colles (radius distal me zhvendosje dorsale, \"pirun\") është më e shpeshtë te gratë e moshuara me osteoporozë, pas rënies mbi dorë të shtrirë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-166",
+    "question": "Nje frakture patologjike diafizare e femurit tek nje subjekt adult eshte me shpesh pasoje e :",
+    "answers": [
+      "Tumorit kockor paresor",
+      "Osteomielitit kronik",
+      "Lezionit metastatik",
+      "Osteogjenezes imperfekte",
+      "Te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 2,
+    "explanation": "Te i rrituri, fraktura patologjike diafizare e femurit është më shpesh nga metastaza kockore (gji, mushkëri, prostatë, veshkë, tiroide) ose mielomë; tumoret primare janë të rralla."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-167",
+    "question": "Gjate osteoporozes si pasoje e perdorimit te preparateve kortikosteroide :",
+    "answers": [
+      "Ndodhin shpesh fraktura multiple vertebrale",
+      "Frakturat jane te rralla",
+      "Nuk verifikohen kurre fraktura patologjike",
+      "Frakturat ndodhin vetem per doza me te medha se 30 mg ne dite prednisolon",
+      "Incidenca e frakturave eshte e pavarur nga doza"
+    ],
+    "correct": 0,
+    "explanation": "Osteoporoza nga kortikosteroidet prek kryesisht kockën trabekulare → fraktura të shpeshta vertebrale (shpesh të shumëfishta), edhe me doza të ulëta (≥5–7,5 mg/ditë prednizon për >3 muaj) dhe me densitet relativisht të ruajtur."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-168",
+    "question": "Nje ekzaminim i rendesishem instrumental per diagnozen e sindromes se tunelit karpal eshte :",
+    "answers": [
+      "Rezonanca magnetike",
+      "CT-skaneri",
+      "Radiografia direkte",
+      "Elektromiografia",
+      "Shintigrafia kockore"
+    ],
+    "correct": 3,
+    "explanation": "Elektromiografia/elektroneurografia (shpejtësia e përçimit të nervit median) konfirmon diagnozën e tunelit karpal dhe vlerëson rëndesën; ekografia është ndihmëse."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-169",
+    "question": "Nervi qe demtohet me shpesh ne luksacionin e artikulacionit skapulo-humeral eshte:",
+    "answers": [
+      "Aksilar",
+      "Ulnar",
+      "Median",
+      "Radial",
+      "Muskulokutaneus"
+    ],
+    "correct": 0,
+    "explanation": "Në luksacionin anterior të shpatullës, nervi aksilar (cirkumfleks) dëmtohet më shpesh: hipoestezi në pjesën laterale të shpatullës (\"pulla e regjimentit\") dhe dobësi e deltoidit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-170",
+    "question": "Cila nga kockat e karpeve frakturohet me shpesh ?",
+    "answers": [
+      "Semilunare",
+      "Piramidale",
+      "Trapezius",
+      "Kapitatum",
+      "Skafoide"
+    ],
+    "correct": 4,
+    "explanation": "Skafoidi është kocka karpale që frakturohet më shpesh (rënie mbi dorë të shtrirë, dhimbje në tabakierën anatomike); rrezik pseudoartroze dhe nekroze avaskulare nga vaskularizimi retrograd."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-171",
+    "question": "Osteofitoza marginale eshte nje karakteristike radiologjike e shpeshte ne :",
+    "answers": [
+      "Artroze",
+      "Artrit reumatoid",
+      "Meniskopati",
+      "Osteoartrit",
+      "Neoplazi kockore"
+    ],
+    "correct": 0,
+    "explanation": "Osteofitet margjinale janë shenjë radiologjike tipike e artrozës (osteoartrozës), krahas ngushtimit asimetrik të hapësirës, sklerozës subkondrale dhe gjeodeve."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-172",
+    "question": "Osteoporoza :",
+    "answers": [
+      "Karakterizohet nga dekalcifikimi i indit kockor",
+      "Shfaqet vetem ne moshe te thyer",
+      "Rendohet nga ngarkesa",
+      "Karakterizohet nga reduktimi i te gjithe mases kockore",
+      "Rralle prek kolonen vertebrale"
+    ],
+    "correct": 3,
+    "explanation": "Osteoporoza karakterizohet nga reduktimi i masës kockore totale (matriks + mineral në proporcion normal) dhe dëmtim i mikroarkitekturës; prek shpesh vertebrat. Dekalcifikimi me matriks të ruajtur është osteomalaci."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-173",
+    "question": "Metastazat kockore me perqendrim te larte indi kockor jane kryesisht me origjine :",
+    "answers": [
+      "Pulmonare",
+      "Tiroide",
+      "Mammare",
+      "Prostatike",
+      "Intestinale"
+    ],
+    "correct": 3,
+    "explanation": "Metastazat osteoblastike (osteokondensuese, me kockë të shtuar) janë kryesisht nga kanceri i prostatës (edhe gjiri ndonjëherë); mushkëria, tiroidja, veshka japin metastaza osteolitike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-174",
+    "question": "Cfare eshte artrodeza :",
+    "answers": [
+      "Nje ankiloze kirurgjike",
+      "Nje frakture e pakonsoliduar",
+      "Dekursi i nje artriti specifik",
+      "Dekursi i nje koksiti",
+      "Dekursi i Morbus Perthes"
+    ],
+    "correct": 0,
+    "explanation": "Artrodeza = ankilozë kirurgjikale: fiksim i qëllimshëm i një artikulacioni (shkrirje kockore) për të eliminuar dhimbjen/instabilitetin (p.sh. në artrozë të rëndë të kyçit të këmbës)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-175",
+    "question": "Frakturat e „shkopit te gjelber“ jane :",
+    "answers": [
+      "Te gjitha frakturat e moshes pediatrike",
+      "Te gjitha frakturat diafizare transversale",
+      "Te gjitha shkeputjet (distakot) epifizare",
+      "Frakturat jo te plota te moshes pediatrike",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 3,
+    "explanation": "Frakturat \"në degë të gjelbër\" janë fraktura jo të plota të fëmijëve: korteksi thyhet në anën e konveksitetit dhe përkulet në anën tjetër, me periost të ruajtur."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-176",
+    "question": "Cilin nga barnat e meposhtem do te zgjidhnit per trajtimin e nje lumbalgjie akute?",
+    "answers": [
+      "Antiinflamatore jo-steroide",
+      "Triacinoloni",
+      "Miorelaksantet",
+      "Kodeina",
+      "Paracetamoli"
+    ],
+    "correct": 0,
+    "explanation": "Për lumbalgjinë akute zgjidhja e parë farmakologjike janë FANS (ose paracetamoli), me këshillë për të qëndruar aktiv; miorelaksantët për periudha të shkurtra; kortikosteroidet dhe opioidët nuk janë linjë e parë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-177",
+    "question": "Fraktura e Colles-it kerkon gjithnje ne rradhe te pare :",
+    "answers": [
+      "Reponim me manovra te jashtme dhe imobilizim me gips",
+      "Stabilizim me fiksator ekstern",
+      "Reponim kirurgjik dhe osteosinteze interne",
+      "Manipulime",
+      "Bandazh elastik"
+    ],
+    "correct": 0,
+    "explanation": "Fraktura Colles trajtohet në radhë të parë me reduktim të mbyllur me manovra të jashtme dhe imobilizim me gips (antebrakio-palmar); kirurgjia kur ka paqëndrueshmëri ose dështim të reduktimit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-178",
+    "question": "Ne nje pacient qe vuan nga hernia diskale L3-L4 ne te djathte, shenjat Lasegue dhe Wassermann jane :",
+    "answers": [
+      "te dy negative",
+      "te dy pozitive",
+      "Lasegue pozitiv dhe Wassermann negativ",
+      "Wassermann pozitiv dhe Lasegue negativ",
+      "Lasegue dhe Wassermann lehtesisht pozitive"
+    ],
+    "correct": 3,
+    "explanation": "Hernia L3-L4 dëmton rrënjën L4 (nervi femoral): shenja Wassermann (shtrirja e femoralit, pacienti me bark poshtë) pozitive, ndërsa Lasègue (iskiatik, L5-S1) zakonisht negativ."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-179",
+    "question": "Fraktura bimaleolare e pastabilizuar kerkon :",
+    "answers": [
+      "Bandazh funksional",
+      "Stabilizim kirurgjik",
+      "Longete gipsi",
+      "Gips kofshe-kembe",
+      "Manipulime"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura bimaleolare e paqëndrueshme kërkon reduktim të hapur dhe fiksim të brendshëm (osteosintezë), për të rivendosur kongruencën e mortezës tibio-talare dhe shmangur artrozën."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-180",
+    "question": "Nderlikime te vonshme te fraktures se berrylit jane :",
+    "answers": [
+      "Kalcifikime me rigiditet artikular",
+      "Pseudoartroza",
+      "Artroza post-traumatike",
+      "Insuficienca muskulare",
+      "Ankiloza kockore"
+    ],
+    "correct": 0,
+    "explanation": "Ndërlikimet e vonshme tipike pas frakturave të bërrylit janë kalcifikimet periartikulare (osifikimi heterotopik/miozit osifikant) me ngurtësi artikulare; bërryli rigjidizohet lehtë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-181",
+    "question": "Distorsioni i gjurit me hemartroze dhe instabilitet ligamentoz, pa demtime kockore, kerkon :",
+    "answers": [
+      "Mobilizim te shpejte",
+      "Artroskopi diagnostike dhe rindertim ligamentar te menjehershem",
+      "Artrocenteze, imobilizim dhe thellim te diagnozes instrumentale",
+      "Gips pelvik-podalik",
+      "Fiziokineziterapi"
+    ],
+    "correct": 2,
+    "explanation": "Distorsioni i gjurit me hemartrozë dhe instabilitet pa frakturë: artrocentezë (evakuim i hemartrozës), imobilizim i përkohshëm dhe thellim i diagnozës (RM) për dëmtimet ligamentare/meniskale, pastaj trajtim i planifikuar."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-182",
+    "question": "Pacienti artrozik ankon :",
+    "answers": [
+      "Dhimbje, vecanerisht gjate levizjes",
+      "Dhimbje, vecanerisht ne qetesi",
+      "Dhimbje te vazhdueshme",
+      "Dhimbje nokturne",
+      "Asnje dhimbje"
+    ],
+    "correct": 0,
+    "explanation": "Dhimbja artrozike është mekanike: shfaqet me lëvizje dhe ngarkesë, qetësohet me pushim, me ngurtësi të shkurtër (<30 min) pas pushimit (\"start-up pain\")."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-183",
+    "question": "Kirurgjia moderne e menisqeve te gjurit perdor :",
+    "answers": [
+      "Artrotomi",
+      "Lazer",
+      "Osteosinteze",
+      "Artroskopi",
+      "Te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 3,
+    "explanation": "Kirurgjia moderne e meniskeve bëhet me artroskopi (meniskektomi parciale ose suturë meniskale), me invazivitet minimal dhe rikuperim të shpejtë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-184",
+    "question": "Shkaktari etiologjik me i shpeshte i osteomielitit akut eshte :",
+    "answers": [
+      "Haemophilus influenzae",
+      "Klebsiella",
+      "Pseudomonas aeruginosa",
+      "Streptococcus",
+      "Staphilococcus aureus"
+    ],
+    "correct": 4,
+    "explanation": "Shkaktari më i shpeshtë i osteomielitit akut (hematogjen dhe posttraumatik) është Staphylococcus aureus në të gjitha moshat."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-185",
+    "question": "Fraktura e Colles-it eshte nje frakture qe ndodh ne :",
+    "answers": [
+      "Ekstremiteti distal i tibias",
+      "Metafiza radiale distale",
+      "Caput radii",
+      "Olekrani",
+      "Koka e humerusit"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura Colles është frakturë e metafizës distale të radiusit (~2–3 cm nga sipërfaqja artikulare) me zhvendosje dorsale të fragmentit distal."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-186",
+    "question": "Artroza eshte nje semundje qe karakterizohet nga :",
+    "answers": [
+      "Humbja e mases kockore",
+      "Crregullime paresore te trofizmit muskular",
+      "Ecuri migrante dhe zevendesuese",
+      "Gerryerje e kartilagos artikulare",
+      "Infeksione artikulare recidivante"
+    ],
+    "correct": 3,
+    "explanation": "Artroza është sëmundje degjenerative e kërcit artikular (gërryerje, fibrilacion, humbje e kërcit) me reaksion të kockës subkondrale (sklerozë, osteofite)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-187",
+    "question": "Osteoporoza eshte nje faktor risku per :",
+    "answers": [
+      "Artrozen",
+      "Infeksionet",
+      "Tumoret e kockes",
+      "Frakturat",
+      "Insuficiencen renale"
+    ],
+    "correct": 3,
+    "explanation": "Osteoporoza është faktori kryesor i rrezikut për frakturat nga brishtësia (vertebrale, femur proksimal, radius distal)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-188",
+    "question": "Artikulacioni qe peson me shpesh luksacion eshte :",
+    "answers": [
+      "Kokso-femoral",
+      "Gjuri",
+      "Talo-krural",
+      "Skapulo-humeral",
+      "Radio-ulnar"
+    ],
+    "correct": 3,
+    "explanation": "Artikulacioni skapulo-humeral (shpatulla) luksohet më shpesh se çdo artikulacion tjetër (~50% e luksacioneve), për shkak të lëvizshmërisë së madhe dhe kongruencës së vogël."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-189",
+    "question": "Fraktura e hapur eshte :",
+    "answers": [
+      "Nje frakture e pakonsoliduar",
+      "Nje frakture me zhvendosje te madhe te fragmenteve",
+      "Nje frakture kominuitive",
+      "Nje frakture e shoqeruar me demtim te indeve te buta dhe komunikim te vatres se fraktures me mjedisin e jashtem",
+      "Nje frakture e operuar"
+    ],
+    "correct": 3,
+    "explanation": "Fraktura e hapur = frakturë ku vatra komunikon me mjedisin e jashtëm përmes plagës së indeve të buta (klasifikimi Gustilo-Anderson); rrezik i lartë infeksioni, kërkon antibiotikë dhe debridim urgjent."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-190",
+    "question": "Lokalizi me i shpeshte i bacilit te Koch-ut ne aparatin ostoartikular eshte :",
+    "answers": [
+      "Femuri",
+      "Kolona vertebrale",
+      "Gjuri",
+      "Shpatulla",
+      "Humerusi"
+    ],
+    "correct": 1,
+    "explanation": "Tuberkulozi osteoartikular prek më shpesh kolonën vertebrale (spondilodiskit tuberkular – morbus Pott, sidomos torako-lumbare), pastaj ijën dhe gjurin."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-191",
+    "question": "Morfometria vertebrale sasiore eshte nje teknike qe :",
+    "answers": [
+      "Diagnostikon frakturat vertebrale",
+      "Diagnostikon deformimet vertebrale",
+      "Mat densitetin kockor te trupt te vertebrave",
+      "Diagnostikon frakturat dhe deformimet vertebrale",
+      "Mat sasine e kalciumit"
+    ],
+    "correct": 1,
+    "explanation": "Morfometria vertebrale kuantitative mat lartësitë e trupave vertebralë (anteriore, mesatare, posteriore) për të identifikuar dhe klasifikuar deformimet vertebrale (sipas Genant), pra frakturat osteoporotike morfometrike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-192",
+    "question": "Cila eshte shenja patognomonike e demtimeve te ligamenteve kruciate te gjurit ?",
+    "answers": [
+      "Shenja e sirtarit",
+      "Grinding test",
+      "Shenja e Oudard",
+      "Manovra e Lasegue",
+      "Manovra e Ferrero"
+    ],
+    "correct": 0,
+    "explanation": "Shenja e sirtarit (anterior dhe posterior), si dhe testi Lachman, janë shenjat kryesore të dëmtimit të ligamenteve kryqëzuese të gjurit."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-193",
+    "question": "Ne osteoporoze kuadri radiologjik tregon :",
+    "answers": [
+      "Opacitet te shtuar te kockes",
+      "Opacitet te ulur te kockes",
+      "Aspekt te pandryshuar te kockes",
+      "Zona osteolize multiple",
+      "Skleroze kortikale"
+    ],
+    "correct": 1,
+    "explanation": "Në osteoporozë radiografia tregon opacitet të ulët kockor (hipertransparencë), kortikale të hollë, trabekulim të rrallë — e dukshme vetëm pas humbjes së 30–40% të masës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-194",
+    "question": "Cilat nga frakturat e qafes se femurit paraqesin rrezikun me te madh te nekrozes avaskulare ?",
+    "answers": [
+      "Frakturat ekstrakapsulare",
+      "Frakturat mediale",
+      "Frakturat e bazes se qafes",
+      "Frakturat meta-diafizare",
+      "Frakturat ndertrokanterike"
+    ],
+    "correct": 1,
+    "explanation": "Frakturat mediale (subkapitale/intrakapsulare) të qafës së femurit kanë rrezikun më të madh të nekrozës avaskulare (ndërprerje e arterieve retinakulare), ndryshe nga frakturat ekstrakapsulare/pertrokanterike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-195",
+    "question": "Distorsioni eshte :",
+    "answers": [
+      "Humbje jo e plote e raporteve artikulare normale",
+      "Humbje e plote dhe kalimtare e raporteve normale artikulare",
+      "Humbje jo e plote dhe kalimtare e raporteve normale artikulare",
+      "Prania e formacioneve artikulare",
+      "Frakture e pjesshme"
+    ],
+    "correct": 2,
+    "explanation": "Distorsioni (ndrydhja) = humbje jo e plotë dhe kalimtare e raporteve artikulare, me dëmtim të kapsulës/ligamenteve, ku sipërfaqet rikthehen vetë në vend."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-196",
+    "question": "Nervi ulnar ne berryl kalon:",
+    "answers": [
+      "Ne sulkusin epitroklear-olekranien",
+      "Mes dy kokeve te muskulit pronator teres",
+      "Mes muskulit biceps dhe brakioradial",
+      "Brenda muskulit biceps",
+      "Mes muskulit supinator brevis dhe brakioradial"
+    ],
+    "correct": 0,
+    "explanation": "Në bërryl nervi ulnar kalon pas epikondilit medial (epitrokleës), në sulkusin epitrokleo-olekranian (kanali kubital), ku është shumë sipërfaqësor dhe i ekspozuar."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-197",
+    "question": "Osteosinteza eshte:",
+    "answers": [
+      "Nje teknike kirurgjike",
+      "Nje crregullim i ontogjenezes skeletike",
+      "Nje semundje e trasheguar",
+      "Nje nderlikim i frakturave",
+      "Nje semundje metabolike e kockes"
+    ],
+    "correct": 0,
+    "explanation": "Osteosinteza është teknikë kirurgjikale e stabilizimit të fragmenteve kockore me mjete metalike (pllaka, vida, gozhdë, fiksatorë)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-198",
+    "question": "Epikondiliti eshte:",
+    "answers": [
+      "Nje tendinopati insercionale e muskujve fleksore te parakrahut",
+      "Nje nderlikim i frakturave te berrylit",
+      "Prek me shpesh femrat",
+      "Rralle shoqerohet me tendinopati te shumefishta",
+      "Eshte tendinopatia me e zakonshme e berrylit"
+    ],
+    "correct": 4,
+    "explanation": "Epikondiliti lateral (\"bërryli i tenistit\") është tendinopatia më e shpeshtë e bërrylit: tendinopati insercionale e muskujve ekstensorë (sidomos ekstensori i shkurtër radial i karpit), jo fleksorë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-199",
+    "question": "Ne kemben e shtrember te lindur lloji me i shpeshte eshte :",
+    "answers": [
+      "Talus-valgus- i pronuar",
+      "Metatarso-varus",
+      "Ekuino-varus-i supinuar",
+      "Konkav-reflektor",
+      "Kemba e sheshte"
+    ],
+    "correct": 2,
+    "explanation": "Këmba e shtrembër kongjenitale më e shpeshtë është këmba ekuino-varo-supinuar (talipes equinovarus, \"clubfoot\"); trajtohet me metodën Ponseti (gipse seriale)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-200",
+    "question": "Njesite e Rimodelimit Kockor jane :",
+    "answers": [
+      "Grupe qelizash osteoklazike ne faze qetesie",
+      "Grupe qelizash osteoklastike qe prodhojme matriks osteoid",
+      "Osteoblaste te pjekur qe transformohen ne osteocite",
+      "Njesi funksionale autonome te indit kockor qe pesojne ne menyre ciklike nje faze te riabsorbimit osteoklazik te ndjekur gjithmone nga nje faze te neoformacionit osteoblastik",
+      "Njesi qelizore dinamike te rimodelimit kockor qe aktivizohen vetem gjate osteoporozes postmenopauzale ose senili"
+    ],
+    "correct": 3,
+    "explanation": "Njësitë e rimodelimit kockor (BMU) janë njësi funksionale autonome ku osteoklastet resorbojnë kockën dhe pastaj osteoblastet formojnë kockë të re në të njëjtin vend, në cikle të rregullta gjatë gjithë jetës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-201",
+    "question": "Kavizmi eshte nje deformim qe ka lidhje me :",
+    "answers": [
+      "Kemben",
+      "Shpinen",
+      "Doren",
+      "Asnje nga pergjigjet e mesiperme",
+      "Te gjitha pergjigjet e indikuara"
+    ],
+    "correct": 0,
+    "explanation": "Kavizmi (pes cavus) është deformim i këmbës me hark plantar të theksuar (shpesh me origjinë neurologjike: Charcot-Marie-Tooth, Friedreich)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-202",
+    "question": "Pse nuk riparohen vetvetiu lezionet e meniskut?",
+    "answers": [
+      "Nga prania e likidit sinovial",
+      "Nga mungesa e imobilizimit",
+      "Sepse menisku nuk eshte i vaskularizuar",
+      "Nga levizjet e vazhdueshme te gjurit",
+      "Nga levizjet e meniskut"
+    ],
+    "correct": 2,
+    "explanation": "Menisku është kryesisht avaskular (vetëm 1/3 periferike, \"zona e kuqe\", ka gjak); prandaj lezionet në zonat qendrore nuk shërohen vetë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-203",
+    "question": "Ne frakturat e 1/3 se mesme te humerusit nervi qe demtohete me shpesh eshte :",
+    "answers": [
+      "Radial",
+      "Median",
+      "Ulnar",
+      "Aksilar",
+      "Muskulokutaneus"
+    ],
+    "correct": 0,
+    "explanation": "Në frakturat e 1/3 së mesme të diafizës së humerusit dëmtohet më shpesh nervi radial (kalon në sulkusin spiral) → \"dorë e rënë\"."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-204",
+    "question": "Luksacioni habitual i artikulacionit skapulo-humeral eshte :",
+    "answers": [
+      "Nje semundje e lindur",
+      "Nje nderlikim i frakturave te ekstremitetit proksimal te humerusit",
+      "Nje nderlikim i luksacionit te artikulacionit skapulo-humeral",
+      "Nje nderlikim i fraktures-luksacion te artikulacionit skapulo-humeral",
+      "Nje nderlikim i distorsionit te artikulacionit skapulo-humeral"
+    ],
+    "correct": 2,
+    "explanation": "Luksacioni habitual (recidivues) i shpatullës është ndërlikim i një luksacioni të parë traumatik (lezioni Bankart, Hill-Sachs), sidomos te të rinjtë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-205",
+    "question": "TENS (Trans Electric Neuro Stimulation) eshte :",
+    "answers": [
+      "Nje termoterapi",
+      "Nje aparat me energji ultratingulli",
+      "Nje aparat per terapine antalgjike",
+      "Nje teknike diagnostike",
+      "Nje teknike e vleresimit elektrofiziologjik"
+    ],
+    "correct": 2,
+    "explanation": "TENS (stimulim elektrik nervor transkutan) është aparat për terapi antalgjike (kontroll i dhimbjes sipas teorisë së \"portës\" dhe çlirimit të endorfinave)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-206",
+    "question": "Per te vendosur diagnozen e “minimally conscious state” duhet te jene te pranishme dhe te riprodhueshme vazhdimisht :",
+    "answers": [
+      "Ekzekutimi i komandave te thjeshta",
+      "Pergjigje verbale ose me gjeste “po/jo”",
+      "Te folur i kuptueshem",
+      "Levizje te stereotipuara me natyre jo-reflektore",
+      "Te gjitha pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Gjendja e vetëdijes minimale kërkon shenja të riprodhueshme të vetëdijes: zbatim komandash të thjeshta, përgjigje po/jo (verbale ose me gjeste), verbalizim i kuptueshëm, sjellje të qëllimshme jo-refleksore."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-207",
+    "question": "Ne prognoze rehabilituese mbas kalimit te iktusit cerebral jane te rendesishme te gjitha kushtet e maposhtme, me perjashtim te :",
+    "answers": [
+      "Mungesa e deficiteve konjitive",
+      "Stabilizimi i shpejte klinik",
+      "Nje kujdes infermieror rehabilitues ne fazen akute",
+      "Vendi dhe shtrirja e lezionit",
+      "Mungesa e parestezise ne anesite e poshtme"
+    ],
+    "correct": 4,
+    "explanation": "Prognoza rehabilituese pas iktusit varet nga mungesa e deficiteve konjitive, stabilizimi i shpejtë, kujdesi rehabilitues i hershëm, vendi dhe shtrirja e lezionit. Mungesa e paresterzive në këmbë nuk ka rëndësi prognostike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-208",
+    "question": "Cilat jane mekanizmat mbi te cilet mbeshtetet riaftesimi biologjik pas kalimit te iktusit cerebral?",
+    "answers": [
+      "Veprimi plotesues i strukturave te mbijetuara",
+      "Veprimi zevendesues i strukturave me aftesi latente",
+      "Sprouting dhe plasticiteti neuronal",
+      "Zona e gjysme-hijes iskemike",
+      "Te gjitha pergjigjet e mesiperme jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Rikuperimi pas iktusit mbështetet në: veprimin plotësues të strukturave të mbijetuara, zëvendësimin nga struktura me aftësi latente, sprouting-un dhe plasticitetin neuronal, dhe rikuperimin e zonës së penumbrës ishemike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-209",
+    "question": "Constant Murley eshte nje shkalle per vleresimin e :",
+    "answers": [
+      "Shpatulles",
+      "Gjurit",
+      "Artikulacionit kokso-femoral",
+      "Tonusit muskular",
+      "Dhimbjes"
+    ],
+    "correct": 0,
+    "explanation": "Shkalla Constant-Murley vlerëson funksionin e shpatullës (dhimbje, aktivitete të jetës, lëvizshmëri, forcë), me pikë deri në 100."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-210",
+    "question": "Cila nga gjendjet e meposhtme eshte thelbesore ne rehabilitimin geriatrik?",
+    "answers": [
+      "Mungesa e crregullimeve konjitive",
+      "Parandalimi i renies se organizmit",
+      "Perdorimi i farmakoterapise neurotrofike",
+      "Ushtrimet me biciklete",
+      "Perdorimi i barnave hipokolesterolemike"
+    ],
+    "correct": 1,
+    "explanation": "Në rehabilitimin geriatrik objektivi thelbësor është parandalimi i rënieve (dhe i frakturave që pasojnë), duke ruajtur autonominë funksionale."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-211",
+    "question": "Te ecurit eshte nje aktivitet :",
+    "answers": [
+      "Shkaktohet nga reflekset spinale te nxitura nga stimujt periferike",
+      "Gjenerohet nga nje rrjet interneuronesh spinale",
+      "Gjenerohet nga korteksi motorik",
+      "Gjenerohet nga aktiviteti i vermisit cerebelar",
+      "Gjenerohet nga substantia nigra dhe nucleus ruber"
+    ],
+    "correct": 1,
+    "explanation": "Ecja gjenerohet nga rrjete interneuronesh spinale (\"gjeneratorët qendrorë të ritmit\"), të modulara nga korteksi, truncu cerebral, cerebelumi dhe inputet periferike."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-212",
+    "question": "Ne fazen e kontaktit te thembres se kembes me token gjate ecjes gjuri eshte i :",
+    "answers": [
+      "Flektuar deri ne 20º",
+      "Ekstenduar",
+      "Flektuar deri 45º",
+      "Hiperekstenduar",
+      "Flektuar deri 35º"
+    ],
+    "correct": 0,
+    "explanation": "Në fazën e kontaktit të thembrës (fillimi i fazës së mbështetjes) gjuri është pak i flektuar (deri ~20° gjatë absorbimit të ngarkesës), jo plotësisht i shtrirë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-213",
+    "question": "Ne cilin nga pozicionet e meposhtme presioni interdiskal L3-L4 arrin vlerat me te larta?",
+    "answers": [
+      "Shtrire",
+      "Ndenjur",
+      "Ne kembe",
+      "Ndenjur me kolonen te perkulur perpara",
+      "Ne kembe me kolonen te perkulur perpara"
+    ],
+    "correct": 3,
+    "explanation": "Presioni intradiskal lumbar (studimet e Nachemson) është më i ulët në shtrirje dhe më i larti ulur me trungun të përkulur përpara (sidomos duke mbajtur peshë)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-214",
+    "question": "Projektet rehabilituese ne osteoporoze mund te perfshijne te gjitha metodikat e meposhtme, me perjashtim te :",
+    "answers": [
+      "Edukimi ergonomik",
+      "Kineziterapia regionale",
+      "Caktimi i asistenteve",
+      "Riedukimi postural",
+      "Balneoterapia"
+    ],
+    "correct": 4,
+    "explanation": "Rehabilitimi në osteoporozë përfshin edukim ergonomik, kinezioterapi, riedukim postural, ndihmesa/asistentë për parandalimin e rënieve. Balneoterapia nuk përfshihet."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-215",
+    "question": "Me qellim rehabilitues dhe parandalues, te gjitha trajtimet e maposhtme jane te vlefshme per artrozat, me perjashtim te :",
+    "answers": [
+      "Ushtrimete fizike te pershtatshme",
+      "Aktivitet fizik ne uje",
+      "Terapia termale",
+      "Termoterapia",
+      "Dhenia e bifosfonateve"
+    ],
+    "correct": 4,
+    "explanation": "Për artrozën janë të dobishme ushtrimet e përshtatshme, aktiviteti në ujë, terapitë termale dhe termoterapia. Bisfosfonatet janë terapi e osteoporozës, jo e artrozës."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-216",
+    "question": "Ne nivel te cilit artikulasion te kembes realizohen levizjet e inversionit dhe eversionit?",
+    "answers": [
+      "Tibio-talar",
+      "Talo-kalkanear",
+      "Subtalar",
+      "Metatarso-falangeal",
+      "Tibio-peroneo-talar"
+    ],
+    "correct": 2,
+    "explanation": "Inversioni dhe eversioni i këmbës ndodhin kryesisht në artikulacionin subtalar (talo-kalkanear) dhe në artikulacionet mesotarsale (Chopart). Artikulacioni tibio-talar bën fleksion dorsal/plantar."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-217",
+    "question": "Nje paciente me cerebrolezion te djathte mund te paraqese kuadrin e meposhtem konjitiv-motor :",
+    "answers": [
+      "Mungese vemendje dhe deficit senso-motorik te anes se majte te trupit",
+      "Afazi jo fluente, apraksi konstruktive, humbje te kujteses",
+      "Humbje te kujteses, anozognozi, depresion",
+      "Afazi fluente, deficit sensitiv te gjysmes se majte te trupit",
+      "Alterime te koordinimit motor, humbje te kujteses, afazi jo fluente"
+    ],
+    "correct": 0,
+    "explanation": "Lezioni i hemisferës së djathtë jep deficit sensitivo-motor në anën e majtë dhe çrregullime të vëmendjes hapësinore (neglizhim i hemihapësirës së majtë), anozognozi. Afazitë lidhen me hemisferën e majtë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-218",
+    "question": "Cilet nga faktoret e meposhtem nuk favorizojne fillimin e osteoporozes?",
+    "answers": [
+      "Jeta sedentare",
+      "Sasi e paket e kalciumit ne diete",
+      "Mbipesha",
+      "Trashegimia",
+      "Duhani"
+    ],
+    "correct": 2,
+    "explanation": "Mbipesha është faktor mbrojtës për osteoporozën (ngarkesë mekanike, estrogjene nga indi dhjamor). Faktorë rreziku: sedentarizmi, kalciumi i pakët, trashëgimia, duhani, alkooli, kortikosteroidet."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-219",
+    "question": "Ne djegiet, vleresimi i shpejte i siperfaqes te trupit te interesuar behet nepermjet :",
+    "answers": [
+      "Rregulles se 4",
+      "Rregulles se 3x6",
+      "Asnje rregull",
+      "Regulles se 9",
+      "Teknika centimetrike"
+    ],
+    "correct": 3,
+    "explanation": "Sipërfaqja e djegur vlerësohet shpejt me rregullin e 9-ave (Wallace): koka 9%, çdo krah 9%, çdo këmbë 18%, trungu para 18% dhe pas 18%, perineumi 1%; te fëmijët përdoret tabela Lund-Browder."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-220",
+    "question": "Faza e maturimit te cikatrices i pergjigjet klinikisht :",
+    "answers": [
+      "Mbylljes se lembove",
+      "Proliferimit qelizor",
+      "Detersionit",
+      "Rimodelimit",
+      "Mbylljes se lembove dhe proliferimit pasues"
+    ],
+    "correct": 3,
+    "explanation": "Faza e maturimit të plagës (nga java 3 deri në 1–2 vjet) korrespondon me rimodelimin: kolageni III zëvendësohet me kolagen I, cikatrica bëhet më e fortë dhe më e zbehtë."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-221",
+    "question": "Fazat e cikatrizimit ndodhin sipas rradhes se meposhtme :",
+    "answers": [
+      "Detersioni, proliferimi, inflamacioni",
+      "Inflamacioni, detersioni, proliferimi",
+      "Proliferimi, detersioni, maturimi",
+      "Proliferimi, inflamacioni, maturimi",
+      "Inflamacioni, proliferimi, maturimi"
+    ],
+    "correct": 4,
+    "explanation": "Fazat e cikatrizimit: inflamacioni (hemostazë + inflamacion, ditët 0–4), proliferimi (granulim, epitelizim, ditët 4–21) dhe maturimi/rimodelimi (javë-muaj)."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-222",
+    "question": "Ulcerat trofike te anesive te poshtme jane me shpesh me origjine :",
+    "answers": [
+      "Venoze",
+      "Arteriale",
+      "Neuro-metabolike",
+      "Neoplazike",
+      "Infektive"
+    ],
+    "correct": 0,
+    "explanation": "Ulçerat trofike të gjymtyrëve të poshtme janë në ~70% venoze (insuficiencë venoze kronike, maleoli medial); pastaj arteriale, neuropatike (diabetike), të përziera."
+  },
+  {
+    "id": "licenca-kirurgji-e-specialiteteve-223",
+    "question": "Nje formacion cikatricial hipertrofik dhe i remifikuar quhet :",
+    "answers": [
+      "Aderence",
+      "Keloid",
+      "Granulome",
+      "Granulim i cikatrices",
+      "Keratoze cikatriciale"
+    ],
+    "correct": 1,
+    "explanation": "Keloidi është cikatricë hipertrofike që kalon kufijtë e plagës fillestare, me zgjatime (\"degëzime\"), e prirur për recidivë pas heqjes (predispozitë individuale/racore)."
+  }
+]

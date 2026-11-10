@@ -1,0 +1,238 @@
+{
+  "id": "root",
+  "title": "Mjekësi License Quiz",
+  "type": "root",
+  "description": "Përgatitu për provimin e licencës në mjekësi.",
+  "children": [
+    {
+      "id": "exam",
+      "title": "Provimi",
+      "type": "exam",
+      "description": "Simulo provimin me 50 pyetje të rastësishme nga të gjitha temat."
+    },
+    {
+      "id": "mjekesi",
+      "title": "Lëndët e Mjekësisë",
+      "type": "folder",
+      "description": "Zgjidh një temë për të praktikuar të gjitha pyetjet me radhë ose të përziera.",
+      "children": [
+        {
+          "id": "mjekesi-01-farmakologji",
+          "title": "Farmakologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/01-farmakologji.json",
+          "description": "Praktiko: Farmakologji.",
+          "questions": 100
+        },
+        {
+          "id": "mjekesi-02-gastrohepatologji",
+          "title": "Gastrohepatologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/02-gastrohepatologji.json",
+          "description": "Praktiko: Gastrohepatologji.",
+          "questions": 106
+        },
+        {
+          "id": "mjekesi-03-semundje-infektive",
+          "title": "Sëmundje Infektive",
+          "type": "lesson",
+          "questionFile": "mjekesi/03-semundje-infektive.json",
+          "description": "Praktiko: Sëmundje Infektive.",
+          "questions": 127
+        },
+        {
+          "id": "mjekesi-04-reumatologji",
+          "title": "Reumatologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/04-reumatologji.json",
+          "description": "Praktiko: Reumatologji.",
+          "questions": 49
+        },
+        {
+          "id": "mjekesi-05-endokrinologji",
+          "title": "Endokrinologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/05-endokrinologji.json",
+          "description": "Praktiko: Endokrinologji.",
+          "questions": 102
+        },
+        {
+          "id": "mjekesi-06-hematologji",
+          "title": "Hematologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/06-hematologji.json",
+          "description": "Praktiko: Hematologji.",
+          "questions": 108
+        },
+        {
+          "id": "mjekesi-07-imazheri",
+          "title": "Imazheri",
+          "type": "lesson",
+          "questionFile": "mjekesi/07-imazheri.json",
+          "description": "Praktiko: Imazheri.",
+          "questions": 128
+        },
+        {
+          "id": "mjekesi-08-kardiologji",
+          "title": "Kardiologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/08-kardiologji.json",
+          "description": "Praktiko: Kardiologji.",
+          "questions": 75
+        },
+        {
+          "id": "mjekesi-09-kirurgji-e-pergjithshme",
+          "title": "Kirurgji e Përgjithshme",
+          "type": "lesson",
+          "questionFile": "mjekesi/09-kirurgji-e-pergjithshme.json",
+          "description": "Praktiko: Kirurgji e Përgjithshme.",
+          "questions": 378
+        },
+        {
+          "id": "mjekesi-10-kirurgji-e-specialiteteve",
+          "title": "Kirurgji e Specialiteteve",
+          "type": "lesson",
+          "questionFile": "mjekesi/10-kirurgji-e-specialiteteve.json",
+          "description": "Praktiko: Kirurgji e Specialiteteve.",
+          "questions": 223
+        },
+        {
+          "id": "mjekesi-11-mjekesi-interne",
+          "title": "Mjekësi Interne",
+          "type": "lesson",
+          "questionFile": "mjekesi/11-mjekesi-interne.json",
+          "description": "Praktiko: Mjekësi Interne.",
+          "questions": 342
+        },
+        {
+          "id": "mjekesi-12-mjekesi-ligjore",
+          "title": "Mjekësi Ligjore",
+          "type": "lesson",
+          "questionFile": "mjekesi/12-mjekesi-ligjore.json",
+          "description": "Praktiko: Mjekësi Ligjore.",
+          "questions": 53
+        },
+        {
+          "id": "mjekesi-13-mjekesi-e-familjes",
+          "title": "Mjekësi e Familjes",
+          "type": "lesson",
+          "questionFile": "mjekesi/13-mjekesi-e-familjes.json",
+          "description": "Praktiko: Mjekësi e Familjes.",
+          "questions": 202
+        },
+        {
+          "id": "mjekesi-14-nefrologji",
+          "title": "Nefrologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/14-nefrologji.json",
+          "description": "Praktiko: Nefrologji.",
+          "questions": 108
+        },
+        {
+          "id": "mjekesi-15-neurologji",
+          "title": "Neurologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/15-neurologji.json",
+          "description": "Praktiko: Neurologji.",
+          "questions": 118
+        },
+        {
+          "id": "mjekesi-16-obstetrike-gjinekologji",
+          "title": "Obstetrikë dhe Gjinekologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/16-obstetrike-gjinekologji.json",
+          "description": "Praktiko: Obstetrikë dhe Gjinekologji.",
+          "questions": 196
+        },
+        {
+          "id": "mjekesi-17-okulistike-orl",
+          "title": "Okulistikë dhe ORL",
+          "type": "lesson",
+          "questionFile": "mjekesi/17-okulistike-orl.json",
+          "description": "Praktiko: Okulistikë dhe ORL.",
+          "questions": 72
+        },
+        {
+          "id": "mjekesi-18-ortopedi",
+          "title": "Ortopedi",
+          "type": "lesson",
+          "questionFile": "mjekesi/18-ortopedi.json",
+          "description": "Praktiko: Ortopedi.",
+          "questions": 70
+        },
+        {
+          "id": "mjekesi-19-pediatri",
+          "title": "Pediatri",
+          "type": "lesson",
+          "questionFile": "mjekesi/19-pediatri.json",
+          "description": "Praktiko: Pediatri.",
+          "questions": 236
+        },
+        {
+          "id": "mjekesi-20-pneumologji",
+          "title": "Pneumologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/20-pneumologji.json",
+          "description": "Praktiko: Pneumologji.",
+          "questions": 145
+        },
+        {
+          "id": "mjekesi-21-psikiatri",
+          "title": "Psikiatri",
+          "type": "lesson",
+          "questionFile": "mjekesi/21-psikiatri.json",
+          "description": "Praktiko: Psikiatri.",
+          "questions": 87
+        },
+        {
+          "id": "mjekesi-22-alergologji",
+          "title": "Alergologji",
+          "type": "lesson",
+          "questionFile": "mjekesi/22-alergologji.json",
+          "description": "Praktiko: Alergologji.",
+          "questions": 10
+        },
+        {
+          "id": "mjekesi-23-gastrohepatologji-semundje-te-brendshme",
+          "title": "Gastrohepatologji — Sëmundje të Brendshme",
+          "type": "lesson",
+          "questionFile": "mjekesi/23-gastrohepatologji-semundje-te-brendshme.json",
+          "description": "Praktiko: Gastrohepatologji — Sëmundje të Brendshme.",
+          "questions": 18
+        },
+        {
+          "id": "mjekesi-24-reumatologji-semundje-te-brendshme",
+          "title": "Reumatologji — Sëmundje të Brendshme",
+          "type": "lesson",
+          "questionFile": "mjekesi/24-reumatologji-semundje-te-brendshme.json",
+          "description": "Praktiko: Reumatologji — Sëmundje të Brendshme.",
+          "questions": 12
+        },
+        {
+          "id": "mjekesi-25-organizim-menaxhim-shendetesor",
+          "title": "Organizim dhe Menaxhim Shëndetësor",
+          "type": "lesson",
+          "questionFile": "mjekesi/25-organizim-menaxhim-shendetesor.json",
+          "description": "Praktiko: Organizim dhe Menaxhim Shëndetësor.",
+          "questions": 5
+        },
+        {
+          "id": "mjekesi-26-farmakologji-toksikologji-klinike",
+          "title": "Farmakologji dhe Toksikologji Klinike",
+          "type": "lesson",
+          "questionFile": "mjekesi/26-farmakologji-toksikologji-klinike.json",
+          "description": "Praktiko: Farmakologji dhe Toksikologji Klinike.",
+          "questions": 6
+        },
+        {
+          "id": "mjekesi-27-endokrinologji-pjesa-2",
+          "title": "Endokrinologji — Pjesa 2",
+          "type": "lesson",
+          "questionFile": "mjekesi/27-endokrinologji-pjesa-2.json",
+          "description": "Praktiko: Endokrinologji — Pjesa 2.",
+          "questions": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+[
+  {
+    "id": "licenca-endokrinologji-pjesa-2-001",
+    "question": "Të gjitha situatat e më poshtme mund të shkaktojnë hipogliceminë me përjashtim të:",
+    "answers": [
+      "Insulinoma",
+      "Mungesa e glukozë-6fosfatit",
+      "Sëmundja addison",
+      "Feokromocitoma",
+      "Përdorimi i insulinës"
+    ],
+    "correct": 3,
+    "explanation": "Hipoglicemi japin: insulinoma, insulina ekzogjene/sulfonilurea, insuficienca surenale (Addison: mungesë kortizoli kundërrregullues), deficitet enzimatike të glukoneogjenezës/glikogjenolizës (glukozë-6-fosfataza – von Gierke). Feokromocitoma, me tepricë katekolaminash, shkakton hiperglicemi."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-002",
+    "question": "Të gjitha situatat e më poshtme mund të shkaktojnë hipokalçeminë me përjashtim të:",
+    "answers": [
+      "Hipoparatiroidizmi",
+      "Sindroma Cushing",
+      "Sekretimi i shtuar i kalçitoninës",
+      "Hiperparatiroidizmi",
+      "Mungesa e vitaminës D"
+    ],
+    "correct": 3,
+    "explanation": "Hipokalcemi shkaktojnë hipoparatiroidizmi, mungesa e vitaminës D, insuficienca renale, pankreatiti akut, hipomagnezemia. Hiperparatiroidizmi shkakton hiperkalcemi. (Kalcitonina ul kalcemin vetëm pak dhe kalimthi; Cushing-u shkakton hiperkalciuri, jo hipokalcemi klinike.)"
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-003",
+    "question": "Osteoporoza tip I lidhet me mungesën e hormonit:",
+    "answers": [
+      "Kalçitoninë",
+      "Testosteron",
+      "Estrogjen",
+      "Parathormon",
+      "Tireotrop"
+    ],
+    "correct": 2,
+    "explanation": "Osteoporoza tip I (postmenopauzale) lidhet me mungesën e estrogjenit, që rrit resorbimin osteoklastik; prek kryesisht kockën trabekulare (fraktura vertebrale, të radiusit distal). Tipi II (senil) lidhet me moshën."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-004",
+    "question": "Cilat anomali elektrolitike hasen më shpesh në sëmundjen Addison?",
+    "answers": [
+      "Hiperglicemia",
+      "Hipokalçemia",
+      "Hipokalemia",
+      "Hipernatremi dhe hipokalemi",
+      "Hiponatremi dhe hiperkalemi"
+    ],
+    "correct": 4,
+    "explanation": "Në sëmundjen Addison (insuficiencë surenale primare) mungesa e aldosteronit jep hiponatremi dhe hiperkalemi (me acidozë metabolike), krahas hipoglicemisë dhe hiperpigmentimit."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-005",
+    "question": "Sëmundja Graves:",
+    "answers": [
+      "Është një shfaqje e mbifunksionit të surenales",
+      "Është një formë hipotiroidizmi me etiologji autoimunitare",
+      "Është një formë hipertiroidizmi",
+      "Asnjë nga këto"
+    ],
+    "correct": 2,
+    "explanation": "Sëmundja Graves-Basedow është shkaku më i shpeshtë i hipertiroidizmit: sëmundje autoimune me antitrupa stimulues të receptorit të TSH (TRAb), me gushë difuze, oftalmopati dhe mikseedemë pretibiale."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-006",
+    "question": "Feokromocitoma është një neoplazi e cilës prej këtyre strukturave?",
+    "answers": [
+      "Shtresës kortikale të gjëndrës mbiveshkore",
+      "Shtresës medulës renale",
+      "Shtresës medulare të gjëndrës mbiveshkore",
+      "Hipofizës",
+      "Timusit"
+    ],
+    "correct": 2,
+    "explanation": "Feokromocitoma është tumor i qelizave kromafine të medulës së gjëndrës mbiveshkore, që sekreton katekolamina (hipertension paroksistik, cefale, djersitje, palpitacione)."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-007",
+    "question": "Hipertiroidizmi sub-klinik shoqërohet me:",
+    "answers": [
+      "Nivel të rritur të TSH",
+      "Nivel të ulur të rT3",
+      "Nivel të ulur të TSH dhe nivel normal të FT4",
+      "Nivel të ulur të TSH dhe nivel të rritur të FT4",
+      "Titër të rritur të antikorpeve"
+    ],
+    "correct": 2,
+    "explanation": "Hipertiroidizmi subklinik përkufizohet si TSH e ulur (e shtypur) me FT4 dhe FT3 normale; TSH e ulur me FT4 të rritur është hipertiroidizëm i shfaqur."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-008",
+    "question": "Cili nga hormonet e poshtë shënuar mund të japi hiponatremi nëse sekretohet me shumicë?",
+    "answers": [
+      "Angiotenzina II",
+      "PAN (peptitdi natri uretik)",
+      "Vazopresina/hormoni antidiuretik",
+      "Aldosteroni",
+      "Testosteroni"
+    ],
+    "correct": 2,
+    "explanation": "Sekretimi i tepërt i vazopresinës (ADH) — sindroma e sekretimit të papërshtatshëm të ADH (SIADH) — shkakton retension uji të lirë dhe hiponatremi diluzionale euvolemike. Aldosteroni shkakton hipernatremi të lehtë/normonatremi me hipokalemi."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-009",
+    "question": "Pasojat klinike më të shpeshta në tiroiditin Hashimoto përfshijnë:",
+    "answers": [
+      "Hipertiroidizëm subklinik",
+      "Galaktorre",
+      "Hipoparatiroidizëm",
+      "Hipertiroidizëm në fazën e par ë, hipotiroidizëm përfundimtar",
+      "Sëmundje të tjera autoimune"
+    ],
+    "correct": 4,
+    "explanation": "Pasoja klinike kryesore e tiroiditit Hashimoto është hipotiroidizmi (shkaku më i shpeshtë i hipotiroidizmit në zonat me jod të mjaftueshëm); ai shoqërohet shpesh me sëmundje të tjera autoimune (diabet tip 1, celiaki, Addison, anemi pernicioze, vitiligo). Faza fillestare hipertiroidiane (\"hashitoksikoza\") është e rrallë."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-010",
+    "question": "Nivelet e rritura të prolaktinës mund të:",
+    "answers": [
+      "Frenojnë sekrecionin pulsatil të GnRH",
+      "Induktojnë ulje të testosteronit qarkullues",
+      "Përcaktojnë rënien e libidos",
+      "Të gjitha përgjigjet më lart janë të sakta",
+      "Provokojnë amenorre"
+    ],
+    "correct": 3,
+    "explanation": "Hiperprolaktinemia frenon sekretimin pulsatil të GnRH, duke ulur LH/FSH: te gratë amenorre/oligomenorre, galaktorre, infertilitet; te burrat ulje e testosteronit, rënie e libidos, impotencë, gjinekomasti."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-011",
+    "question": "Në një pacient me ketoacidozë diabetikë duhet të ruhet:",
+    "answers": [
+      "Fosfori",
+      "Bikarbonati",
+      "Kalçiumi",
+      "Kaliumi",
+      "Magnezi"
+    ],
+    "correct": 3,
+    "explanation": "Në ketoacidozën diabetike, edhe pse kaliemia fillestare mund të jetë normale/e lartë, kaliumi total trupor është i varfëruar; insulina dhe korrigjimi i acidozës e fusin K+ në qeliza, prandaj kaliumi duhet monitoruar dhe zëvendësuar (sapo K <5,3 mEq/L dhe ka diurezë) për të shmangur hipokaleminë e rrezikshme."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-012",
+    "question": "Diabeti mellitus tip 1 shoqërohet me të gjitha elementët e poshtëshënuar me përjashtim të:",
+    "answers": [
+      "Poliuri",
+      "Polifagi",
+      "Shtim në peshë",
+      "Polidipsi",
+      "Dhimbje abdominale"
+    ],
+    "correct": 2,
+    "explanation": "Diabeti tip 1 shfaqet me poliuri, polidipsi, polifagi dhe rënie në peshë (katabolizëm nga mungesa e insulinës), shpesh me dhimbje abdominale/të vjella në ketoacidozë; shtimi në peshë nuk është tipik."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-013",
+    "question": "Akromegalia është:",
+    "answers": [
+      "Një sëmundje e kockave",
+      "Një sëmundje e hasur në zonat malore",
+      "Një hipersekretim kronik i hormonit të rritjes pas pubertetit",
+      "Një sëmundje e rëndë maniakale",
+      "Policitemia e aviatorëve"
+    ],
+    "correct": 2,
+    "explanation": "Akromegalia është hipersekretim kronik i hormonit të rritjes (zakonisht adenomë hipofizare) pas mbylljes së kartilagove të rritjes: rritje e duarve, këmbëve, tipareve të fytyrës, prognatizëm, organomegali, diabet, hipertension. Para pubertetit jep gjigantizëm."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-014",
+    "question": "Në cilën nga sëmundjet e më poshtëme, ketoacidoza paraqitet si ndërlikim madhor dhe i shpeshtë:",
+    "answers": [
+      "Diabeti tip 1",
+      "Diabeti tip 2",
+      "Hipertensioni arterial",
+      "Diabeti insipid",
+      "Hipertiroidizmi"
+    ],
+    "correct": 0,
+    "explanation": "Ketoacidoza është komplikacioni akut tipik dhe i shpeshtë i diabetit tip 1 (deficit absolut i insulinës), shpesh si manifestim fillestar; në tipin 2 komplikacioni tipik akut është gjendja hiperglicemike hiperosmolare."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-015",
+    "question": "Hipernatremia mund të vihet re në të gjitha situatat e mëposhtme me përjashtim të:",
+    "answers": [
+      "Hiperkortikosurenalizmit",
+      "Diabeti insipid",
+      "Abuzimi në përdorim të diuretikëve",
+      "Ushqyerja me sondë",
+      "Polidipsia e moshave të treta"
+    ],
+    "correct": 4,
+    "explanation": "Hipernatremi japin: humbjet e ujit (diabeti insipid, diuretikët, diarreja, djersitja), ushqyerja me sondë hiperosmolare pa ujë të mjaftueshëm, hiperkortikosurrenalizmi/hiperaldosteronizmi. Polidipsia (marrja e tepërt e ujit) shkakton hiponatremi."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-016",
+    "question": "Hipokalçemia është ndërlikimi që haset:",
+    "answers": [
+      "Pas ushtrimeve fizike",
+      "Në hipogonadizëm",
+      "Pas tiroidektomisë totale",
+      "Pas menopauzës jatrogjenike",
+      "Gjatë trajtimit me anksiolitik"
+    ],
+    "correct": 2,
+    "explanation": "Hipokalcemia është komplikacion i shpeshtë pas tiroidektomisë totale, nga dëmtimi/heqja aksidentale ose devaskularizimi i paratiroideve (hipoparatiroidizëm, zakonisht kalimtar): parestezi, shenja Chvostek/Trousseau, tetani."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-017",
+    "question": "Cila prej familjeve enzimatike ndërhyjnë në procesin vaskular të erektimit:",
+    "answers": [
+      "Hidroksilazat",
+      "Nitroksid-sintetazat + fosfodiesterazat",
+      "Peroksidazat",
+      "Aromatazat+hidroksilazat",
+      "Transferazat"
+    ],
+    "correct": 1,
+    "explanation": "Erektimi varet nga oksidi nitrik (prodhuar nga NO-sintetazat endoteliale/neuronale) që aktivizon guanilat-ciklazën → cGMP → relaksim i muskulit të lëmuar të korpuseve kavernoze; fosfodiesteraza-5 degradon cGMP-në (frenuesit e PDE5 si sildenafili)."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-018",
+    "question": "Ushtrimet fizike të vazhdueshme:",
+    "answers": [
+      "Rritin kolesterolin HDL",
+      "Ulin kolesteroleminë totale",
+      "Përmirësojnë tolerancën ndaj glucideve",
+      "Japin të gjithë efektet e përmendura më lart",
+      "Permirësojnë BMI (Body Mass Index)"
+    ],
+    "correct": 3,
+    "explanation": "Aktiviteti fizik i rregullt rrit HDL-kolesterolin, ul kolesterolin total, LDL dhe trigliceridet, përmirëson ndjeshmërinë ndaj insulinës/tolerancën ndaj glukozës, ul presionin arterial dhe ndihmon në kontrollin e peshës."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-019",
+    "question": "Cili është shkaku më i shpeshtë i insuficiencës akute kortikosurenale?",
+    "answers": [
+      "Sindroma Sheehan",
+      "Insuficienca surenale sekondare si pasojë e ndërprerjes të trajtimit me steroid",
+      "Sindroma Schmid",
+      "Sindroma Waterhouse-Fridrischen",
+      "Insuficienca surenale primare me etiologji tuberkulare"
+    ],
+    "correct": 1,
+    "explanation": "Shkaku më i shpeshtë i insuficiencës surenale akute (krizës addisoniane) është ndërprerja e papritur e terapisë kronike me kortikosteroide (supresion i boshtit HPA) ose mosrritja e dozës gjatë stresit/sëmundjes; Waterhouse-Friderichsen (hemorragji surenale në meningokokcemi) është shkak i rrallë."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-020",
+    "question": "Sasia ditore e proteinave që duhet të merren me dietë është:",
+    "answers": [
+      "40-50% të energjisë",
+      "30-40% të energjisë",
+      "0.8 gr/kg peshë",
+      "1.5 gr/kg peshë",
+      "2 gr/kg peshë"
+    ],
+    "correct": 2,
+    "explanation": "Nevoja ditore për proteina te i rrituri i shëndetshëm është ~0,8 g/kg peshë trupore (rreth 10–15% e energjisë ditore); më e lartë në rritje, shtatzëni, sëmundje kritike."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-021",
+    "question": "Në cilat vlera të BMI (Body Mass Index) do të konsiderohej një grua mbipeshë?",
+    "answers": [
+      "Midis 20-25",
+      "Midis 25-30",
+      "Midis 30-35",
+      "Më shumë se 27.5",
+      "Më shumë se 30"
+    ],
+    "correct": 1,
+    "explanation": "Sipas OBSH: BMI 18,5–24,9 normal, 25–29,9 mbipeshë, 30–34,9 obezitet klasi I, 35–39,9 klasi II, ≥40 klasi III. Një grua me BMI midis 25 dhe 30 konsiderohet mbipeshë."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-022",
+    "question": "Në cilën sëmundje vihet re një ulje e “peshës specifike” të urinës?",
+    "answers": [
+      "Diabet mellitus",
+      "Cirroza hepatike",
+      "Diabet insipid",
+      "Hiperaldosteronizëm",
+      "Hipertension arterial"
+    ],
+    "correct": 2,
+    "explanation": "Në diabetin insipid (mungesë ose rezistencë ndaj ADH) urina është shumë e holluar: poliuri me peshë specifike të ulët (<1,005) dhe osmolalitet urinar të ulët (<300 mOsm/kg); në diabetin mellitus pesha specifike është e lartë (glukozuri)."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-023",
+    "question": "Cila nga këto ndryshime nuk vihet re në sëmundjen Addison?",
+    "answers": [
+      "Rritje e sasisë të Na+ në gjak",
+      "Rritje e sasisë të K+ në gjak",
+      "Rritje e azotemisë",
+      "Hollim i urinës",
+      "Rritje e hematokriti"
+    ],
+    "correct": 0,
+    "explanation": "Në sëmundjen Addison ka hiponatremi (jo rritje të Na+), hiperkalemi, rritje të azotemisë (hipovolemi prerenale), hemokoncentrim (hematokrit i rritur nga hipovolemia) dhe pamundësi për të përqendruar/holluar urinën siç duhet."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-024",
+    "question": "Në cilën sëmundje është e pranishme hiperkalemia?",
+    "answers": [
+      "Sëmundja Addison",
+      "Diabet Mellitus",
+      "Sindroma Gilbert",
+      "Cirroza hepatike",
+      "Tireotoksikoza"
+    ],
+    "correct": 0,
+    "explanation": "Hiperkalemia është tipike për sëmundjen Addison (mungesë e aldosteronit); në diabetin mellitus hiperkalemia mund të shfaqet në hipoaldosteronizëm hiporeninemik/insuficiencë renale, por nuk është karakteristike e vetë sëmundjes."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-025",
+    "question": "Në kuadër të MEN 1 cili nga këto organe preket më rrallë?",
+    "answers": [
+      "Gjëndrat paratiroide",
+      "Pankreasi",
+      "Hipofiza",
+      "Gjëndrat surenale",
+      "Të gjitha 22"
+    ],
+    "correct": 3,
+    "explanation": "MEN 1 (Wermer, gjeni i meninës) prek paratiroidet (~90%, hiperparatiroidizëm), pankreasin endokrin/duodenin (~40–70%, gastrinoma, insulinoma) dhe hipofizën (~30–40%, prolaktinoma); gjëndrat surenale (adenoma kortikale, zakonisht jofunksionale) preken më rrallë."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-026",
+    "question": "Trajtimi i hiperaldosteronizmit primar përfshin:",
+    "answers": [
+      "Dieta e varfër me kripë",
+      "Ndërhyrje kirurgjikale",
+      "Përdorim të spironolaktonit",
+      "Të gjitha të mësipërmet",
+      "Asnjë prej tyre"
+    ],
+    "correct": 3,
+    "explanation": "Hiperaldosteronizmi primar trajtohet me adrenalektomi laparoskopike (adenoma Conn unilaterale) ose me antagonistë të receptorit mineralokortikoid (spironolakton, eplerenon) në hiperplazinë bilaterale, krahas dietës së varfër me kripë."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-027",
+    "question": "Në diagnozën e hipogonadizmit mashkullor është thelbësore të vlerësojmë:",
+    "answers": [
+      "Përqëndrimin plazmatik të testosteronit të lirë",
+      "Përqëndrimin plazmatik të testosteronit total",
+      "LH, testosteron dhe SHBG",
+      "FSH, PRL dhe estradiol",
+      "Testi hCG për testosteronin"
+    ],
+    "correct": 2,
+    "explanation": "Në diagnozën e hipogonadizmit mashkullor matet testosteroni total në mëngjes (në 2 raste), dhe kur është kufitar, SHBG për llogaritjen e testosteronit të lirë; LH (dhe FSH) dallojnë formën primare (LH e lartë) nga ajo sekondare (LH e ulët/normale)."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-028",
+    "question": "Obeziteti, steriliteti, hirsutizmi dhe ovari polikistik janë karakteristike të sindromit:",
+    "answers": [
+      "Meniere",
+      "Turner",
+      "Frolich",
+      "Stein-Leventhal",
+      "Klinefelter"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Stein-Leventhal (sindroma e vezoreve polikistike, PCOS): oligo-anovulacion (sterilitet, amenorre), hiperandrogjenizëm (hirsutizëm, akne), vezore polikistike në ekografi, shpesh obezitet dhe insulinorezistencë."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-029",
+    "question": "Të gjitha pohimet e më poshtme në lidhje me diabetin tip 2 janë të vërteta me përjashtim të:",
+    "answers": [
+      "shoqërohet me insulinorezistencë",
+      "shoqrëohet me obezitet",
+      "nuk ka shoqërim fmailjar",
+      "shoqërohet me HTA",
+      "shoqërohet me retinopati"
+    ],
+    "correct": 2,
+    "explanation": "Diabeti tip 2 ka komponent të fortë familjar/gjenetik (më i fortë se në tipin 1: konkordancë >70–90% te binjakët monozigotë), lidhet me insulinorezistencë, obezitet, hipertension (sindroma metabolike) dhe jep komplikacione mikrovaskulare si retinopatia."
+  },
+  {
+    "id": "licenca-endokrinologji-pjesa-2-030",
+    "question": "Cili prej pohimeve të mëposhtme është i vërtetë në lidhje me tiroiditin subakut?",
+    "answers": [
+      "Është forma më e shpeshtë e tiroiditit",
+      "Është me etiologji virale",
+      "Është me etiologji autoimune",
+      "Nuk shoqërohet me infilitrim granulomatoz",
+      "Prek kryesisht meshkujt e bardhë"
+    ],
+    "correct": 1,
+    "explanation": "Tiroiditi subakut granulomatoz (de Quervain) ka etiologji virale (post-infeksion i rrugëve të sipërme respiratore): gushë e dhimbshme, ethe, ERS e lartë, tirotoksikozë kalimtare me kaptim të ulët të jodit, infiltrat granulomatoz me qeliza gjigante; më i shpeshtë te gratë."
+  }
+]

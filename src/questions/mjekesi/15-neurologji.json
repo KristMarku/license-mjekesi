@@ -1,0 +1,1535 @@
+[
+  {
+    "id": "licenca-neurologji-001",
+    "question": "Mënyra e transmetimit hereditar në distrofinë muskulare tipi Duchenne është si më poshtë:",
+    "answers": [
+      "autosomale dominante",
+      "autosomale recisive",
+      "e lidhur me X-in",
+      "e tipit mitokondrial",
+      "recesive sporadike"
+    ],
+    "correct": 2,
+    "explanation": "Distrofia muskulare Duchenne është X-linked recesive (mutacion i gjenit të distrofinës, Xp21): prek djemtë (dobësi proksimale, shenja Gowers, pseudohipertrofi e pulpave), nënat janë bartëse."
+  },
+  {
+    "id": "licenca-neurologji-002",
+    "question": "Episodet e migrenës pa aura kanë një kohëzgjatje prej:",
+    "answers": [
+      "2-10 minutash",
+      "10-60 minutash",
+      "deri në 4 orë",
+      "mbi 4 orë deri në 7 orë",
+      "më shumë se një javë"
+    ],
+    "correct": 3,
+    "explanation": "Sipas kritereve IHS, atakët e migrenës pa aura zgjasin 4–72 orë (pa trajtim); opsioni \"4–7 orë\" duket gabim shtypi për \"4–72 orë\"."
+  },
+  {
+    "id": "licenca-neurologji-003",
+    "question": "Një lezion ishemik në territorin e arteries cerebri media është përgjegjës për:",
+    "answers": [
+      "hemiplegji homolaterale me predonim në anësinë e poshtme",
+      "hemiplegji dhe hemianestezi kontrolaterale me paralizë të shikimit drejt anës së kundërt",
+      "deficit të nervave kraniale homolaterale",
+      "deficit të nervave kraniale homolaterale dhe shenja motore, sensitive e cerebelare kontrolaterale",
+      "dizartri"
+    ],
+    "correct": 1,
+    "explanation": "Iskemia në territorin e arteries cerebrale të mesme jep hemiplegji dhe hemianestezi kontralaterale (më e theksuar në fytyrë e krah), hemianopsi homonime, devijim i shikimit nga ana e lezionit (paralizë e shikimit drejt anës kontralaterale) dhe afazi nëse prek hemisferën dominante."
+  },
+  {
+    "id": "licenca-neurologji-004",
+    "question": "Në siringomieli historia zakonisht fillon me:",
+    "answers": [
+      "fashikulacione",
+      "dhimbje të lokalizuara në një nga anësitë e sipërme",
+      "crregullime sfinkteriane",
+      "atrofi lokale, dobësi, sensacione djegëse të padhimbshme në një anësi të sipërme",
+      "asnjë nga përgjigjet e mësipërme"
+    ],
+    "correct": 3,
+    "explanation": "Siringomielia (kavitet në palcën cervikale) fillon tipikisht me atrofi dhe dobësi të duarve dhe humbje të ndjeshmërisë termo-algjike (\"djegie pa dhimbje\") me shpërndarje \"pelerinë\", me ruajtje të ndjeshmërisë taktile (disociim)."
+  },
+  {
+    "id": "licenca-neurologji-005",
+    "question": "Aksidenti ishemik tranzitor me përkufizim ka një kohëzgjatje prej:",
+    "answers": [
+      "< 1 orë",
+      "< 12 orë",
+      "< 24 orë",
+      "< 1 javë",
+      "< 1 muaj"
+    ],
+    "correct": 2,
+    "explanation": "Sipas përkufizimit klasik, TIA është deficit neurologjik fokal që zgjidhet plotësisht brenda 24 orëve (shumica brenda 1 ore); përkufizimi i ri është indor (pa infarkt në imazheri)."
+  },
+  {
+    "id": "licenca-neurologji-006",
+    "question": "Cili është shkaku më i shpeshtë i AVC-ve?",
+    "answers": [
+      "diabeti",
+      "hipertensioni arterial",
+      "trombo-embolia",
+      "aneurisma",
+      "ateroskleroza"
+    ],
+    "correct": 2,
+    "explanation": "Mekanizmi më i shpeshtë i aksidenteve cerebrovaskulare është trombo-embolia (iktusi ishemik ~80–85%, nga ateroskleroza e enëve të mëdha, kardioembolia, sëmundja e enëve të vogla); hipertensioni është faktori kryesor i rrezikut."
+  },
+  {
+    "id": "licenca-neurologji-007",
+    "question": "Një pacient pati një dhimbje të fortë mesi ndërkohë që po punonte me trupin në fleksion. Ditën tjetër, ai u zgjua me dhimbje të fortë dhe mpirje të gishtit të I-rë të këmbës së majtë. Ka shumë mundësi që ai të ketë hernie të diskut inter-vertebral:",
+    "answers": [
+      "L1-L2",
+      "L4-L5",
+      "L5-S1",
+      "S1-S2",
+      "S2-S3"
+    ],
+    "correct": 1,
+    "explanation": "Mpirje e gishtit të madh të këmbës (dorsumi i këmbës) dhe dobësi e ekstensorit të gishtit të madh = rrënja L5, e shtypur zakonisht nga hernia diskale L4-L5."
+  },
+  {
+    "id": "licenca-neurologji-008",
+    "question": "Cikli nga ekzaminimet e mëposhtme është më i indikuar në hetimin e një pacienti me skleroze multiple:",
+    "answers": [
+      "Tomografia aksiale e kompjuterizuar",
+      "rezonanca magnetike",
+      "angiografia e arterieve karotide",
+      "shintigrafia cerebrale",
+      "angiografia digitale"
+    ],
+    "correct": 1,
+    "explanation": "RM (me gadolin) është ekzaminimi më i ndjeshëm për sklerozën multiple: lezione demielinizuese periventrikulare, jukstakortikale, infratentoriale dhe spinale, me shpërndarje në hapësirë dhe kohë."
+  },
+  {
+    "id": "licenca-neurologji-009",
+    "question": "Të gjitha nga pohimet e mëposhtme në lidhje me sëmundjen e Parkinson janë të vërteta përvec:",
+    "answers": [
+      "tremori ka një frekuencë të shpejtë rreth 10-12Hz",
+      "sëmundja shkaktohet nga një deficit i dopaminës",
+      "instabiliteti postural është nje shkak i rëndësishëm i invaliditetit",
+      "sëmundja mund të trajtohet me amantadinë",
+      "sëmundja është më pak e shpeshtë se demenca Alzheimer"
+    ],
+    "correct": 0,
+    "explanation": "E pavërtetë: tremori parkinsonian është tremor qetësie me frekuencë të ulët (4–6 Hz, \"numërim monedhash\"). Parkinsoni vjen nga deficiti dopaminergjik nigrostriatal; instabiliteti postural shkakton rënie; amantadina është bar i përdorur."
+  },
+  {
+    "id": "licenca-neurologji-010",
+    "question": "Në një pacient skaneri (TAK) vuri në dukje një lezion ekspansiv cerebral (neoplazi, abces, lezion inflamator apo malformacion vaskular). Studimi i mëtejshëm diagnostik i lezionit (natyra, shtrirja, vaskularizimi) do të bëhet me cilin nga ekzaminimet e mëposhtme:",
+    "answers": [
+      "skaner (TAK) me kontrast intra-venoz",
+      "rezonancë magnetike me kontrast intra-venoz",
+      "angiografia digitale arteriale",
+      "radiografi crani",
+      "rezonancë magnetike me kontrast intra-venoz dhe angio-rezonance"
+    ],
+    "correct": 4,
+    "explanation": "Për karakterizimin e lezionit ekspansiv cerebral (natyra, shtrirja, vaskularizimi) ekzaminimi më i plotë është RM me kontrast IV + angio-RM (dhe spektroskopi/perfuzion sipas rastit)."
+  },
+  {
+    "id": "licenca-neurologji-011",
+    "question": "Në cilën nga gjendjet e mëposhtme EEG-ja është më e dobishme?",
+    "answers": [
+      "koma",
+      "demenca",
+      "ictus",
+      "vertigo",
+      "cefale"
+    ],
+    "correct": 0,
+    "explanation": "EEG është shumë e dobishme në vlerësimin e komës (statusi epileptik jo-konvulsiv, encefalopatitë metabolike, vlerësimi prognostik). EEG ka vlerë të kufizuar në demencë, iktus, vertigo e cefale."
+  },
+  {
+    "id": "licenca-neurologji-012",
+    "question": "Lobet temporale cerebrale përpunojnë:",
+    "answers": [
+      "njohjen vizive",
+      "perceptimin auditiv",
+      "memorjen",
+      "afeksionin",
+      "të gjitha të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Lobet temporale përpunojnë perceptimin auditiv (korteksi auditiv primar), memorien (hipokampi), njohjen vizive (korteksi temporal inferior — fytyrat, objektet), gjuhën (Wernicke) dhe afektivitetin (amigdala/sistemi limbik)."
+  },
+  {
+    "id": "licenca-neurologji-013",
+    "question": "Në këtë listë me crregullime neurologjike me instalim akut dhe kohëzgjatje prej pak minutash apo orësh vetëm njëra paraqet një TIA (AIT):",
+    "answers": [
+      "sinkopi",
+      "cefalea",
+      "hypoestesia dhe parestezia në një hemikorp",
+      "deficit i sensibilitetit qe instalohet dhe zhduket me karakteristikat e ecjes",
+      "inkontinenca urinare"
+    ],
+    "correct": 2,
+    "explanation": "TIA = deficit fokal neurologjik kalimtar me origjinë vaskulare: hipoestezi/parestezi në gjysmën e trupit, hemiparezë, afazi, amaurozë fugaks. Sinkopa, cefalea dhe inkontinenca nuk janë simptoma fokale; deficiti që \"ecën\" (marshon) sugjeron migrenë/epilepsi."
+  },
+  {
+    "id": "licenca-neurologji-014",
+    "question": "Sindromi Guillain-Barre prek:",
+    "answers": [
+      "pa dallim fëmijë apo adulte, në të dy sekset",
+      "vetëm adultët, pavarësisht seksit",
+      "në mënyrë predominnate subjektet e moshuar",
+      "më tepër meshkujt",
+      "më tepër femrat"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma Guillain-Barré prek të gjitha moshat (fëmijë dhe të rritur), të dy sekset (lehtë më shumë meshkujt), shpesh pas infeksioneve (Campylobacter jejuni, CMV, EBV)."
+  },
+  {
+    "id": "licenca-neurologji-015",
+    "question": "Hidrocefalia qe nuk provokon hipertension intrakranial është hidrocefali:",
+    "answers": [
+      "nga tumor i nervit akustik",
+      "nga atrofia cerebrale",
+      "nga obstruksioni i ventrikulit të tretë",
+      "nga obstruksioni i foraminave të çatisë së ventrikulit të katërt",
+      "nga malformacioni i Arnold-Chiari"
+    ],
+    "correct": 1,
+    "explanation": "Hidrocefalia ex vacuo nga atrofia cerebrale (zgjerim kompensues i ventrikujve) nuk shkakton hipertension intrakranial. Hidrocefalitë obstruktive (tumore, stenoza, Chiari) e shkaktojnë."
+  },
+  {
+    "id": "licenca-neurologji-016",
+    "question": "MMSE (Mini-Mental State Examination) është:",
+    "answers": [
+      "një ekzaminim klinik me rëndësi të pakët klinike",
+      "një ekzaminim i nevojshëm për të gjithë pacientët me shenja të alterimit konjitiv- komportamental, të dizorientimit në kohë e hapësirë",
+      "një test, të cilin pacienti mund ta kryej vetë",
+      "një tregues për të vlerësuar gravitetin e një traume kraniale"
+    ],
+    "correct": 1,
+    "explanation": "MMSE (Mini-Mental State Examination) është test i shkurtër i administruar nga mjeku për depistimin e çrregullimeve konjitive (orientim, memorie, vëmendje, gjuhë, praksi); i nevojshëm te pacientët me shenja të dëmtimit konjitiv."
+  },
+  {
+    "id": "licenca-neurologji-017",
+    "question": "Nga cili burim infeksioni rrjedh varianti anglez i semundjes se Creutzfeldt-Jacob?",
+    "answers": [
+      "nga lopa",
+      "nga dhia",
+      "nga delja",
+      "nga njeriu",
+      "nga majmuni"
+    ],
+    "correct": 0,
+    "explanation": "Varianti i ri (anglez) i sëmundjes Creutzfeldt-Jakob (vCJD) vjen nga encefalopatia spongiforme e lopëve (BSE, \"sëmundja e lopës së çmendur\"), përmes ngrënies së produkteve të kontaminuara me prione."
+  },
+  {
+    "id": "licenca-neurologji-018",
+    "question": "Një grua në muajin e tetë të shtatzanisë ka paraqitur në javën e fundit një shtim diskret në peshë të lidhur pjesërisht me një retension të likideve: Gjatë natës, ajo ankohej për dhimbje në dorën e djathtë si “pickime gjilpërash” në pjesën palmare dhe në 2-3 gishtat e parë të dorës. Bëhet fjalë për:",
+    "answers": [
+      "sklerozë multiple",
+      "kompresion i nervit ulnar në berryl",
+      "kompresion i nervit radial në 1/3 e mesme të humerusit",
+      "sindrom i tunelit karpal",
+      "rheumatalgia (dhimbje rheumatologjike)"
+    ],
+    "correct": 3,
+    "explanation": "Grua shtatzënë (mbajtje lëngjesh) me parestezi nokturne në pëllëmbë dhe gishtat I–III = sindroma e tunelit karpal (kompresion i nervit median), e shpeshtë në trimestrin e tretë."
+  },
+  {
+    "id": "licenca-neurologji-019",
+    "question": "Hemianopsia bitemporale vërehet:",
+    "answers": [
+      "në tumoret e gjendrës pineale",
+      "në kraniofaringeomat",
+      "në aneurizmat e arteries komunikante posteriore (ACoP)",
+      "në gliomat e nervit optik",
+      "në të gjitha rrethanat e mësipërme"
+    ],
+    "correct": 1,
+    "explanation": "Hemianopsia bitemporale vjen nga kompresioni i kiazmës optike, tipikisht nga adenomat hipofizare dhe kraniofaringioma (sidomos te fëmijët), meningioma suprasellare."
+  },
+  {
+    "id": "licenca-neurologji-020",
+    "question": "Tremori i qetesise:",
+    "answers": [
+      "shtohet gjatë gjumit",
+      "shtohet gjatë lëvizjeve të vullnetshme",
+      "takohet në disa patologji të sistemit ekstrapiramidal",
+      "takohet në disa patologji të cerebelumit",
+      "takohet në disa patologji të sistemit piramidal"
+    ],
+    "correct": 2,
+    "explanation": "Tremori i qetësisë (shfaqet në pushim, zhduket me lëvizje dhe gjatë gjumit) është tipik për patologjitë ekstrapiramidale (Parkinson). Tremori qëllimor (intencional) është cerebelar."
+  },
+  {
+    "id": "licenca-neurologji-021",
+    "question": "Cfare nenkuptohet me spasticitet:",
+    "answers": [
+      "një dobësi muskulare, sidomos distale, me origjinë nervore centrale",
+      "një rritje e tonusit muskular me hiperrefleksi",
+      "një difekt në koordinimin muskular",
+      "një gjendje dekontraktimi muskular tonik me spasma",
+      "një crregullim të ecjes që rëndohet nga mbyllja e syve"
+    ],
+    "correct": 1,
+    "explanation": "Spasticiteti = rritje e tonusit muskular e varur nga shpejtësia (fenomeni \"thikë xhepi\"), me hiperrefleksi, klonus dhe Babinski — shenjë e lezionit të neuronit motor të sipërm (piramidal)."
+  },
+  {
+    "id": "licenca-neurologji-022",
+    "question": "Cili nga përshkrimet e mëposhtme e përkufizon më mirë dhimbjen migrenoze?",
+    "answers": [
+      "dhimbje pulsatile e tipit migrant dhe karakter paroksistik",
+      "dhimbje e vazhdueshme, e tipit rëndues që rëndohet me aktivitetin fizik",
+      "dhimbje me intensitet të ulët-të moderuar, vetëm bilaterale, që zgjat > 12 orë",
+      "është pulsatile, nga 4-72 ore, intensitet e moderuar-e rëndë, unilaterale, ndonjëherë e shoqëruar me nauzea e të vjella",
+      "dhimbje e tipit të vazhdueshëm, vetëm të paraprirë nga aura, shpesh induktuar nga stimuj odorantë, vizivë, auditivë"
+    ],
+    "correct": 3,
+    "explanation": "Migrena: dhimbje pulsatile, zakonisht unilaterale, me intensitet të moderuar-të rëndë, që zgjat 4–72 orë, përkeqësohet nga aktiviteti fizik, shoqërohet me nauze/të vjella, foto- dhe fonofobi."
+  },
+  {
+    "id": "licenca-neurologji-023",
+    "question": "Në një pacient që paraqet status epileptik të gjeneralizuar, për të garantuar funksionet vitale cila terapi do të praktikohet?",
+    "answers": [
+      "barbiturikë me rrugë orale",
+      "benzodiazepinë me rrugë endovenoze",
+      "benzodiazepinë me rrugë orale",
+      "neuroleptikë me rrugë endovenoze",
+      "anti-depresivë tre-ciklike me rrugë endovenoze"
+    ],
+    "correct": 1,
+    "explanation": "Në statusin epileptik të gjeneralizuar, pas sigurimit të ABC, bari i parë është benzodiazepina IV (lorazepam/diazepam; midazolam IM/bukal nëse s'ka rrugë venoze), e ndjekur nga fenitoinë/levetiracetam/valproat."
+  },
+  {
+    "id": "licenca-neurologji-024",
+    "question": "Shenja më e qëndrueshme dhe më e rëndësishme e disfunksionit cerebelar është:",
+    "answers": [
+      "instabiliteti në ecje",
+      "oshilacione të mëdha me mbylljen e syve",
+      "nistagmus",
+      "hypostenia",
+      "tremori"
+    ],
+    "correct": 0,
+    "explanation": "Shenja më e qëndrueshme e disfunksionit cerebelar (veçanërisht të vermisit) është ataksia/instabiliteti në ecje (bazë e gjerë, ecje si i dehur), që nuk përkeqësohet dukshëm me mbylljen e syve (ndryshe nga ataksia sensoriale)."
+  },
+  {
+    "id": "licenca-neurologji-025",
+    "question": "Paraliza periodike familjare është një dobësi muskulare e rëndë pseudoparalitike e lidhur me:",
+    "answers": [
+      "pakësimin e K+ serik",
+      "çrregullim të transmetimit të impulsit nervor në muskul",
+      "alterimin e pllakës motore",
+      "furnizimin e pakët me O2 në muskuj",
+      "hypofunksionin kortiko-surenalien"
+    ],
+    "correct": 0,
+    "explanation": "Paraliza periodike familjare (forma më e shpeshtë, hipokalemike — kanalopati e kalciumit/natriumit) jep episode dobësie të rëndë flakside të lidhura me rënien e K+ serik, pas ushqimeve të pasura me karbohidrate ose pushimit pas sforcimit."
+  },
+  {
+    "id": "licenca-neurologji-026",
+    "question": "Një lezion komplet i palcës spinale mund të përfshijë të gjitha përvec njërës:",
+    "answers": [
+      "ataksi në ecje",
+      "paraplegjia",
+      "anestezi poshtë nivelit të lezionit",
+      "atrofi dhe fashikulacione të muskujve në anësitë e poshtme",
+      "çrregullime sfinkteriane"
+    ],
+    "correct": 0,
+    "explanation": "Lezioni i plotë transvers i palcës jep paraplegji (ose tetraplegji), anestezi poshtë nivelit dhe çrregullime sfinkteriane; atrofi/fashikulacione në nivelin e lezionit. Ataksia në ecje nuk është tipike (pacienti nuk ecën fare)."
+  },
+  {
+    "id": "licenca-neurologji-027",
+    "question": "Eshtë një formë idiopatike e cefale-së:",
+    "answers": [
+      "cefalea nga monoksidi i carbonit",
+      "cluster headache",
+      "cefalea nga hiperpireksia (febrile)",
+      "cefalea nga abuzimi me medikamente",
+      "asnjë nga përgjigjet e dhëna"
+    ],
+    "correct": 1,
+    "explanation": "Cefalea cluster është cefale primare (idiopatike), ndryshe nga cefaleja nga CO, nga ethet apo nga abuzimi me analgjezikë, që janë sekondare."
+  },
+  {
+    "id": "licenca-neurologji-028",
+    "question": "Përkufizohet TIK një lëvizje që ka karakteristikat e mëposhtme përvec:",
+    "answers": [
+      "zgjat pak",
+      "e vullnetshme",
+      "stereotipe",
+      "e thjeshtë apo komplekse",
+      "përsëritëse"
+    ],
+    "correct": 1,
+    "explanation": "Tik-u është lëvizje (ose vokalizim) e papritur, e shpejtë, përsëritëse, stereotipe, e thjeshtë ose komplekse, jo e vullnetshme (por mund të shtypet përkohësisht, me ndjesi tensioni paraprake)."
+  },
+  {
+    "id": "licenca-neurologji-029",
+    "question": "Ne sindromin e kembeve pa pushim gjate nates jane te shpeshta:",
+    "answers": [
+      "zgjime te zgjatura nga dispnea",
+      "zgjime konfuzionale nga gjume i thelle",
+      "levizje periodike te anesive te poshtme",
+      "miokloni hipnoike ne fazen e dremitjes",
+      "ushqyerje kompulsive"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma e këmbëve të shqetësuara shoqërohet shpesh (80%) me lëvizje periodike të gjymtyrëve të poshtme gjatë gjumit, që fragmentojnë gjumin."
+  },
+  {
+    "id": "licenca-neurologji-030",
+    "question": "Cili nga simptomat e mëposhtme është tregues për një polineuropati në fazë fillestare?",
+    "answers": [
+      "cefalea",
+      "krampet",
+      "konvulsionet",
+      "retensioni urinar",
+      "dizartria"
+    ],
+    "correct": 1,
+    "explanation": "Simptomat e hershme të polineuropatisë periferike janë parestezitë distale (dorashka-çorape), krampet muskulore dhe dobësia distale; cefalea, konvulsionet dhe dizartria janë të SNQ."
+  },
+  {
+    "id": "licenca-neurologji-031",
+    "question": "Cila nga shenjat e mëposhtme nuk është e pranishme në poliradikuloneuritin Guillain-Barre?",
+    "answers": [
+      "hypoestezia",
+      "deficit motor",
+      "dhimbje muskulare",
+      "reduktim i reflekseve osteo-tendinoze",
+      "hypertonia"
+    ],
+    "correct": 4,
+    "explanation": "Guillain-Barré jep dobësi flakside ngjitëse, arefleksi, parestezi/hipoestezi të lehta, dhimbje muskulore/lumbare; hipotonia (jo hipertonia) është tipike, sepse lezioni është periferik."
+  },
+  {
+    "id": "licenca-neurologji-032",
+    "question": "Në paralizën e nervit të gjashtë kranial, syri është:",
+    "answers": [
+      "i rrotulluar nga jashtë",
+      "i rrotulluar nga brenda",
+      "aksi okular nuk është i ndryshuar",
+      "i rrotulluar lart",
+      "i rrotulluar poshtë"
+    ],
+    "correct": 1,
+    "explanation": "Nervi i gjashtë kranial (abducens) inervon muskulin rektus lateral; paraliza e tij jep pamundësi abduksioni dhe syri devijon nga brenda (ezotropi) me diplopi horizontale."
+  },
+  {
+    "id": "licenca-neurologji-033",
+    "question": "Neuralgjia trigeminale është më e shpeshtë:",
+    "answers": [
+      "në fëmijë dhe në gra",
+      "në meshkuj dhe në të moshuar",
+      "në gra dhe në subjekte të moshuar",
+      "në fëmijë dhe në meshkuj",
+      "në gra dhe në adoleshencë"
+    ],
+    "correct": 2,
+    "explanation": "Neuralgjia trigeminale është më e shpeshtë te gratë dhe te të moshuarit (>50 vjeç); te i riu duhet të përjashtohet skleroza multiple."
+  },
+  {
+    "id": "licenca-neurologji-034",
+    "question": "Ndërprerja e plotë e traktit optik të djathtë do të provokojë:",
+    "answers": [
+      "hemianopsi bitemporale",
+      "hemianopsi homonime dextra",
+      "hemianopsi homonime sinistra",
+      "kuadrantanopsia dextra",
+      "kuadrantanopsia sinistra"
+    ],
+    "correct": 2,
+    "explanation": "Lezioni i traktit optik të djathtë (pas kiazmës) jep hemianopsi homonime kontralaterale (të majtë) — humbje e fushës së majtë në të dy sytë."
+  },
+  {
+    "id": "licenca-neurologji-035",
+    "question": "Në isheminë cerebrale të territorit karotidien të djathtë, trajtimi kirurgjikal (trombendarterektomia) është i indikuar:",
+    "answers": [
+      "në mungesë të pllakave karotidiene",
+      "në prani të pllakës karotidiene sin pavarësisht nga grada e stenozës",
+      "në prani të pllakës karotidiene dex pavarësisht nga grada e stenozës",
+      "në prani të pllakës karotidiene dex me stenozë < 30%",
+      "në prani të pllakës karotidiene dex me stenozë > 70%"
+    ],
+    "correct": 4,
+    "explanation": "Endarterektomia karotide indikohet në stenozën simptomatike homolaterale (karotidi i djathtë për ishemi në territorin e djathtë) ≥70% (dhe 50–69% në raste të përzgjedhura); në <50% nuk ka përfitim."
+  },
+  {
+    "id": "licenca-neurologji-036",
+    "question": "A është e mundur të ndërpriten medikamentet anti-epileptike?",
+    "answers": [
+      "po, pas të paktën 2 vjet pa kriza",
+      "jo, në asnjë rast",
+      "jo, nqse EEG mbetet e alteruar edhe pse pa kriza",
+      "po, pas gjashtë muajsh pa kriza",
+      "jo nqse epilepsia është sekondare nga një traume kraniale"
+    ],
+    "correct": 0,
+    "explanation": "Antiepileptikët mund të ndërpriten gradualisht pas të paktën 2 vjetësh pa kriza (te fëmijët shpesh pas 2 vjetësh), duke vlerësuar rrezikun e recidivës (EEG, lezione strukturore, lloji i epilepsisë)."
+  },
+  {
+    "id": "licenca-neurologji-037",
+    "question": "Shkaku më i shpeshtë i hemorragjisë subaraknoidale përfaqësohet nga:",
+    "answers": [
+      "aneurizma cerebrale",
+      "malformacioni arterio-venoz cerebral",
+      "tumori cerebral",
+      "trauma kraniale",
+      "koagulopatitë"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i hemorragjisë subaraknoidale jo-traumatike (~85%) është ruptura e një aneurizme sakulare intrakraniale; pastaj malformacionet AV. (Në përgjithësi shkaku më i shpeshtë i HSA-së është trauma.)"
+  },
+  {
+    "id": "licenca-neurologji-038",
+    "question": "Menjëherë pas një seksioni (prerjeje) transversal të palcës spinale pritet të gjendet më shpesh:",
+    "answers": [
+      "inkontinenca urinare",
+      "retensioni urinar",
+      "paraplegjia spastike",
+      "shenja e Babinskit",
+      "rritje e reflekseve osteo-tendinoze"
+    ],
+    "correct": 1,
+    "explanation": "Menjëherë pas seksionit të palcës (shoku spinal) ka paralizë flakside, arefleksi dhe retension urinar (fshikëz atone); spasticiteti, hiperrefleksia dhe Babinski shfaqen pas javësh."
+  },
+  {
+    "id": "licenca-neurologji-039",
+    "question": "Manifestimet inaugurale më të shpeshta të miastenia gravis janë:",
+    "answers": [
+      "disfagia dhe disfonia",
+      "lodhja kronike",
+      "ptoza palpebrale dhe diplopia",
+      "çrregullimet respiratore",
+      "hypostenia proksimale"
+    ],
+    "correct": 2,
+    "explanation": "Manifestimet fillestare më të shpeshta të myasthenia gravis janë okulare: ptoza palpebrale (shpesh asimetrike) dhe diplopia, që përkeqësohen në mbrëmje/me lodhje."
+  },
+  {
+    "id": "licenca-neurologji-040",
+    "question": "Cili nga ekzaminimet e mëposhtme duhet për të konfirmuar një patologji hipofizare?",
+    "answers": [
+      "TAK (skaner) cerebral",
+      "TAK (skaner) i hipofizës",
+      "Radiografia e sella turcica",
+      "Kateterizimi i sinuseve petroze",
+      "Rezonanca cerebrale"
+    ],
+    "correct": 4,
+    "explanation": "Për patologjinë hipofizare (adenoma, mikroadenoma) ekzaminimi i zgjedhur është RM e trurit/sellës me gadolin (sekuenca dinamike); CT dhe radiografia janë më pak të ndjeshme."
+  },
+  {
+    "id": "licenca-neurologji-041",
+    "question": "Regjistrimi elektroencefalografik bazal i një neonati 3 muajsh:",
+    "answers": [
+      "është i njëjtë me atë të një adulti",
+      "është praktikisht i parregjistrueshëm për shkak të kompliancës së dobët të pacientit",
+      "është i ndryshëm nga ai i adultit",
+      "asnjë nga përgjigjet e mësipërme",
+      "nuk paraqet fazat e gjumit REM nokturn"
+    ],
+    "correct": 2,
+    "explanation": "EEG e foshnjës 3 muajshe është e ndryshme nga ajo e të rriturit (ritme më të ngadalta, organizim gjumi i ndryshëm, maturim progresiv), prandaj interpretohet sipas moshës."
+  },
+  {
+    "id": "licenca-neurologji-042",
+    "question": "Mielografia:",
+    "answers": [
+      "është një ekzaminim bioptik i aksoneve nervore",
+      "lejon evidentimin e anomalive të konduksionit të fibrave nervore",
+      "është një ekzaminim që prek pjesët kaudale të cerebelumit",
+      "lejon evidentimin e anomalive të kanalit vertebral",
+      "është një ekzaminim që nuk parashikon përdorimin e mjeteve të kontrastit"
+    ],
+    "correct": 3,
+    "explanation": "Mielografia (injektim kontrasti në hapësirën subaraknoidale lumbare + radiografi/CT) evidenton anomalitë e kanalit vertebral: hernie, stenoza, tumore, kompresione medulare/radikulare."
+  },
+  {
+    "id": "licenca-neurologji-043",
+    "question": "Neuralgjia trigeminale lokalizohet në mënyrë preferenciale:",
+    "answers": [
+      "në nivel të degës së I-rë të trigeminalit",
+      "në nivel të degës së II-të dhe të III-të të trigeminalit",
+      "në nivel fronto-okular",
+      "në nivel oksipital",
+      "në nivel temporo-parietal"
+    ],
+    "correct": 1,
+    "explanation": "Neuralgjia trigeminale prek më shpesh degët e dyta (maksilare) dhe të treta (mandibulare), me dhimbje paroksistike \"si goditje elektrike\" të nxitura nga prekja, të folurit, përtypja."
+  },
+  {
+    "id": "licenca-neurologji-044",
+    "question": "Cila nga shenjat e mëposhtme nuk i referohet një lezioni të neuronit të parë motor?",
+    "answers": [
+      "fashikulacionet",
+      "shtimi i reflekseve osteo-tendinoze",
+      "shenja e Babinskit",
+      "hypertonia muskulare",
+      "defiçiti motor"
+    ],
+    "correct": 0,
+    "explanation": "Fashikulacionet janë shenjë e lezionit të neuronit motor të dytë (periferik), krahas atrofisë, hipotonisë dhe hiporefleksisë. Neuroni i parë jep hiperrefleksi, Babinski, hipertoni spastike dhe deficit motor."
+  },
+  {
+    "id": "licenca-neurologji-045",
+    "question": "Sëmundja e Alzheimer është familjare në:",
+    "answers": [
+      "0-5% të rasteve",
+      "15-20% të rasteve",
+      "56-60% të rasteve",
+      "100% të rasteve",
+      "nuk është asnjëherë e tipit familjar"
+    ],
+    "correct": 1,
+    "explanation": "Sëmundja Alzheimer ka agregim familjar në ~15–20% të rasteve; format monogjenike autosomale dominante (APP, PSEN1, PSEN2) janë <5% dhe me fillim të hershëm."
+  },
+  {
+    "id": "licenca-neurologji-046",
+    "question": "Polineuriti infeksioz i tipit të Guillain-Barre ka të gjitha karakteristikat e mëposhtme përveç njërës. Cilës?",
+    "answers": [
+      "është shpesh pasojë e një infeksioni viral të aparatit respirator",
+      "është e lidhur probabilisht me Cytomegalovirus",
+      "proteinat likuorale janë veçanërisht të shtuara",
+      "në likuor janë të pranishme IgG oligoklonale",
+      "shoqërohet shpesh me çrregullime sensitive në shtrirje të madhe"
+    ],
+    "correct": 4,
+    "explanation": "Në Guillain-Barré mbizotëron deficiti motor; çrregullimet sensitive janë zakonisht të lehta, jo me shtrirje të madhe. Tipike: pas infeksionit, disociim albumino-citologjik në LCR; lidhet me CMV, C. jejuni."
+  },
+  {
+    "id": "licenca-neurologji-047",
+    "question": "Territori muskular më shpesh i prekur nga miastenia gravis është:",
+    "answers": [
+      "muskulatura proksimale e anësive t sipërme",
+      "muskulatura okulare ekstrinseke",
+      "muskulutura faringo-laringeale",
+      "muskulatura distale e anësive të sipërme",
+      "muskulatura proksimale e anësive të poshtme"
+    ],
+    "correct": 1,
+    "explanation": "Myasthenia gravis prek më shpesh muskulaturën okulare ekstrinseke (ptozë, diplopi) — në ~15% mbetet vetëm okulare; pastaj bulbaret dhe proksimalet e gjymtyrëve."
+  },
+  {
+    "id": "licenca-neurologji-048",
+    "question": "Një burrë 68 vjeçar me një histori hipertensioni arterial paraqitet për instalimin akut të një defiçiti motor e sensitiv në anësitë e poshtme të shoqëruara me inkontinencë të dyfishtë. Ekzaminimi neurologjik evidenton një paraplegji flaske, tonusi sfinkterian i reduktuar, anestezia termo-algjike nga një e treta e poshtme e toraksit e poshtë pa prekje të sensibilitetit vibrativ dhe të sensacionit të pozicionit dhe lëvizjes. Etiologjia më e mundshme është:",
+    "answers": [
+      "infarkti medular",
+      "infarkti bulbar",
+      "abcesi spinal",
+      "mieliti transvers",
+      "sindroma Guillain-Barre"
+    ],
+    "correct": 0,
+    "explanation": "Fillim akut i paraplegjisë flakside me anestezi termo-algjike nga një nivel torakal, çrregullime sfinkteriane dhe ruajtje të ndjeshmërisë vibratore/proprioceptive (kordonët posteriorë) te hipertensivi = infarkt medular në territorin e arteries spinale anteriore."
+  },
+  {
+    "id": "licenca-neurologji-049",
+    "question": "Një rënie e menjëhershme e forcës në anësitë e poshtme me arefleksi osteo-tendinoze dhe me mungesë të shenjave piramidale ka si shkaqe të mundshme:",
+    "answers": [
+      "lezione demielinizante spinale",
+      "tumor medular",
+      "sindromën Guillain-Barre",
+      "siringomielinë",
+      "araknoiditin spinal"
+    ],
+    "correct": 2,
+    "explanation": "Dobësi akute (ngjitëse) e gjymtyrëve të poshtme me arefleksi dhe pa shenja piramidale = poliradikuloneuropati akute Guillain-Barré. Lezionet medulare japin shenja piramidale dhe nivel sensitiv."
+  },
+  {
+    "id": "licenca-neurologji-050",
+    "question": "Prekja e sistemit nervor periferik në terren të AIDS (SIDA) karakterizohet nga shfaqja e:",
+    "answers": [
+      "neuropatisë demielinizante akute, e tipit Guillain-Barre",
+      "neuropatisë sensitive distale simetrike, me disestezi doloroze",
+      "neuropatisë autonome",
+      "multineuropatisë kraniale, radikulopatisë progresive doloroze me çrregullime sfinkteriane",
+      "të gjithave përgjigjeve të mësipërme"
+    ],
+    "correct": 4,
+    "explanation": "HIV prek sistemin nervor periferik në mënyra të ndryshme: neuropatia demielinizuese inflamatore akute (Guillain-Barré, në serokonversion), polineuropatia sensitive distale simetrike e dhimbshme (më e shpeshta), neuropatia autonome, mononeuritis multiplex, poliradikulopatia nga CMV."
+  },
+  {
+    "id": "licenca-neurologji-051",
+    "question": "Sëmundja neurologjike e karakterizuar nga zona të përhapura demielinizimi me integritet relativ të cilindrakseve është:",
+    "answers": [
+      "sifilizi",
+      "poliomieliti",
+      "skleroza multiple",
+      "anemia pernicioze",
+      "skleroza laterale amiotrofike"
+    ],
+    "correct": 2,
+    "explanation": "Skleroza multiple karakterizohet nga pllaka demielinizuese inflamatore të shpërndara në SNQ, me ruajtje relative të aksoneve (cilindraksve) në fazat e hershme."
+  },
+  {
+    "id": "licenca-neurologji-052",
+    "question": "Cila nga karakteristikat e mëposhtme klinike nuk përkufizojnë një aksident ishemik tranzitor?",
+    "answers": [
+      "fillim i papritur",
+      "simptomatologji neurologjike fokale",
+      "përhapje progresive e simptomave në një anësi apo hemikorp",
+      "zhdukje e shpejtë brenda 24 orëve",
+      "mungesa e shenjave neurologjike pas 24 orësh"
+    ],
+    "correct": 2,
+    "explanation": "TIA ka fillim të papritur, simptoma fokale dhe zgjidhje të plotë; përhapja progresive (\"marshimi\") e simptomave nga një pjesë e trupit në tjetrën është tipike për aurën migrenoze ose krizat epileptike fokale."
+  },
+  {
+    "id": "licenca-neurologji-053",
+    "question": "Cili nga medikamentet e mëposhtëm përdoret në trajtimin e epilepsisë temporale?",
+    "answers": [
+      "carbamazepina",
+      "levodopa",
+      "butirofenoni",
+      "triciklikët",
+      "fenotiazinë"
+    ],
+    "correct": 0,
+    "explanation": "Karbamazepina (dhe okskarbazepina) është bar i zgjedhjes së parë në epilepsitë fokale, përfshirë epilepsinë e lobit temporal; edhe lamotrigjina, levetiracetami."
+  },
+  {
+    "id": "licenca-neurologji-054",
+    "question": "Në malformacionin e Arnold-Chiari:",
+    "answers": [
+      "klinika mund të simulojë një tumor të fosa crani posterior, por jo një sklerozë multiple",
+      "manifestohen shenja dhe simptoma si të lezioneve cerebelare, bulbare dhe të nervave kraniale",
+      "klinika mund të simulojë siringomielinë, por jo platibazine",
+      "simptomat në përgjithësi nuk manifestohen deri në moshë adulte",
+      "shfaqja e hidrocefalisë është e pazakonshme"
+    ],
+    "correct": 1,
+    "explanation": "Malformacioni Arnold-Chiari (herniim i tonsilave cerebelare në foramen magnum) jep shenja cerebelare, bulbare, të nervave kraniale të poshtëm, shpesh me siringomieli dhe hidrocefali; simptomat mund të shfaqen në çdo moshë."
+  },
+  {
+    "id": "licenca-neurologji-055",
+    "question": "Të gjitha pohimet e mëposhtme në lidhje me një episod migrene janë të gabuara përveç:",
+    "answers": [
+      "zakonisht fillojnë papritur",
+      "mund të zgjasë me javë",
+      "shpesh paraprihet nga skotoma",
+      "shoqërohet me spazma të masseterit",
+      "asnjë nga përgjigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Migrena me aura shpesh paraprihet nga aura vizive (skotoma scintilante, fosfene) që zgjat 5–60 min; atakët zgjasin 4–72 orë (jo javë) dhe nuk shoqërohen me spazma të masetërit."
+  },
+  {
+    "id": "licenca-neurologji-056",
+    "question": "Mekanizmi i veprimit të toksinës botulinike është:",
+    "answers": [
+      "inhibimi i konduksionit të kalçiumit",
+      "inhibimi i lidhjes post-sinaptike acetilkolinë-receptor",
+      "inhibimi i çlirimit të acetilkolinës nga elementi pre-sinaptik",
+      "shtim i degradimit të acetilkolinës",
+      "inhibim i konduksionit të natriumit"
+    ],
+    "correct": 2,
+    "explanation": "Toksina botulinike çan proteinat SNARE (SNAP-25, sinaptobrevina) dhe bllokon çlirimin e acetilkolinës nga terminali presinaptik → paralizë flakside; përdoret terapeutikisht në distoni, spasticitet."
+  },
+  {
+    "id": "licenca-neurologji-057",
+    "question": "Cila nga këto situata nuk është faktor deklanshant (nxitës) i një krizë epileptike?",
+    "answers": [
+      "abuzimi i alkoolit",
+      "deprivimi i gjumit të natës",
+      "ethe (temperaturë) e zgjatur",
+      "dehidratim apo hyponatremi e thellë",
+      "pirja e duhanit"
+    ],
+    "correct": 4,
+    "explanation": "Faktorë nxitës të krizave epileptike: privimi nga gjumi, alkooli (dhe tërheqja prej tij), ethet, hiponatremia/hipoglicemia, stimujt dritë-intermitentë, mosmarrja e terapisë. Duhani nuk është faktor nxitës i njohur."
+  },
+  {
+    "id": "licenca-neurologji-058",
+    "question": "Në afazinë Wernicke:",
+    "answers": [
+      "të folurit nuk është fluent",
+      "pacienti është i pavetëdijshëm për atë që e rrethon",
+      "të folurit është i pakuptueshëm",
+      "është i pranishëm fenomeni i agramatizmit",
+      "të gjitha përgjigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Afazia Wernicke (sensoriale): e folur fluente por pa kuptim (parafazi, neologjizma, \"sallatë fjalësh\"), kuptim i dëmtuar dhe shpesh anozognozi; agramatizmi dhe e folura jo-fluente janë të afazisë Broca."
+  },
+  {
+    "id": "licenca-neurologji-059",
+    "question": "Episodet e cefaleve të tipit cluster kanë një kohëzgjatje prej:",
+    "answers": [
+      "pak sekondash",
+      "2-3 minutash",
+      "15-180 minutash",
+      "4-24 orësh",
+      "24-72 orësh"
+    ],
+    "correct": 2,
+    "explanation": "Atakët e cefalesë cluster zgjasin 15–180 minuta, me dhimbje periorbitale të tmerrshme njëanshme, me lakrimacion, rinorre, Horner homolateral, në periudha (\"cluster\") me 1–8 atakë/ditë."
+  },
+  {
+    "id": "licenca-neurologji-060",
+    "question": "Terapia anti-agregante është e indikuar:",
+    "answers": [
+      "në parandalimin sekondar të ishemisë cerebrale",
+      "në hemorragjinë subaraknoidale",
+      "në të gjithë subjektet mbi 50 vjeç, edhe pse në mungesë të faktorëve të riskut vaskular",
+      "në parandalimin sekondar të hemorragjisë cerebrale intraparenkimale",
+      "në asnjë nga përgjigjet e dhëna"
+    ],
+    "correct": 0,
+    "explanation": "Terapia antiagreguese (aspirinë, klopidogrel) është e indikuar në parandalimin sekondar të ishemisë cerebrale (pas TIA/iktusit ishemik), jo në hemorragjitë dhe jo te të gjithë >50 vjeç pa rrezik."
+  },
+  {
+    "id": "licenca-neurologji-061",
+    "question": "Tremori parkinsonian është i tipit:",
+    "answers": [
+      "postural",
+      "kinetik",
+      "të qetësisë",
+      "ortostatik",
+      "sinkron"
+    ],
+    "correct": 2,
+    "explanation": "Tremori parkinsonian është tremor qetësie (4–6 Hz, \"numërim monedhash\"), që zvogëlohet me lëvizjen e vullnetshme dhe zhduket në gjumë, shpesh asimetrik në fillim."
+  },
+  {
+    "id": "licenca-neurologji-062",
+    "question": "Shenja e parë më e shpeshtë e një patologjie të nervit të VII-të kranial është:",
+    "answers": [
+      "ptoza palpebrale kontrolaterale",
+      "pakësimi i refleksit orbital të anës së prekur",
+      "pakësim i refleksit orbital të anës kontrolaterale",
+      "devijimi kontrolateral i gjuhës",
+      "fashikulacione të rima labiale"
+    ],
+    "correct": 1,
+    "explanation": "Në lezionin e nervit fakial (VII) një nga shenjat e para është dobësimi i refleksit orbikular (mbyllja e syve) në anën e prekur; në paralizën periferike preket e gjithë gjysma e fytyrës homolaterale."
+  },
+  {
+    "id": "licenca-neurologji-063",
+    "question": "Me miotoni nënkuptohet:",
+    "answers": [
+      "një gjendje persistente e kontrakturës muskulare me krampe",
+      "një rritje persistente e tonusit muskular e tipit elastik, me rritje te reflekseve tendinoze",
+      "një rritje e tonusit muskular e tipit elastik, me spazma muskulare",
+      "një defiçit i relaksimit muskular nga kontraksioni persistent edhe pse stimuli ka mbaruar",
+      "një çrregullim motor central me lëvizje përsëritëse të vazhdueshme dhe posturë anormale"
+    ],
+    "correct": 3,
+    "explanation": "Miotonia = vështirësi/vonesë në relaksimin muskular pas kontraksionit të vullnetshëm ose perkusionit (p.sh. pamundësi për të lëshuar dorën pas shtrëngimit), tipike në distrofinë miotonike."
+  },
+  {
+    "id": "licenca-neurologji-064",
+    "question": "Një burrë 50 vjeçar paraqet prej rreth 15 muajsh një simptomatologji me rëndim progresiv të shpejtë të karakterizuar nga parapareza spastike, hiperrefleksia osteo- tendinoze difuze, shenja Babinski bilaterale, fashikulacione, atrofi të moderuar në muskujt e duarve, mungesë e defiçiteve të sensibilitetit apo të çrregullimeve sfinkteriane, cili është argumenti diagnostik më i mundshëm:",
+    "answers": [
+      "skleroza multiple",
+      "siringomielia",
+      "sëmundja e Friedreich",
+      "skleroza laterale amiotrofike",
+      "sëmundja e Tay-Sachs"
+    ],
+    "correct": 3,
+    "explanation": "Kombinimi i shenjave të neuronit motor të sipërm (paraparezë spastike, hiperrefleksi, Babinski) dhe të poshtëm (fashikulacione, atrofi e duarve), pa çrregullime sensitive e sfinkteriale, me progresion të shpejtë = sklerozë laterale amiotrofike."
+  },
+  {
+    "id": "licenca-neurologji-065",
+    "question": "Për trajtimin e atakut të cefalesë migrenoze rekurente preferohet të përdoret:",
+    "answers": [
+      "ergotamina ose dihidroergotamina per os",
+      "acidi acetilsalicilik me dozë mbi 1000mg per os",
+      "AIJS",
+      "triptanët",
+      "nuk ka diferenca sinjifikative ndërmjet medikamenteve të përmendura"
+    ],
+    "correct": 3,
+    "explanation": "Për atakët e migrenës të moderuar-të rëndë që nuk përgjigjen ndaj FANS, barnat e preferuara janë triptanët (agonistë 5-HT1B/1D), të marrë sa më herët në fillim të dhimbjes."
+  },
+  {
+    "id": "licenca-neurologji-066",
+    "question": "Ҫrregullimet neurogene të kontrollit të vezikës urinare të lidhura me lezione të medulës spinale provokojnë shpesh:",
+    "answers": [
+      "nekrozë tubulare akute",
+      "hidronefrozë bilaterale",
+      "polipozë vezikale",
+      "divertikulozë vezikale",
+      "hidrocelë"
+    ],
+    "correct": 1,
+    "explanation": "Fshikëza neurogjene nga lezionet medulare (disinergji detruzor-sfinkter, presione të larta intravezikale, refluks) çon shpesh në hidronefrozë bilaterale dhe dëmtim renal."
+  },
+  {
+    "id": "licenca-neurologji-067",
+    "question": "Në cilën nga këto patologji dyshohet për një fizio-patologji autoimune?",
+    "answers": [
+      "meningiti aseptik",
+      "sklerozë multiple",
+      "tuberkuloma cerebrale",
+      "hemorragjia subaraknoidale",
+      "panencefaliti subakut sklerotizant"
+    ],
+    "correct": 1,
+    "explanation": "Skleroza multiple ka patogjenezë autoimune (limfocite T autoreaktive kundër mielinës së SNQ). Panencefaliti subakut sklerozant vjen nga persistenca e virusit të fruthit."
+  },
+  {
+    "id": "licenca-neurologji-068",
+    "question": "Dhimbja e migrenës është veçanërisht:",
+    "answers": [
+      "migruese",
+      "therëse",
+      "konstriktive",
+      "pulsatile",
+      "shpuese"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbja migrenoze është tipikisht pulsatile (rrahëse), zakonisht unilaterale, me intensitet të moderuar-të rëndë."
+  },
+  {
+    "id": "licenca-neurologji-069",
+    "question": "Hemtomielia ndodh më shpesh në ecurinë e një:",
+    "answers": [
+      "diskrazie hematologjike",
+      "rupture të një malformacioni arterio-venoz",
+      "ruptura e një arterieje arteriosklerotike",
+      "traume",
+      "asnjë prej përgjigjeve të përmendura"
+    ],
+    "correct": 3,
+    "explanation": "Hematomielia (hemorragji brenda palcës kurrizore) ndodh më shpesh pas traumës vertebro-medulare; më rrallë nga malformacionet vaskulare ose koagulopatitë."
+  },
+  {
+    "id": "licenca-neurologji-070",
+    "question": "Numri normal i limfociteve në lëngun cerebro-spinal normal është:",
+    "answers": [
+      "deri në 2-3 celula/mm3",
+      "deri në 10 celula/mm3",
+      "deri në 100 celula/mm3",
+      "nuk duhet të jenë celula të asnjë tipi",
+      "varet nga formula e gjakut periferik"
+    ],
+    "correct": 0,
+    "explanation": "LCR normal përmban 0–5 qeliza/mm³ (limfocite), pa neutrofile; deri në 2–3 qeliza/mm³. Mbi 5 qeliza = pleiocitozë."
+  },
+  {
+    "id": "licenca-neurologji-071",
+    "question": "Cila nga etiologjitë e mëposhtme të meningitit ka prognozën më të keqe?",
+    "answers": [
+      "meningiti nga meningokoku",
+      "meningiti nga pneumokoku",
+      "meningiti nga Hemofilus influenze",
+      "meningiti nga Coxsakiae",
+      "meningiti nga Listeria monocitogenes"
+    ],
+    "correct": 1,
+    "explanation": "Meningiti pneumokoksik ka mortalitetin më të lartë (20–30%) dhe sekuela neurologjike të shpeshta (shurdhim, deficite), sidomos te të moshuarit; meningitet virale (Coxsackie) kanë prognozë të mirë."
+  },
+  {
+    "id": "licenca-neurologji-072",
+    "question": "Cili sistem apo strukturë preket në sklerozën laterale amiotrofike?",
+    "answers": [
+      "cerebelum",
+      "medula spinale",
+      "motoneuroni i poshtëm",
+      "motoneuroni i I-rë dhe i II-të",
+      "sistemi sensitiv"
+    ],
+    "correct": 3,
+    "explanation": "Skleroza laterale amiotrofike prek si motoneuronin e parë (korteksi motor, traktet kortikospinale) ashtu edhe të dytin (bri anterior, bërthamat motore të trungut), duke kursyer sistemin sensitiv dhe sfinkterët."
+  },
+  {
+    "id": "licenca-neurologji-073",
+    "question": "Kujt i korrespondojnë krizat e gjeneralizuara të njohura si “grand mal”?",
+    "answers": [
+      "krizave epileptike që zgjasin më shumë se 2 minuta",
+      "krizave konvulsive toniko-klonike",
+      "vetëm krizave që kanë një gjeneralizim sekondar",
+      "vetëm krizave të njëpasnjëshme që paraprijnë statusin epileptik",
+      "vetëm krizave që shoqërohen me inkontinencë sfinkteriane"
+    ],
+    "correct": 1,
+    "explanation": "\"Grand mal\" = kriza të gjeneralizuara toniko-klonike: humbje vetëdijeje, faza tonike, faza klonike, pastaj konfuzion postiktal."
+  },
+  {
+    "id": "licenca-neurologji-074",
+    "question": "Një hemiparezë brakio-faciale që regredon në pak orë mund të konstatohet me shpesh në:",
+    "answers": [
+      "hemorragjinë subaraknoidale",
+      "krizën miastenike",
+      "TIA (AIT) karotidiene",
+      "pusè-në e një sëmundjeje demielinizante",
+      "trombozën e arteries cerebrale media"
+    ],
+    "correct": 2,
+    "explanation": "Hemiparezë brakio-faciale që regreson plotësisht brenda pak orësh = atak ishemik tranzitor në territorin karotidien (arteria cerebrale e mesme)."
+  },
+  {
+    "id": "licenca-neurologji-075",
+    "question": "Encefaliti akut nekrotizant dyshohet në:",
+    "answers": [
+      "përhapjen e një neurosifilizi",
+      "përhapjen e një meningiti tuberkular",
+      "infeksionin nga neiseria meningitis",
+      "infeksionin nga herpes simplex virus",
+      "infeksionin nga bacili Coli"
+    ],
+    "correct": 3,
+    "explanation": "Encefaliti akut nekrotizant/hemorragjik (sidomos i lobeve temporale) është tipik për infeksionin nga Herpes simplex virus tip 1; trajtim urgjent me aciklovir IV."
+  },
+  {
+    "id": "licenca-neurologji-076",
+    "question": "Cilat janë shkaqet më të shpeshta të shfaqjes së epilepsisë tek të moshuarit?",
+    "answers": [
+      "traumat kraniale",
+      "encefalitet",
+      "çrregullimet metabolike",
+      "tumoret cerebrale",
+      "sëmundjet cerebro-vaskulare"
+    ],
+    "correct": 4,
+    "explanation": "Te të moshuarit shkaku më i shpeshtë i epilepsisë së re janë sëmundjet cerebrovaskulare (iktusi ishemik/hemorragjik), pastaj sëmundjet neurodegjenerative, tumoret dhe çrregullimet metabolike."
+  },
+  {
+    "id": "licenca-neurologji-077",
+    "question": "Në miastenia gravis, dobësia muskulare është rezultat i një insuficience të transmetimit kolinergjik në junksionin neuro-muskular; dobësia muskulare mund të shfaqet edhe për shkak të një mbidozimi të medikamenteve kolino-mimetike të përdorur në trajtimin e miastenisë. Cila nga shenjat/simptomat e mëposhtme mund të ndihmojë në diferencimin midis një krizë miastenike nga një krize kolinergjike?",
+    "answers": [
+      "fashikulacionet muskulare",
+      "ptoza palpebrale bilaterale",
+      "diplopia",
+      "insuficienca respiratore akute",
+      "reflekset osteo-tendinoze normale"
+    ],
+    "correct": 0,
+    "explanation": "Kriza kolinergjike (mbidozim i antikolinesterazave) jep fashikulacione, mioze, hipersalivacion, diarre, bradikardi (efekte muskarinike + nikotinike); në krizën miastenike këto mungojnë. Insuficienca respiratore dhe ptoza janë të përbashkëta."
+  },
+  {
+    "id": "licenca-neurologji-078",
+    "question": "Në trajtimin e sëmundjes së Parkinson në fazën fillestare të saj, zgjedhja e preferuar aktuale është:",
+    "answers": [
+      "administrimi i dozave të larta të Levodopa-s",
+      "tentimi i medikamenteve dopamino-agoniste",
+      "dhënia e një bashkëshoqërimi të dopaminergjikëve dhe levodopas",
+      "administrimi i domperidon",
+      "administrimi antikolinergjik"
+    ],
+    "correct": 1,
+    "explanation": "Te pacientët e rinj me Parkinson në fazën fillestare preferohej fillimi me agonistë dopaminergjikë (pramipeksol, ropinirol) për të vonuar komplikacionet motore të levodopës; te të moshuarit levodopa mbetet zgjedhja e parë."
+  },
+  {
+    "id": "licenca-neurologji-079",
+    "question": "Faktorët e riskut për zhvillimin e sëmundjes së Alzheimer përfshijnë të gjitha të mëposhtmet përveç njërës:",
+    "answers": [
+      "trauma kraniale",
+      "duhani",
+      "mosha e avancuar",
+      "një vëlla i prekur nga sëmundja e Alzheimer",
+      "sindromi Down"
+    ],
+    "correct": 1,
+    "explanation": "Faktorë rreziku për Alzheimer: mosha (kryesori), histori familjare, alelet APOE ε4, sindroma Down (trisomia 21 — APP), trauma kraniale, faktorët vaskularë. Duhani nuk konsiderohet faktor rreziku i provuar në këtë listë."
+  },
+  {
+    "id": "licenca-neurologji-080",
+    "question": "Lokalizimi më i shpeshtë i hemorragjive cerebrale është:",
+    "answers": [
+      "cerebelum",
+      "cauda",
+      "truncus cerebri",
+      "kapsula interna",
+      "nucleus ruber"
+    ],
+    "correct": 3,
+    "explanation": "Hemorragjitë cerebrale hipertensive lokalizohen më shpesh në ganglionet bazale (putamen) dhe kapsulën interne, pastaj talamus, ura, cerebelum, lobare."
+  },
+  {
+    "id": "licenca-neurologji-081",
+    "question": "Një komplikacion i rëndë i korrigjimit të shpejtë të një hipernatremie është:",
+    "answers": [
+      "edema cerebrale",
+      "mielinoliza pontine centrale",
+      "hemorragjia subaraknoidale",
+      "hemorragjia subdurale",
+      "hemorragjia intracerebrale"
+    ],
+    "correct": 0,
+    "explanation": "Korrigjimi i shpejtë i hipernatremisë kronike (ulje e shpejtë e osmolaritetit plazmatik) shkakton zhvendosje uji në neuronet e adaptuara → edemë cerebrale. Mielinoliza pontine qendrore vjen nga korrigjimi i shpejtë i hiponatremisë."
+  },
+  {
+    "id": "licenca-neurologji-082",
+    "question": "Koma që instalohet shpejt me ndjenjën e urisë, dobësisë ekstreme, djersitjes profuze dhe modifikimeve të respiracionit është në përgjithësi një:",
+    "answers": [
+      "komë hepatike",
+      "komë diabetike",
+      "komë hypoglicemike",
+      "komë uremike",
+      "komë cerebrale"
+    ],
+    "correct": 2,
+    "explanation": "Koma me instalim të shpejtë me ndjesi urie, dobësi të skajshme, djersitje të bollshme, takikardi dhe ndryshime të frymëmarrjes = koma hipoglicemike (simptoma adrenergjike + neuroglikopenike)."
+  },
+  {
+    "id": "licenca-neurologji-083",
+    "question": "Një pacienti me kriza epileptike toniko-klonike duhet:",
+    "answers": [
+      "t’i bllokohen lëvizjet duke e imobilizuar atë",
+      "t’i vendoset diçka midis dhëmbëve për të parandaluar dëmtime të gjuhës",
+      "të pritet përfundimi i krizës dhe më pas të vendoset në pozicion të sigurtë",
+      "t’i inspektohet kaviteti i gojës me gishta, nga e djathta në të majtë, për të eleminuar trupa të huaj eventuale",
+      "të gjitha përgjigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Gjatë krizës toniko-klonike: mos e imobilizo pacientin dhe mos fut asgjë në gojë; mbroje nga dëmtimet, prit përfundimin e krizës dhe vendose në pozicion lateral të sigurisë; thirr ndihmë nëse zgjat >5 minuta."
+  },
+  {
+    "id": "licenca-neurologji-084",
+    "question": "Pacient 32 vjeç, traumë nga aksident automobilistik. Nuk lëviz mirë anësitë e poshtme dhe nuk kontrollon sfinkterat. Dyshohet një lezion traumatik i medulës spinale. Cfarë ekzaminimi kërkon të parin?",
+    "answers": [
+      "TAK (skaner) i tërë kolonës spinale",
+      "radiografi e tërë kolonës",
+      "Rezonancë spinale",
+      "elektromiografi dhe potenciale të evokuara të palcës",
+      "stratigrafia e kolonës vertebrale"
+    ],
+    "correct": 1,
+    "explanation": "Në dyshim për traumë vertebro-medulare ekzaminimi i parë është radiografia e kolonës. Sot standardi në traumat e rëndësishme është CT e kolonës (shpejt dhe e ndjeshme), e ndjekur nga RM për palcën."
+  },
+  {
+    "id": "licenca-neurologji-085",
+    "question": "Terapia antikoagulante është zgjedhje e parë:",
+    "answers": [
+      "në të gjitha ictus-et ishemike",
+      "në ictus-et ishemike sekondare nga fibrilacioni arterial",
+      "në ictus-et ishemike sekondare nga ateromatozat karotide",
+      "në ictus-et hemorragjike",
+      "në ictus-et kriptogenike"
+    ],
+    "correct": 1,
+    "explanation": "Antikoagulimi oral është zgjedhja e parë në parandalimin sekondar të iktusit ishemik kardioembolik nga fibrilacioni atrial; në iktusin aterotrombotik/kriptogjen përdoren antiagregantët; në hemorragjik kundërindikohet."
+  },
+  {
+    "id": "licenca-neurologji-086",
+    "question": "Arteriti temporal (ose arteriti Horton) është i shoqëruar në mënyrë tipike me:",
+    "answers": [
+      "një rritje të sedimentit",
+      "një rritje të hematokritit",
+      "një rritje të hemoglobinës",
+      "një rritje të trombociteve",
+      "një reduktim të glukozës"
+    ],
+    "correct": 0,
+    "explanation": "Arteriti temporal (Horton) shoqërohet tipikisht me rritje të theksuar të ERS (shpesh >50–100 mm/orë) dhe PCR, anemi normokrome dhe trombocitozë reaktive."
+  },
+  {
+    "id": "licenca-neurologji-087",
+    "question": "Cila nga sëmundjes e mëposhtme kardio-vaskulare konsiderohet si më shumë risk për emboli cerebrale?",
+    "answers": [
+      "persistenca e foramen ovale apertum",
+      "ateromat e harkut të aortës < 4 mm",
+      "prolapsi i valvulës mitrale",
+      "fibroza e anulum të valvës mitrale",
+      "fibrilacioni atrial rheumatik apo valvular"
+    ],
+    "correct": 4,
+    "explanation": "Fibrilacioni atrial me valvulopati reumatike (stenozë mitrale) ka rrezikun më të lartë të embolisë cerebrale (rreth 17 herë më i lartë). PFO, prolapsi mitral dhe ateromat e vogla aortale kanë rrezik shumë më të ulët."
+  },
+  {
+    "id": "licenca-neurologji-088",
+    "question": "Cefalea e tipit tensiv është veçanërisht:",
+    "answers": [
+      "bilaterale",
+      "unilaterale",
+      "vetëm frontale",
+      "vetëm oksipitale",
+      "gjithnjë okulare"
+    ],
+    "correct": 0,
+    "explanation": "Cefalea e tipit tensiv është zakonisht bilaterale, shtrënguese/me ndjesi peshe (\"si rreth\"), me intensitet të lehtë-të moderuar, nuk përkeqësohet me aktivitetin fizik, pa nauze."
+  },
+  {
+    "id": "licenca-neurologji-089",
+    "question": "Halucinacionet janë përkufizuar si:",
+    "answers": [
+      "bindje false që mund të eliminohen me kritikën",
+      "bindje false që nuk mund të eleminohen me kritikën",
+      "perceptime sensoriale të gabuara të bazuara në stimulimin natyral të receptorëve",
+      "perceptime sensoriale të gabuara të pabazuara në stimulimin natyral të receptorëve",
+      "sensacione anormale çfarëdo të lidhura me një lezion neurologjik"
+    ],
+    "correct": 3,
+    "explanation": "Halucinacioni = perceptim pa objekt real (pa stimulim të receptorëve). Iluzioni = perceptim i shtrembëruar i një stimuli real. Deliri = bindje e rreme e pakorrigjueshme me kritikë."
+  },
+  {
+    "id": "licenca-neurologji-090",
+    "question": "Shkaku më i shpeshtë i paralizës akute bilaterale të nervit të VII-të kraniale është:",
+    "answers": [
+      "paraliza e Bell",
+      "infeksioni nga HIV",
+      "sindromi i Guillan-Barre",
+      "neuroborrelioza",
+      "A dhe C"
+    ],
+    "correct": 2,
+    "explanation": "Paraliza fakiale bilaterale akute shkaktohet më shpesh nga sindroma Guillain-Barré (diplegji fakiale), pastaj sëmundja Lyme, sarkoidoza, HIV; paraliza e Bell-it është zakonisht unilaterale."
+  },
+  {
+    "id": "licenca-neurologji-091",
+    "question": "Në sferën cerebro-vaskulare, ekzaminimi i lëngut cerebro-spinal mund të përbëjë një mjet mbështetës diagnostike:",
+    "answers": [
+      "në trombozën e bazilares",
+      "në hemorragjinë sub-araknoidale",
+      "në disekimin karotien ose vertebral",
+      "në asnjë nga përgjigjet e përmenduara",
+      "në të gjitha përgjigjet e përmendura"
+    ],
+    "correct": 1,
+    "explanation": "Në patologjinë cerebrovaskulare, punksioni lumbar është i dobishëm në hemorragjinë subaraknoidale kur CT është negative (LCR hemorragjik, ksantokromi pas 12 orësh)."
+  },
+  {
+    "id": "licenca-neurologji-092",
+    "question": "Një hemianopsi homonime e djathtë mund të jetë e shkaktuar nga një lezion:",
+    "answers": [
+      "i nervit optik",
+      "i kiazmës optike",
+      "në retinën e djathtë",
+      "në korteksin oksipital të djathtë",
+      "në traktin optik te majtë"
+    ],
+    "correct": 4,
+    "explanation": "Hemianopsia homonime e djathtë vjen nga një lezion retrokiazmatik i majtë: trakti optik i majtë, radiacionet optike të majta ose korteksi okcipital i majtë."
+  },
+  {
+    "id": "licenca-neurologji-093",
+    "question": "Një vertigo rotatore pozicionale është shumë probabilisht e lidhur me:",
+    "answers": [
+      "atakun ishemik vertebro-bazilar",
+      "intoksikimin nga opioidet",
+      "disfunksionimit labirintik",
+      "lezion demielinizant",
+      "epilepsinë"
+    ],
+    "correct": 2,
+    "explanation": "Vertigoja rrotulluese e nxitur nga ndryshimet e pozicionit të kokës (sekonda, me nistagmus pas manovrës Dix-Hallpike) është tipike për vertigon paroksistike pozicionale beninje — disfunksion labirintik (otolite në kanalet gjysmërrethore)."
+  },
+  {
+    "id": "licenca-neurologji-094",
+    "question": "Cili nga ekzaminimet e mëposhtme instrumentale konsiderohet zgjedhja e parë në rastin e një humbjeje të papritur dhe tranzitore të vetëdijes me rrëzim në tokë në një subjekt të moshuar, të pashoqëruar me manifestime epileptike?",
+    "answers": [
+      "elektroencefalograma",
+      "elektrokardiograma",
+      "TAK (skaner) i kokës",
+      "echo doppler i karotideve",
+      "radiografia e craniumit"
+    ],
+    "correct": 1,
+    "explanation": "Te i moshuari me humbje të papritur kalimtare të vetëdijes me rënie (sinkopë), pa manifestime epileptike, ekzaminimi i parë është EKG (aritmi, blloqe, ishemi), pastaj Holter, ekokardiografi."
+  },
+  {
+    "id": "licenca-neurologji-095",
+    "question": "Pacient 75 vjeç, kardiopat, nën terapi me antikoagulante, me një traume të lehtë kraniale disa ditë përpara konsultës klinike. Janë prezente një instabilitet postural dhe hemiparezë e lehtë sinistra. Cilin ekzaminim do të kërkonit dhe pse?",
+    "answers": [
+      "TAK (skaner) cerebral për dyshim të hematomës subdurale dhe dyshim ishemie",
+      "TAK (skaner) cerebral për dyshim stenoze të arteries silviane",
+      "TAK (skaner) cerebral për dyshim neoplazie",
+      "Rezonancë cerebrale për dyshim sëmundjeje degjenerative",
+      "Angiografi për dyshim hematomë cerebrale"
+    ],
+    "correct": 0,
+    "explanation": "I moshuar në antikoagulantë, pas traume të lehtë kraniale disa ditë më parë, me instabilitet dhe hemiparezë progresive = hematomë subdurale (akute/subakute) deri sa të provohet e kundërta; CT e kokës urgjente."
+  },
+  {
+    "id": "licenca-neurologji-096",
+    "question": "Statusi (etat de mal) epileptik:",
+    "answers": [
+      "është një gjendje kronike mbi të cilën duhet të ndërhyhet me modifikime të vogla në terapi",
+      "kërkon një vlerësim anesteziologjik si qëndrimi i parë terapeutik",
+      "mund të shprehet vetëm me kriza konvulsive të gjeneralizuara",
+      "është një urgjencë mjekësore",
+      "ka fenitoinën si terapinë e vetme të mundshme"
+    ],
+    "correct": 3,
+    "explanation": "Statusi epileptik (kriza që zgjat >5 minuta ose kriza të përsëritura pa rikuperim) është urgjencë mjekësore: benzodiazepina IV, pastaj fenitoinë/valproat/levetiracetam, dhe anestezi nëse refraktar."
+  },
+  {
+    "id": "licenca-neurologji-097",
+    "question": "Një lezion i ganglioneve bazale mund të japë këto shenja përveç:",
+    "answers": [
+      "lëvizje të pavullnetshme",
+      "rigiditet",
+      "tremor",
+      "paraliz flaccida",
+      "humbje e lëvizjeve automatike shoqëruese"
+    ],
+    "correct": 3,
+    "explanation": "Lezionet e ganglioneve bazale japin çrregullime ekstrapiramidale: lëvizje të pavullnetshme (korea, distoni), rigiditet, tremor, akinezi dhe humbje e lëvizjeve shoqëruese automatike. Paraliza flakside nuk është shenjë ekstrapiramidale."
+  },
+  {
+    "id": "licenca-neurologji-098",
+    "question": "Të dhënat e lëngut cerebro-spinal në sklerozën multiple:",
+    "answers": [
+      "janë përgjithësisht patognomonike",
+      "nuk janë përgjithësisht patognomonike",
+      "jo rrallë përfshijnë një pleocitozë të shprehur",
+      "përfshijnë vetëm një hypoglukoraki",
+      "përfshijnë vetëm një rritje të proteinave totale"
+    ],
+    "correct": 1,
+    "explanation": "LCR në sklerozën multiple nuk është patognomonik: pleiocitozë e lehtë limfocitare (<50), proteina normale/pak të rritura, banda oligoklonale IgG (pozitive në >90%, por edhe në sëmundje të tjera) dhe indeks IgG i rritur."
+  },
+  {
+    "id": "licenca-neurologji-099",
+    "question": "Cili nga elementet e mëposhtme klinike NUK bën pjesë në karakteristikat universalisht të pranuara të atakeve ishemike cerebrale tranzitore (TIA/AIT)?",
+    "answers": [
+      "fillim akut",
+      "zgjatje e simptomatologjisë jo më shumë se 24 orë",
+      "shenja neurologjike të tipit fokal",
+      "tendenca për të recidivuar",
+      "prekje neurologjike objektive akoma pozitive pas 24 orësh"
+    ],
+    "correct": 4,
+    "explanation": "TIA karakterizohet nga fillim akut, simptoma fokale, zgjidhje brenda 24 orëve dhe tendencë recidive; shenjat neurologjike objektive të pranishme pas 24 orësh përkufizojnë iktus, jo TIA."
+  },
+  {
+    "id": "licenca-neurologji-100",
+    "question": "Cila e dhënë kontribuon në mënyrë vendimtare diagnozën e epilepsisë?",
+    "answers": [
+      "EKG",
+      "ekzaminimi objektiv i pacientit",
+      "TAK (skaner) i kokës",
+      "anamneza",
+      "hetimi gjenetik"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e epilepsisë bazohet kryesisht në anamnezën e detajuar (nga pacienti dhe dëshmitarët) që përshkruan krizat; EEG dhe imazheria mbështesin klasifikimin dhe shkakun."
+  },
+  {
+    "id": "licenca-neurologji-101",
+    "question": "Cili është shkaku kryesor i vdekjes në SLA?",
+    "answers": [
+      "infarkti i miokardit",
+      "bronkopneumonia",
+      "pneumonia respirative",
+      "demenca",
+      "insuficienca respiratore"
+    ],
+    "correct": 4,
+    "explanation": "Shkaku kryesor i vdekjes në SLA është insuficienca respiratore nga dobësia e muskujve respiratorë (diafragma), shpesh e shoqëruar me pneumoni nga aspirimi."
+  },
+  {
+    "id": "licenca-neurologji-102",
+    "question": "Quhet ndryshe edhe cefalea e vetëvrasjes:",
+    "answers": [
+      "migrena me aura",
+      "cefalea cluster",
+      "neuroalgjia odontogjene",
+      "neuralgjia e n. Occipitalis major",
+      "hemikrania paroksistike kronike"
+    ],
+    "correct": 1,
+    "explanation": "Cefalea cluster quhet \"cefalea e vetëvrasjes\" për intensitetin ekstrem të dhimbjes periorbitale."
+  },
+  {
+    "id": "licenca-neurologji-103",
+    "question": "Në cilën nga këto situata vërehet rritja më e madhe e proteinave në likuor?",
+    "answers": [
+      "bllokun e plotë medular",
+      "hemorragjinë subaraknoidale",
+      "sklerozë multiple",
+      "meningo-encefaliti akut viral",
+      "paralizën progresive"
+    ],
+    "correct": 0,
+    "explanation": "Rritja më e madhe e proteinave në LCR shihet në bllokun e plotë medular (sindroma Froin: LCR ksantokromik, hiperproteinorraki e lartë nën bllok) dhe në Guillain-Barré."
+  },
+  {
+    "id": "licenca-neurologji-104",
+    "question": "Migrena pa aura është më e shpeshtë:",
+    "answers": [
+      "në moshën infantile",
+      "në të moshuarit",
+      "gjatë shtatzanisë",
+      "në adultët e rinj",
+      "gjatë menopauzës"
+    ],
+    "correct": 3,
+    "explanation": "Migrena pa aura është më e shpeshtë te të rriturit e rinj (20–40 vjeç), sidomos te gratë (3:1); shpesh përmirësohet në shtatzëni dhe pas menopauzës."
+  },
+  {
+    "id": "licenca-neurologji-105",
+    "question": "Refleksi i akomodimit apo i afrimit drejt syve konsiston në:",
+    "answers": [
+      "midriazë, konvergjencë dhe rritje e kurbaturës së kristalinit",
+      "midriazë, rrotullim intern dhe rritje e kurbaturës së kristalinit",
+      "miozë, divergjencë dhe rritje e kurbaturës së kristalinit",
+      "miozë, konvergjencë dhe rritje e kurbaturës së kristalinit",
+      "miozë, konvergjencë dhe ptozë"
+    ],
+    "correct": 3,
+    "explanation": "Refleksi i akomodimit-konvergjencës (afrimit): konvergjenca e syve, mioza dhe rritja e kurbaturës së kristalinit (kontraktim i muskulit ciliar) për të parë nga afër."
+  },
+  {
+    "id": "licenca-neurologji-106",
+    "question": "Cefalea e tipit tensiv:",
+    "answers": [
+      "përkeqësohet nga aktiviteti fizik",
+      "deklanshohet (nxitet) nga sforcimet fizike",
+      "nuk modifikohet me aktivitetin fizik",
+      "përkeqësohet gjatë gjumit",
+      "asnjë nga përgigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Cefalea tensive nuk përkeqësohet me aktivitetin fizik rutinë (ndryshe nga migrena), nuk shoqërohet me nauze dhe nuk zgjon nga gjumi."
+  },
+  {
+    "id": "licenca-neurologji-107",
+    "question": "Me epilepsi “petit mal” nënkuptohet:",
+    "answers": [
+      "një formë e dobësuar e “grand mal”",
+      "një alterim i gjendjes së koshiencës jo mbi bazë organike",
+      "një kuadër epileptik me aspekte klinike dhe elektroencefalografike specifike",
+      "epilepsia e fëmijërisë së hershme",
+      "epilepsia psikomotore"
+    ],
+    "correct": 2,
+    "explanation": "\"Petit mal\" = epilepsia me mungesa tipike (absence) të fëmijërisë: shkëputje të shkurtra të vetëdijes (5–15 sek), shumë herë në ditë, me EEG specifike me spike-and-wave 3 Hz."
+  },
+  {
+    "id": "licenca-neurologji-108",
+    "question": "Midis formave të cefaleve të cituara, takohet më shpesh në burrat se në gratë:",
+    "answers": [
+      "migrena pa aura",
+      "migrena me aura",
+      "cefalea e tipit tensiv",
+      "cefalea cluster",
+      "hemikrania kronike paroksistike"
+    ],
+    "correct": 3,
+    "explanation": "Cefalea cluster është shumë më e shpeshtë te burrat (3–4:1), zakonisht 20–40 vjeç, duhanpirës. Migrena, cefalea tensive dhe hemikrania paroksistike janë më të shpeshta te gratë."
+  },
+  {
+    "id": "licenca-neurologji-109",
+    "question": "Një krizë epileptike parciale motore e djathtë mund të shkaktohet nga një fokus epileptik i lokalizuar në:",
+    "answers": [
+      "lobin frontal të djathtë",
+      "lobin parietal të majtë",
+      "lobin oksipital të majtë",
+      "talamusin e djathtë",
+      "lobin frontal të majtë"
+    ],
+    "correct": 4,
+    "explanation": "Kriza motore parciale e djathtë (kontraksione në gjysmën e djathtë) vjen nga fokus në korteksin motor (lobi frontal, gyrusi precentral) të majtë, kontralateral."
+  },
+  {
+    "id": "licenca-neurologji-110",
+    "question": "Në një pacient me çrregullime të ecjes, çrregullime sfinkteriane dhe humbje të sensibilitetit nga umbilikusi e poshtë, ekzaminimi që kryhet në rend të parë është:",
+    "answers": [
+      "rezonanca magnetike e kokës",
+      "angiografia medulare",
+      "rezonanca magnetike e kolonës torakale",
+      "rakicenteze",
+      "TAK (skaner) spinal"
+    ],
+    "correct": 2,
+    "explanation": "Çrregullime ecjeje, sfinkteriale dhe nivel sensitiv në umbilikus (T10) sugjerojnë mielopati torakale (kompresion medular); ekzaminimi i parë është RM e kolonës torakale."
+  },
+  {
+    "id": "licenca-neurologji-111",
+    "question": "Një grua 32 vjeçe sheh dysh prej një muaji. Ky çrregullim është intermitent, por duket të jetë më evident në mbrëmje ; prej disa ditësh ka vënë re « të ketë lodhje » në përtypjen e mishit; në ekzaminim objektiv evidentohet një ptozë palpebrale sinistra që rritet me zgjatjen e shikimit lart. Cila është diagnoza më e mundshme?",
+    "answers": [
+      "TIA/AIT (atak ishemik tranzitor) në territorin vertebro-bazilar",
+      "tumor mesenfalik",
+      "tumor pontin",
+      "histeri",
+      "miastenia gravis"
+    ],
+    "correct": 4,
+    "explanation": "E re me diplopi intermitente që përkeqësohet në mbrëmje, lodhje në përtypje dhe ptozë që shtohet me shikimin e zgjatur lart (fatigabilitet) = myasthenia gravis; diagnoza me antitrupa anti-AChR, EMG me stimulim të përsëritur."
+  },
+  {
+    "id": "licenca-neurologji-112",
+    "question": "Diseminimi (metastazimi) cerebro-spinal vërehet me probabilitet të lartë në:",
+    "answers": [
+      "meduloblastoma",
+      "adenoma hypofizare",
+      "astrocitoma grada IV (glioblastoma)",
+      "oligodendroglioma",
+      "kraniofaringeoma"
+    ],
+    "correct": 0,
+    "explanation": "Medulloblastoma (tumor embrional i cerebelumit te fëmijët) përhapet shpesh përmes LCR në hapësirën subaraknoidale cerebro-spinale (\"drop metastases\"), prandaj kërkon RM të gjithë neuraksit dhe rrezatim kraniospinal."
+  },
+  {
+    "id": "licenca-neurologji-113",
+    "question": "Cila nga terapitë e mëposhtme është ajo e zgjedhura në trajtimin e trombozës venoze cerebrale?",
+    "answers": [
+      "antibiotikët",
+      "antiedematozët",
+      "antiepileptikët",
+      "heparina",
+      "steroidet"
+    ],
+    "correct": 3,
+    "explanation": "Tromboza e venave/sinuseve cerebrale trajtohet me antikoagulim me heparinë (edhe në prani të infarktit hemorragjik), pastaj antikoagulantë oralë për 3–12 muaj."
+  },
+  {
+    "id": "licenca-neurologji-114",
+    "question": "Paraliza periodike është e karakterizuar nga nivele intermitente:",
+    "answers": [
+      "të rritura të fosfatazes acide",
+      "të ulëta të kaliumit",
+      "të ulëta të kreatininës",
+      "të rritura të fosforemisë",
+      "të rritura të aminoacideve"
+    ],
+    "correct": 1,
+    "explanation": "Paraliza periodike (forma më e shpeshtë familjare) karakterizohet nga nivele intermitente të ulëta të kaliumit gjatë atakëve (hipokalemike); ekzistojnë edhe forma hiperkalemike. Çelësi (C, kreatinina e ulët) duket gabim."
+  },
+  {
+    "id": "licenca-neurologji-115",
+    "question": "Cili nga alterimet e mëposhtme të studimit elektrofiziologjik të konduksionit nervor janë karakteristike për neuropatitë demielinizante?",
+    "answers": [
+      "amplitudë e ulët e potencialit sensitiv",
+      "dekrement në stimulimin e përsëritur",
+      "reduktim në shpejtesinë e konduksionit motor e sensitiv",
+      "prezenca e fibrilacioneve në ekzaminimin me gjilpërë të muskulit",
+      "rritje e shpejtësisë së konduksionit"
+    ],
+    "correct": 2,
+    "explanation": "Neuropatitë demielinizuese karakterizohen nga ulje e theksuar e shpejtësisë së përçimit motor dhe sensitiv, zgjatje e latencave distale, blloqe përçimi dhe shpërndarje temporale. Neuropatitë aksonale ulin amplitudat."
+  },
+  {
+    "id": "licenca-neurologji-116",
+    "question": "Në SLA, alterimet e para motore që takohen janë:",
+    "answers": [
+      "fashikulacionet",
+      "tetania",
+      "mioklonus",
+      "paraliza flakside",
+      "paraliza spastike"
+    ],
+    "correct": 0,
+    "explanation": "Në SLA shenjat e para motore janë shpesh fashikulacionet, krampet dhe dobësia/atrofia fokale asimetrike (p.sh. e muskujve të dorës)."
+  },
+  {
+    "id": "licenca-neurologji-117",
+    "question": "Cilat valë karakterizojnë “ritmin bazë” të elektroencefalogramës?",
+    "answers": [
+      "alfa",
+      "beta",
+      "theta",
+      "delta",
+      "ritmi Mu"
+    ],
+    "correct": 0,
+    "explanation": "Ritmi bazë normal i EEG te i rrituri zgjuar me sy mbyllur është ritmi alfa (8–13 Hz), në zonat posteriore, që bllokohet me hapjen e syve."
+  },
+  {
+    "id": "licenca-neurologji-118",
+    "question": "Simptomat neurologjike të hiperparatiroidizmit mund të jenë:",
+    "answers": [
+      "hiperaktiviteti",
+      "dizorientimi temporo-spacial",
+      "letargjia",
+      "amnezia",
+      "të gjitha të mësipërmet"
+    ],
+    "correct": 2,
+    "explanation": "Hiperkalcemia nga hiperparatiroidizmi jep simptoma neuropsikike: letargji, lodhje, depresion, konfuzion, deri në komë (\"gurë, kocka, rënkime abdominale, dhe sinjale psikike\")."
+  }
+]

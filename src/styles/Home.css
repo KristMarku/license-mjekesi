@@ -1,0 +1,74 @@
+.home{
+
+    display:flex;
+
+    gap:40px;
+
+    padding:40px;
+
+    min-height:100vh;
+
+    background:#e0f3ec;
+
+    color:#1f2937;
+
+}
+
+@media(max-width:768px){
+
+.home{
+
+    flex-direction:column;
+
+    gap:20px;
+
+    padding:20px;
+
+}
+
+.home{
+    color-scheme:light;
+}
+
+.navigation{
+
+    width:100%;
+
+}
+
+.navList,
+.navButton{
+
+    width:100%;
+
+}
+
+.infoPanel{
+
+    width:100%;
+
+    padding:24px;
+
+    box-sizing:border-box;
+
+}
+
+.randomButton,
+.startButton,
+.examButton{
+
+    width:100%;
+
+    margin-top:24px;
+
+}
+
+.atRoot .infoPanel,
+.atRoot .backButton,
+.isQuizActive .navigation{
+
+    display:none;
+
+}
+
+}

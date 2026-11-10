@@ -1,0 +1,1664 @@
+[
+  {
+    "id": "licenca-imazheri-001",
+    "question": "Në nje pacient që dyshohet se vuan nga tuberkulozi, bacilli i Kochut vihet ne dukje me anë të:",
+    "answers": [
+      "ngjyrimit me PAS",
+      "ngjyrimit me Ziehl-Nielsan",
+      "ngjyrimit me hematoksiline-eozine",
+      "ngjyrimit me blu metilen",
+      "ngjyrimit me Giemsa"
+    ],
+    "correct": 1,
+    "explanation": "Mycobacterium tuberculosis është acido-alkoolo-rezistent (mur i pasur me acide mikolike), prandaj evidentohet me ngjyrimin Ziehl-Neelsen (shkopinj të kuq në sfond blu) ose auramin-rodamin. Gram dhe ngjyrimet e zakonshme nuk e ngjyrosin mirë."
+  },
+  {
+    "id": "licenca-imazheri-002",
+    "question": "Cilët parametra alterohen në anemine sideropenike?",
+    "answers": [
+      "rritje e ferritinemisë serike dhe ulje e rruazave të kuqe në qarkullim",
+      "rritje e transferinës serike dhe ulje e ferritinemisë serike",
+      "rritje e rruazave te kuqe ne qarkullim dhe ulje e MHC (median haemoglobin concentration)",
+      "rritje e hematokritit (HCT) dhe ulje e përqëndrimit të MCHC",
+      "asnjë nga këto përgjigje"
+    ],
+    "correct": 1,
+    "explanation": "Në anemi sideropenike: ferritina ulet (rezervat bosh), transferina/TIBC rritet, sideremia dhe saturimi bien, MCV dhe MCHC ulen. Alternativa B është e saktë; çelësi i PDF-së (\"asnjë\") duket gabim."
+  },
+  {
+    "id": "licenca-imazheri-003",
+    "question": "Cila enzimë mbetet më gjatë në vlera të rritura pas infarktit akut të miokardit?",
+    "answers": [
+      "CK",
+      "Troponina I",
+      "GOT/AST",
+      "Mioglobina",
+      "CK-MB"
+    ],
+    "correct": 1,
+    "explanation": "Troponinat (I dhe T) rriten 3–6 orë pas infarktit dhe mbeten të rritura 7–14 ditë, më gjatë se CK-MB (2–3 ditë) dhe mioglobina (<24 orë). Kjo lejon diagnozën e infarkteve të vonuara."
+  },
+  {
+    "id": "licenca-imazheri-004",
+    "question": "Cili parametër laboratorik është gjithmonë i rritur në sindromën Cushing?",
+    "answers": [
+      "kortizoli urinar",
+      "transaminazat",
+      "leukocitet",
+      "ACTH plazmatik",
+      "DHEA-sulfat plazmatik"
+    ],
+    "correct": 0,
+    "explanation": "Në çdo formë të sindromës Cushing (hipofizare, surrenale, ektopike, iatrogjene endogjene) kortizoli i lirë urinar 24-orësh është i rritur. ACTH-ja është e rritur vetëm në format ACTH-varëse."
+  },
+  {
+    "id": "licenca-imazheri-005",
+    "question": "Vargu globinik në hemoglobinën e një të rrituri normal ka përbërje si më poshtë:",
+    "answers": [
+      "dy vargje alfa dhe dy vargje beta",
+      "një varg alfa dhe një varg beta",
+      "një varg alfa dhe dy vargje gama",
+      "dy vargje alfa dhe dy vargje gama"
+    ],
+    "correct": 0,
+    "explanation": "HbA e të rriturit (~97%) është tetramer me 2 zinxhirë alfa dhe 2 beta (α2β2). HbA2 = α2δ2, HbF (fetale) = α2γ2."
+  },
+  {
+    "id": "licenca-imazheri-006",
+    "question": "Cili nga shënjuesit tumoral mund të gjendet në vlera të rritura gjatë një tumori neuroendokrin?",
+    "answers": [
+      "antigjeni karcino embrional (CEA)",
+      "alfafetoproteina (AFT)",
+      "kromogranina A",
+      "antigjeni polipeptidik indor (TPA)",
+      "CA 15-3"
+    ],
+    "correct": 2,
+    "explanation": "Kromogranina A është markuesi kryesor i tumoreve neuroendokrine (karcinoidë, tumore pankreatike neuroendokrine, feokromocitoma). CEA – kolorektale, AFP – hepatokarcinoma, CA 15-3 – gji."
+  },
+  {
+    "id": "licenca-imazheri-007",
+    "question": "Cili nga këto parametra laboratorik të alteruar mund të tregojë për egzistencën e një çrregullimi në gjendrën tiroide?",
+    "answers": [
+      "Sideremia",
+      "Kreatininemia",
+      "Kolesterolemia",
+      "Azotemia",
+      "LDH"
+    ],
+    "correct": 2,
+    "explanation": "Hormonet tiroidiane rrisin receptorët LDL; në hipotiroidizëm kolesteroli rritet, në hipertiroidizëm ulet. Prandaj hiperkolesterolemia e pashpjegueshme duhet të nxisë kontrollin e TSH-së."
+  },
+  {
+    "id": "licenca-imazheri-008",
+    "question": "Cili është testi diagnostik i fibrozës cistike?",
+    "answers": [
+      "heliko tomografia me rezolucion të lartë e toraksit",
+      "bronkoskopia",
+      "spirometria",
+      "testi i djersës",
+      "shintigrafia pulmonare"
+    ],
+    "correct": 3,
+    "explanation": "Testi i djersës (përqendrimi i klorit >60 mmol/L me jontoforezë pilokarpine) është testi diagnostik i fibrozës kistike, i konfirmuar me analizën gjenetike CFTR."
+  },
+  {
+    "id": "licenca-imazheri-009",
+    "question": "Cili bakter haset me shpesh në flogozën supurative?",
+    "answers": [
+      "Stafilokoku epidermeitis",
+      "Diplokoku",
+      "Stafilokoku aureus",
+      "Streptokoku fekal",
+      "Streptokoku viridans"
+    ],
+    "correct": 2,
+    "explanation": "Staphylococcus aureus është shkaktari kryesor i inflamacioneve supurative (abscese, furunkuj, celulite me qelb) për shkak të koagulazës dhe toksinave."
+  },
+  {
+    "id": "licenca-imazheri-010",
+    "question": "Me cilën rrugë eleminohen nga organizmi lëndët e kontrastit organik jodik hidrosolubil?",
+    "answers": [
+      "rektale",
+      "hepatike",
+      "pulmonare",
+      "me pështymë",
+      "renale"
+    ],
+    "correct": 4,
+    "explanation": "Kontrastet jodike hidrosolubël eliminohen pothuajse tërësisht me filtrim glomerular, prandaj janë nefrotoksikë te pacientët me insuficiencë renale (kontrollo kreatininën, hidrato pacientin)."
+  },
+  {
+    "id": "licenca-imazheri-011",
+    "question": "Cila shenjë radiologjike konfirmon shenjat patognomotike të një okluzioni intestinal të dyshuar?",
+    "answers": [
+      "nivele aerike mbi diafragëm",
+      "nivele aerike nën diafragëm",
+      "nivele hidro aerike intestinale",
+      "opacitet difuz abdominal",
+      "radiotransparenzë difuze abdominale"
+    ],
+    "correct": 2,
+    "explanation": "Nivelet hidroaerike intestinale (në radiografinë direkte në këmbë) janë shenja tipike e okluzionit intestinal; ajri nën diafragmë tregon perforacion."
+  },
+  {
+    "id": "licenca-imazheri-012",
+    "question": "Në rastin e një traume muskulare ku dyshohet edhe për një hematomë post-traumatike, teknika diagnostike më e përshtatshme është:",
+    "answers": [
+      "CT",
+      "Radiografi zonale",
+      "Xeroradiografi",
+      "Shintigrafi",
+      "Ekografi"
+    ],
+    "correct": 4,
+    "explanation": "Për hematomën muskulare posttraumatike metoda e zgjedhur është ekografia: e shpejtë, pa rrezatim, tregon koleksionin likid dhe lejon ndjekjen/drenimin (si te pyetja 48). Kserografia është teknikë e vjetëruar; çelësi i PDF-së (C) duket gabim."
+  },
+  {
+    "id": "licenca-imazheri-013",
+    "question": "Nëse në një pacient dyshohet për perforacion intestinal, cili ekzaminimi instrumental duhet kërkuar urgjentisht?",
+    "answers": [
+      "Ekografi abdominale",
+      "Radiografi me barium e aparatit tretës",
+      "Klizëm me kontrast hidrosolubël",
+      "Klizëm me dopio kontrast",
+      "Radiografi abdominale"
+    ],
+    "correct": 4,
+    "explanation": "Në dyshim perforacioni, radiografia direkte abdominale/toraksit në këmbë tregon pneumoperitoneumin (ajër i lirë nën diafragmë). Bariumi kundërindikohet (rrezik peritoniti barik); CT është më e ndjeshme kur radiografia është negative."
+  },
+  {
+    "id": "licenca-imazheri-014",
+    "question": "Ekografikisht një cistit renal i thjeshtë do të paraqitej:",
+    "answers": [
+      "Anekogen",
+      "Hiperekogen",
+      "Hipoekogen",
+      "Izoekogen",
+      "Mikse"
+    ],
+    "correct": 0,
+    "explanation": "Kisti renal i thjeshtë në ekografi është anekogjen (i zi, pa jehona), me mure të hollë e të rregullt dhe përforcim posterior akustik. Komponentët solidë ose septet sugjerojnë kist kompleks."
+  },
+  {
+    "id": "licenca-imazheri-015",
+    "question": "Cili ekzaminimi është më i përshtatshëm në ndjekjen e ecurisë të sëmundjes së një pacienti me pankreatit akut?",
+    "answers": [
+      "ERCP",
+      "Kolangio-RM",
+      "Kolangiografia",
+      "RM abdominale",
+      "Ekografia"
+    ],
+    "correct": 4,
+    "explanation": "Ekografia është e thjeshtë, e përsëritshme dhe pa rrezatim — e përshtatshme për ndjekjen e pankreatitit (koleksionet, pseudokistet, litiaza biliare). CT me kontrast përdoret për vlerësimin e nekrozës/komplikacioneve në fazat kyçe."
+  },
+  {
+    "id": "licenca-imazheri-016",
+    "question": "Cili është ekzaminimi i përzgjedhur në studimin e palcës kockore?",
+    "answers": [
+      "Radiografia",
+      "Angiografia",
+      "TC",
+      "Ekografia",
+      "RM"
+    ],
+    "correct": 4,
+    "explanation": "RM është metoda më e mirë për palcën kockore: dallon edemën, infiltrimin tumoral, infeksionin dhe osteonekrozën shumë herët, kur radiografia dhe CT janë ende normale."
+  },
+  {
+    "id": "licenca-imazheri-017",
+    "question": "Në stadifikimin e tumorit pulmonar cila e dhënë radiologjike është me e përdorshme?",
+    "answers": [
+      "Shintigrafia pulmonare",
+      "TC torakale pa kontrast",
+      "Bronkoskopia",
+      "Radiografia e toraksit",
+      "TC torakale me mjete kontrasti"
+    ],
+    "correct": 4,
+    "explanation": "CT torakale me kontrast është metoda bazë për stadifikimin e kancerit pulmonar: përmasat e tumorit, raportet me strukturat mediastinale, limfonodujt dhe metastazat (mëlçi/surrenale në prerjet e sipërme abdominale)."
+  },
+  {
+    "id": "licenca-imazheri-018",
+    "question": "Pacient 50 vjeç, me episode hematurie dhe ekografi negative për kalkulozën renale. Cili ekzaminim instrumental është dytësor?",
+    "answers": [
+      "Radiografi e aparatit urinar",
+      "Ekografi",
+      "Pielo-RM",
+      "Urografi",
+      "Uro-TC"
+    ],
+    "correct": 4,
+    "explanation": "Hematuria te >50 vjeç me ekografi negative kërkon uro-CT (CT me fazë ekskretore) për të vlerësuar tumoret uroteliale të rrugëve të sipërme dhe gurët; plus cistoskopi për fshikëzën."
+  },
+  {
+    "id": "licenca-imazheri-019",
+    "question": "Kur dyshohen klinikisht për fraktura të meniskut post-traumatike, cili ekzaminim instrumenta është më i indikuari?",
+    "answers": [
+      "Radiografia konvencionale",
+      "RM",
+      "Ekografia",
+      "Artro-RM",
+      "Artro-TC"
+    ],
+    "correct": 1,
+    "explanation": "RM është ekzaminimi i zgjedhur për lezionet e meniskut dhe ligamenteve të gjurit (jo-invaziv, i ndjeshëm). Radiografia tregon vetëm kockat; artro-RM/artro-CT janë invazive."
+  },
+  {
+    "id": "licenca-imazheri-020",
+    "question": "Një grua diagnostikohet në mamografi me mikro kalçifikime parenkimale. Çfarë ekzaminimi do të kërkonit më tej?",
+    "answers": [
+      "Galaktografi",
+      "Galakto-RM",
+      "Biopsi e drejtuar ekografikisht",
+      "Biopsi stereotaksike",
+      "Ekografi"
+    ],
+    "correct": 3,
+    "explanation": "Mikrokalcifikimet suspekte zakonisht nuk duken në ekografi, prandaj biopsia drejtohet me mamografi — biopsi stereotaksike (vakuum-asistuar)."
+  },
+  {
+    "id": "licenca-imazheri-021",
+    "question": "Kur dyshohet për ikter obstruktiv cili ekzaminim instrumental kërkohet fillimisht?",
+    "answers": [
+      "Kolangio-RM",
+      "ERCP (endoscopic retrograde colangio-pancreatography)",
+      "CT abdominale",
+      "Ekografi abdominale",
+      "CT abdominale me kontrast"
+    ],
+    "correct": 3,
+    "explanation": "Në ikterin obstruktiv ekzaminimi i parë është ekografia abdominale: dallon dilatimin e rrugëve biliare (kolestazë ekstrahepatike) dhe shpesh shkakun (gurë, masë pankreatike). Pastaj kolangio-RM/ERCP."
+  },
+  {
+    "id": "licenca-imazheri-022",
+    "question": "Gadolina (lëndë kontrasti) kalon barrierrën hemato-encefalike në cilën situatë?",
+    "answers": [
+      "vetëm në rast të patologjive neoplazike",
+      "vetëm në rast të patologjive neoplazike malinje",
+      "kur dëmtohet barriera hemato-encefalike",
+      "asnjëherë",
+      "gjithmonë"
+    ],
+    "correct": 2,
+    "explanation": "Gadolini normalisht nuk kalon barrierën hematoencefalike; ngjyrimi parenkimal shfaqet vetëm kur barriera është dëmtuar (tumore, inflamacion, ishemi, infeksion)."
+  },
+  {
+    "id": "licenca-imazheri-023",
+    "question": "Cili ekzaminim radiologjik është më i përshtatshmi për vlerësimin e ndërlikimeve të pankreatitit akut?",
+    "answers": [
+      "Ekografia abdominale",
+      "Radiografi abdominale",
+      "Kolangio-RM",
+      "CT",
+      "CT bazale"
+    ],
+    "correct": 3,
+    "explanation": "CT me kontrast (rreth 72–96 orë pas fillimit) është standardi për vlerësimin e komplikacioneve të pankreatitit akut: nekroza, koleksionet, pseudokistet, abscesi (indeksi CT i Balthazar)."
+  },
+  {
+    "id": "licenca-imazheri-024",
+    "question": "Një i sëmurë 70 vjeç vlerësohet si pozitiv për praninë e gjakut në feçe.Nëse mbi bazë të kësaj të dhëne dë të dydhonit për një lezion neoplazik intestinale cili ekzaminim do të duhej për vendosjen e një diagnoze të sigurt?",
+    "answers": [
+      "Klizma",
+      "Kolonoskopia e CT",
+      "CT abdominale",
+      "Klizma me dopio kontrast",
+      "Kolonsigmoidoskopia"
+    ],
+    "correct": 4,
+    "explanation": "Gjak okult pozitiv te 70-vjeçari kërkon kolonoskopi të plotë, që lejon vizualizimin dhe biopsinë për diagnozë histologjike të sigurt. Klizma opake dhe CT nuk japin histologji."
+  },
+  {
+    "id": "licenca-imazheri-025",
+    "question": "Cili është burimi energjitik që përdoret në RMN?",
+    "answers": [
+      "Rrezet infra të kuqe",
+      "Fushat megnetike",
+      "Radiacioni i jonizuar",
+      "Valët G",
+      "Ultratingulli"
+    ],
+    "correct": 1,
+    "explanation": "RM përdor fusha magnetike të forta dhe valë radiofrekuence (jo rrezatim jonizues): protonet e hidrogjenit rrotullohen dhe lëshojnë sinjal gjatë relaksimit."
+  },
+  {
+    "id": "licenca-imazheri-026",
+    "question": "Cili është aspekti radiologjik tipik i versamentit pleural?",
+    "answers": [
+      "Opaciteti nodular",
+      "Zona të radiotransparencës apikale",
+      "Zona të radiotransparencës bazale",
+      "Opacitet bazal me buzën e sipërme konkave",
+      "Opacitet bazal me buzën e sipërme konvekse"
+    ],
+    "correct": 3,
+    "explanation": "Efuzioni pleural në radiografi në këmbë: errësim homogjen bazal që zhduk sinusin kostofrenik, me kufi të sipërm konkav që ngjitet lateralisht (vija e Damoiseau/menisku)."
+  },
+  {
+    "id": "licenca-imazheri-027",
+    "question": "Proceset e ndryshme patologjike që zhvillohen në kocka dhe në kyçe radiologjikisht shoqërohen me:",
+    "answers": [
+      "Ndryshime të densitetit kockor",
+      "Ndryshime të strukturës kockore",
+      "Ndryshime të formës",
+      "Asnje",
+      "Të gjitha këto më lart"
+    ],
+    "correct": 4,
+    "explanation": "Proceset patologjike të kockave dhe kyçeve japin radiologjikisht ndryshime të densitetit (osteoporozë, osteosklerozë), të strukturës (destruksion, reaksion periostal) dhe të formës (deformime). Të gjitha."
+  },
+  {
+    "id": "licenca-imazheri-028",
+    "question": "Në frakturën e degës të gjelbër (subperiostale) radiologjikisht:",
+    "answers": [
+      "Periosti mbetet i pandryshuar",
+      "Periosti destruktohet",
+      "Vija e thyerjes kalon ne femur",
+      "Evidentohet hipertrofi kockore",
+      "Asnjë"
+    ],
+    "correct": 0,
+    "explanation": "Fraktura \"në degë të gjelbër\" te fëmijët: kocka thyhet në njërën anë dhe përkulet në anën tjetër, ndërsa periosti (i trashë te fëmijët) mbetet i paprekur — prandaj shërohet shpejt."
+  },
+  {
+    "id": "licenca-imazheri-029",
+    "question": "Një pacient me arteriopati obliterante periferike diagnoza vendoset me:",
+    "answers": [
+      "Angio RM",
+      "Angio CT",
+      "Ekocolor-Doppler",
+      "Angiografi",
+      "TC bazale"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza përfundimtare e arteriopatisë obliterante (standardi i artë, sidomos para revaskularizimit) është angiografia. Në praktikë ekzaminimi i parë është eko-color-Doppler dhe indeksi kyç-krah (ABI)."
+  },
+  {
+    "id": "licenca-imazheri-030",
+    "question": "Në një pacient me trauma kraniale cili është ekzaminimi bazë?",
+    "answers": [
+      "Radiografi kraniale",
+      "RM encefalike",
+      "CT koke",
+      "RM trupit",
+      "Asnjë"
+    ],
+    "correct": 2,
+    "explanation": "Në traumën kraniale CT e kokës pa kontrast është ekzaminimi bazë: e shpejtë, tregon hemoragjitë akute (epidurale, subdurale), frakturat dhe edemën. RM përdoret më vonë."
+  },
+  {
+    "id": "licenca-imazheri-031",
+    "question": "Nëse një pacient dyshohet për një sëmundje inflamatore kronike intestinale me anë të cilit ekzaminim vendoset diagnoza?",
+    "answers": [
+      "Entero-RM",
+      "Radiografi e aparatit tretës",
+      "Entero-CT",
+      "Colonsigmoidoskopia",
+      "Ekografi"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e sëmundjes inflamatore kronike të zorrës vendoset me kolonoskopi (me ileoskopi) dhe biopsi të shumëfishta për histologji. Entero-RM/CT vlerësojnë shtrirjen e zorrës së hollë dhe komplikacionet."
+  },
+  {
+    "id": "licenca-imazheri-032",
+    "question": "Nëse dyshoni për emboli pulmonare cili ekzaminim instrumental lejon të vendosni diagnozën?",
+    "answers": [
+      "Radiografia",
+      "CT torakale",
+      "Angio CT torakale",
+      "Ekografia trans-ezofageale",
+      "Ekokardiografia"
+    ],
+    "correct": 2,
+    "explanation": "Angio-CT torakale (CT pulmonare me kontrast) është ekzaminimi diagnostik i zgjedhur për emboli pulmonare: tregon drejtpërdrejt trombin në arteriet pulmonare. Radiografia dhe ekokardiografia janë vetëm ndihmëse."
+  },
+  {
+    "id": "licenca-imazheri-033",
+    "question": "Cila është prerja optimale e përdorur në HRCT?",
+    "answers": [
+      "1-2 mm",
+      "2-3 mm",
+      "1 cm",
+      "0.1 nm",
+      "4-5 mm"
+    ],
+    "correct": 0,
+    "explanation": "HRCT (CT me rezolucion të lartë) përdor prerje të holla 1–2 mm dhe algoritëm për frekuenca të larta, për të studiuar intersticin pulmonar (fibroza, bronkiektazitë)."
+  },
+  {
+    "id": "licenca-imazheri-034",
+    "question": "Rentgenoskopia në projeksionin anësor dhe të pjerrët shërben:",
+    "answers": [
+      "per te saktësuar vendndodhjen e procesit patologjik brenda ose jashtë mushkrive",
+      "për të parë hapjen dhe mbylljen e sinuseve freniko-kostale",
+      "për të zbuluar sasitë e vogla të lëngut në zgavrën pleurale",
+      "për të zbuluar praninë e ngjitjeve pleurale (aderenca)",
+      "të gjitha"
+    ],
+    "correct": 4,
+    "explanation": "Rentgenoskopia në projeksion lateral dhe të pjerrët lokalizon procesin (intra- ose ekstrapulmonar), vlerëson lëvizjen e sinuseve frenokostale, zbulon sasi të vogla likidi dhe aderencat pleurale."
+  },
+  {
+    "id": "licenca-imazheri-035",
+    "question": "Sqarimet e përhapura pulmonare në rastin e emfizemës pulmonare karakterizohen nga:",
+    "answers": [
+      "shtim të qartësisë të dy fushave pulmonare",
+      "diafragma e ulur dhe e sheshuar",
+      "rrallim të vizatimit mushkëror në periferi",
+      "asnjë",
+      "të gjitha"
+    ],
+    "correct": 4,
+    "explanation": "Emfizema jep hipertransparencë të dy fushave pulmonare, diafragmë të ulët e të sheshtë, rrallim të vizatimit vaskular periferik, toraks \"fuçi\", hapësirë retrosternale të zgjeruar."
+  },
+  {
+    "id": "licenca-imazheri-036",
+    "question": "Errësimet në formë vijash ( si shinat e trenit) janë karakteristikë e:",
+    "answers": [
+      "bronkektazisë",
+      "atelektazës",
+      "astmës bronkiale",
+      "pneumopative",
+      "abcesit"
+    ],
+    "correct": 0,
+    "explanation": "Imazhet \"shina treni\" (dy vija paralele nga muret e trasha të bronkeve të dilatuara) dhe imazhet unazore janë tipike për bronkiektazitë."
+  },
+  {
+    "id": "licenca-imazheri-037",
+    "question": "Figura hidroaerike e rrumbullakët me strukturë jo të njëtrajtshme e përbërë nga një errësim nga ana e poshtme me formë gjysmëhëne dhe një pjesë e tejdukshme nga ana e sipërme i korrespondon shfaqjes radiologjike pulmonare të një:",
+    "answers": [
+      "abcesi pulmonar",
+      "ekinokoku pulmonar",
+      "pneumopatie",
+      "hernie giafragmale",
+      "bronkektazie"
+    ],
+    "correct": 0,
+    "explanation": "Imazhi hidroaerik i rrumbullakët me nivel horizontal (likid poshtë, ajër sipër) në mushkëri është tipik për abscesin pulmonar të drenuar në bronk. Kisti hidatik i hapur jep \"shenjën e zambakut të ujit\"."
+  },
+  {
+    "id": "licenca-imazheri-038",
+    "question": "Kriter radiologjik që shkon në favor të një noduli pulmonar malinj janë:",
+    "answers": [
+      "forma jo e rregullt",
+      "buzët jo të rregullta",
+      "mungesa e kalçifikimeve ose kalçifikimet ekscentrike",
+      "të gjitha përgjigjet më lartë",
+      "asnjë nga përgjigjet më lartë"
+    ],
+    "correct": 3,
+    "explanation": "Kritere radiologjike të malinjitetit të nodulit pulmonar: formë e çrregullt, buzë të çrregullta/spikulare (\"kurorë rrezatuese\"), mungesë kalcifikimesh ose kalcifikime ekscentrike, rritje në kohë, përmasë >3 cm. Të gjitha A, B, C flasin për malinjitet, ndaj përgjigja e plotë është D (çelësi C është i pjesshëm)."
+  },
+  {
+    "id": "licenca-imazheri-039",
+    "question": "Për vlerësimin e retroperitoneumit, mënyra e zgjedhur është:",
+    "answers": [
+      "urografia",
+      "CT",
+      "Ekografia",
+      "Retropneumoperitonuemi",
+      "RM"
+    ],
+    "correct": 1,
+    "explanation": "CT (me kontrast) është metoda e zgjedhur për retroperitoneumin (veshkat, surrenalet, pankreasi, aorta, limfonodujt), sepse nuk ndikohet nga gazrat intestinale si ekografia."
+  },
+  {
+    "id": "licenca-imazheri-040",
+    "question": "Cili ind është më rezistent ndaj rrezatimit:",
+    "answers": [
+      "Testikuli",
+      "Lëkura",
+      "Muskuli i strijuar",
+      "Ovari",
+      "Epiteli"
+    ],
+    "correct": 2,
+    "explanation": "Sipas ligjit të Bergonié-Tribondeau, indet me aktivitet mitotik të ulët dhe diferencim të lartë janë më radiorezistente: muskuli i strijuar, nervat, kockat. Gonadet, epiteli dhe lëkura janë radiosensibël."
+  },
+  {
+    "id": "licenca-imazheri-041",
+    "question": "Cili ekzaminim realizohet për vlerësimin e tendinopative Akiliene:",
+    "answers": [
+      "Ekografia",
+      "Radiografia",
+      "RM",
+      "CT",
+      "Xerografia"
+    ],
+    "correct": 0,
+    "explanation": "Ekografia (me sonda me frekuencë të lartë) është zgjedhja e parë për tendinopatinë e Akilit: tregon trashësinë, strukturën, çarjet, neovaskularizimin; RM përdoret në raste të dyshimta."
+  },
+  {
+    "id": "licenca-imazheri-042",
+    "question": "Në cilin rast kërkohet që të realizohet një kolangiografi perkutane:",
+    "answers": [
+      "Kolecistit kronik",
+      "Ikter obstruktiv",
+      "Kolelitizaë",
+      "Cirrozë biliare",
+      "Hepatokarcinome"
+    ],
+    "correct": 1,
+    "explanation": "Kolangiografia perkutane transhepatike (PTC) indikohet në ikterin obstruktiv kur rrugët biliare janë të dilatuara dhe ERCP nuk është e mundur (obstruksione proksimale/hilare), edhe për drenazh biliar."
+  },
+  {
+    "id": "licenca-imazheri-043",
+    "question": "Në tuberkuloz, radiologjikisht do të evidentohen:",
+    "answers": [
+      "Errësime në formë vatrash të vogla, të dyanshme, simetrike që vijnë duke u pakësuar nga majat drejt bazave",
+      "Gjendrat limfatike hilare të zvogluara",
+      "Gjendrat limfatike hilare të zmadhuara",
+      "A+C",
+      "Asnjë"
+    ],
+    "correct": 3,
+    "explanation": "Në TB pulmonare radiografia tregon vatra/infiltrate të vogla, shpesh bilaterale, me predominancë apikale që pakësohen drejt bazave (A), dhe, sidomos në TB primare, limfonoduj hilarë të zmadhuar (C)."
+  },
+  {
+    "id": "licenca-imazheri-044",
+    "question": "Ekografia transvaginale në studimin e patologjive të uterusit është:",
+    "answers": [
+      "Një metodë që përdoret rrallë herë",
+      "Një metodë që nuk përdoret më në ditët e sotme",
+      "Një metodë që bën një vlerësim të kujdesshëm edhe në rast të neoplazive uterine",
+      "Një metodë e vlefshme në vlerësimin e malformimeve uterine",
+      "Asnjë"
+    ],
+    "correct": 2,
+    "explanation": "Ekografia transvaginale (sondë me frekuencë të lartë afër organeve) është metodë e zakonshme dhe e saktë për uterusin: endometrin, miomat, malformacionet dhe vlerësimin fillestar të neoplazive."
+  },
+  {
+    "id": "licenca-imazheri-045",
+    "question": "Në një pacient me hematemezë duhet realizuar:",
+    "answers": [
+      "Radiografi e aparatit tretës me contrast me barium",
+      "Radiografi e thjeshtë e aparttit tretës",
+      "Radiografi kur pacienti është esëll",
+      "Ekografi e pjesës të sipërme abdominale",
+      "Endoskopi"
+    ],
+    "correct": 4,
+    "explanation": "Në hematemezë ekzaminimi i zgjedhur është endoskopia digjestive e sipërme (brenda 24 orëve): diagnostike dhe terapeutike (hemostazë, ligaturë variçesh). Bariumi kundërindikohet."
+  },
+  {
+    "id": "licenca-imazheri-046",
+    "question": "Kur dyshohet për një karcionomë pulmonare ekzaminimi i këshilluar është:",
+    "answers": [
+      "Ekotomografia me color-Doppler",
+      "RM",
+      "Arteriografia",
+      "CT",
+      "Të gjitha këto"
+    ],
+    "correct": 3,
+    "explanation": "Për dyshimin e karcinomës pulmonare ekzaminimi imazherik i rekomanduar është CT torakale me kontrast (pas radiografisë), e ndjekur nga bronkoskopia/biopsia dhe PET-CT për stadifikim. Color-Doppler dhe arteriografia nuk kanë vend; çelësi \"të gjitha\" (E) nuk është i saktë klinikisht."
+  },
+  {
+    "id": "licenca-imazheri-047",
+    "question": "Mbi bazë të studimeve të randomizuara përmendet se depistimi nëpërmjet mamografisë është mjaft i rëndësishëm në uljen e vdekshmërisë nga kanceri i gjirit në gratë e moshës:",
+    "answers": [
+      "30-39 vjeç",
+      "40-49 vjeç",
+      "50-69 vjeç",
+      "> 70 vjeç",
+      "asnjë nga këto përgjigje"
+    ],
+    "correct": 2,
+    "explanation": "Studimet e randomizuara tregojnë reduktim të vdekshmërisë nga kanceri i gjirit me depistim mamografik më qartë te gratë 50–69 vjeç (prandaj programet e depistimit synojnë këtë moshë)."
+  },
+  {
+    "id": "licenca-imazheri-048",
+    "question": "Në rastin e një hematome muskulare post- traumatike në nivel të kofshës, cila është teknika imazherike më e përshtatshme?",
+    "answers": [
+      "Ekotomografia",
+      "Xerografia",
+      "Endoskopia",
+      "CT",
+      "Radiografia"
+    ],
+    "correct": 0,
+    "explanation": "Ekotomografia është teknika e parë për hematomën muskulare: dallon koleksionin, përmasat, evolucionin dhe drejton drenimin; e lirë dhe pa rrezatim."
+  },
+  {
+    "id": "licenca-imazheri-049",
+    "question": "Në vlerësimin e frakturave kockore cila teknikë diagnostike imazherike përbën zgjedhjen e parë?",
+    "answers": [
+      "Radiografia direkte",
+      "Shintigrafia kockore",
+      "RM",
+      "CT",
+      "Ekografia"
+    ],
+    "correct": 0,
+    "explanation": "Radiografia direkte në dy projeksione është ekzaminimi i parë për frakturat. CT/RM përdoren për fraktura komplekse/artikulare ose të dyshimta; shintigrafia për frakturat nga stresi."
+  },
+  {
+    "id": "licenca-imazheri-050",
+    "question": "Në rast të embolisë pulmonare ekzaminimi imazherik më i përshtatshëm është:",
+    "answers": [
+      "CT spirale",
+      "Radiografi",
+      "RM",
+      "Ekocolor Doppler",
+      "PET"
+    ],
+    "correct": 0,
+    "explanation": "CT spirale me kontrast (angio-CT pulmonare) është standardi imazherik për emboli pulmonare. Eko-Doppler i venave të këmbëve kërkon TVT-në, por nuk vërteton embolinë."
+  },
+  {
+    "id": "licenca-imazheri-051",
+    "question": "Shenja radiologjike e “këpucës prej druri” është karakteristikë e:",
+    "answers": [
+      "Tetradës Fallot",
+      "Stenoza e arteries pulmonare",
+      "Defekti interventrikular",
+      "Ductus botalli apertus",
+      "Koartacion i aortës"
+    ],
+    "correct": 0,
+    "explanation": "Zemra në formë \"këpuce druri\" (cœur en sabot): majë e ngritur nga hipertrofia e VD dhe hark pulmonar i gërmuar — tipike për tetralogjinë Fallot."
+  },
+  {
+    "id": "licenca-imazheri-052",
+    "question": "Karcinoma e ezofagut karakterizohet radiologjikisht nga:",
+    "answers": [
+      "Mungesa e peristaltikës",
+      "Ndërprerja e palve të mukozës",
+      "Defekti i mbushjes",
+      "Asnjë",
+      "Të gjitha"
+    ],
+    "correct": 4,
+    "explanation": "Karcinoma e ezofagut në esofagogram jep defekt mbushjeje me kontur të çrregullt, ndërprerje e shkatërrim të palosjeve mukozale, segment i ngurtë pa peristaltikë dhe stenozë \"si mollë e kafshuar\"."
+  },
+  {
+    "id": "licenca-imazheri-053",
+    "question": "“Nisha” është shenjë radiologjike diagnostike e:",
+    "answers": [
+      "Ulçerës peptike të stomakut",
+      "Ulçerës duodenale",
+      "Kancerit të stomakut",
+      "Stenozën e duodenit",
+      "Kancerin e ezofagut"
+    ],
+    "correct": 0,
+    "explanation": "\"Nisha\" (kontrasti që mbushet në kraterin e ulçerës dhe del jashtë konturit të murit) është shenja radiologjike direkte e ulçerës peptike, klasikisht e stomakut (në kurbaturën e vogël)."
+  },
+  {
+    "id": "licenca-imazheri-054",
+    "question": "Cila lëndë përdoret si lëndë kontrasti e injektuar i.v gjatë realizimit të CT?",
+    "answers": [
+      "Sulfati i bariumit",
+      "Gadolina",
+      "Jodi hidrosolubël",
+      "Uji",
+      "Metilceluloza"
+    ],
+    "correct": 2,
+    "explanation": "Në CT si kontrast IV përdoret jodi hidrosolubël (jo-jonik). Gadolini është kontrasti i RM; sulfati i bariumit përdoret për rrugë orale/rektale."
+  },
+  {
+    "id": "licenca-imazheri-055",
+    "question": "Në vlerësimin e veshit të mesëm metoda e zgjedhur është:",
+    "answers": [
+      "CT",
+      "RM",
+      "Radiografi",
+      "Tomografi",
+      "CT me rezolucion të lartë"
+    ],
+    "correct": 4,
+    "explanation": "CT me rezolucion të lartë (prerje të holla, dritare kockore) është metoda e zgjedhur për veshin e mesëm dhe kockën temporale (osikulat, kolesteatoma, frakturat). RM për pjesën retrokokleare."
+  },
+  {
+    "id": "licenca-imazheri-056",
+    "question": "Cila nga këto qeliza është më e ndjeshme ndaj rrezatimit?",
+    "answers": [
+      "Limfocitet",
+      "Astrocitet",
+      "Hepatocitet",
+      "Miocitet",
+      "Neuronet"
+    ],
+    "correct": 0,
+    "explanation": "Limfocitet janë qelizat më radiosensibël (ndonëse nuk ndahen shpesh, shkojnë drejt apoptozës); limfopenia është shenja e parë e ekspozimit. Neuronet, miocitet dhe hepatocitet janë radiorezistente."
+  },
+  {
+    "id": "licenca-imazheri-057",
+    "question": "Ultratingulli është:",
+    "answers": [
+      "Energji mekanike",
+      "Mënyrë e transferimit të energjisë në hapsira boshe",
+      "Njësi elementare e energjisë",
+      "Dritë e dukshme",
+      "Valë me radiofrekuencë"
+    ],
+    "correct": 0,
+    "explanation": "Ultratingulli është valë mekanike (vibrim i materies) me frekuencë >20 kHz; ka nevojë për mjedis përçues dhe nuk përhapet në vakum. Në ekografi përdoren 2–15 MHz."
+  },
+  {
+    "id": "licenca-imazheri-058",
+    "question": "Cila është metoda më e përdorur në drejtimin e punksionit perkutan të rrugëve biliare?",
+    "answers": [
+      "Ekografia",
+      "RM",
+      "CT",
+      "Kolangiografia endovenoze",
+      "ERCP"
+    ],
+    "correct": 0,
+    "explanation": "Punksionet perkutane biliare (kolangiografia perkutane, drenazhi) drejtohen kryesisht me ekografi (ndihmuar me fluoroskopi): në kohë reale, pa rrezatim, në shtrat."
+  },
+  {
+    "id": "licenca-imazheri-059",
+    "question": "Cila është metoda imazherike e zgjedhur në studimin e bifurkacionit karotid?",
+    "answers": [
+      "Angiografi",
+      "Angio-RM",
+      "RM",
+      "Eko-dopler",
+      "CT"
+    ],
+    "correct": 3,
+    "explanation": "Eko-Doppler (eko-color-Doppler) është metoda e parë për bifurkacionin karotid: tregon pllakat, shkallën e stenozës (shpejtësitë), është i lirë dhe pa rrezatim. Angio-RM/angio-CT për konfirmim para kirurgjisë."
+  },
+  {
+    "id": "licenca-imazheri-060",
+    "question": "Radiondjeshmëria indore varion në përputhje me:",
+    "answers": [
+      "Aktivitetin mitotik",
+      "Oksigjenimin",
+      "Asbestozën",
+      "Silikozën",
+      "Indin adipoz"
+    ],
+    "correct": 0,
+    "explanation": "Radiosensibiliteti indor është në përpjesëtim të drejtë me aktivitetin mitotik dhe në të zhdrejtë me shkallën e diferencimit (ligji Bergonié-Tribondeau). Edhe oksigjenimi ndikon (efekti oksigjen); faktori bazë është aktiviteti mitotik/diferencimi."
+  },
+  {
+    "id": "licenca-imazheri-061",
+    "question": "Dozimetria vlerëson:",
+    "answers": [
+      "Sasinë e rrezatimit të përthithur nga organizmi dhe qelizat e tij",
+      "Sasinë e rrezatimit të aftë të shkatërrojë qelizat e organizmit",
+      "Një disiplinë unike",
+      "Lidhjen midis sasisë të rrezatuar dhe llojeve të ndryshme të radiacionit",
+      "Shpeshtësinë e tumoreve në raport me dozat e rrezatimit"
+    ],
+    "correct": 0,
+    "explanation": "Dozimetria mat sasinë e rrezatimit të përthithur nga organizmi/indet (doza e përthithur në Gray, doza ekuivalente/efektive në Sievert)."
+  },
+  {
+    "id": "licenca-imazheri-062",
+    "question": "Në rast osteopenie ekzaminimi radiografik standart:",
+    "answers": [
+      "Përcakton diagnozën në faza të avancuara",
+      "Zëvendëson metodat vlerësuese mineralo-densitometrike",
+      "Percakton diagnozën në fazat e hershme",
+      "Vlerëson humbjen kockore",
+      "Nuk ka vlerë"
+    ],
+    "correct": 0,
+    "explanation": "Radiografia standarde e dallon osteopeninë vetëm kur është humbur ~30–40% e masës kockore, pra në faza të avancuara; nuk e zëvendëson densitometrinë."
+  },
+  {
+    "id": "licenca-imazheri-063",
+    "question": "Osteodensitometia (DEXA):",
+    "answers": [
+      "Përcakton diagnozën në faza të avancuara",
+      "Zëvendëson metodat vlerësuese mineralo-densitometrike",
+      "Percakton diagnozën në fazat e hershme",
+      "Vlerëson humbjen kockore",
+      "Nuk ka vlerë"
+    ],
+    "correct": 3,
+    "explanation": "DEXA mat densitetin mineral kockor (T-score, Z-score), duke kuantifikuar humbjen kockore; lejon diagnozën e hershme të osteoporozës dhe ndjekjen e terapisë."
+  },
+  {
+    "id": "licenca-imazheri-064",
+    "question": "Cilat teknika imazhrike përdoren në studimin e vazave:",
+    "answers": [
+      "Ekotomografia",
+      "Doppler",
+      "Color-Doppler",
+      "Ekografi intravaskulare",
+      "Të gjitha këto"
+    ],
+    "correct": 4,
+    "explanation": "Për studimin e enëve përdoren ekotomografia (B-mode), Doppler-i, color-Doppler-i dhe ekografia intravaskulare (IVUS), krahas angio-CT, angio-RM dhe angiografisë."
+  },
+  {
+    "id": "licenca-imazheri-065",
+    "question": "Cili është ndryshimi midis CT dhe RM:",
+    "answers": [
+      "Nuk ka asnjë ndryshimi midis CT dhe RM",
+      "CT është një metodë vlerësimi multiparametrike që varet nga denisteti",
+      "RM është një metodë vlerësimi multi parametrike që nuk përdor rrezatimin e jonizuar",
+      "Në RM nuk përdoren lëndë kontrasti",
+      "RM është një metodë monoparametrike"
+    ],
+    "correct": 2,
+    "explanation": "RM është metodë multiparametrike (sinjali varet nga T1, T2, densiteti protonik, difuzioni, fluksi) dhe nuk përdor rrezatim jonizues. CT varet vetëm nga dobësimi i rrezeve X (densiteti) dhe rrezaton; edhe RM përdor kontrast (gadolin)."
+  },
+  {
+    "id": "licenca-imazheri-066",
+    "question": "Një formacion me përmbajtje likidi në ekzaminim me ultratingull paraqitet si:",
+    "answers": [
+      "Hipoekogene",
+      "Anekogene",
+      "Hiperekogene",
+      "Nuk duket",
+      "Asnjë nga këto"
+    ],
+    "correct": 1,
+    "explanation": "Likidi i pastër nuk reflekton ultratinguj, prandaj duket anekogjen (i zi) me përforcim akustik posterior — p.sh. kistet e thjeshta, fshikëza e mbushur."
+  },
+  {
+    "id": "licenca-imazheri-067",
+    "question": "Tofet janë karakteristikë e:",
+    "answers": [
+      "Artriti psoriatik",
+      "Sklerodermisë",
+      "Artritit akut gutoz",
+      "Artropatisë kronike nga guta",
+      "Osteoartrozës reozive"
+    ],
+    "correct": 3,
+    "explanation": "Tofet (depozita të kristaleve të uratit në inde të buta, veshë, kyçe) janë karakteristikë e podagrës kronike tofacee, pas vitesh hiperuricemie të patrajtuar; nuk shfaqen në atakun akut. Çelësi (C) duket gabim; përgjigja e saktë është D."
+  },
+  {
+    "id": "licenca-imazheri-068",
+    "question": "Avantazh i RM:",
+    "answers": [
+      "Është një ekzaminim monoparametrik",
+      "Është shumëplanshe",
+      "Ka kosto të ulët",
+      "Ka kohë të shkurtër ekzaminim",
+      "Nuk ka kundërindikacione"
+    ],
+    "correct": 1,
+    "explanation": "Avantazh i RM është aftësia multiplanare (prerje në çdo plan pa lëvizur pacientin) dhe kontrasti i lartë i indeve të buta, pa rrezatim. Disavantazhe: kosto e lartë, kohë e gjatë, kundërindikacione (pacemaker, metale)."
+  },
+  {
+    "id": "licenca-imazheri-069",
+    "question": "Në vlerësimin e surrenaleve ekzaminimi imazherik i zgjedhur është:",
+    "answers": [
+      "RM",
+      "CT",
+      "Ekografia",
+      "Angiografia",
+      "Urografia"
+    ],
+    "correct": 1,
+    "explanation": "CT (me matjen e densitetit dhe të \"wash-out\" të kontrastit) është ekzaminimi i zgjedhur për surrenalet: dallon adenomat (densitet i ulët <10 HU) nga lezionet e tjera. RM është alternativë."
+  },
+  {
+    "id": "licenca-imazheri-070",
+    "question": "Cili burim energjitik përdoret në ekografi?",
+    "answers": [
+      "Rrezatimi jonizues",
+      "Valët mekanike",
+      "Rrezet infra të kuqe",
+      "Rrezatimi elektromagnetik",
+      "Rrezet gama"
+    ],
+    "correct": 1,
+    "explanation": "Ekografia përdor valë mekanike (ultratinguj) të prodhuara nga kristale piezoelektrike; nuk përdor rrezatim elektromagnetik apo jonizues."
+  },
+  {
+    "id": "licenca-imazheri-071",
+    "question": "Në cilën nga këto sëmundje të mëlçisë diagnoza me imazhe nuk ka vlerë?",
+    "answers": [
+      "Hepatit akut",
+      "Steatozë",
+      "Cirrozë",
+      "Abces",
+      "Hipertension portal"
+    ],
+    "correct": 0,
+    "explanation": "Në hepatitin akut imazheria (ekografia) është zakonisht normale ose jospecifike; diagnoza është klinike-laboratorike (transaminaza, serologji). Steatoza, cirroza, abscesi dhe hipertensioni portal kanë shenja imazherike të qarta."
+  },
+  {
+    "id": "licenca-imazheri-072",
+    "question": "RM përdor:",
+    "answers": [
+      "Radiofrekuencën",
+      "Rrezatim jonizues",
+      "Ultratinguj",
+      "Rreze infra të kuqe",
+      "Rreze X"
+    ],
+    "correct": 0,
+    "explanation": "RM përdor fushë magnetike statike dhe impulse radiofrekuence për të ngacmuar protonet; sinjali i kthyer përpunohet për të krijuar imazhin. Nuk përdor rreze X."
+  },
+  {
+    "id": "licenca-imazheri-073",
+    "question": "Kundërindikacion absolut i RM në patologjitë kardio-vaskulare është:",
+    "answers": [
+      "Pace-maker",
+      "Klaustrofobia",
+      "Klipse metalike kirurgjikale",
+      "Proteza",
+      "Obeziteti"
+    ],
+    "correct": 0,
+    "explanation": "Pacemaker-i (i pa-kompatibil me RM) është kundërindikacion absolut: fusha magnetike mund ta çaktivizojë ose ta nxehë elektrodën. Klaustrofobia dhe protezat janë kundërindikacione relative."
+  },
+  {
+    "id": "licenca-imazheri-074",
+    "question": "Vlerësimi i menisqeve realizohet me:",
+    "answers": [
+      "Radiografi",
+      "Ekografi",
+      "Shintigrafi",
+      "Radiografi+shintigrafi",
+      "RM"
+    ],
+    "correct": 4,
+    "explanation": "Menisqet (fibrokartilagjinë) nuk duken në radiografi; RM është metoda e zgjedhur për lezionet meniskale dhe ligamentare."
+  },
+  {
+    "id": "licenca-imazheri-075",
+    "question": "Cili lloj rrezatimi përdoret në CT?",
+    "answers": [
+      "Ultravjollcë",
+      "Ultratingull",
+      "Rreze X",
+      "Valë elektromagnetike",
+      "Infra të kuqe"
+    ],
+    "correct": 2,
+    "explanation": "CT përdor rreze X (rrezatim jonizues) që rrotullohen rreth pacientit; detektorët matin dobësimin dhe kompjuteri rindërton prerjet aksiale."
+  },
+  {
+    "id": "licenca-imazheri-076",
+    "question": "Nëse dyshohet për një litiazë të rrugëve biliare cila është teknika diagnostike e zgjedhur në vënie të diagnozës?",
+    "answers": [
+      "Ekografia",
+      "Ekokolor-Doppler",
+      "Shintigrafia",
+      "RM",
+      "CT"
+    ],
+    "correct": 0,
+    "explanation": "Ekografia është zgjedhja e parë për litiazën biliare (kolecista: ndjeshmëri >95%; gurët japin imazh hiperekogjen me hije akustike). Për gurët e koledokut distal ndjeshmëria ulet — atëherë kolangio-RM/eko-endoskopia."
+  },
+  {
+    "id": "licenca-imazheri-077",
+    "question": "Në vlerësimin e një neoplazie të dyshuar në prostatë cila teknikë diagnostike do të ishte më e përdorshme?",
+    "answers": [
+      "CT",
+      "Angiografia",
+      "RM",
+      "Ekotomografia me sondë endorektale",
+      "Radiografi abdominale me infusion me barium"
+    ],
+    "correct": 3,
+    "explanation": "Ekografia transrektale (endorektale) vlerëson prostatën dhe drejton biopsitë e shumëfishta; sot RM multiparametrike përdoret gjithnjë e më shumë për lokalizimin e lezioneve të dyshimta para biopsisë."
+  },
+  {
+    "id": "licenca-imazheri-078",
+    "question": "PET është:",
+    "answers": [
+      "Tomografi elektromagnetike positronike",
+      "Tomografi elicoidale positronike",
+      "Tomografi me emision të pozitroneve",
+      "Tomografi me emision të protoneve",
+      "Asnjë"
+    ],
+    "correct": 2,
+    "explanation": "PET = Tomografia me Emision Pozitronesh: injektohet radiofarmak që emeton pozitrone (p.sh. 18F-FDG) dhe maten fotonet nga anihilimi; tregon aktivitetin metabolik (tumore, metastaza)."
+  },
+  {
+    "id": "licenca-imazheri-079",
+    "question": "Në osteoporozë:",
+    "answers": [
+      "Masa kockore zvogëlohet dhe reduktohet përmbajtja minerale e matriksit kockor",
+      "Masa kockore ruhet",
+      "Masa kockore zvogëlohet dhe ruhet përmbajtja minerale e matriksit kockor",
+      "Masa kockore rritet",
+      "Vërtetohet përthithje kockore"
+    ],
+    "correct": 0,
+    "explanation": "Në osteoporozë zvogëlohet masa kockore totale dhe dëmtohet mikroarkitektura; kocka e mbetur është normalisht e mineralizuar, por sasia e mineralit në total bie. (Në osteomalaci matriksi ruhet, por mineralizimi është i dobët.)"
+  },
+  {
+    "id": "licenca-imazheri-080",
+    "question": "Radiologjikisht gurët biliarë janë:",
+    "answers": [
+      "Vetëm radiopakë",
+      "Vetëm radiotransparent",
+      "Miks",
+      "Radiopak dhe miks",
+      "Radiopakë, radiotransparent, miks"
+    ],
+    "correct": 4,
+    "explanation": "Gurët biliarë mund të jenë radio-opakë (me kalcium, ~15–20%), radiotransparentë (kolesterinikë, shumica) ose miks; prandaj radiografia direkte nuk mjafton për t'i diagnostikuar."
+  },
+  {
+    "id": "licenca-imazheri-081",
+    "question": "Cila nga këto patologji mund të japi metastaza kockore?",
+    "answers": [
+      "Karcinoma e prostatës",
+      "Karcinoma e ovarit",
+      "Melanoma",
+      "Karcinoma pulmonare",
+      "Karcinoma kolonit"
+    ],
+    "correct": 0,
+    "explanation": "Karcinoma e prostatës jep tipikisht metastaza kockore osteoblastike (shtyllë, legen). Edhe gjiri, mushkëria, veshka dhe tiroidja metastazojnë shpesh në kockë; shembulli klasik është prostata."
+  },
+  {
+    "id": "licenca-imazheri-082",
+    "question": "Vlerësimi optimal i prostatës realizohet me:",
+    "answers": [
+      "Ekografi me rrugë suprapubike",
+      "Ekografi me rrugë transrektale",
+      "CT",
+      "RM",
+      "Cistografi"
+    ],
+    "correct": 1,
+    "explanation": "Ekografia transrektale jep imazhin më të mirë të prostatës (vëllimi, zonat, nodujt) sepse sonda është në kontakt të ngushtë me gjëndrën; drejton edhe biopsinë."
+  },
+  {
+    "id": "licenca-imazheri-083",
+    "question": "Në vlerësimin e pankreatitit akut është i rëndësishëm:",
+    "answers": [
+      "Ekografia",
+      "RM",
+      "CT",
+      "Radiografia",
+      "Shintigrafia"
+    ],
+    "correct": 2,
+    "explanation": "CT me kontrast është ekzaminimi më i rëndësishëm për pankreatitin akut të rëndë: vlerëson nekrozën, koleksionet dhe komplikacionet (indeksi i Balthazar). Ekografia shërben për të kërkuar gurët biliarë."
+  },
+  {
+    "id": "licenca-imazheri-084",
+    "question": "Për ndjekjen e ecurisë të transplantit reanl përdoret:",
+    "answers": [
+      "CT",
+      "RM",
+      "Urografia",
+      "Ekografia+ekocolor-Doppler",
+      "Radiografi abdominale"
+    ],
+    "correct": 3,
+    "explanation": "Veshka e transplantuar (në fosën iliake, sipërfaqësore) ndiqet me ekografi + eko-color-Doppler: perfuzioni, indekset e rezistencës, koleksionet, hidronefroza, stenoza e arteries."
+  },
+  {
+    "id": "licenca-imazheri-085",
+    "question": "Spondilolisteza karkaterizohet nga:",
+    "answers": [
+      "Rrëshqitje nga prapa e trupit të vertebrës",
+      "Rrëshqitje laterale e trupit të vertebrës",
+      "Frakturë e trupit të vertebrës",
+      "Rrëshqitje nga përpara e trupit të vertebrës",
+      "asnjë"
+    ],
+    "correct": 3,
+    "explanation": "Spondilolisteza = rrëshqitja anteriore e një trupi vertebral mbi atë poshtë tij (më shpesh L5 mbi S1), shpesh nga spondiloliza e istmit; rrëshqitja mbrapa quhet retrolisteza."
+  },
+  {
+    "id": "licenca-imazheri-086",
+    "question": "Cila është metoda e përzgjedhur në studimin e mamellave:",
+    "answers": [
+      "Mammografia",
+      "Ekografia",
+      "Xerodiagrafia",
+      "RMN",
+      "Termografia"
+    ],
+    "correct": 0,
+    "explanation": "Mamografia është metoda bazë për studimin e gjirit dhe depistimin (zbulon mikrokalcifikimet). Ekografia plotëson te gratë e reja/gjinjtë densë; RM për raste të zgjedhura."
+  },
+  {
+    "id": "licenca-imazheri-087",
+    "question": "Nëse dyshohet për veshkë polikistike, urografia është një ekzaminim:",
+    "answers": [
+      "Dytësor",
+      "Thelbësor në vendosje diagnoze",
+      "Bashkëshoqërues i shintigrafisë",
+      "Qe nuk ka asnjë vlerë",
+      "I pa zëvendësueshëm"
+    ],
+    "correct": 0,
+    "explanation": "Veshka polikistike diagnostikohet me ekografi (kiste të shumta bilaterale, veshka të zmadhuara) dhe CT/RM; urografia është ekzaminim dytësor, sot pothuajse i braktisur."
+  },
+  {
+    "id": "licenca-imazheri-088",
+    "question": "Sa lobe ka mushkëria e djathtë?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "Mushkëria e djathtë ka 3 lobe (i sipërm, i mesëm, i poshtëm) dhe dy fisura (e madhe dhe e vogël); e majta ka 2 lobe (me lingulën në lobin e sipërm)."
+  },
+  {
+    "id": "licenca-imazheri-089",
+    "question": "Në rastin e një pankreatiti kronik cili ekzaminim mund të japi të dhëna më të plota?",
+    "answers": [
+      "Wirsungografia retrograde",
+      "Shintigrafia",
+      "CT",
+      "Radiografia abdominale",
+      "Angiografia"
+    ],
+    "correct": 2,
+    "explanation": "CT jep të dhënat më të plota në pankreatitin kronik: kalcifikimet parenkimale, dilatimi i Wirsung-ut, atrofia, pseudokistet, masat. Kolangio-RM/RM e plotëson për duktuset."
+  },
+  {
+    "id": "licenca-imazheri-090",
+    "question": "Gadoliniumi (lëndë kontrasti) kalon barrierrën hemato-encefalike në cilën situatë?",
+    "answers": [
+      "vetëm në rast të patologjive neoplazike",
+      "vetëm në rast të patologjive neoplazike malinje",
+      "kur dëmtohet barriera hemato-encefalike",
+      "asnjëherë",
+      "gjithmonë"
+    ],
+    "correct": 2,
+    "explanation": "Gadolini nuk kalon barrierën hematoencefalike të paprekur; ngjyrimi i parenkimës ndodh vetëm kur barriera dëmtohet (tumor, inflamacion, abscesi, ishemi subakute)."
+  },
+  {
+    "id": "licenca-imazheri-091",
+    "question": "Një i sëmurë 70 vjeç vlerësohet si pozitiv për praninë e gjakut në feçe.Nëse mbi bazë të kësaj të dhëne dë të dydhonit për një lezion neoplazik intestinale cili ekzaminim do të duhej për vendosjen e një diagnoze të sigurt?",
+    "answers": [
+      "Klizma",
+      "Kolonoskopia e TC",
+      "CT abdominale",
+      "Klizma me dopio kontrast",
+      "Kolonsigmoidoskopia"
+    ],
+    "correct": 4,
+    "explanation": "Me gjak okult pozitiv, diagnoza e sigurt e neoplazisë kolorektale bëhet me kolonoskopi të plotë me biopsi (histologji). Kolonografia CT dhe klizma vetëm e dyshojnë."
+  },
+  {
+    "id": "licenca-imazheri-092",
+    "question": "Një pacient me arteriopati obliterante periferike diagnoza vendoset me:",
+    "answers": [
+      "Angio RM",
+      "Angio CT",
+      "Ekocolor-Doppler",
+      "Angiografi",
+      "CT bazale"
+    ],
+    "correct": 3,
+    "explanation": "Angiografia (me substancë kontrasti) konsiderohet ekzaminimi që vendos diagnozën përfundimtare dhe planifikon revaskularizimin. Hapat e parë në praktikë janë ABI dhe eko-color-Doppler."
+  },
+  {
+    "id": "licenca-imazheri-093",
+    "question": "Nëse një pacient dyshohet për një sëmundje inflamatore kronike intestinale me anë të cilit ekzaminim vendoset diagnoza?",
+    "answers": [
+      "Entero-RM",
+      "Radiografi e aparatit tretës",
+      "Entero-TC",
+      "Colonsigmoidoskopia",
+      "Ekografi"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e IBD (Crohn, kolit ulçeroz) vendoset me ileokolonoskopi me biopsi; entero-RM/CT shërbejnë për shtrirjen në zorrën e hollë dhe komplikacionet."
+  },
+  {
+    "id": "licenca-imazheri-094",
+    "question": "Erësimet në formë vijash ( si shinat e trenit) janë karakteristikë e:",
+    "answers": [
+      "bronkektazisë",
+      "atelektazës",
+      "astmës bronkiale",
+      "pneumopative",
+      "abcesit"
+    ],
+    "correct": 0,
+    "explanation": "Imazhet lineare paralele (\"shina treni\") janë muret e trashura të bronkeve të dilatuara — shenjë tipike e bronkiektazive (në CT edhe \"shenja e unazës me gur\")."
+  },
+  {
+    "id": "licenca-imazheri-095",
+    "question": "Cili ind është më rezistent ndaj rrezatimit:",
+    "answers": [
+      "Testikuli",
+      "Lëkura",
+      "Muskli i strijuar",
+      "Ovari",
+      "Epiteli"
+    ],
+    "correct": 2,
+    "explanation": "Muskuli i strijuar (indi me mitoza të rralla dhe i diferencuar) është ndër indet më radiorezistente; gonadet, lëkura dhe epitelet janë radiosensibël."
+  },
+  {
+    "id": "licenca-imazheri-096",
+    "question": "Në një pacient me hematemezë duhet realizuar:",
+    "answers": [
+      "Radiografi e aparatit tretës me kontrast me barium",
+      "Radiografi e thjeshtë e aparttit tretës",
+      "Radiografi kur pacienti është esëll",
+      "Ekografi e pjesës të sipërme abdominale",
+      "Endoskopi"
+    ],
+    "correct": 4,
+    "explanation": "Hematemeza kërkon endoskopi digjestive të sipërme, që lokalizon burimin dhe lejon hemostazën. Studimi me barium kundërindikohet në hemorragjinë akute."
+  },
+  {
+    "id": "licenca-imazheri-097",
+    "question": "Cili nga strukturat më poshtë është më i ndjeshëm ndaj rrezatimit?",
+    "answers": [
+      "Kolageni",
+      "Tiroidja",
+      "Mëlçia",
+      "Veshka",
+      "Palca kockore"
+    ],
+    "correct": 4,
+    "explanation": "Palca kockore hematopoietike (qeliza me ndarje të shpeshtë) është ndër indet më radiosensibël; efektet e para të rrezatimit janë citopenitë. Kolageni dhe mëlçia janë radiorezistente."
+  },
+  {
+    "id": "licenca-imazheri-098",
+    "question": "Patologjia nodulare e tiroides studiohet fillimisht me:",
+    "answers": [
+      "Padiografi e qafës për indet e buta",
+      "CT",
+      "RM",
+      "Shintigrafi",
+      "Ekografi"
+    ],
+    "correct": 4,
+    "explanation": "Nodujt tiroidianë studiohen fillimisht me ekografi (përmasat, struktura, kalcifikimet, vaskularizimi, kategoria e rrezikut TI-RADS) + TSH; pastaj FNA ose shintigrafi sipas rastit."
+  },
+  {
+    "id": "licenca-imazheri-099",
+    "question": "Në vlerësimin e tubujve uterin luan rol të rëndësishëm:",
+    "answers": [
+      "Radiografia",
+      "Ekotomografia",
+      "CT",
+      "Histersalpingografia",
+      "RM"
+    ],
+    "correct": 3,
+    "explanation": "Histerosalpingografia (kontrast i injektuar në kavitetin uterin nën fluoroskopi) vlerëson kalueshmërinë e tubave dhe formën e uterusit — ekzaminim bazë në infertilitet."
+  },
+  {
+    "id": "licenca-imazheri-100",
+    "question": "Rrezatimi jonizues ka efekte anësore:",
+    "answers": [
+      "Somatike",
+      "Gjenetike",
+      "Somatike dhe gjenetike",
+      "Ulje të eritrosedimentit",
+      "Asnjë"
+    ],
+    "correct": 2,
+    "explanation": "Rrezatimi jonizues ka efekte somatike (te individi: dëmtime të lëkurës, katarakt, kancer, leukemi) dhe gjenetike (mutacione në qelizat germinale që kalojnë te pasardhësit)."
+  },
+  {
+    "id": "licenca-imazheri-101",
+    "question": "Një nodul tiroidien që paraqitet i ngrohtë në shintigrafi mund të jetë:",
+    "answers": [
+      "Gushë endemike",
+      "Adenoma Plummer",
+      "Karcionoma e padiferencuar",
+      "Karcionoma oksifile",
+      "Adenoma embrionale"
+    ],
+    "correct": 1,
+    "explanation": "Nodul \"i nxehtë\" (hiperkaptues) në shintigrafi është zakonisht adenomë toksike autonome (Plummer), pothuajse gjithmonë beninje. Karcinomat janë zakonisht nodul \"të ftohtë\"."
+  },
+  {
+    "id": "licenca-imazheri-102",
+    "question": "Nëse dyshohet klinikisht për emboli pulmonare, radiografia e toraksit:",
+    "answers": [
+      "Nuk realizohet asnjëherë",
+      "Ka vlerë diagnostike",
+      "Duhet të realizohet gjithmonë",
+      "Realizohet pas vlerësimit shintigrafik ventilim-perfuzion",
+      "Ka ndjeshmeri më të madhe se CT"
+    ],
+    "correct": 2,
+    "explanation": "Në dyshimin për emboli pulmonare radiografia e toraksit bëhet gjithmonë: zakonisht normale ose jospecifike, por përjashton diagnoza të tjera (pneumotoraks, pneumoni, edemë). Nuk vendos diagnozën."
+  },
+  {
+    "id": "licenca-imazheri-103",
+    "question": "Cilat janë karakteristikat ekografike të një strukture homogjene?",
+    "answers": [
+      "Prania e ekos me intensitet të njejtë të shpërndarë në mënyrë uniforme",
+      "Prania e ekos me intensitet të dobët",
+      "Hije akustike laterale",
+      "Anekogenicitet",
+      "Përforcim i murit të pasëm"
+    ],
+    "correct": 0,
+    "explanation": "Struktura homogjene në ekografi ka jehona me intensitet të njëjtë dhe të shpërndara njëtrajtësisht (p.sh. mëlçia normale). Anekogjeniciteti i takon likideve."
+  },
+  {
+    "id": "licenca-imazheri-104",
+    "question": "Në vlerësimin e traumave të fytyrës realizohet gjithmonë një:",
+    "answers": [
+      "Radiografi e kokës",
+      "Vetëm CT",
+      "Vetëm RM",
+      "Radiografi dhe CT e kokës",
+      "Radiografi dhe RM e kokës"
+    ],
+    "correct": 3,
+    "explanation": "Në traumën e fytyrës bëhen radiografia dhe CT e kokës. Në praktikë sot CT (me rindërtime 3D) është standardi për frakturat e masivit facial."
+  },
+  {
+    "id": "licenca-imazheri-105",
+    "question": "Qafa vlerësohet me anë të:",
+    "answers": [
+      "CT",
+      "RM",
+      "Ekografisë",
+      "Angiografisë",
+      "Sialografisë"
+    ],
+    "correct": 2,
+    "explanation": "Ekografia është metoda e parë për qafën (tiroidja, gjëndrat e pështymës, limfonodujt, masat e indeve të buta): e lirë, pa rrezatim, në kohë reale, drejton FNA."
+  },
+  {
+    "id": "licenca-imazheri-106",
+    "question": "Në radiografinë torakale radiopaciteti është i ulur në kushtet të:",
+    "answers": [
+      "Pneumonisë nga aerobët",
+      "Versamentit pleural",
+      "Pneumotoraksit",
+      "Cisteve",
+      "Pneumonisë nga anaerobët"
+    ],
+    "correct": 2,
+    "explanation": "Në pneumotoraks ajri në hapësirën pleurale jep hipertransparencë (radiopacitet i ulur) pa vizatim vaskular, me vijën e pleurës viscerale të dukshme. Pneumonia dhe efuzioni japin radiopacitet të rritur."
+  },
+  {
+    "id": "licenca-imazheri-107",
+    "question": "Shisurat pleurale evidentohen në:",
+    "answers": [
+      "Radiografi dhe CT",
+      "Vetëm në radiografi",
+      "Vetëm në CT",
+      "Në ekografi",
+      "Vetëm në raste të patologjisë pleurale"
+    ],
+    "correct": 0,
+    "explanation": "Fisurat interlobare (shisurat) duken në radiografi (sidomos fisura e vogël horizontale në të djathtë) dhe në CT si vija të holla; trashen në efuzion apo patologji pleurale."
+  },
+  {
+    "id": "licenca-imazheri-108",
+    "question": "Kundërindikacionet parësore për realizimin e RM janë:",
+    "answers": [
+      "Pace-maker në trupin e pacientit",
+      "Fragmente metalike në trupin e pacientit",
+      "Klipse aneurizmale në trupin e pacientit",
+      "Proteza valvulare në trupin e pacientit",
+      "Të gjitha përgjigjet janë të sakta"
+    ],
+    "correct": 4,
+    "explanation": "Kundërindikacione për RM: pacemaker/ICD jo të kompatibël, fragmente metalike feromagnetike (sidomos intraokulare), klipse aneurizmale të vjetra feromagnetike, disa proteza/implante jo të kompatibla."
+  },
+  {
+    "id": "licenca-imazheri-109",
+    "question": "Cfarë kuptoni me efekt Doppler?",
+    "answers": [
+      "Modifikim i frekuencës të tufës të ultratingullit kur kjo e fundit emetohet nga një trup në lëvizje",
+      "Modifikim i drejtimit të tufës të ultratingullit kur kjo e fundit emetohet nga një trup në lëvizje",
+      "Modifikim i tufës të ultratingullit kur kjo e fundit emetohet nga një trup në lëvizje",
+      "Pasqyrim direkt i tufës të ultratingullit",
+      "Pasqyrim me difuzion i tufës të ultratingullit"
+    ],
+    "correct": 0,
+    "explanation": "Efekti Doppler: frekuenca e valës së reflektuar ndryshon kur reflektuesi (eritrocitet) lëviz drejt ose larg sondës; ndryshimi i frekuencës është proporcional me shpejtësinë e qarkullimit."
+  },
+  {
+    "id": "licenca-imazheri-110",
+    "question": "Lëndët e kontrastit në CT:",
+    "answers": [
+      "Jepen me rrugë orale dhe endovenoze",
+      "Nuk përdoren fare",
+      "Përdoren vetëm në disa raste",
+      "Në CT e aparatit tretës përdoret sulfat bariumi",
+      "Në CT abdominale jepen si perfuzion me pika"
+    ],
+    "correct": 0,
+    "explanation": "Në CT kontrasti mund të jepet me rrugë orale (për zorrët) dhe endovenoze (jod hidrosolubël, me injektor automatik në bolus), ndonjëherë edhe rektale."
+  },
+  {
+    "id": "licenca-imazheri-111",
+    "question": "Cila nga këto patologji kërkon përdorimin e një angiografie cerbrale?",
+    "answers": [
+      "Iktus ishemik",
+      "Hematoma epidurale",
+      "Gjendja epileptike",
+      "Disekimi i karotides",
+      "Hemorragjia intracerbrale"
+    ],
+    "correct": 0,
+    "explanation": "Angiografia cerebrale indikohet në iktusin ishemik akut (trombektomi mekanike/trombolizë intra-arteriale për okluzionet e enëve të mëdha). Edhe disekimi i karotidit vlerësohet me angiografi (CT/RM) dhe hemorragjia atipike për të kërkuar malformacione."
+  },
+  {
+    "id": "licenca-imazheri-112",
+    "question": "Në fazën akute (10 orë) të një aksidenti cerebro vaskular (AVC) reperti më i shpeshtë në CT është:",
+    "answers": [
+      "Edema difuze",
+      "Hiperdensiteti pas administrimit të lëndëe të kontrastit intavenë",
+      "Negatitviteti",
+      "Hipodensiteti fokal",
+      "Hiperdensiteti fokal"
+    ],
+    "correct": 3,
+    "explanation": "Pas ~10 orësh shfaqet hipodensiteti fokal (edema citotoksike) në territorin e prekur; në orët e para (<6 orë) CT është shpesh normale ose me shenja të holla (humbje e diferencimit lëndë gri-e bardhë)."
+  },
+  {
+    "id": "licenca-imazheri-113",
+    "question": "Për të vendosur diagnozën e dhimbjes të kokës duhet domosdoshmërisht të realizohet:",
+    "answers": [
+      "EEG",
+      "RMN cerebrale",
+      "TAC cerebrale",
+      "Ekocolor-Doppler",
+      "Asnjë ekzaminim"
+    ],
+    "correct": 4,
+    "explanation": "Diagnoza e cefalesë primare (migrenë, tensive) është klinike; imazheria nuk kërkohet rutinë, vetëm në prani të shenjave alarmi (\"red flags\": fillim i papritur, deficit neurologjik, ethe, cefale e re >50 vjeç)."
+  },
+  {
+    "id": "licenca-imazheri-114",
+    "question": "Në një pacient që dyshohet për iktus TAC duhet të realizohet urgjentisht?",
+    "answers": [
+      "Po, gjithmonë",
+      "Asnjëherë",
+      "Vetëm kur dyshohohet për hemorragji",
+      "Në pacientët të rinj në moshë < 45 vjeç",
+      "Në pacientët në koma"
+    ],
+    "correct": 0,
+    "explanation": "Në dyshim iktusi CT e kokës pa kontrast bëhet gjithmonë urgjentisht për të përjashtuar hemorragjinë para trombolizës dhe për diagnoza diferenciale; koha është tru."
+  },
+  {
+    "id": "licenca-imazheri-115",
+    "question": "Cili ekzaminim na lejon të ndjekim ecurinë e një vatre hemorragjike në parenkimën cerebrale:",
+    "answers": [
+      "CT",
+      "Angiografi",
+      "Angio-RM",
+      "RM pa kontrast"
+    ],
+    "correct": 3,
+    "explanation": "RM pa kontrast (sekuencat T1, T2, gradient-echo/SWI) ndjek evolucionin e hematomës parenkimale në kohë (ndryshimet e hemoglobinës: oksi→deoksi→methemoglobinë→hemosiderinë)."
+  },
+  {
+    "id": "licenca-imazheri-116",
+    "question": "Në cilin rast kërkohet që të realizohet një kolangiografi perkutane:",
+    "answers": [
+      "A.Kolecistit kronik",
+      "B.Ikter obstruktiv",
+      "C.Kolelitizaë",
+      "D.Cirrozë biliare",
+      "E.Hepatokarcinome"
+    ],
+    "correct": 1,
+    "explanation": "Kolangiografia perkutane transhepatike indikohet në ikterin obstruktiv (diagnozë dhe drenazh), sidomos kur ERCP nuk është e mundur ose obstruksioni është hilar."
+  },
+  {
+    "id": "licenca-imazheri-117",
+    "question": "”Nisha” është shenjë radiologjike diagnostike e:",
+    "answers": [
+      "Ulçerës peptike të stomakut",
+      "Ulçerës duodenale",
+      "Kancerit të stomakut",
+      "Stenozën e duodenit",
+      "Kancerin e ezofagut"
+    ],
+    "correct": 0,
+    "explanation": "Nisha (shtesë kontrasti jashtë konturit gastrik) është shenja radiologjike direkte e ulçerës peptike gastrike; në kancerin ulçeroz nisha është brenda konturit."
+  },
+  {
+    "id": "licenca-imazheri-118",
+    "question": "Cila lëndë përdoret si lëndë kontrasti e injektuar i.v gjatë realizimit të CT?",
+    "answers": [
+      "Sulfati i bariumit",
+      "Gadoliniumi",
+      "Jodi hidrosolubël",
+      "Uji",
+      "Metilceluloza"
+    ],
+    "correct": 2,
+    "explanation": "Kontrasti IV i CT-së është jodi hidrosolubël (jo-jonik, me osmolaritet të ulët). Gadolini është për RM, bariumi për rrugë orale/rektale."
+  },
+  {
+    "id": "licenca-imazheri-119",
+    "question": "Cili është ndryshimi midis CT dhe RM:",
+    "answers": [
+      "Nuk ka asnjë ndryshimi midis CT dhe RM",
+      ".CT është një metodë vlerësimi multiparametrike që varet nga denisteti",
+      "RM është një metodë vlerësimi multi parametrike që nuk përdor rrezatimin e jonizuar",
+      "Në RM nuk përdoren lëndë kontrasti",
+      "RM është një metodë monoparametrike"
+    ],
+    "correct": 2,
+    "explanation": "RM është multiparametrike (T1, T2, difuzion, etj.) dhe pa rrezatim jonizues; CT bazohet vetëm në densitet (dobësim i rrezeve X)."
+  },
+  {
+    "id": "licenca-imazheri-120",
+    "question": "Kundërindikacion absolut i RM në patologjitë kardio-vaskulare është:",
+    "answers": [
+      "Pace-maker",
+      "Kalustrofobia",
+      "Klipse metalike kirurgjikale",
+      "Proteza",
+      "Obeziteti"
+    ],
+    "correct": 0,
+    "explanation": "Pacemaker-i jo i kompatibël me RM është kundërindikacion absolut (rrezik çaktivizimi, aritmish, nxehjeje të elektrodave)."
+  },
+  {
+    "id": "licenca-imazheri-121",
+    "question": "Cili lloj rrezatimi përdoret në CT?",
+    "answers": [
+      "Ultravjollcë",
+      "Ultratingull",
+      "Rreza X",
+      "Valë elektromagnetike",
+      "Infra të kuqe"
+    ],
+    "correct": 2,
+    "explanation": "CT përdor rreze X që rrotullohen rreth pacientit; është rrezatim jonizues."
+  },
+  {
+    "id": "licenca-imazheri-122",
+    "question": "Në një radiografi antero-posteriore të toraksit, sinusi frenik ndodhet:",
+    "answers": [
+      "Në hapësirën retrokardiake",
+      "Ndërmjet brinjëve dhe sternumit",
+      "Midis trakesë dhe harkut pulmonar",
+      "Në bazat e mushkërive, në anën laterale",
+      "Nuk egziston"
+    ],
+    "correct": 3,
+    "explanation": "Sinuset kostofrenike (frenike laterale) janë këndet e mprehta në bazat e mushkërive, nga ana laterale, ku takohet diafragma me murin torakal; zhduken nga efuzioni pleural."
+  },
+  {
+    "id": "licenca-imazheri-123",
+    "question": "Flebografia është një ekzaminim imazherik që studion:",
+    "answers": [
+      "Arteriet",
+      "Venat",
+      "Artikulacionet",
+      "Zemrën e majtë ( atrium+ventrikul)",
+      "Zemrën e djathtë (atrium + ventrikul)"
+    ],
+    "correct": 1,
+    "explanation": "Flebografia studion venat me injektim kontrasti (p.sh. për trombozë venoze të thellë); sot është zëvendësuar kryesisht nga eko-Doppler-i."
+  },
+  {
+    "id": "licenca-imazheri-124",
+    "question": "Për vendosjen e diagnozës të hidronefrozës është e nevojshme:",
+    "answers": [
+      "RM",
+      "CT",
+      "Urografia",
+      "Ekografia",
+      "Radiografi direkte renale"
+    ],
+    "correct": 3,
+    "explanation": "Ekografia është ekzaminimi i parë dhe i mjaftueshëm për diagnozën e hidronefrozës (dilatimi i pielit dhe kaliceve); CT/uro-CT shërben për të gjetur shkakun."
+  },
+  {
+    "id": "licenca-imazheri-125",
+    "question": "Cili ekzaminim radiologjik është më i përshtatshmi për vlerësimin e ndërlikimeve të pankreatitit akut?",
+    "answers": [
+      "Ekografia abdominale",
+      "Radiografi abdominale",
+      "Kolangio-RM",
+      "TC",
+      "TC bazale"
+    ],
+    "correct": 3,
+    "explanation": "CT me kontrast është metoda më e përshtatshme për komplikacionet e pankreatitit akut (nekrozë, koleksione, pseudokiste, hemorragji)."
+  },
+  {
+    "id": "licenca-imazheri-126",
+    "question": "Nëse dyshoni për emboli pulmonare cili ekzaminim instrumental lejon të vendosni diagnozën?",
+    "answers": [
+      "Radiografia",
+      "TC torakale",
+      "Angio TC torakale",
+      "Ekografia trans-ezofageale",
+      "Ekokardiografia"
+    ],
+    "correct": 2,
+    "explanation": "Angio-CT torakale tregon drejtpërdrejt defektet e mbushjes në arteriet pulmonare — ekzaminimi diagnostik i zgjedhur për emboli pulmonare."
+  },
+  {
+    "id": "licenca-imazheri-127",
+    "question": "Patologjia nodulare e tiroides studiohet fillimisht me:",
+    "answers": [
+      "Radiografi e qafës për indet e buta",
+      "CT",
+      "RM",
+      "Shintigrafi",
+      "Ekografi"
+    ],
+    "correct": 4,
+    "explanation": "Patologjia nodulare tiroidiane studiohet fillimisht me ekografi (karakteristikat e rrezikut) + TSH; CT/RM vetëm për shtrirjen retrosternale."
+  },
+  {
+    "id": "licenca-imazheri-128",
+    "question": "Në fazën akute (10 orë) të një aksidenti cerebro vaskular (AVC) reperti më i shpeshtë në CT është:",
+    "answers": [
+      "Edema difuze",
+      "Hiperdensiteti pas administrimit të lëndët të kontrastit intavenë",
+      "Negatitviteti",
+      "Hipodensiteti fokal",
+      "Hiperdensiteti fokal"
+    ],
+    "correct": 3,
+    "explanation": "Në orën e 10-të të një iktusi ishemik CT tregon më shpesh hipodensitet fokal (edemë citotoksike); në orët e para mund të jetë normale."
+  }
+]

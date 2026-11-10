@@ -1,0 +1,1653 @@
+[
+  {
+    "id": "licenca-semundje-infektive-001",
+    "question": "Cila është vatra infektive më e shpeshtë që shkakton sepsi tek pacientët jo të hospitalizuar:",
+    "answers": [
+      "Infeksion që nis nga trakti gastroenterik",
+      "Infeksion që nis nga rrugët e frymëmarrjes",
+      "Infeksion i endokardit",
+      "Infeksion i aparatit urinar",
+      "Infeksion/kolonizim i CVC"
+    ],
+    "correct": 1,
+    "explanation": "Në komunitet, vatra më e shpeshtë e sepsës është pneumonia (rrugët e frymëmarrjes), e ndjekur nga infeksionet urinare dhe abdominale. Infeksionet e kateterit venoz qendror (CVC) janë tipike për pacientët e hospitalizuar."
+  },
+  {
+    "id": "licenca-semundje-infektive-002",
+    "question": "Cila prej sëmundjeve përkufizohet si zoonosë:",
+    "answers": [
+      "Askaridiaza",
+      "Ankilostomiaza",
+      "Amebiaza",
+      "Toxoplazmoza",
+      "Enterobiaza"
+    ],
+    "correct": 3,
+    "explanation": "Zoonoza = sëmundje që kalon nga kafshët te njeriu. Toksoplazmoza vjen nga macja (oocistet në feçe) ose mishi i papjekur. Askaridiaza, ankilostomiaza, amebiaza dhe enterobiaza janë infeksione vetëm njerëzore."
+  },
+  {
+    "id": "licenca-semundje-infektive-003",
+    "question": "Temperaturë 38-39° celsius, prurit të trupit, rash vezikular me prurit të gjeneralizuar me makula, papula, vezikula, flluska e kore, anoreksi, frisone, cefale. Ky kuadër klinik të bën të mendosh për:",
+    "answers": [
+      "Lija e dhenve",
+      "Fruthi",
+      "Rubeola",
+      "Skarlatina",
+      "Mononukleoza"
+    ],
+    "correct": 0,
+    "explanation": "Rash me prurit që kalon nëpër faza makula→papula→vezikula→kore, me elemente në stade të ndryshme njëkohësisht (\"qiell me yje\"), me ethe = varicela (lija e dhenve). Fruthi dhe rubeola japin rash makulopapular pa vezikula."
+  },
+  {
+    "id": "licenca-semundje-infektive-004",
+    "question": "Toxoplazmoza:",
+    "answers": [
+      "Zhvillohet në mënyrë asimptomatike tek personi imunokompetent",
+      "Nuk është kurrë infeksion oportunistik",
+      "Rrallë herë jep limfadenit",
+      "Të gjitha përgjigjet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 0,
+    "explanation": "Te imunokompetenti toksoplazmoza është zakonisht asimptomatike ose jep limfadenopati të lehtë (cervikale). Te imunodeprimuari (AIDS) është infeksion oportunist (encefalit), prandaj B dhe C janë të gabuara."
+  },
+  {
+    "id": "licenca-semundje-infektive-005",
+    "question": "Nëpërmjet cilit prej likideve trasmetohet HIV-i:",
+    "answers": [
+      "Djersa",
+      "Pështyma",
+      "Lotë",
+      "Urina",
+      "Gjak"
+    ],
+    "correct": 4,
+    "explanation": "HIV transmetohet me gjak, spermë, sekrecione vaginale dhe qumësht gjiri. Djersa, pështyma, lotët dhe urina (pa gjak) nuk e transmetojnë praktikisht."
+  },
+  {
+    "id": "licenca-semundje-infektive-006",
+    "question": "Polmoniti lobar i mirëfilltë shkaktohet kryesisht nga:",
+    "answers": [
+      "Streptococcus pneumonie",
+      "Listeria monocytogenes",
+      "Stafilococcu aureus",
+      "Streptococcus pyogenes",
+      "Mycoplasma pneumonie"
+    ],
+    "correct": 0,
+    "explanation": "Pneumonia lobare klasike (konsolidim i gjithë lobit, ethe me drithërima, sputum ngjyrë ndryshku) shkaktohet nga Streptococcus pneumoniae. Mycoplasma jep pneumoni atipike intersticiale."
+  },
+  {
+    "id": "licenca-semundje-infektive-007",
+    "question": "Botulizmi nga ushqimi shkaktohet kryesisht pas konsumimit të:",
+    "answers": [
+      "Mish i pa bërë ose pak i bërë",
+      "Ushqim kutie i konservuar në vaj ose i marinuar në kushte shtëpie",
+      "Ushqim i konservuar në uthull",
+      "Ujë i ndotur",
+      "Midhje ose peshk të gjallë"
+    ],
+    "correct": 1,
+    "explanation": "Clostridium botulinum rritet në kushte anaerobe me aciditet të ulët: konserva shtëpiake (në vaj, perime, mish). Uthulla (pH acid) e pengon rritjen e tij."
+  },
+  {
+    "id": "licenca-semundje-infektive-008",
+    "question": "Hepatiti akut nga virusi A:",
+    "answers": [
+      "Dyshohet pas përdorimit të ushqimeve të konservuara",
+      "Diagnostikohet vetëm nëse ka pozitivitet për antitrupat anti-HAV të klasës IgG",
+      "Trasmetohet me rrugë oro-fekale",
+      "Shkakton rritje të bilirubinemisë por që nuk shkon më shumë se 25mg/dl",
+      "Nuk ka asnjëherë zhvillim fulminant"
+    ],
+    "correct": 2,
+    "explanation": "HAV transmetohet me rrugë fekalo-orale (ujë/ushqim i kontaminuar, frutat e detit). Diagnoza bëhet me anti-HAV IgM (IgG tregon imunitet); rrallë mund të jetë fulminant."
+  },
+  {
+    "id": "licenca-semundje-infektive-009",
+    "question": "Hepatitet që transmetohet me rrugë oro-fekale janë:",
+    "answers": [
+      "Hepatiti A dhe D",
+      "Hepatiti B",
+      "Hepatiti C dhe D",
+      "Hepatiti A dhe B",
+      "Hepatiti A dhe C"
+    ],
+    "correct": 0,
+    "explanation": "Hepatitet me rrugë fekalo-orale janë A dhe E. HDV transmetohet me gjak (si HBV). Alternativa \"A dhe D\" duket gabim shtypi për \"A dhe E\" — mbaj mend: vokalet (A, E) shkojnë me \"zorrën\"."
+  },
+  {
+    "id": "licenca-semundje-infektive-010",
+    "question": "Në tripanozomiazën amerikane cilat janë manifestimet më të rënda dhe më të shpeshta të sëmundjes kronike?",
+    "answers": [
+      "Megaezofagu",
+      "Megakolon",
+      "Insufiçenca hepatike",
+      "Kardiomiopatia",
+      "Insufiçenca reanle"
+    ],
+    "correct": 3,
+    "explanation": "Në sëmundjen Chagas (Trypanosoma cruzi) faza kronike jep kardiomiopati dilatative me aritmi dhe insuficiencë kardiake — manifestimi më i shpeshtë dhe më i rëndë. Megaezofagu dhe megakoloni janë më të rralla."
+  },
+  {
+    "id": "licenca-semundje-infektive-011",
+    "question": "Cila prej patologjive të mëposhtme që lidhen me infeksionin nga Toxoplazma Gondii prej eskluzivisht pacientët imunodepres:",
+    "answers": [
+      "Linmfoadenopatia",
+      "Embriopatia",
+      "Encefaliti",
+      "Të gjitha përgjigjet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 2,
+    "explanation": "Encefaliti toksoplazmik (abscese cerebrale shumëfishe me unazë kontrasti) shfaqet pothuajse vetëm te imunodeprimuarit (CD4 <100). Limfadenopatia shfaqet te imunokompetentët; embriopatia në infeksionin kongjenital."
+  },
+  {
+    "id": "licenca-semundje-infektive-012",
+    "question": "Sepsi karakterizohet nga:",
+    "answers": [
+      "Prezenca tranzitore e baktereve në gjak",
+      "Hiporeaktiviteti ndaj një infeksioni",
+      "Lëshimin apo hedhjen në gjakun qarkullues të baktereve nga një vatër infektive e lokalizuar",
+      "Lokalizim i infeksionit në një ose dy organe",
+      "Reaksion i ekzagjeruar i organizmit ndaj një infeksioni"
+    ],
+    "correct": 2,
+    "explanation": "Sipas përkufizimit klasik, sepsa është kalimi periodik i baktereve nga një vatër e lokalizuar në gjak me reaksion sistemik. (Sipas Sepsis-3 sot: disfunksion organi nga përgjigje e çrregulluar e organizmit ndaj infeksionit.) Bakteremia kalimtare (A) nuk është sepsë."
+  },
+  {
+    "id": "licenca-semundje-infektive-013",
+    "question": "Oksiuraza shkaktohet nga:",
+    "answers": [
+      "Echinococcus granulosus",
+      "Taenia solium",
+      "Enterobius vermicularis",
+      "Necator americanus",
+      "Hymenolepis nana"
+    ],
+    "correct": 2,
+    "explanation": "Oksiuroza shkaktohet nga Enterobius vermicularis: prurit perianal natën, sidomos te fëmijët; diagnoza me testin e shiritit ngjitës (scotch test)."
+  },
+  {
+    "id": "licenca-semundje-infektive-014",
+    "question": "Cili prej agjentëve etiologjikë është shkaktari më i shpeshtë i osteomielitit akut?",
+    "answers": [
+      "Salmonella tifo",
+      "Haemophilus influentiae",
+      "Stafilococco aureus",
+      "Streptococco",
+      "Gonococco"
+    ],
+    "correct": 2,
+    "explanation": "Staphylococcus aureus është shkaktari më i shpeshtë i osteomielitit akut hematogjen në të gjitha moshat. Salmonella është tipike te pacientët me drepanocitozë."
+  },
+  {
+    "id": "licenca-semundje-infektive-015",
+    "question": "Cili është vektori i Leishmania donovani?",
+    "answers": [
+      "Mushkonja",
+      "Miza",
+      "Flebotomi",
+      "Pleshti",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 2,
+    "explanation": "Leishmania transmetohet nga pickimi i flebotomëve (mushkonjave të rëra, Phlebotomus), shumë të pranishëm edhe në Mesdhe/Shqipëri."
+  },
+  {
+    "id": "licenca-semundje-infektive-016",
+    "question": "Cili prej agjentëve etiologjik është më shpesh shkaku i miokarditit akut?",
+    "answers": [
+      "Stafilococco aureus",
+      "Coxackie virus",
+      "EBV",
+      "Streptococcus viridans",
+      "Lija e dhenve"
+    ],
+    "correct": 1,
+    "explanation": "Shkaku më i shpeshtë i miokarditit akut janë viruset, sidomos Coxsackie B (enterovirus) — shpesh pas një infeksioni respirator/gastrointestinal."
+  },
+  {
+    "id": "licenca-semundje-infektive-017",
+    "question": "Herpes Zoster:",
+    "answers": [
+      "Shkaktohet nga i njëjti virus i lisë së dhenve",
+      "Shkaktohet nga një virus i ngjashëm me atë të lisë së dhenve",
+      "Shkaktohet nga një rinovirus me ADN",
+      "Shkaktohet nga një enterovirus",
+      "Shkaktohet nga coxackie"
+    ],
+    "correct": 0,
+    "explanation": "Herpes zoster është riaktivizimi i virusit varicela-zoster (VZV), i njëjti virus i lisë së dhenve, që mbetet latent në gangliet sensitive dorsale."
+  },
+  {
+    "id": "licenca-semundje-infektive-018",
+    "question": "Cili prej këtyre baketereve shkakton leukopeni?",
+    "answers": [
+      "Klensiella oxitoca",
+      "Salmonella typhi",
+      "Streptococco i grupit A",
+      "Enterococco",
+      "Pseudomonas"
+    ],
+    "correct": 1,
+    "explanation": "Ethja tifoide (Salmonella typhi) karakterizohet nga leukopeni relative me mungesë eozinofilesh dhe bradikardi relative. Bakteret e tjera piogjene japin leukocitozë."
+  },
+  {
+    "id": "licenca-semundje-infektive-019",
+    "question": "Neoplazia më e shpeshtë gjatë AIDS është:",
+    "answers": [
+      "Sarkoma e Kaposit",
+      "Adenokarcinoma e laringut",
+      "Leucemia limfatike kronike",
+      "Adenokarcinoma gastrike",
+      "Adenokarcinoma e pulmonit"
+    ],
+    "correct": 0,
+    "explanation": "Sarkoma Kaposi (nga HHV-8) është neoplazia më e shpeshtë dhe përcaktuese e AIDS-it; të tjerat janë limfomat jo-Hodgkin dhe kanceri i qafës së mitrës."
+  },
+  {
+    "id": "licenca-semundje-infektive-020",
+    "question": "Gjatë mononukleozës infektive, në ekzaminim hemokromocitometrik vihet re:",
+    "answers": [
+      "Limfopeni",
+      "Neutrofili relative",
+      "Eozinofili",
+      "Limfocitozë me prani të limfociteve aktive",
+      "Policitemi"
+    ],
+    "correct": 3,
+    "explanation": "Mononukleoza (EBV) jep limfocitozë absolute me >10% limfocite atipike (të aktivizuara, qeliza T citotoksike). Mund të ketë neutropeni ose trombocitopeni të lehtë."
+  },
+  {
+    "id": "licenca-semundje-infektive-021",
+    "question": "Meningiti purulent karakterizohet nga cila gjendje e likidit cerebrospinal:",
+    "answers": [
+      "Hipoproteinorraki, pleiocitozë neutrofile, glikorraki normale",
+      "Hiperproteinorraki, pleiocitozë limfocitare, hipoglikorraki",
+      "Hiperproteionorraki, pleiocitozë nutrofile, hipoglikorraki",
+      "Proteinorraki në normë, mungesë të pleiocitozës, hipoglikorraki",
+      "Hiperproteinorraki, pleiocitozë limfocitare, glikorraki normale"
+    ],
+    "correct": 2,
+    "explanation": "LCR në meningitin purulent (bakterial): i turbullt, pleiocitozë neutrofile (qindra-mijëra/mm³), proteina të rritura, glukozë e ulët. Limfocitet me glukozë normale sugjerojnë meningit viral."
+  },
+  {
+    "id": "licenca-semundje-infektive-022",
+    "question": "Një i ri toksikodipendent (per i.v) ka shfaqur prej 4 muajsh hepatitin akut dhe koinfeksionin HBV+HDV. Mjkeu i familjes i keshillon të kryej disa analiza laboratorike për të vlerësuar gjendjen e sëmundjes. Rezultatet janë: transaminazat normal; antitrupat anti HDV pozitiv; HBV-ADN plazmatike negative; antitrupat anti HBs pozitive; antitrupat anti HBe pozitive. Mbi bazën e këtyre të dhënave mjeku i thotë të riut se është shëruar. Mbi cilat të dhëna bazohet mjeku për të dhënë këtë përgjigje, se ai është shëruar:",
+    "answers": [
+      "Transaminazat në normë",
+      "Antitrupat anti HDV pozitiv",
+      "HBV-ADN plazmatike negative",
+      "Antitrupat anti HBs pozitive",
+      "Antitrupat anti HBe positive"
+    ],
+    "correct": 3,
+    "explanation": "Shfaqja e anti-HBs (antitrupave ndaj antigjenit sipërfaqësor) tregon pastrimin e HBsAg dhe shërimin/imunitetin. Meqë HDV ka nevojë për HBsAg, edhe infeksioni delta pastrohet. Anti-HBe dhe ADN negative nuk mjaftojnë vetëm."
+  },
+  {
+    "id": "licenca-semundje-infektive-023",
+    "question": "Cilat janë alternimet laboratorike që vihen re gjatë mononukleozës infektive?",
+    "answers": [
+      "Leuokopeni dhe piastrinopeni",
+      "Leukocitozë neutrofile dhe rritje të transaminazave",
+      "Leukocitozë limfocite dhe rritje të transaminazave",
+      "Leukopeni dhe rritje të bilirubinës",
+      "Anemi dhe piastrinopeni"
+    ],
+    "correct": 2,
+    "explanation": "EBV jep leukocitozë me limfocitozë (limfocite atipike) dhe rritje të lehtë të transaminazave në ~80% të rasteve (hepatit i lehtë)."
+  },
+  {
+    "id": "licenca-semundje-infektive-024",
+    "question": "Mbledhja e sekrecioneve për ekzaminimin në kulturë mund të kryhet:",
+    "answers": [
+      "Vetëm në mëngjes, edhe pse pacienti nuk ka kollë",
+      "Vetëm në mëngjes kur je pa ngrënë",
+      "Preferohet nëse pacienti ka qëndruar gjatë i shtrirë",
+      "Cdo moment të ditës, mjafton që pacienti të ketë kollë me sekrecione",
+      "Disa herë gjatë ditës në momentet kur ka pikun e temperaturës"
+    ],
+    "correct": 3,
+    "explanation": "Sputumi për kulturë merret kur pacienti ka kollë produktive, në çdo moment të ditës, mjafton që të jetë sputum i vërtetë nga thellësia (jo pështymë). Për BK preferohet mostra e mëngjesit, por nuk është detyrim për kulturat e zakonshme."
+  },
+  {
+    "id": "licenca-semundje-infektive-025",
+    "question": "Vdekja e zezë (peste bubbonica) transmetohet nga:",
+    "answers": [
+      "Miza",
+      "Pleshti",
+      "Mushkonja",
+      "Morri",
+      "Grenxa"
+    ],
+    "correct": 1,
+    "explanation": "Murtaja (Yersinia pestis) transmetohet nga pickimi i pleshtit të minjve (Xenopsylla cheopis); forma pneumonike transmetohet njeri-me-njeri me pika."
+  },
+  {
+    "id": "licenca-semundje-infektive-026",
+    "question": "Një person që është shpuar me agen që ka përdorur një pacient me HCV-ARN pozitiv:",
+    "answers": [
+      "I injektohen imunoglobulina standarte",
+      "Aktualisht nuk ekziston asnjë profilaksi pas ekspozimit",
+      "I injektohen imunoglobulina standarte nëse viremia është >400.000/ml",
+      "Të gjitha përgjigjet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 1,
+    "explanation": "Për HCV nuk ekziston as vaksinë as profilaksi pas ekspozimit (as imunoglobulina). Ndiqet testimi për HCV-ARN dhe anti-HCV dhe trajtohet infeksioni akut nëse shfaqet."
+  },
+  {
+    "id": "licenca-semundje-infektive-027",
+    "question": "Shfaqja më e shpeshtë e infeksionit të parë nga herpes simlex tip 1 është:",
+    "answers": [
+      "Herpes labial",
+      "Gengivo-stomatit",
+      "Ezofagit",
+      "Hepatit",
+      "Encefalit"
+    ],
+    "correct": 1,
+    "explanation": "Infeksioni primar me HSV-1 te fëmijët shfaqet më shpesh si gingivostomatit herpetik (vezikula/ulçera në gojë, ethe). Herpesi labial është tipik për riaktivizimet."
+  },
+  {
+    "id": "licenca-semundje-infektive-028",
+    "question": "Kush ka rrezikun më të lartë për tu infektuar me bacilin e tuberkulozit?",
+    "answers": [
+      "Njerëz që janë në kontakt të ngushtë me persona të prekur nga tuberkulozi e që janë në fazë aktive",
+      "Persona që kanë lindur në vende ku TB është mjaft e përhapur si në Azi, Afrikën Jugore, Europën lindore",
+      "Të moshuarit",
+      "Personat e varfër, pa përkujdesje mjeksore si të pastrehët, toksikodipendentët, persona që jetojnë në azile, personeli mjekësor i ekspozuar ndaj TB",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 4,
+    "explanation": "Rrezik të lartë për TB kanë: kontaktet e ngushta të rasteve aktive, personat nga vende endemike, të moshuarit, të varfrit, të pastrehët, toksikomanët, të burgosurit dhe personeli shëndetësor. Të gjitha janë të sakta."
+  },
+  {
+    "id": "licenca-semundje-infektive-029",
+    "question": "Rast klinik: Pacienti ka këto karakteristika në ekzaminimin e likidit cerebrospinal: pamje të qartë; qeliza 600 mmc (N=60% L=40%) glikorraki të ulur; proteinorraki të rritur. Nga se mund të jetë prekur ky pacient?",
+    "answers": [
+      "Meningiti meningocoxik",
+      "Meningiti viral",
+      "Meningiti tuberkular në zhvillim",
+      "Meningiti nga E. Coli",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 2,
+    "explanation": "LCR i qartë, me pleiocitozë mesatare me qeliza të përziera, glukozë të ulët dhe proteina të rritura = meningit tuberkular (në fazat e hershme mund të ketë neutrofile). Viral: glukozë normale; bakterial: LCR i turbullt me mijëra neutrofile."
+  },
+  {
+    "id": "licenca-semundje-infektive-030",
+    "question": "Sepsi karakterizohet nga:",
+    "answers": [
+      "Prania në gjak e grimcave virale difektive",
+      "Prania në gjak e antigjeneve bakteriale",
+      "Alternimi i termorregullimit në nivelin qëndror",
+      "Prania në gjak e baktereve në proces shumimi aktiv",
+      "Mungesa e një përgjigje inflamatore sistemike"
+    ],
+    "correct": 3,
+    "explanation": "Në sepsë bakteret janë në gjak dhe shumohen aktivisht, duke shkaktuar përgjigje inflamatore sistemike. Prania e antigjeneve apo bakteremia pa reaksion nuk e përbëjnë sepsën."
+  },
+  {
+    "id": "licenca-semundje-infektive-031",
+    "question": "Virusi Ebola ka shkaktuar epidemi në",
+    "answers": [
+      "Europën veriore",
+      "Europën lindore",
+      "Azi",
+      "Afrikë",
+      "Amerikën e jugut"
+    ],
+    "correct": 3,
+    "explanation": "Epidemitë e Ebola kanë ndodhur në Afrikë (Kongo, Afrika Perëndimore 2014–2016: Guinea, Sierra Leone, Liberia)."
+  },
+  {
+    "id": "licenca-semundje-infektive-032",
+    "question": "Cfarë shenjash paraqet një pacient i prekur nga botulizmi?",
+    "answers": [
+      "Shenja neurologjike me paralizë",
+      "Shtim të pështymës",
+      "Crregullime sensitive",
+      "Diarre persistente",
+      "Shenja të një polmoniti"
+    ],
+    "correct": 0,
+    "explanation": "Toksina botulinike bllokon çlirimin e acetilkolinës → paralizë flaske zbritëse simetrike: diplopi, ptozë, disfagi, disartri, gojë e thatë (jo hipersalivacion), deri në insuficiencë respiratore; sensibiliteti ruhet."
+  },
+  {
+    "id": "licenca-semundje-infektive-033",
+    "question": "Cila prej sëmundjeve shkaktohet nga chlamidie?",
+    "answers": [
+      "Sëmundja e Weil",
+      "Temperatura Q",
+      "Myku",
+      "Trakoma",
+      "Sporotrikoza"
+    ],
+    "correct": 3,
+    "explanation": "Trakoma shkaktohet nga Chlamydia trachomatis (serotipet A–C) — shkaku kryesor infektiv i verbërisë. Ethja Q nga Coxiella burnetii, sëmundja Weil nga Leptospira."
+  },
+  {
+    "id": "licenca-semundje-infektive-034",
+    "question": "Cili prej viruseve është shkaku më i mundshëm për Sarkomën e Kaposit?",
+    "answers": [
+      "Virusi T-limfotrop",
+      "Virus coxackie",
+      "Herpesvirusi human 8",
+      "Citomegalovirus",
+      "Echo-virus"
+    ],
+    "correct": 2,
+    "explanation": "Sarkoma Kaposi shkaktohet nga herpesvirusi human 8 (HHV-8/KSHV), sidomos në imunodepresion (AIDS, transplant)."
+  },
+  {
+    "id": "licenca-semundje-infektive-035",
+    "question": "Cili është trajtimi i dizanterisë nga ameba:",
+    "answers": [
+      "Cefalosporina",
+      "Vancomicina",
+      "Metronidazoli",
+      "Albendazoli",
+      "Fluorokinoloni"
+    ],
+    "correct": 2,
+    "explanation": "Dizenteria amebike (Entamoeba histolytica) trajtohet me metronidazol (amebicid tisular), i ndjekur nga amebicid luminal (paromomicinë) për të eliminuar cistet."
+  },
+  {
+    "id": "licenca-semundje-infektive-036",
+    "question": "Në meningjit, cefalea është shenjë e:",
+    "answers": [
+      "Hipertensionit endokranial",
+      "Irritim i radiksit spinal",
+      "Hiperestezi",
+      "Të gjitha përgjigjet",
+      "Asnjëra nga përgjigjet"
+    ],
+    "correct": 0,
+    "explanation": "Cefaleja në meningit vjen nga inflamacioni i meningeve dhe rritja e presionit intrakranial. Ngurtësia e qafës dhe shenjat Kernig/Brudzinski vijnë nga irritimi i rrënjëve spinale."
+  },
+  {
+    "id": "licenca-semundje-infektive-037",
+    "question": "Tek një pacient të prekur nga kolera, ndërhyrja e parë terapeutike bazohet në:",
+    "answers": [
+      "Dhënien e antibiotikëve",
+      "Dhënien e dizinfektantëve intestinalë",
+      "Pastrimin me anë të kriprave",
+      "Rehidrimin e pacientit me solucione elektrolitike dhe ruajtjen e hidratimit.",
+      "Edhe pse nuk ka të vjella pacienti duhet mbajtur pa ngrënë"
+    ],
+    "correct": 3,
+    "explanation": "Në kolerë rreziku kryesor është dehidrimi masiv; trajtimi themelor është rihidrimi (SRO ose IV me Ringer laktat). Antibiotikët (doksiciklinë) janë ndihmës dhe shkurtojnë diarrenë."
+  },
+  {
+    "id": "licenca-semundje-infektive-038",
+    "question": "Polmoniti lobar shkaktohet në përgjithësi nga:",
+    "answers": [
+      "Stafilococcu",
+      "Enterococcu",
+      "Pneumococcu",
+      "Virusi respirator sincicial",
+      "Mycoplasma pneumonie"
+    ],
+    "correct": 2,
+    "explanation": "Pneumokoku është shkaktari klasik i pneumonisë lobare. Stafilokoku jep bronkopneumoni me abscese, Mycoplasma pneumoni atipike, RSV bronkiolit te foshnjat."
+  },
+  {
+    "id": "licenca-semundje-infektive-039",
+    "question": "Pacienti me temperaturë, eritemë migruese, cefale dhe dhimbje artikulare me shumë mundësi është prekur nga:",
+    "answers": [
+      "Reumatizmi artikular akut",
+      "Ricketsioza",
+      "Sëmundja e Lyme",
+      "Fruthi",
+      "Lija e dhenve"
+    ],
+    "correct": 2,
+    "explanation": "Eritema migrans (unazë eritematoze që zgjerohet pas pickimit të rriqrës), me ethe, cefale dhe artralgji = sëmundja Lyme (Borrelia burgdorferi). Trajtim: doksiciklinë."
+  },
+  {
+    "id": "licenca-semundje-infektive-040",
+    "question": "Cili ushqim shkakton më lehtësisht intoksikim nga Stafilococcu aureus?",
+    "answers": [
+      "Kremi i pastiçerisë",
+      "Mishi i zier",
+      "Frutat e freskëta",
+      "Fruta të thata",
+      "Uji i ndotur"
+    ],
+    "correct": 0,
+    "explanation": "Toksina stafilokoksike formohet në ushqime të manipuluara me duar dhe të mbajtura jashtë frigoriferit, sidomos kremra pastiçerie, produkte qumështi, proshutë, sallata."
+  },
+  {
+    "id": "licenca-semundje-infektive-041",
+    "question": "Meningiti është proces inflamator:",
+    "answers": [
+      "Përfshin parenkimën cerebrale",
+      "Përfshin durën",
+      "Përfshin leptomeninget",
+      "Përfshin vetëm bazën e kranit",
+      "Përfshin vetëm pjesën e sipërme të kranit"
+    ],
+    "correct": 2,
+    "explanation": "Meningiti është inflamacioni i leptomeningeve (araknoidesë dhe pia mater) dhe i LCR në hapësirën subaraknoidale. Prekja e parenkimës = encefalit."
+  },
+  {
+    "id": "licenca-semundje-infektive-042",
+    "question": "Për cilin prej hepatiteve ekziston vaksinë?",
+    "answers": [
+      "Hepatiti A dhe C",
+      "Hepatiti C",
+      "Hepatiti D",
+      "Hepatiti A dhe B",
+      "Hepatiti G, A dhe B"
+    ],
+    "correct": 3,
+    "explanation": "Vaksina ekzistojnë për hepatitin A dhe B. Vaksina kundër HBV mbron edhe nga HDV. Për HCV nuk ka vaksinë."
+  },
+  {
+    "id": "licenca-semundje-infektive-043",
+    "question": "Strategjia Dots (directly observed therapy) për TBC përfshin:",
+    "answers": [
+      "Pacienti ndiqet në mënyrë konstante nga personeli, përgjatë 6-8 muajve të terapisë, për përdorimin e rregullt të terapisë, të efekteve, efikasitetit të tyre dhe ecurinë e sëmundjes",
+      "Pacienti merr mjekimin nën vëzhgimin e familjarëve",
+      "Pacienti vë re efektet anësore",
+      "Pacienti vetë-kurohet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 0,
+    "explanation": "DOTS = terapi e vëzhguar drejtpërdrejt: personeli shëndetësor (ose i trajnuar) e sheh pacientin të marrë çdo dozë gjatë 6–8 muajve, duke ndjekur komplijancën, efektet anësore dhe ecurinë."
+  },
+  {
+    "id": "licenca-semundje-infektive-044",
+    "question": "Temperaturë 40° celsius, konxhuktivit, fotofobi, rash makulo-papular eritematoz (nga fytyra në trup, në ekstremitete, duar e kembë). Ky kuadër klinik ju bën të mendoni për:",
+    "answers": [
+      "Lija e dhenve",
+      "Fruthi",
+      "Rubeola",
+      "Skarlatina",
+      "Mononukleoza"
+    ],
+    "correct": 1,
+    "explanation": "Fruthi: ethe e lartë, konjuktivit, fotofobi, kollë, koriza (prodroma), shenjat Koplik, pastaj rash makulopapular që nis nga fytyra/prapa veshëve dhe zbret drejt trupit e ekstremiteteve."
+  },
+  {
+    "id": "licenca-semundje-infektive-045",
+    "question": "Tek bruceloza, temperatura:",
+    "answers": [
+      "Mungon",
+      "Eshtë onduluese",
+      "Eshtë periodike",
+      "Rritet me shkallë gjatë javës së parë të sëmundjes",
+      "Kap maksimumin në ditën e tretë të sëmundjes"
+    ],
+    "correct": 1,
+    "explanation": "Bruceloza karakterizohet nga ethe valëzuese (ondulante) — periudha me ethe që alternojnë me periudha afebrile — me djersitje të shumta, artralgji, hepatosplenomegali."
+  },
+  {
+    "id": "licenca-semundje-infektive-046",
+    "question": "Në prani të temperaturës, takikardisë, hipotensionit, takipnesë dhe leukopenisë mund të mendojmë për:",
+    "answers": [
+      "Sepsi nga Gram pozitivë",
+      "Leptospiroza",
+      "Sepsi nga Gram negativë",
+      "Të gjitha përgjigjet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 2,
+    "explanation": "Ethe, takikardi, hipotension, takipne me leukopeni janë tipike për sepsën e rëndë nga Gram-negativët (endotoksina), që shpesh evoluon në shok septik."
+  },
+  {
+    "id": "licenca-semundje-infektive-047",
+    "question": "Forma më e rëndë e malaries është ajo që shkaktohet nga:",
+    "answers": [
+      "Plasmodium malaria",
+      "Plasmodium falciparum",
+      "Plasmodium oval",
+      "Plasmodium vivax",
+      "Plasmodium oval tek një person që ka vuajtur dhe më parë nga P. Malaria"
+    ],
+    "correct": 1,
+    "explanation": "Plasmodium falciparum jep malarien më të rëndë (malaria cerebrale, anemi e rëndë, insuficiencë renale, ARDS) për shkak të parazitemisë së lartë dhe citoadherencës së eritrociteve."
+  },
+  {
+    "id": "licenca-semundje-infektive-048",
+    "question": "Për cilën nga patologjitë sugjerohet terapi me antibiotikë?",
+    "answers": [
+      "Mononukleoza infektive",
+      "Hepatiti B akut",
+      "Bruceloza",
+      "Ethet e verdha",
+      "Ethet tropikale"
+    ],
+    "correct": 2,
+    "explanation": "Bruceloza është infeksion bakterial dhe trajtohet me antibiotikë (doksiciklinë + rifampicinë ose streptomicinë, 6 javë). Mononukleoza, hepatiti B akut dhe ethet e verdha janë virale."
+  },
+  {
+    "id": "licenca-semundje-infektive-049",
+    "question": "Malaria është e përhapur në:",
+    "answers": [
+      "Vendet e Mesdheut",
+      "Vetëm në vende bregdetare",
+      "Zona në lartësinë mbi 1800 m",
+      "Vetëm në disa zona afrikane",
+      "Në zona tropikale dhe subtropikale"
+    ],
+    "correct": 4,
+    "explanation": "Malaria është endemike në zonat tropikale dhe subtropikale (Afrikë sub-Sahariane, Azi, Amerikë Latine), ku jeton mushkonja Anopheles."
+  },
+  {
+    "id": "licenca-semundje-infektive-050",
+    "question": "Nuk duhet tu bëhet vaksinimi me MMR (fruth, parotid, rubeolë):",
+    "answers": [
+      "Fëmijët me reaksion nga xhealtina dhe neomicina, fëmijët me alterime të sistemit imunitar (tumore, AIDS) ose që marrin mjekime imunosupresive ose radioterapi",
+      "Fëmijët me sëmundje febrile akute",
+      "Gratë gjatë shtatzanisë",
+      "Personat që i nënshtrohen transfuzionit ose trajtimeve hemoderivuese",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 4,
+    "explanation": "MMR (vaksinë e gjallë) kundërindikohet në imunodepresion, alergji të rëndë ndaj neomicinës/xhelatinës, shtatzëni; shtyhet në sëmundje febrile akute dhe pas marrjes së produkteve të gjakut/imunoglobulinave (që neutralizojnë vaksinën)."
+  },
+  {
+    "id": "licenca-semundje-infektive-051",
+    "question": "Periudha dritare për HIV-in është:",
+    "answers": [
+      "Periudha në të cilën janë të evidentueshëm anti- HIV por viremia nuk është ende e pranishme",
+      "Periudha në të cilën nuk është i mundur transmetimi i sëmundjes",
+      "Periudha në të cilën është i pranishëm HIV-ARN por nuk janë shfaqur ende antitrupat",
+      "Të gjitha përgjigjet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 2,
+    "explanation": "Periudha dritare = koha pas infeksionit kur virusi (HIV-ARN) është i pranishëm dhe pacienti është shumë infektiv, por antitrupat ende nuk janë të detektueshëm. Testet e kombinuara Ag/Ac dhe PCR e shkurtojnë."
+  },
+  {
+    "id": "licenca-semundje-infektive-052",
+    "question": "Për një pacient dyshohet të ketë tifon abdominale. Për të konfirmuar këtë diagnozë kërkojmë:",
+    "answers": [
+      "Reaksionin e Widal-it",
+      "Sierodiagnozën e Wright",
+      "Antitrupat jo të plotë",
+      "Reaksionin e Wasserman-it",
+      "Reaksionin e Paul Bunnel"
+    ],
+    "correct": 0,
+    "explanation": "Reaksioni Widal kërkon aglutininat ndaj antigjeneve O dhe H të Salmonella typhi (sot diagnoza e sigurt është hemokultura). Wright = bruceloza, Wasserman = sifilisi, Paul-Bunnell = mononukleoza."
+  },
+  {
+    "id": "licenca-semundje-infektive-053",
+    "question": "Sëmundjet me origjinë virale, në shumicën e rasteve shoqërohen me:",
+    "answers": [
+      "Leukocitozë neutrofile",
+      "Leukocitozë limfocite",
+      "Leukocitozë bazofile",
+      "Limfocitozë",
+      "Trombocitozë"
+    ],
+    "correct": 3,
+    "explanation": "Infeksionet virale shoqërohen zakonisht me limfocitozë (relative ose absolute) ose leukopeni. Leukocitoza neutrofile sugjeron infeksion bakterial."
+  },
+  {
+    "id": "licenca-semundje-infektive-054",
+    "question": "Hemokultura konsiston në kulturën e gjakut për të kërkuar agjentët patogjenë që shkaktojnë sëmundje që përhapen (si sepsi, endokarditi etj.):",
+    "answers": [
+      "Eshtë i mjaftueshëm marrja e një kampioni gjaku kur pacienti ka temperaturë",
+      "Eshtë i mjaftueshë m marrja e kampionit të gjakut në mënyrë rastësore",
+      "Marrja e gjakut bëhet vetëm herët në mëngjes dhe pa ngrënë",
+      "Eshtë e domosdoshme marrja e përsëritur e disa kampionëve të gjakut gjatë 24 orëve, pasi prania e baktereve në gjak nuk është e përherëshme",
+      "Shpeshtësia e marrjes së kampionëve të gjakut varet dhe nga agjenti patogjen për të cilin dyshojmë"
+    ],
+    "correct": 3,
+    "explanation": "Bakteremia shpesh është intermitente, prandaj merren disa palë hemokulturash (2–3 seri) nga vende të ndryshme, mundësisht para antibiotikut dhe gjatë ngritjes së temperaturës/drithërimave."
+  },
+  {
+    "id": "licenca-semundje-infektive-055",
+    "question": "Cila patologji e lëkurës ka rrezik më të lartë për të zhvilluar herpex simlex të rëndë:",
+    "answers": [
+      "Dermatiti atopik",
+      "Psoriaza",
+      "Ekzema nga kontakti",
+      "Dermatiti",
+      "Lytha"
+    ],
+    "correct": 0,
+    "explanation": "Te dermatiti atopik HSV mund të përhapet në lëkurën e dëmtuar → eczema herpeticum (erupsion Kaposi-variceliform), formë e rëndë që kërkon aciklovir."
+  },
+  {
+    "id": "licenca-semundje-infektive-056",
+    "question": "Cila nga alternativat rreth toxoplazmës nuk është e vërtetë:",
+    "answers": [
+      "Macja është mbartësi i ndërmjtëm dhe njeriu ai përfundimtar",
+      "Macja është mbartësi përfundimtar",
+      "Mund të ketë encefalit tek pacientët imunodepres",
+      "Në format intrauterine ka shpesh përfshirje të trurit",
+      "Shpesh është asimptomatike"
+    ],
+    "correct": 0,
+    "explanation": "E gabuar: macja është bujtësi përfundimtar (cikli seksual ndodh në zorrën e saj), njeriu është bujtës i ndërmjetëm. Toksoplazmoza është shpesh asimptomatike, jep encefalit te imunodeprimuarit dhe prekje cerebrale (hidrocefali, kalcifikime) në formën kongjenitale."
+  },
+  {
+    "id": "licenca-semundje-infektive-057",
+    "question": "Cfarë është influenca aviare?",
+    "answers": [
+      "Sëmundje e kafshëve shkaktuar nga virusët aviar, që normalisht infektojnë vetëm Zogjtë",
+      "Transmetohet nga insektet",
+      "Eshtë sëmudje pandemike",
+      "Trasmetohet nga flebotomi",
+      "Eshtë sëmundje bakterial"
+    ],
+    "correct": 0,
+    "explanation": "Influenca aviare shkaktohet nga viruset e gripit A të shpendëve (H5N1, H7N9), që infektojnë zogjtë dhe vetëm rastësisht njeriun (kontakt i ngushtë me shpendë). Nuk transmetohet nga insektet."
+  },
+  {
+    "id": "licenca-semundje-infektive-058",
+    "question": "Cili prej agjentëve patogjenë është shkaktari më i shpeshtë i polmonitit tek të moshuari?",
+    "answers": [
+      "Mycoplasma pneumonie",
+      "Chlamydia pneumoniae",
+      "Streptococco pneumonie",
+      "Klebsiella pneumonie",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 2,
+    "explanation": "Pneumokoku është shkaku më i shpeshtë i pneumonisë komunitare në të gjitha moshat, sidomos te të moshuarit. Prandaj rekomandohet vaksina pneumokoksike pas 65 vjeç."
+  },
+  {
+    "id": "licenca-semundje-infektive-059",
+    "question": "Si do të ishte më e saktë të veprohej kur duam të vaksinojmë kundër rubeolës një grua në moshë fertile?",
+    "answers": [
+      "Injektim të vaksinës në mes të ciklit",
+      "Injektim të vaksinës në ditën 24-26 të ciklit",
+      "Injektim të vaksinës gjatë ciklit mestrual dhe dhënia e kontraceptivëve për tre muaj me rradhë",
+      "Injektim i vaksinës gjatë çdo faze të ciklit dhe dhënia e kontraceptivëve për gjashtë muaj me rradhë",
+      "Injektim të vaksinës në fund të ciklit"
+    ],
+    "correct": 2,
+    "explanation": "Vaksina e rubeolës është e gjallë dhe teorikisht teratogjene; bëhet kur gruaja nuk është shtatzënë (gjatë menstruacioneve) dhe rekomandohet të shmanget shtatzënia për një periudhë pas vaksinimit (sot 1 muaj; më parë 3 muaj) me kontracepsion."
+  },
+  {
+    "id": "licenca-semundje-infektive-060",
+    "question": "Shfaqja kryesore klinike e brucelozës akute e sub-akute është:",
+    "answers": [
+      "Temperatura onduluese",
+      "Temperatura me stade",
+      "Temperatura anfibolike (me luhatje)",
+      "Temperatura kuintane (e pesë ditëve)",
+      "Temperatura terciane (e tre ditëve)"
+    ],
+    "correct": 0,
+    "explanation": "Manifestimi kryesor i brucelozës akute-subakute është ethja valëzuese (ondulante), me djersitje të shumta e erë karakteristike, astenia, artralgji. Ethja terciane/kuartane është e malarisë."
+  },
+  {
+    "id": "licenca-semundje-infektive-061",
+    "question": "Si quhen kushtet në të cilat ndalohet kalimi i mikrorganizmave në ambiente sterile?",
+    "answers": [
+      "Antisepsi",
+      "Asepsi",
+      "Bakteriostazë",
+      "Zona filtër",
+      "Bonifikimi i ambientit"
+    ],
+    "correct": 1,
+    "explanation": "Asepsia = tërësia e masave që parandalojnë hyrjen e mikroorganizmave në ambiente/objekte sterile. Antisepsia = shkatërrimi i mikroorganizmave në inde të gjalla (lëkurë, plagë)."
+  },
+  {
+    "id": "licenca-semundje-infektive-062",
+    "question": "Cili prej infeksioneve nuk mund të përkufizohet si një infeksion oportunist tek pacienti me AIDS?",
+    "answers": [
+      "Meningiti criptocoxik",
+      "Pneumocistoza pulmonare",
+      "Toxoplazmoza cerebrale",
+      "Retokoliti ulçeroz",
+      "Korioretiniti citomegalik"
+    ],
+    "correct": 3,
+    "explanation": "Koliti ulçeroz është sëmundje inflamatore autoimune, jo infeksion. Meningiti kriptokoksik, pneumocistoza, toksoplazmoza cerebrale dhe retiniti CMV janë infeksione oportuniste përcaktuese të AIDS-it."
+  },
+  {
+    "id": "licenca-semundje-infektive-063",
+    "question": "Cila është simptoma më e shpeshtë e mononukleozës infektive:",
+    "answers": [
+      "Anoreksi",
+      "Faringodini",
+      "Mialgji",
+      "Nauze",
+      "Kollë"
+    ],
+    "correct": 1,
+    "explanation": "Faringodinia (dhimbja e fytit nga faringotonsiliti eksudativ) është simptoma më e shpeshtë e mononukleozës, bashkë me ethet, limfadenopatinë cervikale dhe lodhjen."
+  },
+  {
+    "id": "licenca-semundje-infektive-064",
+    "question": "Cilat janë zonat që prek më shpesh sëmundja e Lyme?",
+    "answers": [
+      "Sistemi nervor qëndror",
+      "Aparati muskulo-skeletrik",
+      "Lëkura",
+      "Të gjitha përgjigjet",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 3,
+    "explanation": "Sëmundja Lyme prek lëkurën (eritema migrans), sistemin nervor (paralizë faciale, meningit), kyçet (artrit i gjurit) dhe zemrën (blloqe AV). Të gjitha janë të sakta."
+  },
+  {
+    "id": "licenca-semundje-infektive-065",
+    "question": "Një fëmijë 6 muajsh, pas 3 ditësh me temperaturë të lartë shfaq ekzantemë të kuqërremtë në të gjithë lëkurën dhe ndërkohë temperatura ulet në mënyrë të menjëhershme. Nga se mund të jetë prekur ky fëmijë?",
+    "answers": [
+      "Fruthi",
+      "Ekzantema kritike",
+      "Rubeola",
+      "Toxoplazmoza kongenitale",
+      "Infeksion kongenital nga citomegalovirus"
+    ],
+    "correct": 1,
+    "explanation": "Exanthema subitum (roseola, ekzantema kritike) nga HHV-6: foshnja 6–24 muajshe, 3 ditë ethe të larta, pastaj ethet bien befas dhe shfaqet rash rozë makulopapular në trup. Në fruth rashi shfaqet kur ethja është në kulm."
+  },
+  {
+    "id": "licenca-semundje-infektive-066",
+    "question": "Profilaksia e rregullt kundër malarias me klorokinë jepet:",
+    "answers": [
+      "Niset trajtimi në momentin që mbërrihet në zonën malarike dhe përfundohet në fund të qëndrimit",
+      "Niset trajtimi një javë para se të shkohet në zonën malarike dhe nërpritet në fund të qëndrimit",
+      "Niset trajtimi një javë para se të shkohet në zonën malarike dhe vazhdohet deri në dy javë pas kthimit",
+      "Niset trajtimi dy javë para se të shkohet në zonën malarike dhe vazhdohet deri në 4- 6 javë pas kthimit",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 3,
+    "explanation": "Klorokina si profilaksi nis 1–2 javë para udhëtimit (për të arritur nivel të qëndrueshëm dhe testuar tolerancën), vazhdon gjatë qëndrimit dhe 4 javë (deri 6) pas kthimit, për të mbuluar format që dalin nga mëlçia."
+  },
+  {
+    "id": "licenca-semundje-infektive-067",
+    "question": "Në një person të imunizuar kundrejt hepatitit B, infeksioni nga virusi delta (HDV) shfaqet:",
+    "answers": [
+      "Në 10% të rasteve",
+      "Më pak se 10% të rasteve",
+      "Midis 10-50% të rasteve",
+      "Më shumë se 50% të rasteve",
+      "Asnjëherë"
+    ],
+    "correct": 4,
+    "explanation": "HDV ka nevojë për HBsAg për t'u replikuar. Personi i imunizuar kundër HBV (anti-HBs) nuk infektohet me HBV, prandaj as me HDV — vaksina e hepatitit B mbron edhe nga delta."
+  },
+  {
+    "id": "licenca-semundje-infektive-068",
+    "question": "Rast klinik: Rreth 5 orë pas një dasme, disa prej të ftuarve shfaqën dhimbje abdominale, të vjella, diarre. Cila mund të jetë diagnoza?",
+    "answers": [
+      "Gastroenterit viral",
+      "Enterit nga campylobacter jejumi",
+      "Intoksikim nga stafilococcus aureus",
+      "Infeksion nga salmonela",
+      "Amebiazë"
+    ],
+    "correct": 2,
+    "explanation": "Simptoma pas ~1–6 orësh te shumë persona që kanë ngrënë të njëjtin ushqim, me të vjella të forta dhe dhimbje = intoksikim nga toksina e paraformuar e S. aureus. Salmonela/Campylobacter kanë inkubacion 12–72 orë."
+  },
+  {
+    "id": "licenca-semundje-infektive-069",
+    "question": "Cilin ekzaminim do të kryenit nëse dyshoni për tenian?",
+    "answers": [
+      "Urinokulturë",
+      "Tampon rektal",
+      "Koprokulturë",
+      "Analizë urine",
+      "Analizë parazitologjike të feçeve"
+    ],
+    "correct": 4,
+    "explanation": "Tenia diagnostikohet me ekzaminim parazitologjik të feçeve (proglotide dhe vezë); për T. saginata edhe testi i shiritit ngjitës perianal. Kopro-kultura kërkon baktere, jo parazitë."
+  },
+  {
+    "id": "licenca-semundje-infektive-070",
+    "question": "Cila nuk është ndër simptomat e shpeshta të infeksionit primar nga HIV?",
+    "answers": [
+      "Temperaturë",
+      "Faringodini",
+      "Artralgji",
+      "Rash kutan makulo-papular",
+      "Alopeci"
+    ],
+    "correct": 4,
+    "explanation": "Infeksioni akut HIV (sindroma retrovirale akute) jep sindromë si mononukleoza: ethe, faringodini, limfadenopati, artralgji/mialgji, rash makulopapular, ulçera orale. Alopecia nuk është tipike."
+  },
+  {
+    "id": "licenca-semundje-infektive-071",
+    "question": "Patogjeneza e shfaqjes në lëkurë të sëmudjeve infektive është e lidhur me:",
+    "answers": [
+      "Shumimin e patogjenit në nivelin e lëkurës",
+      "Fenomene imunologjike",
+      "Lëshimi i toksinave",
+      "Fenomene vaskulare",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 4,
+    "explanation": "Lezionet kutane në infeksione vijnë nga: shumimi i drejtpërdrejtë i patogjenit në lëkurë (varicela), fenomene imunologjike (fruthi), toksina (skarlatina), dëmtim vaskular (petekiet në meningokoksemi). Të gjitha."
+  },
+  {
+    "id": "licenca-semundje-infektive-072",
+    "question": "Sterilizim do të thotë:",
+    "answers": [
+      "Shkatërrim të agjentëve patogjenë",
+      "Shkatërrim të agjentëve patogjenë e jo patogjenë",
+      "Shkatërrim të agjentëve jo patogjenë",
+      "Shkatërrim vetëm të agjentëve bakterialë",
+      "Shkatërrim të gjithckaje që mbart një agjent mikrobial"
+    ],
+    "correct": 1,
+    "explanation": "Sterilizimi = shkatërrimi i të gjitha formave mikrobike, patogjene dhe jopatogjene, përfshirë sporet. Dezinfektimi shkatërron vetëm patogjenët (jo domosdoshmërisht sporet)."
+  },
+  {
+    "id": "licenca-semundje-infektive-073",
+    "question": "Në aspektin epidemiologjik, hepatiti A lidhet më shumë me:",
+    "answers": [
+      "Marrëdhëniet heteroseksuale jo të mbrojtura",
+      "Përdorimi i hemoderivuesve",
+      "Përdorimi i ujit ose frutave të detit të kontaminuara",
+      "Shkëmbimi i lugëve që janë përdorur nga persona të sëmurë me HAV",
+      "Kontakti i ngushtë respirator me persona të sëmurë"
+    ],
+    "correct": 2,
+    "explanation": "HAV transmetohet fekalo-oralisht; burimet kryesore epidemike janë uji dhe ushqimet e kontaminuara, sidomos frutat e detit të papjekura (midhjet filtrojnë ujin e ndotur)."
+  },
+  {
+    "id": "licenca-semundje-infektive-074",
+    "question": "Manifestimi më i shpeshtë I toxoplazmozes tek një i rritur imunokompetent është:",
+    "answers": [
+      "Retiniti",
+      "Hepatiti akut",
+      "Hepatiti kronik",
+      "Limfoadeniti",
+      "Encefaliti"
+    ],
+    "correct": 3,
+    "explanation": "Te i rrituri imunokompetent toksoplazmoza është shpesh asimptomatike; kur jep simptoma, manifestimi kryesor është limfadenopatia (sidomos cervikale posteriore), me ose pa sindromë mononukleozike."
+  },
+  {
+    "id": "licenca-semundje-infektive-075",
+    "question": "Leukopenia është e shpeshtë në rastin e:",
+    "answers": [
+      "Kolera",
+      "Enteriti nga Escherichia coli enterohemorragjik",
+      "Shigeloza",
+      "Ethet tifoide",
+      "Leptospiroza"
+    ],
+    "correct": 3,
+    "explanation": "Ethja tifoide jep leukopeni (ose numër normal) me aneozinofili. Leptospiroza, shigeloza, E. coli enterohemorragjik japin zakonisht leukocitozë."
+  },
+  {
+    "id": "licenca-semundje-infektive-076",
+    "question": "Orkiti është komplikim i munshëm i njërës prej sëmundjeve infektive. Cilës prej tyre?",
+    "answers": [
+      "Rubeola",
+      "Fruthi",
+      "Lija e dhenve",
+      "Parotiti (shytat)",
+      "Ekzantema kritike"
+    ],
+    "correct": 3,
+    "explanation": "Orkiti (zakonisht njëanshëm) është komplikimi më i shpeshtë i shytave te mashkulli pas pubertetit (20–30%); mund të çojë në atrofi testikulare. Komplikime të tjera: meningit, pankreatit."
+  },
+  {
+    "id": "licenca-semundje-infektive-077",
+    "question": "Të sapolindurit nga nëna të infekstuara me HIV janë:",
+    "answers": [
+      "Gjithnjë HIV-Ab pozitiv",
+      "Gjithnjë HIV-Ab negativ",
+      "Gjithnjë HIV-ARN negativ",
+      "Gjithnjë HIV-ARN pozitiv",
+      "HIV-Ab pozitiv në 50% të rasteve"
+    ],
+    "correct": 0,
+    "explanation": "Të gjithë të porsalindurit nga nëna HIV+ janë anti-HIV pozitiv sepse IgG materne kalojnë placentën dhe qëndrojnë deri në 18 muaj. Diagnoza e infeksionit te foshnja bëhet me HIV-ADN/ARN (PCR)."
+  },
+  {
+    "id": "licenca-semundje-infektive-078",
+    "question": "Cili prej këtyre agjentëve shkakton më shpesh hepatit fulminant?",
+    "answers": [
+      "Virusi i fruthit",
+      "Pneumocysti carini",
+      "HBV",
+      "HIV",
+      "Leishmania donovani"
+    ],
+    "correct": 2,
+    "explanation": "Ndër agjentët e listuar, HBV është shkaku më i shpeshtë i hepatitit fulminant viral (sidomos me koinfeksion/superinfeksion HDV). Fruthi, HIV, P. carinii e leishmania nuk shkaktojnë zakonisht hepatit fulminant."
+  },
+  {
+    "id": "licenca-semundje-infektive-079",
+    "question": "Cili prej virusëve nuk shkakton sindromën e mononukleozës?",
+    "answers": [
+      "Virusi i rubeolës",
+      "Virusi i Epstein-Barr",
+      "Herpes virus human tipi 6 (HHV6)",
+      "HIV",
+      "Koronavirus"
+    ],
+    "correct": 4,
+    "explanation": "Sindromën mononukleozike e japin EBV (klasike), CMV, HHV-6, HIV (infeksioni akut), toksoplazma dhe rrallë rubeola. Koronaviruset japin infeksione respiratore, jo mononukleozë."
+  },
+  {
+    "id": "licenca-semundje-infektive-080",
+    "question": "Hepatiti nga virusi delta verifikohet vetëm në rast se ekziston njëkohësisht dhe infeksioni nga:",
+    "answers": [
+      "HAV",
+      "HBV",
+      "Virusi Epstein-Barr",
+      "HCV",
+      "Citomegalovirus"
+    ],
+    "correct": 1,
+    "explanation": "HDV është virus defektiv që përdor HBsAg si mbështjellës; prandaj infeksioni delta ndodh vetëm në prani të HBV (koinfeksion ose superinfeksion te bartësi kronik)."
+  },
+  {
+    "id": "licenca-semundje-infektive-081",
+    "question": "Cila strukturë preket më shpesh ngainfeksioni i citomegalovirusit?",
+    "answers": [
+      "Gjëndrat e pështymës",
+      "Gjëndrat e pështymës dhe veshkat",
+      "Pulmoni",
+      "Pulmoni dhe hepari",
+      "Hepari"
+    ],
+    "correct": 1,
+    "explanation": "CMV replikohet kryesisht në gjëndrat e pështymës dhe veshka; ekskretohet për kohë të gjatë me pështymën dhe urinën. Te imunodeprimuarit prek retinën, mushkëritë, zorrët, mëlçinë."
+  },
+  {
+    "id": "licenca-semundje-infektive-082",
+    "question": "Terapia për meningitin tuberkular përfshin 4 medikamente antituberkualre. Cili prej këtyre medikamenteve nuk përfshihet?",
+    "answers": [
+      "Claritromicina",
+      "Izoniazidi",
+      "Pirazinamidi",
+      "Etambutoli",
+      "Rifampicina"
+    ],
+    "correct": 0,
+    "explanation": "Meningiti tuberkular trajtohet me izoniazid, rifampicinë, pirazinamid dhe etambutol (ose streptomicinë) + kortikosteroid. Klaritromicina nuk është antituberkular standard (përdoret për mikobakteret atipike)."
+  },
+  {
+    "id": "licenca-semundje-infektive-083",
+    "question": "Pneumonitë e komunitetit janë:",
+    "answers": [
+      "Merren pas një episodi gripi (influence)",
+      "Merren në komunitetet e toksikodipendentëve",
+      "Merren në spital",
+      "Merren jashtë spitali, në jetën e përditshme",
+      "Tek të sapolindurit"
+    ],
+    "correct": 3,
+    "explanation": "Pneumonia komunitare (CAP) merret jashtë spitalit ose shfaqet brenda 48 orëve nga shtrimi. Pneumonia nozokomiale shfaqet pas 48 orëve shtrimi."
+  },
+  {
+    "id": "licenca-semundje-infektive-084",
+    "question": "Chikungunya e njohur dhe si “sëmundja e njeriut të përkulur” transmetohet nga:",
+    "answers": [
+      "Pickimi i mushkonjës së infektuar, Aedes Albopictus dhe Aedes Aegypti",
+      "Nga insektet",
+      "Kontakti seksual",
+      "Ushqimi",
+      "Inhalimi"
+    ],
+    "correct": 0,
+    "explanation": "Chikungunya është arbovirus i transmetuar nga mushkonjat Aedes aegypti dhe Aedes albopictus (mushkonja tigër); jep ethe me artralgji të forta që e detyrojnë pacientin të ecë i përkulur."
+  },
+  {
+    "id": "licenca-semundje-infektive-085",
+    "question": "Cili është agjenti etiologjik i etheve Q?",
+    "answers": [
+      "Clamidia",
+      "Legionela",
+      "Streptococcu",
+      "H.influenca",
+      "Coxiela burneti"
+    ],
+    "correct": 4,
+    "explanation": "Ethja Q shkaktohet nga Coxiella burnetii, që transmetohet duke thithur aerosol nga kafshët (dele, dhi, lopë), sidomos placenta. Jep pneumoni atipike, hepatit, endokardit kronik."
+  },
+  {
+    "id": "licenca-semundje-infektive-086",
+    "question": "Komplikimet kryesore që shkaktohen nga virusi aviar (shpendëve) tek njeriu janë:",
+    "answers": [
+      "Mioziti",
+      "Pneumonia baketriale sekondare",
+      "Sindroma e Reye sëbashku me terapinë me ASA",
+      "Miokarditi",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 4,
+    "explanation": "Gripi aviar te njeriu mund të ndërlikohet me pneumoni virale/bakteriale sekondare, ARDS, miozit, miokardit dhe sindromë Reye nëse jepet aspirinë fëmijëve. Të gjitha."
+  },
+  {
+    "id": "licenca-semundje-infektive-087",
+    "question": "Kondilomat (lythat) shkaktohen nga:",
+    "answers": [
+      "HPV",
+      "HSV",
+      "Enterovirus",
+      "HIV",
+      "Baktere"
+    ],
+    "correct": 0,
+    "explanation": "Kondilomat akuminata (lythat gjenitale) shkaktohen nga HPV, kryesisht tipet 6 dhe 11 (me rrezik të ulët onkogjen). Tipet 16 dhe 18 shkaktojnë kancerin e qafës së mitrës."
+  },
+  {
+    "id": "licenca-semundje-infektive-088",
+    "question": "Vaksinimi kundër kolerës jep:",
+    "answers": [
+      "Imunitet të përhershëm",
+      "Imunitet për 5 vjet",
+      "Imunitet për 10 vjet",
+      "Imunitet për 18 muaj",
+      "Imunitet për 6 muaj"
+    ],
+    "correct": 4,
+    "explanation": "Vaksina klasike kundër kolerës (e injektueshme, me bakterie të vrara) jepte mbrojtje të pjesshme dhe të shkurtër, rreth 6 muaj. Vaksinat orale të sotme mbrojnë rreth 2 vjet."
+  },
+  {
+    "id": "licenca-semundje-infektive-089",
+    "question": "Cili prej markuesve të gjakut mundëson diagnozën etiologjike për hepatitin akut tip B?",
+    "answers": [
+      "HBsAg",
+      "IgG antiHBc",
+      "AntiHBc",
+      "IgM anti HBc",
+      "HBeAg"
+    ],
+    "correct": 3,
+    "explanation": "IgM anti-HBc është markuesi i infeksionit akut me HBV (i pranishëm edhe në \"periudhën dritare\" kur HBsAg është zhdukur). HBsAg është i pranishëm edhe te bartësit kronikë; IgG anti-HBc tregon infeksion të vjetër."
+  },
+  {
+    "id": "licenca-semundje-infektive-090",
+    "question": "Streptocoket viridant shkaktojnë më shpesh:",
+    "answers": [
+      "Meningit",
+      "Endokardit",
+      "Cistopielit",
+      "Kolecistit",
+      "Enterit"
+    ],
+    "correct": 1,
+    "explanation": "Streptokokët viridans (flora e gojës) janë shkaktari klasik i endokarditit subakut mbi valvula të dëmtuara, shpesh pas procedurave dentare."
+  },
+  {
+    "id": "licenca-semundje-infektive-091",
+    "question": "Medikamentet parësore për trajtimin e brucelozës janë:",
+    "answers": [
+      "Tetraciklina",
+      "Antibiotikët glikopeptidikë",
+      "Cefalosporina të gjeneratës së II",
+      "Cefalosporina të gjeneratës së III",
+      "Metronidazoli"
+    ],
+    "correct": 0,
+    "explanation": "Bruceloza trajtohet me tetraciklina (doksiciklinë) në kombinim me rifampicinë ose aminoglikozid (streptomicinë/gentamicinë) për ≥6 javë, për të shmangur recidivat."
+  },
+  {
+    "id": "licenca-semundje-infektive-092",
+    "question": "Cila prej sëmundjeve nuk transmetohet nëpërmjet rrugëve seksuale:",
+    "answers": [
+      "Limfoma e Lennert",
+      "HBV",
+      "Limfogranuloma venere",
+      "Ulçera e butë venere",
+      "Herpes simplex tip 2"
+    ],
+    "correct": 0,
+    "explanation": "Limfoma Lennert (limfomë T limfoepitelioide) është neoplazi, jo infeksion seksual. HBV, limfogranuloma venerike (Chlamydia L1–L3), ulçera e butë (H. ducreyi) dhe HSV-2 transmetohen seksualisht."
+  },
+  {
+    "id": "licenca-semundje-infektive-093",
+    "question": "Shënja e Koplik është e pranishme në:",
+    "answers": [
+      "Lija e dhenve",
+      "Fruthi",
+      "Rubeola",
+      "Skarlatina",
+      "Tifo"
+    ],
+    "correct": 1,
+    "explanation": "Shenjat Koplik (pika të bardha me hale eritematoz në mukozën bukale përballë molarëve) janë patognomonike për fruthin, shfaqen 1–2 ditë para rashit."
+  },
+  {
+    "id": "licenca-semundje-infektive-094",
+    "question": "Endokarditi infektiv tek toksikodipendentët që marrin drogë nga vena shkaktohet më shumë nga:",
+    "answers": [
+      "Stafilococu aureus",
+      "Streptococu viridans",
+      "Escherichia coli",
+      "Enterococu",
+      "Gonococu"
+    ],
+    "correct": 0,
+    "explanation": "Te përdoruesit e drogave IV endokarditi shkaktohet më shpesh nga S. aureus dhe prek shpesh valvulën trikuspidale (emboli septike pulmonare)."
+  },
+  {
+    "id": "licenca-semundje-infektive-095",
+    "question": "Të gjitha gjendjet mëposhtme mund të japin fals pozitiv për reaksionin ndaj sifilizit përveç njërës:",
+    "answers": [
+      "Mononukleoza infektive",
+      "Tripanozomiaza",
+      "Lupus eritematoz sistemik",
+      "Malaria",
+      "Bruceloza"
+    ],
+    "correct": 4,
+    "explanation": "Testet jo-treponemale (VDRL/RPR) mund të japin fals pozitiv në LES, sindromën antifosfolipidike, mononukleozë, malari, tripanosomiazë, shtatzëni, lebër. Bruceloza nuk është shkak klasik."
+  },
+  {
+    "id": "licenca-semundje-infektive-096",
+    "question": "Erisipela shkaktohet nga:",
+    "answers": [
+      "Streptococu piogenes",
+      "Stafilococu aureus",
+      "Agjenti nuk është identifikuar ende",
+      "Në shumicën e rasteve izolohet agjent i ngjashëm e prionet",
+      "Proteus vulgaris"
+    ],
+    "correct": 0,
+    "explanation": "Erizipela është celulit sipërfaqësor me kufij të mprehtë, të ngritur, e shkaktuar nga Streptococcus pyogenes (grupi A beta-hemolitik). Trajtim: penicilinë."
+  },
+  {
+    "id": "licenca-semundje-infektive-097",
+    "question": "Cili prej alternimeve të likidit cerebro-spinal diferencon meningitin bakterial nga ai viral?",
+    "answers": [
+      "Hiperproteinorraki",
+      "Pleiocitozë likidi",
+      "Hipoglikorraki",
+      "Prevalencë limfocitare",
+      "Rritje të presionit në likid"
+    ],
+    "correct": 2,
+    "explanation": "Hipoglikorrakia (glukoza e LCR <40 mg/dl ose raport LCR/gjak <0,4) dallon meningitin bakterial nga ai viral (ku glukoza është normale). Proteinat dhe qelizat rriten në të dyja."
+  },
+  {
+    "id": "licenca-semundje-infektive-098",
+    "question": "Flora bakteriale normale e pranishme në organizëm:",
+    "answers": [
+      "Eshtë e rëndësishme, sepse ka funksion mbrojtës",
+      "Prania e saj tregon se personi është i sëmurë",
+      "Eshtë e pranishme vetëm tek personat imunodepres (AIDS, neoplazi, trapiante etj.)",
+      "Eshtë e pranishme vetëm tek personat që janë shëruar nga një sëmundje infektive",
+      "Eshtë e pranishme vetëm tek personat me sëmundje infektive kronike"
+    ],
+    "correct": 0,
+    "explanation": "Flora normale (mikrobioma) ka rol mbrojtës: konkurron me patogjenët për vend e lëndë ushqyese, prodhon substanca antibakteriale, stimulon imunitetin, sintetizon vitamina (K). E kanë të gjithë personat e shëndetshëm."
+  },
+  {
+    "id": "licenca-semundje-infektive-099",
+    "question": "Një person i vaksinuar për hepatitin B është:",
+    "answers": [
+      "HBsAg pozitiv",
+      "AntiHBe pozitiv",
+      "AntiHBe dhe Anti HBc pozitiv",
+      "AntiHBe, antiHBc dhe anti HBs pozitiv",
+      "Anti HBs pozitiv"
+    ],
+    "correct": 4,
+    "explanation": "Vaksina përmban vetëm HBsAg rekombinant, prandaj i vaksinuari ka vetëm anti-HBs pozitiv. Anti-HBc pozitiv tregon infeksion natyral (aktual ose të kaluar)."
+  },
+  {
+    "id": "licenca-semundje-infektive-100",
+    "question": "Cestodet :",
+    "answers": [
+      "Nuk janë patogjen për njeriun",
+      "Janë protozoarë",
+      "Janë krimba cilindrikë",
+      "Janë krimba të sheshtë të segmentuar",
+      "Janë krimba të sheshtë jo të segmentuar"
+    ],
+    "correct": 3,
+    "explanation": "Cestodet (tenia, ekinokoku) janë krimba të sheshtë të segmentuar (me proglotide), parazitë të njeriut. Trematodet janë të sheshtë jo-segmentuar, nematodet cilindrikë."
+  },
+  {
+    "id": "licenca-semundje-infektive-101",
+    "question": "Cila prej vaksinave përmban virus të gjallë të dobësuar?",
+    "answers": [
+      "Anti hepatiti A",
+      "Antidifteriku",
+      "Antipolio tip Salk",
+      "Anti ethet e verdha",
+      "Antitifo"
+    ],
+    "correct": 3,
+    "explanation": "Vaksina e etheve të verdha (17D) përmban virus të gjallë të dobësuar. Vaksinat e hepatitit A, poliomielitit Salk (IPV), difterisë (toksoid) dhe tifos (polisakaridike/e vrarë) janë jo të gjalla."
+  },
+  {
+    "id": "licenca-semundje-infektive-102",
+    "question": "Perforimi intestinal është pjesë e komplikimeve të:",
+    "answers": [
+      "Kolitit pseudomembranoz",
+      "Ethet tifoide",
+      "Kolera",
+      "Enteriti nga Campylobacter jejunum",
+      "Shigeloza"
+    ],
+    "correct": 1,
+    "explanation": "Ethja tifoide në javën e 3-të mund të ndërlikohet me hemorragji dhe perforim intestinal në nivel të pllakave të Peyer-it të ileumit terminal (të ulçeruara)."
+  },
+  {
+    "id": "licenca-semundje-infektive-103",
+    "question": "Imuniteti pasiv gjatë një infeksioni është ai i fituar nga:",
+    "answers": [
+      "Mamaja",
+      "Pasi e ka hasur infeksionin por pa klinikë",
+      "Pasi e hasur infeksionin dhe më pas është shëruar",
+      "Pasi e ka hasur infeksionin dhe më pas është shëruar, pavarësisht nga kuadri klinik",
+      "Pasi është vaksinuar për këtë infeksion"
+    ],
+    "correct": 0,
+    "explanation": "Imuniteti pasiv natyral është transferimi i antitrupave të gatshëm nga nëna te fëmija (IgG transplacentare, IgA në qumësht). Infeksioni dhe vaksinimi japin imunitet aktiv."
+  },
+  {
+    "id": "licenca-semundje-infektive-104",
+    "question": "Një e re 25 vjeçare shfaqi temperaturë, faringodini dhe asteni. Pas 24 orëve ku temperatura rritej, ajo vuri re praninë e disa limfonodujve në qafë. Konsultohet me mjekun dhe vihet re: limfonoduj të zmadhuar në të gjitha stacionet limfatike sipërfaësore, subikter të sklerave, skuqje të faringut dhe disa pllaka të bardha tek tonsilat. Nga analiza e gjakut vihet re: Hb 13.5g/dl, eritrocite 4.260.000/mmc, leukocite 25.000/mmc me formulë: N 21%; E 2,5%; B 0.5%; L 39%; M 28%; qeliza të mëdhaja limfocitare 9%. Trombocitet 350.000/mmc; AST 250UI/L; ALT 900UI/L; Bilirubin tot 3.5mg/dl; Bilirubin direkt 1.8mg/dl. Cili mund të jetë agjenti patogjen më i mundshëm për këte gjendje:",
+    "answers": [
+      "Virusi i Epstein-Barr",
+      "Streptococu gr A",
+      "Mycoplazma hominis",
+      "Neisseria gonorrhaea",
+      "Escherichia coli"
+    ],
+    "correct": 0,
+    "explanation": "E re me ethe, faringotonsilit eksudativ, limfadenopati të gjeneralizuar, limfomonocitozë me limfocite atipike dhe hepatit (ALT e lartë, subikter) = mononukleozë infektive nga EBV. Diagnozë: Monospot/anti-VCA IgM."
+  },
+  {
+    "id": "licenca-semundje-infektive-105",
+    "question": "Profilaksia ndaj meningitit meningokoksik për ata që janë kontakt të ngushtë me të bëhet me:",
+    "answers": [
+      "Gamaglobulina",
+      "Rifampicine",
+      "Peniciline",
+      "Ertromicine",
+      "Cloramfenikol"
+    ],
+    "correct": 1,
+    "explanation": "Kontaktet e ngushta të meningitit meningokoksik marrin kemioprofilaksi me rifampicinë (2 ditë), ose ciprofloksacinë 1 dozë, ose ceftriakson 1 dozë (në shtatzëni)."
+  },
+  {
+    "id": "licenca-semundje-infektive-106",
+    "question": "Spiroketet e llojit Borrelia mund të shkaktojnë:",
+    "answers": [
+      "Stomatit",
+      "Temperaturën periodike",
+      "Tifon murine",
+      "Gripin",
+      "Gastritin"
+    ],
+    "correct": 1,
+    "explanation": "Borrelia recurrentis/duttoni shkaktojnë ethen rekurente (periodike), me episode febrile që përsëriten nga variacioni antigjenik. Borrelia burgdorferi shkakton Lyme."
+  },
+  {
+    "id": "licenca-semundje-infektive-107",
+    "question": "Cila është terapia për Morbusin e Hansen, në formën tuberkulare:",
+    "answers": [
+      "Dapsoni",
+      "Rifampicina",
+      "Dapsoni+Rifampicina",
+      "Clofazimina",
+      "Claritromicina"
+    ],
+    "correct": 2,
+    "explanation": "Lebra tuberkuloide (paucibacilare) trajtohet sipas OBSH me dapson + rifampicinë për 6 muaj; forma lepromatoze (multibacilare) shton klofazimin për 12 muaj."
+  },
+  {
+    "id": "licenca-semundje-infektive-108",
+    "question": "Skarlatina shkaktohet nga:",
+    "answers": [
+      "Streptokoku i gr A",
+      "Stafilokoku",
+      "Treponema pallidum",
+      "Nuk njihet etiologjia",
+      "Pneumokoku"
+    ],
+    "correct": 0,
+    "explanation": "Skarlatina shkaktohet nga Streptococcus pyogenes (grupi A) që prodhon toksinë eritrogjene: faringit, rash i imët \"si letër zmerile\", gjuhë \"luleshtrydhe\", shenja Pastia."
+  },
+  {
+    "id": "licenca-semundje-infektive-109",
+    "question": "Idatidoza shkaktohet nga:",
+    "answers": [
+      "Echinokoku",
+      "Tenia",
+      "Hymonelepis nana",
+      "Leptospira",
+      "Agjentë të ngjashëm me prionet"
+    ],
+    "correct": 0,
+    "explanation": "Idatidoza (kisti hidatik) shkaktohet nga larvat e Echinococcus granulosus; njeriu infektohet nga vezët në feçet e qenve; preken kryesisht mëlçia dhe mushkëritë."
+  },
+  {
+    "id": "licenca-semundje-infektive-110",
+    "question": "Në botulizmin nga ushqimi, sëmundja shkaktohet nga:",
+    "answers": [
+      "Toksina e prodhuar në zorrë",
+      "Toksina e formuar paraprakisht tek ushqimi",
+      "Nga produktet që çlirohen gjatë lizës së bakterit në stomak",
+      "Bakteri në fazë replikuese",
+      "Toksina citotonike"
+    ],
+    "correct": 1,
+    "explanation": "Në botulizmin ushqimor, sëmundja shkaktohet nga toksina e formuar paraprakisht në ushqim, që absorbohet nga zorra. Në botulizmin infantil toksina prodhohet në zorrë nga sporet."
+  },
+  {
+    "id": "licenca-semundje-infektive-111",
+    "question": "Në infeksionin nga HIV, niveli i viremisë është i lartë dhe keshtu që rreziku për transmetim i sëmundjes është më i madh:",
+    "answers": [
+      "Kur infeksioni merret me rrugë seksuale",
+      "Në 24 orët e para pas kontaktit",
+      "Gjatë fazës së latëncës klinike",
+      "Si gjatë fazës akute dhe më vonë, ku niveli i CD4 është shumë i ulët",
+      "Pas trajtimit me zidovudine, lamivudine dhe ndinavir"
+    ],
+    "correct": 3,
+    "explanation": "Viremia HIV është shumë e lartë në fazën akute (infeksioni primar) dhe në fazën e avancuar (CD4 shumë të ulët/AIDS); në këto faza rreziku i transmetimit është maksimal. Terapia antiretrovirale e ul viremian."
+  },
+  {
+    "id": "licenca-semundje-infektive-112",
+    "question": "Një pensionist 76 vjeçar, ish minator, me silikozë pulmonare, pas 2 ditësh me temperaturë të lartë e otalgji të djathtë, me delir e i hutuar bie në koma. Në ekzaminimin objektiv evidentohen shenja meningeale,herpes labial dhe membrana timpanike e djathtë e turbullt. Në analizat e gjakut vihet re leukocitozë neutrofile. Analiza e likidit cerebro-spinal tregon për pleiocitozë neutrofile, hipiglikorraki, hiperprotidorraki. Cili mund të jetë agjenti patogjen më i mundshëm?",
+    "answers": [
+      "Meningit nga gram negativët",
+      "Meningit meningokoksik",
+      "Meningit pneumokoksik",
+      "Meningit tuberkular",
+      "Meningit nga echo virus"
+    ],
+    "correct": 2,
+    "explanation": "Meningit purulent te i moshuari pas otitit të mesëm, me herpes labial = meningit pneumokoksik (pneumokoku shkakton shpesh otit e meningit me përhapje). Meningokoku prek më shumë të rinjtë dhe jep purpurë."
+  },
+  {
+    "id": "licenca-semundje-infektive-113",
+    "question": "Epidemitë që përhapen nëpër kontinente quhen:",
+    "answers": [
+      "Universale",
+      "Pandemike",
+      "Endemike",
+      "Sporadike",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 1,
+    "explanation": "Pandemia është epidemi që përhapet në shumë vende/kontinente (p.sh. COVID-19). Endemia = prani e vazhdueshme në një zonë; sporadike = raste të izoluara."
+  },
+  {
+    "id": "licenca-semundje-infektive-114",
+    "question": "Tek pacienti me AIDS, trimetoprim/sulfametazolo (cotrimosazolo) përdoret në terapinë e:",
+    "answers": [
+      "Aspergilozës së përhapur",
+      "Tuberkulozit extrapulmonar",
+      "Pneumonisë nga P. Carinii",
+      "Meningiti nga criptokoku",
+      "Retiniti nga cytomegalovirus"
+    ],
+    "correct": 2,
+    "explanation": "Kotrimoksazoli (TMP-SMX) është terapia e zgjedhur dhe profilaksia e pneumonisë nga Pneumocystis jirovecii (carinii) te pacientët me AIDS. Kriptokoku trajtohet me amfotericinë+flucitozinë, CMV me ganciklovir."
+  },
+  {
+    "id": "licenca-semundje-infektive-115",
+    "question": "Cila prej alternativave nuk është shenjë e amebiazës intestinale nga E. Histolytica?",
+    "answers": [
+      "Feçe me gjak",
+      "Leukocitozë në gjakun periferik",
+      "Prania e mukusit në feçe",
+      "Dhimbje abdominale",
+      "Temperaturë modeste ose që nuk ka fare"
+    ],
+    "correct": 1,
+    "explanation": "Amebiaza intestinale jep diarre me gjak e mukus, dhimbje abdominale, ethe të lehta ose mungesë ethesh. Leukocitoza periferike nuk është tipike (shfaqet në abscesin hepatik amebik)."
+  },
+  {
+    "id": "licenca-semundje-infektive-116",
+    "question": "Kuadri hematologjik tek Leshmanioza karakterizohet nga:",
+    "answers": [
+      "Rritje të neutrofileve",
+      "Anemi mikrocitike",
+      "Leukopeni",
+      "Rritje të trombociteve",
+      "Leukocitozë"
+    ],
+    "correct": 2,
+    "explanation": "Leishmanioza viscerale (kala-azar) jep pancitopeni: anemi normocitare, leukopeni, trombocitopeni, me splenomegali masive dhe hipergamaglobulinemi."
+  },
+  {
+    "id": "licenca-semundje-infektive-117",
+    "question": "Trizmusi (trisma) tek tetanozi është:",
+    "answers": [
+      "Hiperton i muskujve dorsalë",
+      "Spazma të sfintereve",
+      "Relaksim muskular të gjeneralizuar",
+      "Hiperton të muskujve maseter",
+      "Hiperton të muskujve sternokleidomastoide"
+    ],
+    "correct": 3,
+    "explanation": "Trizmusi është kontraktura toniko e muskujve masetër që pengon hapjen e gojës — shenja e parë e tetanozit. Vazhdon me risus sardonicus dhe opistotonus."
+  },
+  {
+    "id": "licenca-semundje-infektive-118",
+    "question": "Cila mund të trasmetojë sëmundjen nga mbartësi i tifos i shëruar:",
+    "answers": [
+      "Pështyma",
+      "Gjaku",
+      "Lotët",
+      "Djersa",
+      "Feçet"
+    ],
+    "correct": 4,
+    "explanation": "Bartësi kronik i S. typhi (shpesh me kolecistolitiazë) eliminon bakterin me feçet (ndonjëherë me urinë) dhe transmeton sëmundjen fekalo-oralisht, sidomos përmes ushqimit (p.sh. \"Mary Tifoja\")."
+  },
+  {
+    "id": "licenca-semundje-infektive-119",
+    "question": "Infeksioni nga HPV është:",
+    "answers": [
+      "I gjithëpranishëm dhe prek të paktën një herë në jetë 75% të popullsisë nga 15-49 vjeç",
+      "Transmetohet me rrugë seksuale",
+      "Eshtë përgjegjës për të paktën 1/3 e sëmundjeve seksualisht të trasmetueshme",
+      "Përgjegjës për të paktën 500.000 raste të reja të karcinomës cervikale, çdo vit në botë",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 4,
+    "explanation": "HPV është infeksioni seksual më i shpeshtë: prek shumicën e popullsisë seksualisht aktive gjatë jetës, përbën pjesë të madhe të IST-ve dhe shkakton qindra mijëra raste kanceri cervikal çdo vit. Të gjitha të sakta."
+  },
+  {
+    "id": "licenca-semundje-infektive-120",
+    "question": "Si transmetohet Giardiasis?",
+    "answers": [
+      "Përdorimit të ushqimit të gatuar",
+      "Përdorimit të ujit të ndotur",
+      "Me anë të lëkurës",
+      "Me rrugët respiratore",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 1,
+    "explanation": "Giardia lamblia transmetohet me cistet në ujë të ndotur (pa klorim të mjaftueshëm, ujë burimi) ose ushqime të papjekura; jep diarre, fryrje, malabsorbim."
+  },
+  {
+    "id": "licenca-semundje-infektive-121",
+    "question": "Cila prej sëmundjeve infektive nuk trasnmetohet nga kontakti direkt me të sëmurin?",
+    "answers": [
+      "Lija e dhenve",
+      "HAV",
+      "Ethet tifoide",
+      "Bruceloza",
+      "Poliomeliti"
+    ],
+    "correct": 3,
+    "explanation": "Bruceloza është zoonozë që merret nga kontakti me kafshë të infektuara ose qumësht/djathë të papasterizuar; nuk transmetohet nga njeriu te njeriu. Varicela, HAV, tifoja, polio transmetohen ndërnjerëzor."
+  },
+  {
+    "id": "licenca-semundje-infektive-122",
+    "question": "Gastroenteriti i shkaktuar nga rotavirus është i përhapur në të gjithë botën. Cila është rruga kryesore e transmetimit të virusit?",
+    "answers": [
+      "Oro-fekale",
+      "Respiratore",
+      "Hematike",
+      "Limfatike",
+      "Kontakti me sipërfaqe të kontaminuara"
+    ],
+    "correct": 0,
+    "explanation": "Rotavirusi transmetohet kryesisht fekalo-oralisht (duar, objekte, ujë); është shkaku kryesor i gastroenteritit të rëndë te fëmijët <5 vjeç. Parandalohet me vaksinë orale."
+  },
+  {
+    "id": "licenca-semundje-infektive-123",
+    "question": "Një grua e re do të shkojë në Afrikën qëndrore për turizëm. Profilaksia kundër malarias me meflokine:",
+    "answers": [
+      "Nuk duhet bërë pasi efikasiteti i saj është i diskutueshëm",
+      "Bëhet vetëm nëse do të shkojë në vende endemike për P. Vivax",
+      "Duhet bërë një ditë para se të niset dhe duhet përfunduar një javë para se të kthehet",
+      "Duhet bërë një javë para se të niset, të vazhdojë gjatë gjithë qëndrimit në atë vend dhe të përfundohet 4 javë pas kthimit në vendin e saj",
+      "Nuk bëhet tek gratë shtatzëna, pasi është treguar se rreziku për tu pickuar nga mushkonja Anopheles është mjaft i vogël për këtë gjendje"
+    ],
+    "correct": 3,
+    "explanation": "Meflokina nis 1 javë (deri 2–3 javë) para udhëtimit, merret 1 herë në javë gjatë qëndrimit dhe vazhdon 4 javë pas kthimit. Mund të përdoret edhe në shtatzëni; efektet neuropsikiatrike janë problemi kryesor."
+  },
+  {
+    "id": "licenca-semundje-infektive-124",
+    "question": "Leishamania është:",
+    "answers": [
+      "Elmint (krimb)",
+      "Virus me ARN",
+      "Bakter gram +",
+      "Protozoar",
+      "Micetet (kërpudhë)"
+    ],
+    "correct": 3,
+    "explanation": "Leishmania është protozoar flagjelat (amastigote brenda makrofagëve te njeriu, promastigote te flebotomi)."
+  },
+  {
+    "id": "licenca-semundje-infektive-125",
+    "question": "Simptoma ose shenja pothuajse konstante gjatë sëmundjes së rubeolës është:",
+    "answers": [
+      "Kolla",
+      "Zmadhimi i limfonodujve retronukal",
+      "Temperaturë>40° celsius",
+      "Hopistoton",
+      "Diarre sekretore me gjakosje"
+    ],
+    "correct": 1,
+    "explanation": "Limfadenopatia retroaurikulare, nukale dhe okcipitale posteriore është shenja pothuajse konstante e rubeolës, shpesh para rashit. Ethja është e lehtë."
+  },
+  {
+    "id": "licenca-semundje-infektive-126",
+    "question": "Në cilën shtatë ditësh të etheve tifoide hemokultura është më shpesh pozitive?",
+    "answers": [
+      "Shtatë ditëshi i I",
+      "Shtatë ditëshi i II",
+      "Shtatë ditëshi i III",
+      "Shtatë ditëshi i IV",
+      "Shtatë ditëshi i V"
+    ],
+    "correct": 0,
+    "explanation": "Në ethen tifoide hemokultura është pozitive kryesisht në javën e parë (~80–90%), ndërsa koprokultura dhe Widal-i bëhen pozitive në javën e 2–3."
+  },
+  {
+    "id": "licenca-semundje-infektive-127",
+    "question": "Profilaksia e pneumonisë nga P. Carinii tek personat me HIV bëhet me:",
+    "answers": [
+      "Meflokine",
+      "Cotrimosazol",
+      "Amfotericina B",
+      "Amoxicilina dhe ac. Clavulanic",
+      "Fluconazol"
+    ],
+    "correct": 1,
+    "explanation": "Profilaksia e pneumocistozës te HIV+ me CD4 <200/mm³ bëhet me kotrimoksazol (që mbron edhe nga toksoplazmoza). Alternativa: dapson, atovakuon, pentamidinë inhaluese."
+  }
+]

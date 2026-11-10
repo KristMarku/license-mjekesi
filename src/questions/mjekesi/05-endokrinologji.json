@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "licenca-endokrinologji-001",
+    "question": "Cili hormon ose substancë e ngjashme me hormonin, prodhohet më shpesh nga karcinoma e pulmonit?",
+    "answers": [
+      "ACTH (ose substancë e ngjashme me ACTH)",
+      "ADH",
+      "Gonadotropina korionike",
+      "Paratormoni",
+      "MSH"
+    ],
+    "correct": 0,
+    "explanation": "Karcinoma me qeliza të vogla e mushkërisë (neuroendokrine) prodhon ektopikisht ACTH (sindromë Cushing ektopike me hipokalemi) dhe ADH (SIADH); karcinoma skuamoze prodhon PTHrP. Substanca klasike është ACTH-ja."
+  },
+  {
+    "id": "licenca-endokrinologji-002",
+    "question": "Struktura kimike bazë e hormoneve steroidee derivon nga:",
+    "answers": [
+      "Acidet yndyrore të pangopura",
+      "Ciklopentanoperidrofenantren",
+      "Di-naftalene",
+      "Strukturë me katër unaza pirrolesh",
+      "Acidi arakidonik"
+    ],
+    "correct": 1,
+    "explanation": "Hormonet steroide derivojnë nga kolesteroli dhe kanë si strukturë bazë unazën ciklopentanoperhidrofenantrenike (sterani: 3 unaza me 6 atome + 1 me 5). Eikozanoidet derivojnë nga acidi arakidonik."
+  },
+  {
+    "id": "licenca-endokrinologji-003",
+    "question": "Komplikime të mundshme të kriptorkidizmit janë:",
+    "answers": [
+      "Hernia inguinale",
+      "Torsioni i testikulit",
+      "Neoplazi e testikulit",
+      "Infertilitet",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 4,
+    "explanation": "Kriptorkidia (testikul i pazbritur) shoqërohet me herni inguinale (proces vaginal i hapur), rrezik torsioni, infertilitet dhe rrezik 3–10 herë më të lartë të tumorit testikular (seminomë). Prandaj orkidopeksia bëhet para moshës 1 vjeç."
+  },
+  {
+    "id": "licenca-endokrinologji-004",
+    "question": "Cili prej markuesve të gjakut të orienton drejt diagnozës së karcinomës midulare të tiroides?",
+    "answers": [
+      "Tireoglobulina",
+      "Antigjeni karcinoembriogjenetik (CEA)",
+      "Kalcitonina",
+      "Ferritina",
+      "Alfa-fetoproteina"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma medulare buron nga qelizat C parafolikulare që sekretojnë kalcitoninë — markues për diagnozë dhe ndjekje (edhe CEA rritet). Tireoglobulina përdoret për karcinomat e diferencuara (papilare/folikulare)."
+  },
+  {
+    "id": "licenca-endokrinologji-005",
+    "question": "Feokromocitoma bilaterale është më e shpeshtë tek:",
+    "answers": [
+      "Pacientët me MEN2A",
+      "Pacientët me MEN3",
+      "Pacientët me paragangliomë",
+      "Pacientët e gjinisë femërore",
+      "Pacientët duhanpirës"
+    ],
+    "correct": 0,
+    "explanation": "Në MEN2A (karcinomë medulare + feokromocitomë + hiperparatiroidizëm, mutacion RET) feokromocitoma është shpesh bilaterale (~50%), ndryshe nga format sporadike që janë zakonisht njëanshe."
+  },
+  {
+    "id": "licenca-endokrinologji-006",
+    "question": "Difekti viziv më i shpeshtë tek pacientët me adenomë hipofizare është:",
+    "answers": [
+      "Hemianopsia bitemporale",
+      "Hemianopsia nazale",
+      "Katarrakta",
+      "Skotomat",
+      "Ulje të aftësisë vizive"
+    ],
+    "correct": 0,
+    "explanation": "Makroadenoma hipofizare me shtrirje suprasellare shtyp kiazmën optike nga poshtë, ku kryqëzohen fibrat nazale të retinës → hemianopsi bitemporale."
+  },
+  {
+    "id": "licenca-endokrinologji-007",
+    "question": "Në dietën e një pacienti me diabet melitus, sa përqind duhet të jenë karbohidrate?",
+    "answers": [
+      "80%",
+      "50-55%",
+      "30%",
+      "20-25%",
+      "10%"
+    ],
+    "correct": 1,
+    "explanation": "Dieta e diabetikut rekomandon ~45–55% të energjisë nga karbohidratet (kryesisht komplekse, me fibra), ~30% yndyrna dhe 15–20% proteina."
+  },
+  {
+    "id": "licenca-endokrinologji-008",
+    "question": "Hipopituitarizmit total (panhipopituitarizëm) tek i riu është përgjegjës për të gjitha alternativat e mëposhtme, përveç njërës:",
+    "answers": [
+      "Hipotiroidizëm",
+      "Rritje trupore të vonuar",
+      "Mungesë të zhvillimit seksual",
+      "Insufiçencë të surrenaleve",
+      "Hipoparatiroidizëm"
+    ],
+    "correct": 4,
+    "explanation": "Paratiroidet nuk varen nga hipofiza (rregullohen nga kalcemia), prandaj panhipopituitarizmi nuk jep hipoparatiroidizëm. Jep hipotiroidizëm sekondar, shkurtësi shtatore (GH), hipogonadizëm, insuficiencë surrenale."
+  },
+  {
+    "id": "licenca-endokrinologji-009",
+    "question": "Kuadri endokrinologjik në sëmundjen e Cushing karakterizohet nga:",
+    "answers": [
+      "Rritje të sekretimit të kortizolit dhe ACTH",
+      "Rritje të sekretimit të kortizolit dhe aldosteronit",
+      "Rritje të sekretimit të kortizolit dhe ulje të sekretimit të ACTH",
+      "Rritje të sekretimit të ACTH dhe ulje të sekretimit të kortizolit",
+      "Difekt të steroidogjenezës surrenalike dhe hiperplazi të gjëndrave surrenale"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja e Cushing = adenomë hipofizare që sekreton ACTH → hiperplazi e surrenaleve dhe hiperkortizolizëm. Pra rriten si ACTH-ja ashtu edhe kortizoli (në adenomën surrenale ACTH është e ulët)."
+  },
+  {
+    "id": "licenca-endokrinologji-010",
+    "question": "Sekretimi i kortizolit tek një person normal:",
+    "answers": [
+      "Stimulon sekretimin e aldosteronit",
+      "Zhvillon një qark me feedback negativ në nivelin e hipofizës",
+      "Zhvillon një qark me feedback pozitiv në nivelin e hipofizës",
+      "Zhvillon një qark me feedback pozitiv në nivelin e surrenaleve",
+      "Inhibon në mënyrë direkte sekretimin e insulinës"
+    ],
+    "correct": 1,
+    "explanation": "Kortizoli frenon me feedback negativ sekretimin e CRH (hipotalamus) dhe ACTH (hipofizë). Aldosteroni rregullohet kryesisht nga renina-angiotensina dhe kaliumi."
+  },
+  {
+    "id": "licenca-endokrinologji-011",
+    "question": "Cili trajtim është më i përshtatshëm, në kushtet e hiperkalçemisë të rëndë shkaktuar nga karcinoma e paratiroides, ndërkohë që pritet për rezeksionin kirurgjikal?",
+    "answers": [
+      "Dozë maksimale e diuretikëve tiazidik",
+      "Pamidronat disodium 90 mg në 500 ml solucion fiziologjik për 4 orë",
+      "Kalcitonina e salmonit 100 U. s/c",
+      "Hidrokortizon 100 mg iv",
+      "2 L solucion fiziologjik për perfuzion të shpejtë dhe më pas 250 ml/orë shoqëruar me furosemid"
+    ],
+    "correct": 4,
+    "explanation": "Në hiperkalceminë e rëndë hapi i parë është rihidrimi i shpejtë me solucion fiziologjik (pacientët janë të dehidruar nga poliuria), pastaj diurezë me furosemid pasi të jetë korrigjuar vëllimi (rrit kalciurinë). Bisfosfonatet veprojnë pas 2–4 ditësh. Tiazidet kundërindikohen (rrisin kalcemin)."
+  },
+  {
+    "id": "licenca-endokrinologji-012",
+    "question": "Cila prej gjendjeve nuk është karakteristike për krizën nga tireotoksikoza:",
+    "answers": [
+      "Hipertermi e rëndë",
+      "Përgjigje e mirë ndaj dozave masive të steroidëve",
+      "Nëse nuk trajtohet mortaliteti është rreth 70%",
+      "Takikardi e rëndë",
+      "Tremor"
+    ],
+    "correct": 1,
+    "explanation": "Përgjigja e mirë ndaj dozave masive të steroideve nuk konsiderohet karakteristikë e krizës tireotoksike (kortikosteroidet janë vetëm pjesë e trajtimit). Kriza jep hipertermi të lartë, takikardi/aritmi, tremor, agjitacion dhe ka mortalitet shumë të lartë pa trajtim."
+  },
+  {
+    "id": "licenca-endokrinologji-013",
+    "question": "Cili prej medikamenteve mund të shkaktojë hiperuricemi dhe me shumë mundësi një atak gotoz (podagra)?",
+    "answers": [
+      "Diuretikët tiazidik",
+      "Penicilina",
+      "Acidi askorbik",
+      "Verapamil",
+      "Aspirina"
+    ],
+    "correct": 0,
+    "explanation": "Tiazidet ulin ekskretimin renal të acidit urik (konkurrojnë në sekretimin tubular) → hiperuricemi dhe atak podagre. Edhe aspirina në doza të ulëta e ul ekskretimin, por tiazidet janë shkaku klasik."
+  },
+  {
+    "id": "licenca-endokrinologji-014",
+    "question": "Heqja kirurgjikale e paratiroideve shoqërohet me komplikimin:",
+    "answers": [
+      "Hiperkalçemi",
+      "Tetani",
+      "Hipofosfatemi",
+      "Hiperidroksiprolinuri",
+      "Hipertension arterial"
+    ],
+    "correct": 1,
+    "explanation": "Heqja e paratiroideve → hipoparatiroidizëm → hipokalcemi → tetani (parestezi, spazma karpopedale, shenjat Chvostek/Trousseau). Shoqërohet me hiperfosfatemi."
+  },
+  {
+    "id": "licenca-endokrinologji-015",
+    "question": "Cili prej hormoneve nuk prodhohet nga hipofiza?",
+    "answers": [
+      "TSH",
+      "FSH",
+      "ACTH",
+      "GH (hormoni i rritjes)",
+      "Kalcitonina"
+    ],
+    "correct": 4,
+    "explanation": "Kalcitonina prodhohet nga qelizat C parafolikulare të tiroides. TSH, FSH, ACTH dhe GH prodhohen nga hipofiza anteriore."
+  },
+  {
+    "id": "licenca-endokrinologji-016",
+    "question": "Defiçiti i GH (hormoni i rritjes) tek i rrituri shoqërohet me:",
+    "answers": [
+      "Difekt të funksionit sistolik",
+      "Rritje të libidos (dëshirës seksuale)",
+      "Ulje të kolesterolemisë",
+      "Anoreksi, nauze dhe të vjella",
+      "Ulje progresive të gjatësisë trupore"
+    ],
+    "correct": 0,
+    "explanation": "Deficiti i GH te i rrituri jep rritje të yndyrës viscerale, ulje të masës muskulore dhe kockore, dislipidemi (kolesterol i rritur), lodhje, ulje të libidos dhe reduktim të funksionit kardiak (sistolik)."
+  },
+  {
+    "id": "licenca-endokrinologji-017",
+    "question": "Cfarë është FAI (free androgen index)?",
+    "answers": [
+      "Testosteroni total",
+      "Testosteroni i biodisponueshëm",
+      "Raporti midis testosteronit total dhe SHBG",
+      "Indeksi i androgjenizimit të indeve",
+      "Njësia matëse e prodhimit të androgjenit"
+    ],
+    "correct": 2,
+    "explanation": "FAI = (testosteroni total / SHBG) × 100; është vlerësim indirekt i testosteronit të lirë, i dobishëm te gratë me hiperandrogjenizëm (PCOS)."
+  },
+  {
+    "id": "licenca-endokrinologji-018",
+    "question": "Gjatë terapisë së komës ketoacidoze, bikarbonatet jepen në mënyrë të ngadaltë për të evituar:",
+    "answers": [
+      "Hipopotaseminë",
+      "Rritjen e lëshimit të O2 nga hemoglobina në inde",
+      "Uljen paradoksale të pH në likidin cerebrospinal",
+      "Hipopotaseminë e rëndë, me ulje të lëshimit të O2 nga hemoglobina në inde dhe uljen paradoksale të pH në likidin cerebrospinal",
+      "Koha e dhënies nuk ka asnjë rëndësi. E rëndësishme është sasia e bikarbonateve që jepen"
+    ],
+    "correct": 3,
+    "explanation": "Bikarbonati i dhënë shpejt në KAD: shkakton hipokalemi të rëndë (K+ hyn në qeliza), zhvendos kurbën e Hb majtas (ul lëshimin e O2 në inde) dhe jep acidozë paradoksale të LCR (CO2 kalon barrierën më shpejt se HCO3−). Përdoret vetëm kur pH <6,9."
+  },
+  {
+    "id": "licenca-endokrinologji-019",
+    "question": "Cila prej gjendjeve të mëposhtme nuk shoqërohet me anemi?",
+    "answers": [
+      "Hipotiroidizmi",
+      "Sindroma Cushing",
+      "Hipogonadizmi",
+      "Hipertiroidizmi",
+      "Hiposideremia"
+    ],
+    "correct": 1,
+    "explanation": "Kortizoli i tepërt stimulon eritropoezën → poliglobuli, jo anemi. Hipotiroidizmi, hipogonadizmi (mungesa e testosteronit), hipertiroidizmi dhe hiposideremia mund të japin anemi."
+  },
+  {
+    "id": "licenca-endokrinologji-020",
+    "question": "Cila prej alternativave nuk është pjesë e kuadrit klinik të sëmundjes Cushing:",
+    "answers": [
+      "Obezitet central",
+      "Facies lunaris",
+      "Hipertension arterial",
+      "Hiponatremi",
+      "Hiperglicemi"
+    ],
+    "correct": 3,
+    "explanation": "Në Cushing efekti mineralokortikoid i kortizolit të tepërt jep mbajtje Na (natremi normale/e lartë) dhe hipokalemi, jo hiponatremi. Tipike: obezitet qendror, fytyrë \"hënë\", hipertension, hiperglicemi, strie të kuqe."
+  },
+  {
+    "id": "licenca-endokrinologji-021",
+    "question": "Në trajtimin e hipertiroidizmit mund të nevojiten të gjithë medikamentet e mëposhtme, përveç njërit?",
+    "answers": [
+      "Digitali",
+      "Betabllokues",
+      "Metimoroli",
+      "Propiltiuracili",
+      "Tiroxina"
+    ],
+    "correct": 4,
+    "explanation": "Tiroksina nuk jepet në hipertiroidizëm (do ta përkeqësonte). Tionamidet (metimazol, PTU), betabllokuesit për simptomat, dhe digitali për fibrilacionin atrial/insuficiencën kardiake mund të nevojiten."
+  },
+  {
+    "id": "licenca-endokrinologji-022",
+    "question": "Me pseudohermafrodizëm femëror kuptojmë gjendjen e karakterizuar nga:",
+    "answers": [
+      "Praninë njëkohësisht të vezoreve dhe testikujve",
+      "Praninë e gjenitale të jashtme femërore tek persona me gjenotip mashkullor",
+      "Praninë e vezoreve dhe strukturave mulleriane normale, shoqëruar me gjenitale të jashtme mashkullore, tek personat me gjenotip femëror",
+      "Praninë e gjenitaleve të jashtme femërore tek personat me testikuj",
+      "Homoseksualitet femëror i fshehur"
+    ],
+    "correct": 2,
+    "explanation": "Pseudohermafroditizmi femëror (46,XX DSD): kariotip femëror, vezore dhe struktura Müller-iane normale, por gjenitale të jashtme të virilizuara nga androgjenet e tepërta — shkaku kryesor është hiperplazia kongjenitale e surrenaleve (deficit i 21-hidroksilazës)."
+  },
+  {
+    "id": "licenca-endokrinologji-023",
+    "question": "Në trajtimin e një pacienti diabetik që do ti nënshtrohet një ndërhyrje kirurgjikale madhore është e rëndësishme që:",
+    "answers": [
+      "Të mos jepet glukozë endovenë",
+      "Të rregullohet doza e insulinës pas operacionit, duke u bazuar tek vlerat e glicemisë dhe glikozurisë",
+      "Dhënia e të njëjtës doze të insulinës",
+      "Dhënia e laktatit M/6",
+      "Mbajtja e pacientit pa ngrënë për 3 ditë para operacionit"
+    ],
+    "correct": 1,
+    "explanation": "Te diabetiku që operohet, stresi kirurgjik rrit glicemin; mbahet glukozë IV + insulinë dhe doza e insulinës rregullohet sipas monitorimit të glicemisë. Agjërimi i gjatë rrezikon ketozë."
+  },
+  {
+    "id": "licenca-endokrinologji-024",
+    "question": "Cilat janë shkaqet kryesore të vdekshmërisë nga diabeti melitus tip 2?",
+    "answers": [
+      "Nefropatia",
+      "Iktus",
+      "Pankreatiti",
+      "Neoplazitë",
+      "Kardiopatia iskemike"
+    ],
+    "correct": 4,
+    "explanation": "Shkaku kryesor i vdekjes në DM tip 2 është sëmundja kardiovaskulare aterosklerotike, sidomos kardiopatia ishemike (infarkti), e ndjekur nga iktusi dhe nefropatia."
+  },
+  {
+    "id": "licenca-endokrinologji-025",
+    "question": "Cilët janë medikamentet kryesore që përdoren në trajtimin e ketoacidozës diabetike?",
+    "answers": [
+      "Antibiotikë",
+      "Antagonistët e kalçiumit",
+      "Beta-bllokues",
+      "Hidratimi dhe insulina",
+      "Diuretikët"
+    ],
+    "correct": 3,
+    "explanation": "Bazat e trajtimit të ketoacidozës: rihidrimi agresiv me solucion fiziologjik, insulinë e shpejtë IV në infuzion, dhe zëvendësim i kaliumit; bikarbonati vetëm në acidozë shumë të rëndë."
+  },
+  {
+    "id": "licenca-endokrinologji-026",
+    "question": "Cili ekzaminim diagnostik bazohet në vetitë e qelizës tiroide për të përqëndruar në mënyrë aktive jodin?",
+    "answers": [
+      "Dozimi i tireotropinës (TSH)",
+      "Tireoshintigrafisë",
+      "Echocolordoppler i tiroides",
+      "Dozmi i tiroksinës plazmatike të lirë (FT4)",
+      "Dozimi i tireoglobulinës"
+    ],
+    "correct": 1,
+    "explanation": "Shintigrafia tiroidiane (me Tc-99m ose I-123) bazohet në aftësinë e qelizave tiroidiane për të kapur jodin (simporteri Na/I) — dallon nodujt \"të nxehtë\" nga \"të ftohtë\" dhe Basedow nga tiroiditi."
+  },
+  {
+    "id": "licenca-endokrinologji-027",
+    "question": "Hiperparatiroidizmi mund të shkaktohet nga:",
+    "answers": [
+      "Adenoma e izoluar",
+      "Adenoma multiple",
+      "Hiperplazi e paratiroideve",
+      "Të gjitha përgjigjet",
+      "Karcinoma e paratiroideve"
+    ],
+    "correct": 3,
+    "explanation": "Hiperparatiroidizmi primar shkaktohet nga adenoma e vetme (~85%, shkaku më i shpeshtë), hiperplazia e të katër gjëndrave (~10–15%, sidomos në MEN), adenomat e shumëfishta dhe rrallë karcinoma (<1%). Çelësi (B) duket gabim: përgjigja e plotë është \"të gjitha\"."
+  },
+  {
+    "id": "licenca-endokrinologji-028",
+    "question": "Cila prej endokrinopative nuk është përgjegjëse për hipertensionin endokrin?",
+    "answers": [
+      "Morbusi Conn",
+      "Feokromocitoma",
+      "Hipertiroidizmi",
+      "M. Cushing",
+      "M. Adison"
+    ],
+    "correct": 4,
+    "explanation": "Morbus Addison (insuficienca surrenale) jep hipotension, jo hipertension. Hiperaldosteronizmi (Conn), feokromocitoma, hipertiroidizmi (sistolik) dhe Cushing shkaktojnë hipertension endokrin."
+  },
+  {
+    "id": "licenca-endokrinologji-029",
+    "question": "Cila prej alternativave nuk është e vërtetë për feokromocitomën?",
+    "answers": [
+      "Eshtë tumor tipik i fëmijërisë",
+      "Eshtë tumor sporadik ose familjar, por kryesisht i rralë",
+      "Eshtë tumor jo gjithnjë beninj",
+      "Tumor që nganjëherë shoqërohet me neoplazi të tjera endokrine",
+      "Kryesisht prodhon noradrenalinë"
+    ],
+    "correct": 0,
+    "explanation": "Feokromocitoma nuk është tumor tipik i fëmijërisë — shfaqet kryesisht në moshën 30–50 vjeç (rregulli i \"10%\": 10% fëmijë, 10% bilaterale, 10% malinje, 10% ekstra-surrenale, ~30–40% familjare). Fëmijëria ka neuroblastomën."
+  },
+  {
+    "id": "licenca-endokrinologji-030",
+    "question": "Sindroma androgjenitale nga defiçiti i 21-hidroksilazës shkakton:",
+    "answers": [
+      "Prodhim të shtuar të 17 alfa-hidroksiprogesteron",
+      "Redukton prodhimin e delta4- androstenedione",
+      "Prodhim të shtuar të kortizolit",
+      "Prodhim të shtuar të aldosteronit",
+      "Hipotrofi të surrenaleve"
+    ],
+    "correct": 0,
+    "explanation": "Deficiti i 21-hidroksilazës bllokon sintezën e kortizolit dhe aldosteronit → grumbullim i 17-OH-progesteronit (markuesi diagnostik) i cili devijohet drejt androgjeneve → virilizim; ACTH e lartë jep hiperplazi surrenale."
+  },
+  {
+    "id": "licenca-endokrinologji-031",
+    "question": "Hipertensioni arterial shkaktuar nga adenoma e surrenales, që prodhon aldosteron, vlerësohet më mirë me anë të:",
+    "answers": [
+      "Dozimi të aldosteronit në gjak, gjatë qëndrimit shtrirë",
+      "Dozimit të thjeshtë të potasemisë",
+      "Dozimit në gjak të aldosteronit dhe aktivitetit të reninës si shtrire dhe në këmbë",
+      "Testi për supresimin (bllokimin) me desametazon 2 mg për 2 ditë",
+      "Dozimin e kortikosteronit gjatë kateterizimit venoz selektiv"
+    ],
+    "correct": 2,
+    "explanation": "Diagnoza e hiperaldosteronizmit primar: aldosteroni i rritur me reninë të supresuar (raporti aldosteron/reninë i lartë), i matur në pozicione të ndryshme; konfirmohet me teste supresioni. Potasemia e thjeshtë nuk mjafton (shpesh normale)."
+  },
+  {
+    "id": "licenca-endokrinologji-032",
+    "question": "Cili është shkaku më i shpeshtë i hipoglicemisë së induktuar?",
+    "answers": [
+      "Terapia me beta-bllokues",
+      "Përdorimi i alkolit",
+      "Terapia me sulfanilure",
+      "Terapia me biguanide",
+      "Hipoglicemia faktike"
+    ],
+    "correct": 2,
+    "explanation": "Shkaku më i shpeshtë i hipoglicemisë së induktuar janë barnat hipoglicemiante: insulina dhe sulfanilurete (sidomos me veprim të gjatë, te të moshuarit me insuficiencë renale). Biguanidet nuk japin hipoglicemi."
+  },
+  {
+    "id": "licenca-endokrinologji-033",
+    "question": "Prania e mikroalbuminurisë me 80 mg/24 orë tek një pacient diabetik është tregues për:",
+    "answers": [
+      "Nefropati fillestare",
+      "Asnjë alternim në nivelin renal",
+      "Sindroma nefrozike",
+      "Kalkuloza renale",
+      "Cistiti hemorragjik"
+    ],
+    "correct": 0,
+    "explanation": "Mikroalbuminuria (30–300 mg/24 orë) është shenja e parë e nefropatisë diabetike fillestare, ende e kthyeshme me kontroll glicemik/tensional dhe ACE-inhibitorë/sartane."
+  },
+  {
+    "id": "licenca-endokrinologji-034",
+    "question": "Cfarë është saktësia e një dozimi hormonal?",
+    "answers": [
+      "Përqëndrimi minimal i matshëm i një hormoni të caktuar",
+      "Aftësia e një antitrupi për tu lidhur me një molekulë të caktuar",
+      "Riprodhueshmëria e të njëjtës vlerë për një kampion që përsëritet 10 herë",
+      "Diferenca midis përqëndrimit të hormonit nga dozimi i gjetur dhe atij që në vërtetë është",
+      "Besueshmëria klinike"
+    ],
+    "correct": 2,
+    "explanation": "\"saktësia\" këtu është kuptuar si precizion/riprodhueshmëri: aftësia për të dhënë të njëjtin rezultat kur kampioni matet disa herë. (Përkufizimi i ngushtë i saktësisë/accuracy është afërsia me vlerën reale.)"
+  },
+  {
+    "id": "licenca-endokrinologji-035",
+    "question": "Cili është treguesi më i përshtatshëm për kontrollin metabolik për një periudhë prej disa muajsh tek një pacient diabetik?",
+    "answers": [
+      "Glikozuria e 24 orëve",
+      "Përqëndrimi i HbA1c",
+      "Glicemia mesatare ditore e përsëritur çdo javë",
+      "Përqëndrimi i fruktozaminës",
+      "Përqëndrimi i peptidit C bazal dhe pas dhënies së glukagonit"
+    ],
+    "correct": 1,
+    "explanation": "HbA1c pasqyron glicemin mesatare të 2–3 muajve të fundit (jetëgjatësia e eritrociteve) dhe është treguesi standard i kontrollit metabolik. Fruktozamina pasqyron vetëm 2–3 javët e fundit."
+  },
+  {
+    "id": "licenca-endokrinologji-036",
+    "question": "Obeziteti kontribuon në shfaqjen e diabetit pasi:",
+    "answers": [
+      "Redukton fazën e hershme të sekretimit të insulinës pas ngarkesës me glukoz",
+      "Rrit shpejtësinë e degradimit të insulinës",
+      "Indet periferike përgjigjen më pak ndaj insulinës",
+      "Kryesisht shoqërohet me marrje të yndyrnave",
+      "Rrit sekretimin e glukagonit"
+    ],
+    "correct": 2,
+    "explanation": "Obeziteti (sidomos visceral) shkakton insulinorezistencë: indet periferike (muskuli, mëlçia, indi dhjamor) përgjigjen më pak ndaj insulinës, duke detyruar qelizat beta në hipersekretim deri në shterim."
+  },
+  {
+    "id": "licenca-endokrinologji-037",
+    "question": "Tek një pacient me ketoacidozë diabetike lëkura është:",
+    "answers": [
+      "E njomë",
+      "Ikterike",
+      "E zbehtë",
+      "E dehidratuar",
+      "E skuqur"
+    ],
+    "correct": 3,
+    "explanation": "Në KAD diureza osmotike dhe të vjellat japin dehidratim të rëndë: lëkurë dhe mukoza të thata, turgor i ulët, sy të futur; plus frymëmarrje Kussmaul dhe erë acetoni."
+  },
+  {
+    "id": "licenca-endokrinologji-038",
+    "question": "TRH përveç stimulimit për të sekretuar TSH, stimolon dhe sekretimin e:",
+    "answers": [
+      "ACTH",
+      "Prolaktina",
+      "Lipotropina",
+      "GH",
+      "MSH"
+    ],
+    "correct": 1,
+    "explanation": "TRH stimulon jo vetëm TSH, por edhe prolaktinën; prandaj hipotiroidizmi primar (TRH e lartë) mund të japë hiperprolaktinemi."
+  },
+  {
+    "id": "licenca-endokrinologji-039",
+    "question": "Cili është mekanizmi patogjenetik përgjegjës për diabetin mellitus tip 1?",
+    "answers": [
+      "Infektiv",
+      "Autoimunitar",
+      "Degjenerativ",
+      "Neoplazik",
+      "Inflamator"
+    ],
+    "correct": 1,
+    "explanation": "DM tip 1 është sëmundje autoimune: shkatërrim i qelizave beta nga limfocitet T (insulit), me autoantitrupa anti-GAD, anti-IA2, anti-insulinë, mbi terren gjenetik (HLA DR3/DR4)."
+  },
+  {
+    "id": "licenca-endokrinologji-040",
+    "question": "Cili prej medikamenteve anti-hipertensivë nuk shkakton dizfunksion erektil?",
+    "answers": [
+      "Diuretikët tiazidikë",
+      "Simpatikolitikët qëndror",
+      "Beta-bllokues",
+      "Spironoloaktoni",
+      "ACE-inibitor"
+    ],
+    "correct": 4,
+    "explanation": "ACE-inhibitorët (dhe sartanet) nuk shkaktojnë disfunksion erektil dhe mund edhe ta përmirësojnë. Tiazidet, betabllokuesit, simpatikolitikët qendrorë dhe spironolaktoni (antiandrogjen) mund ta shkaktojnë."
+  },
+  {
+    "id": "licenca-endokrinologji-041",
+    "question": "Cila nga këto substanca ka efekt kryesor reduktimin e insulino-rezistencës?",
+    "answers": [
+      "Sulfaniluree",
+      "Antibiotikë",
+      "Kemioterapikët",
+      "Biguanidët",
+      "Antagonistët e kalçiumit"
+    ],
+    "correct": 3,
+    "explanation": "Biguanidet (metformina) ulin insulinorezistencën kryesisht në mëlçi (frenim i glukoneogjenezës) dhe rrisin kapjen periferike. Sulfanilurete rrisin sekretimin e insulinës, jo ndjeshmërinë."
+  },
+  {
+    "id": "licenca-endokrinologji-042",
+    "question": "Testi i etjes tek diabeti insipidus hipofizar shkakton?",
+    "answers": [
+      "Reduktim të poliurisë dhe ozmolaritetit urinar me 50%",
+      "Reduktim të diurezës dhe rritje të ozmlaritetit urinar",
+      "Rritje të diurezës dhe ozmolaritetit urinar",
+      "Pa modifikime të diurezës, pa modifikime të ozmolaritetit urinar",
+      "Reduktim të poliurisë dhe rritje të ozmolaritetit urinar me 50%"
+    ],
+    "correct": 3,
+    "explanation": "Në DI qendror, gjatë testit të etjes veshka nuk mund ta përqendrojë urinën: diureza mbetet e lartë dhe osmolariteti urinar mbetet i ulët pavarësisht dehidratimit; vetëm pas desmopresinës osmolariteti rritet >50%."
+  },
+  {
+    "id": "licenca-endokrinologji-043",
+    "question": "Ekzaminimi më i përshtatshëm për vlerësimin e funksionalitetit të surrenaleve është:",
+    "answers": [
+      "Dozimi i kortizolit të lirë në urinë",
+      "Dozimi i kortizolemisë në orën 8",
+      "Test stimulimi me ACTH në dozë të ulët",
+      "Matjen e kombinuar midis kortizolit të lirë në urinë dhe ACTH",
+      "Ritmin ditor të kortizolit (kampione gjaku të marra nga ora 8.00-16.00)"
+    ],
+    "correct": 3,
+    "explanation": "Vlerësimi më i plotë i funksionit surrenal bëhet duke kombinuar kortizolin e lirë urinar (prodhimi ditor) me ACTH-në (origjina primare/sekondare). Në praktikë, për insuficiencën surrenale përdoret shpesh testi i stimulimit me ACTH."
+  },
+  {
+    "id": "licenca-endokrinologji-044",
+    "question": "Në çfarë niveli vepron aldosteroni?",
+    "answers": [
+      "Nivelin kockor",
+      "Nivelin glomerular",
+      "Nivelin e tubulit distal të veshkës",
+      "Nivelin e sinapseve neuromuskulare",
+      "Nivelin e tubujve proksimalë të veshkave"
+    ],
+    "correct": 2,
+    "explanation": "Aldosteroni vepron në tubulin distal dhe duktusin kolektor (qelizat principale): rrit rithithjen e Na+ (kanalet ENaC, pompa Na/K) dhe sekretimin e K+ e H+."
+  },
+  {
+    "id": "licenca-endokrinologji-045",
+    "question": "Cila alternativë është e vërtetë rreth tiroiditit subakut?",
+    "answers": [
+      "Eshtë më e shpeshta ndër tiroiditet",
+      "Ka etiologji virale",
+      "Ka etiologji autoimune",
+      "Nuk ka infiltrim autoimun",
+      "Pjesa më e madhe e pacientëve nuk ka përmirësim spontan të funksionit të tiroides"
+    ],
+    "correct": 1,
+    "explanation": "Tiroiditi subakut granulomatoz (De Quervain) ka etiologji virale (pas infeksionit të rrugëve të sipërme): tiroide e dhimbshme, ethe, ERS e lartë, fazë tirotoksike → hipotiroide → shërim spontan në shumicën e rasteve."
+  },
+  {
+    "id": "licenca-endokrinologji-046",
+    "question": "Për të diagnostikuar akromegalinë, cila prej alternativave të mëposhtme është më e rëndësishmja?",
+    "answers": [
+      "Pamundësia e ngarkesës së glukozit për të reduktuar nivelin e HGH (Human Growth Hormon)",
+      "Rritje të perimetrit të kokës",
+      "Në Rx-in e kokës, ka zgjerim të selës turcike",
+      "Visheromegali (zmadhim të organeve)",
+      "Zmadhim të ekstremiteteve"
+    ],
+    "correct": 0,
+    "explanation": "Diagnoza biokimike e akromegalisë: IGF-1 i rritur dhe mossupresim i GH <1 ng/ml pas ngarkesës orale me glukozë (OGTT). Shenjat klinike dhe sella e zgjeruar janë mbështetëse."
+  },
+  {
+    "id": "licenca-endokrinologji-047",
+    "question": "Cila prej alternativave rreth diabetit melitus tip 2 nuk është e vërtetë?",
+    "answers": [
+      "Shoqërohet me insulino-rezistencë",
+      "Shoqërohet me obezitet",
+      "Nuk ka familjaritet",
+      "Shoqërohet me hipertension arterial",
+      "Shoqërohet me retinopati"
+    ],
+    "correct": 2,
+    "explanation": "DM tip 2 ka familjaritet shumë të fortë (më i fortë se tipi 1): rreziku rritet shumë me prind/vëlla diabetik. Shoqërohet me insulinorezistencë, obezitet, hipertension dhe retinopati."
+  },
+  {
+    "id": "licenca-endokrinologji-048",
+    "question": "Obeziteti, steriliteti, hirsutizmi dhe vezorja policistike karakterizojnë:",
+    "answers": [
+      "S. Meniere",
+      "S. Turner",
+      "S. Frolich",
+      "S. Stein-Leventhal",
+      "S. Klinefelter"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Stein-Leventhal = sindroma e vezoreve polikistike (PCOS): oligo-anovulacion (sterilitet), hiperandrogjenizëm (hirsutizëm, akne), vezore polikistike, shpesh obezitet dhe insulinorezistencë."
+  },
+  {
+    "id": "licenca-endokrinologji-049",
+    "question": "Cila prej alternativave të mëposhtme nuk të bën të mendosh për diagnozën e Sindromës së Zollinger-Ellison:",
+    "answers": [
+      "Pozitivitet të testit respirator ndaj ureazës",
+      "Niveli i rritur i gastrinës në gjak",
+      "Ulçerat multiple gastriointestinale",
+      "Pozitivitet i testit të stimulimit të sekretinës",
+      "Rritje të sekrecioneve acide gastrike"
+    ],
+    "correct": 0,
+    "explanation": "Testi respirator me ure tregon infeksionin me H. pylori, që nuk ka lidhje me ZES. Për ZES flasin hipergastrinemia, ulçerat e shumëfishta, hipersekretimi acid dhe testi pozitiv me sekretinë."
+  },
+  {
+    "id": "licenca-endokrinologji-050",
+    "question": "Cila prej gjendjeve të mëposhtme mund të jetë shkak i sindromës nga sekretimi i pamjaftueshëm i ADH (SIADH)?",
+    "answers": [
+      "Karcinoma bronkiale",
+      "Morbusi i Conn",
+      "Hipertiroidizmi",
+      "Hiperparatiroidizmi",
+      "Sëmundja Cushing"
+    ],
+    "correct": 0,
+    "explanation": "SIADH (sekretim i tepërt/i papërshtatshëm i ADH; pyetja ka gabim përkthimi \"të pamjaftueshëm\") shkaktohet shpesh nga karcinoma me qeliza të vogla e mushkërisë, si dhe nga patologji pulmonare, të SNQ dhe barna. Jep hiponatremi hipoosmolare euvolemike."
+  },
+  {
+    "id": "licenca-endokrinologji-051",
+    "question": "Cila prej gjendjeve të mëposhtme mund të jetë shkak i sindromës nga sekretimi i pamjaftueshëm i ADH (SIADH)?",
+    "answers": [
+      "Karcinoma bronkiale",
+      "Hipokaliemia",
+      "Tumori i prostatës",
+      "Hiperkalçemia",
+      "Sindroma Cushing"
+    ],
+    "correct": 0,
+    "explanation": "Karcinoma bronkiale me qeliza të vogla është shkaku neoplazik më i shpeshtë i SIADH (sekretim i papërshtatshëm i tepërt i ADH) → hiponatremi me urinë të përqendruar. Hipokalemia dhe hiperkalcemia shkaktojnë përkundrazi DI nefrogjen."
+  },
+  {
+    "id": "licenca-endokrinologji-052",
+    "question": "Cilën prej gjendjeve të mëposhtme nuk e shkakton përdorimi kronik i amiodaronit?",
+    "answers": [
+      "Hipertiroidizmi i komplikuar",
+      "Hipotiroidizmi subklinik",
+      "Fibroza pulmonare",
+      "Hipogonadizmi",
+      "Turbullimi i kristalinës"
+    ],
+    "correct": 3,
+    "explanation": "Amiodaroni (pasur me jod) shkakton hipertiroidizëm (tip 1 dhe 2), hipotiroidizëm, fibrozë pulmonare, depozita kornease, fotosensibilizim, hepatotoksicitet. Hipogonadizmi nuk është efekt tipik."
+  },
+  {
+    "id": "licenca-endokrinologji-053",
+    "question": "Cili prej parametrave nuk rritet në kushtet e defiçitit të rëndë të insulinës:",
+    "answers": [
+      "Glukoza",
+      "Aminoacidet",
+      "Acidet yndyrore",
+      "Vëllimi i urinës",
+      "PH"
+    ],
+    "correct": 4,
+    "explanation": "Në deficitin e rëndë të insulinës rriten glukoza, acidet yndyrore (lipolizë), aminoacidet (proteolizë) dhe vëllimi urinar (diurezë osmotike); pH ULET për shkak të trupave ketonikë (acidozë)."
+  },
+  {
+    "id": "licenca-endokrinologji-054",
+    "question": "Cili prej medikamenteve nuk është i këshillueshëm në mënyrë specifike për trajtimin e diabetit mellitus?",
+    "answers": [
+      "Insulina",
+      "Biguanidët",
+      "Glitazonikët",
+      "Sulfanilure",
+      "Metimazoli"
+    ],
+    "correct": 4,
+    "explanation": "Metimazoli është antitiroidien, jo antidiabetik. Insulina, metformina, glitazonet dhe sulfanilurete përdoren në trajtimin e diabetit."
+  },
+  {
+    "id": "licenca-endokrinologji-055",
+    "question": "Diabeti mellitus tip 2 shkaktohet nga:",
+    "answers": [
+      "Sekretim i pamjaftueshëm i insulinës + insulinorezistencë",
+      "Kryesisht rezistencë ndaj insulinës",
+      "Kryesisht defiçit të insulinës",
+      "Insulit autoimun",
+      "Obezitet"
+    ],
+    "correct": 0,
+    "explanation": "DM tip 2 lind nga kombinimi i insulinorezistencës dhe i defektit progresiv të sekretimit të insulinës nga qelizat beta. Obeziteti është faktor rreziku, jo shkak i vetëm; insuliti autoimun është i tipit 1."
+  },
+  {
+    "id": "licenca-endokrinologji-056",
+    "question": "Karcinoma midulare e tiroides bën pjesë në cilën prej sindromave?",
+    "answers": [
+      "Sindroma nga neoplazitë endokrine multiple (MEN) tip I",
+      "Poliendokrinopati autoimune tip I",
+      "MEN tip II",
+      "MEN tip III",
+      "MEN tip IV"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma medulare e tiroides është pjesë e MEN2A (+ feokromocitomë + hiperparatiroidizëm) dhe MEN2B (+ feokromocitomë + neuroma mukozale, habitus marfanoid). MEN1: paratiroide, pankreas, hipofizë."
+  },
+  {
+    "id": "licenca-endokrinologji-057",
+    "question": "Eshtë e vërtetë që statinat:",
+    "answers": [
+      "Reduktojnë sintezën e VLDL",
+      "Rrisin numrin e receptorëve për HDL",
+      "Inhibojnë në mënyrë konkuruese HMG-CoA reduktazën",
+      "Aktivojnë lipazat lipoproteike",
+      "Reduktojnë metabolizmin hepatik të LDL"
+    ],
+    "correct": 2,
+    "explanation": "Statinat frenojnë në mënyrë konkurruese HMG-CoA reduktazën → ulet kolesteroli intrahepatik → rriten receptorët LDL → rritet pastrimi i LDL nga gjaku. Lipoproteinlipazën e aktivizojnë fibratet."
+  },
+  {
+    "id": "licenca-endokrinologji-058",
+    "question": "Cila prej alternativave nuk është karakteristike për kraniofaringiomën?",
+    "answers": [
+      "Eshtë tumor cistik i zonës selare dhe paraselare",
+      "Eshtë tumori më i shpeshtë i zonës hipotalamo-hipofizare në moshat pediatrike",
+      "Karakterizohet nga prania e kalçfikimeve radiologjikisht të dukshme",
+      "Eshtë tumor që merr origjinë nga mbetjet embrionale të xhepit të Rathke",
+      "Shtim të sekretimit të GH"
+    ],
+    "correct": 4,
+    "explanation": "Kraniofaringioma (nga mbetjet e xhepit të Rathke-s) është tumor cistik suprasellar, me kalcifikime, më i shpeshtë te fëmijët; jep hipopituitarizëm (shpesh deficit GH → shtat i shkurtër), DI dhe defekte të fushës vizuale — jo hipersekretim të GH."
+  },
+  {
+    "id": "licenca-endokrinologji-059",
+    "question": "Në karcinomën midulare të tiroides kemi shtim të sekretimit të:",
+    "answers": [
+      "Tireoglobulinës",
+      "TSH",
+      "Kalçitoninës",
+      "T3 dhe T4",
+      "Adrenomedulina"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma medulare buron nga qelizat C dhe sekreton kalcitoninë (edhe CEA); kalcitonina përdoret për diagnozë, depistim familjar dhe ndjekje pas tiroidektomisë."
+  },
+  {
+    "id": "licenca-endokrinologji-060",
+    "question": "Sa përqind e nodujve jo funksionues të tiroides (të ftohtë) mund të zhvillojë tumor malinj?",
+    "answers": [
+      "5-10%",
+      "60-70%",
+      "21-30%",
+      "31-50%",
+      ">70%"
+    ],
+    "correct": 0,
+    "explanation": "Rreth 5–10% (deri 15%) e nodujve të ftohtë rezultojnë malinjë; prandaj nodujt e ftohtë/suspektë ekografikisht vlerësohen me citologji me gjilpërë të hollë (FNA). Nodujt e nxehtë janë pothuajse gjithmonë beninjë."
+  },
+  {
+    "id": "licenca-endokrinologji-061",
+    "question": "Cila prej gjendjeve nuk shkakton tetani?",
+    "answers": [
+      "Hipoparatiroidizmi i rëndë",
+      "Litiaza renale nga hiperparatiroidizmi primar",
+      "Stenoza e pilorit",
+      "Paratiroidektomia",
+      "Rakitizmi"
+    ],
+    "correct": 1,
+    "explanation": "Hiperparatiroidizmi primar jep hiperkalcemi, pra nuk shkakton tetani. Tetani japin hipokalcemia (hipoparatiroidizmi, paratiroidektomia, rakitizmi) dhe alkaloza (stenoza e pilorit me të vjella)."
+  },
+  {
+    "id": "licenca-endokrinologji-062",
+    "question": "Cila simptomë është karakteristike tek një pacient mashkull me adenomë hipofizare që sekreton PRL?",
+    "answers": [
+      "Crregullimi i dëshirës seksuale hipoaktive (e ulur)",
+      "Priapizëm",
+      "Hiperidrozë",
+      "Mungesë të ejakulimit",
+      "Orkit"
+    ],
+    "correct": 0,
+    "explanation": "Prolaktinoma te mashkulli frenon GnRH → hipogonadizëm hipogonadotrop → ulje e libidos dhe disfunksion erektil (simptoma kryesore), infertilitet, rrallë galaktorre. Te meshkujt diagnostikohet më vonë si makroadenomë."
+  },
+  {
+    "id": "licenca-endokrinologji-063",
+    "question": "Shkaku më i shpeshtë i hipotiroidizmit tek i rrituri është:",
+    "answers": [
+      "Hipotiroidizmi i induktuar nga jodi",
+      "Tiroiditi kronik autoimun (Hashimoto)",
+      "Tiroiditi subakut",
+      "Tiroiditi i Riedel",
+      "Tumore të tiroides"
+    ],
+    "correct": 1,
+    "explanation": "Në zonat me jod të mjaftueshëm, shkaku më i shpeshtë i hipotiroidizmit të të rriturit është tiroiditi autoimun Hashimoto (anti-TPO pozitiv). Në botë, shkaku kryesor mbetet mungesa e jodit."
+  },
+  {
+    "id": "licenca-endokrinologji-064",
+    "question": "Në cilën prej gjendjeve të mëposhtme nuk jepet një dozë më e lartë me levotiroksinë në kushtet e hipotiroidizmit:",
+    "answers": [
+      "Trimestri i III i shtatzanisë",
+      "Sulfati ferroz",
+      "Kolestiramina",
+      "Takikardia",
+      "Rritje në peshë"
+    ],
+    "correct": 3,
+    "explanation": "Takikardia (sidomos te të moshuarit/kardiopatët) është sinjal mbidozimi — doza e levotiroksinës nuk rritet, përkundrazi ulet. Doza rritet në shtatzëni, me sulfat hekuri/kolestiraminë (ulin absorbimin) dhe me shtimin e peshës."
+  },
+  {
+    "id": "licenca-endokrinologji-065",
+    "question": "Sindroma e Plummer-Vinson karakterizohet nga:",
+    "answers": [
+      "Purpura trombocitopenike",
+      "Divertikuli i ezofagut me ulçer peptike",
+      "Pirozë retrosternale me regurgitim acid",
+      "Anemi, dizfagi dhe glosit",
+      "Sindromë gastro-ezofageale"
+    ],
+    "correct": 3,
+    "explanation": "Plummer-Vinson: anemi sideropenike + disfagi nga membrana ezofageale e sipërme + glosit/keilit angular; gjendje parakanceroze për karcinomën skuamoze."
+  },
+  {
+    "id": "licenca-endokrinologji-066",
+    "question": "Një grua 50 vjeçare, prej kohësh me tiroiditin kronik të Hashimotos, paraqitet në urgjencë në gjendje kome, pas disa episodesh me të vjella dhe dhimbje abdominale. Eshtë e dizidratuar dhe lëkura e hiperpigmenuar. TA 65/40 mmHg, Fc 100/min. Potasemia 6.6 mEq/L. Diagnoza më e mundshme është:",
+    "answers": [
+      "Koma ketoacidoze",
+      "Koma hipoglicemike",
+      "Kriza hiposurrenalike",
+      "Kriza nga tireotoksikoza",
+      "Koma mixedematoze"
+    ],
+    "correct": 2,
+    "explanation": "Grua me Hashimoto (autoimunitet poliglandular), me të vjella, dhimbje abdominale, dehidratim, hiperpigmentim, hipotension të rëndë dhe hiperkalemi = krizë addisoniane (insuficiencë surrenale akute). Trajtim urgjent: hidrokortizon IV + solucion fiziologjik."
+  },
+  {
+    "id": "licenca-endokrinologji-067",
+    "question": "Ketoacidoza diabetike:",
+    "answers": [
+      "Shfaqet pothuajse vetëm në diabetin tip 1",
+      "Eshtë komplikancë akute e të dy tipeve të diabetit",
+      "Eshtë kryesisht si pasojë e insulinorezistencës",
+      "Shkaktohet kryesisht nga defiçiti i bikarbonateve",
+      "Shfaqet tek podagra (gotta)"
+    ],
+    "correct": 0,
+    "explanation": "KAD shfaqet pothuajse vetëm në DM tip 1 (mungesë absolute e insulinës); në tipin 2 insulina reziduale pengon ketogjenezën dhe komplikimi tipik është gjendja hiperosmolare. Shkaku është mungesa e insulinës, jo insulinorezistenca."
+  },
+  {
+    "id": "licenca-endokrinologji-068",
+    "question": "Paratiroidet prodhojnë:",
+    "answers": [
+      "Paratormon (PTH)",
+      "Vitaminë D",
+      "PTH-rp",
+      "Kalçitoninë",
+      "Fosfatazë alkaline"
+    ],
+    "correct": 0,
+    "explanation": "Paratiroidet prodhojnë parathormon (PTH), që rrit kalcemin. Vitamina D aktivizohet në lëkurë/mëlçi/veshkë, kalcitonina prodhohet në tiroide, PTHrP nga tumoret."
+  },
+  {
+    "id": "licenca-endokrinologji-069",
+    "question": "Cilat masa terapeutike më të përshtatshme duhen marr në rastin e hipotensionit të rëndë pas heqjes së feokromocitomës?",
+    "answers": [
+      "Kortikosteroidë",
+      "Mineralokortikoidë",
+      "Agjentë beta-stimulues",
+      "Gjak ose plazëm",
+      "Klorur potasiumi"
+    ],
+    "correct": 3,
+    "explanation": "Pas heqjes së feokromocitomës, rënia e katekolaminave sjell vazodilatim në një shtrat vaskular të tkurrur kronikisht → hipotension nga hipovolemia relative. Trajtimi: mbushje volumore (kristaloidë, plazmë, gjak)."
+  },
+  {
+    "id": "licenca-endokrinologji-070",
+    "question": "Cili prej peptideve nuk gjendet në pankreasin endokrin?",
+    "answers": [
+      "Glukagoni",
+      "Sekretina",
+      "Insulina",
+      "Somatostatina",
+      "Glukagoni dhe stomatostatina"
+    ],
+    "correct": 1,
+    "explanation": "Sekretina prodhohet nga qelizat S të duodenit, jo nga pankreasi endokrin. Ishujt e Langerhans prodhojnë insulinë (beta), glukagon (alfa), somatostatinë (delta) dhe polipeptid pankreatik."
+  },
+  {
+    "id": "licenca-endokrinologji-071",
+    "question": "Terapia zëvendësuese me testosteron në hipogonadizmin mashkullor rekomandohet në rastin e:",
+    "answers": [
+      "Nivelit të testosteronit total < 300 (10.4 nmol/L) ng/mL në dy matje të përsëritura",
+      "Vlera të testosteronit të lirë në limitin inferior të normës në dy matje të përsëritura",
+      "Dizfunksioni erektil rezistent ndaj PDE5-inibitor",
+      "Të gjitha përgjigjet",
+      "Shtim të estrogjeneve në cirrozën hepatike"
+    ],
+    "correct": 0,
+    "explanation": "Terapia me testosteron indikohet te mashkulli me simptoma hipogonadizmi dhe testosteron total <300 ng/dl (~10,4 nmol/L) i konfirmuar në dy matje mëngjesi. Vlerat në kufi ose disfunksioni erektil i izoluar nuk mjaftojnë."
+  },
+  {
+    "id": "licenca-endokrinologji-072",
+    "question": "Mekanizmi patogjenetik përgjegjës për morbusin Basedow është me natyrë:",
+    "answers": [
+      "Infektive",
+      "Neoplazike",
+      "Autoimune",
+      "Traumatike",
+      "Asnjëra nga përgjigjet"
+    ],
+    "correct": 2,
+    "explanation": "Morbus Basedow-Graves është sëmundje autoimune: antitrupat ndaj receptorit të TSH (TRAb) stimulojnë tiroiden → hipertiroidizëm, strumë difuze, oftalmopati."
+  },
+  {
+    "id": "licenca-endokrinologji-073",
+    "question": "Sekretimi hormonal jo normal i paratormonit mund të shfaqet tek:",
+    "answers": [
+      "Karcinoma bronkiale me qeliza si kokrra elbi",
+      "Karcinoma bronkogjene squamoze",
+      "Koriokarcinoma",
+      "Emangioblastoma",
+      "Fibrosarkoma retroperitoneal"
+    ],
+    "correct": 1,
+    "explanation": "Karcinoma skuamoze bronkogjene sekreton PTHrP (proteinë e ngjashme me PTH) → hiperkalcemi paraneoplazike. Karcinoma me qeliza të vogla (\"kokërr elbi\") prodhon ACTH dhe ADH."
+  },
+  {
+    "id": "licenca-endokrinologji-074",
+    "question": "Cili prej tumoreve nuk bën pjesë tek MEN tip 1?",
+    "answers": [
+      "Mikroprolaktinoma",
+      "Tumori karcinoid",
+      "Melanoma",
+      "Adenoma e kortikosurrenales",
+      "Lipoma"
+    ],
+    "correct": 2,
+    "explanation": "MEN1 (menin): hiperparatiroidizëm, tumore pankreatiko-duodenale (gastrinoma, insulinoma), adenoma hipofizare (prolaktinoma), si dhe karcinoidë, adenoma kortikosurrenale, lipoma, angiofibroma. Melanoma nuk bën pjesë."
+  },
+  {
+    "id": "licenca-endokrinologji-075",
+    "question": "Në cilën prej patologjive është më e shpeshtë prania e gjinekomastisë?",
+    "answers": [
+      "Pankreatiti kronik",
+      "Bronkiti kronik obstruktiv",
+      "Glomerulonefriti kronik",
+      "Retokoliti ulçeroz",
+      "Cirroza hepatike"
+    ],
+    "correct": 4,
+    "explanation": "Në cirrozë, mëlçia nuk metabolizon estrogjenet dhe rritet konvertimi periferik i androgjeneve në estrogjene → gjinekomasti, spider nevi, eritemë palmare, atrofi testikulare. Spironolaktoni e përkeqëson."
+  },
+  {
+    "id": "licenca-endokrinologji-076",
+    "question": "Diagnoza e hiperparatiroidizmit primitiv bazohet tek:",
+    "answers": [
+      "PTH i pandryshuar (PTHi) i rritur, ulje të kalçemisë, rritje të fosforemisë",
+      "Rritje të kalçemisë, rritje të fosforemisë, PTHi i pa dozueshëm",
+      "PTHi i rritur, kalçemi e rritur",
+      "Rritje të kalçemisë, rritje të fosfatazës alkaline",
+      "Rritje të kalçemisë, me zonë hiperakumuluese në shintigrafinë e kockave"
+    ],
+    "correct": 2,
+    "explanation": "Hiperparatiroidizmi primar diagnostikohet me hiperkalcemi + PTH i rritur ose i papërshtatshëm normal; fosfori zakonisht është i ulët. Kalcemia e lartë me PTH të supresuar sugjeron shkak tjetër (tumor, PTHrP)."
+  },
+  {
+    "id": "licenca-endokrinologji-077",
+    "question": "Forma më e shpeshtë e hipertiroidizmit tek i moshuari është:",
+    "answers": [
+      "Adenoma toksike",
+      "Morbusi i Basedow",
+      "Hipertiroidizmi i induktuar nga jodi",
+      "Tiroiditi subakut",
+      "Struma multinodulare toksike"
+    ],
+    "correct": 4,
+    "explanation": "Te i moshuari forma më e shpeshtë e hipertiroidizmit është struma multinodulare toksike (Plummer), shpesh me simptoma të zbehta (fibrilacion atrial, humbje peshe). Te të rinjtë mbizotëron Basedow."
+  },
+  {
+    "id": "licenca-endokrinologji-078",
+    "question": "Cila prej alternativave rreth hiperkaliemisë nuk është e saktë:",
+    "answers": [
+      "Mund të jetë sekondare nga acidoza metabolike",
+      "Mund të jetë sekondare nga mbi përdorimi i furosemidit",
+      "Mund të jetë sekondare nga hemotransfuzionet masive",
+      "Mund të shkaktojë aritmi të rënda kardiake",
+      "Hiposurrenalizëm kronik"
+    ],
+    "correct": 1,
+    "explanation": "Furosemidi (diuretik ansa) shkakton hipokalemi, jo hiperkalemi. Hiperkalemia mund të vijë nga acidoza, transfuzionet masive (hemolizë), insuficienca surrenale dhe jep aritmi të rënda."
+  },
+  {
+    "id": "licenca-endokrinologji-079",
+    "question": "Kriza hipoglicemike shfaqet më lehtësisht tek një person:",
+    "answers": [
+      "Obez",
+      "I dobët",
+      "Me neoplazi gastrike",
+      "Alkolisti kronik",
+      "Kaketik"
+    ],
+    "correct": 3,
+    "explanation": "Alkooli frenon glukoneogjenezën hepatike (rritje e NADH); te alkoolisti me rezerva të varfra glikogjeni dhe kequshqyerje, hipoglicemia shfaqet lehtë, sidomos pas pirjes pa ushqim."
+  },
+  {
+    "id": "licenca-endokrinologji-080",
+    "question": "Cili nuk ëhtë rol fiziologjik i paratormonit?",
+    "answers": [
+      "Rritja e riabsorbimit të kalçiumit e fosforit nga kockat",
+      "Rritja e konvertimit të kalçifediolit në kalçitriol",
+      "Reduktimi i riabsorbimit të fosfateve e bikarbonateve nga veshka",
+      "Reduktim i riabsorbimit të kalçiumit nga veshka",
+      "Rritje të sekretimit të kalçtoninës"
+    ],
+    "correct": 3,
+    "explanation": "PTH RRIT rithithjen renale të kalciumit (në tubulin distal) dhe ul atë të fosfatit; rrit resorbimin kockor dhe aktivizimin e vitaminës D (1-alfa-hidroksilaza). Pra D është e kundërta e veprimit fiziologjik."
+  },
+  {
+    "id": "licenca-endokrinologji-081",
+    "question": "Në sindromën Klinefelter testikujt janë:",
+    "answers": [
+      "Me dimensione të reduktuara dhe konsistencë të rritur",
+      "Me dimensione të reduktuara dhe konsistencë normale",
+      "Me dimensione normale dhe konsistencë të rritur",
+      "Me dimensione normale dhe konsistencë normale",
+      "Me dimensione të rritura dhe konsistencë të rritur"
+    ],
+    "correct": 0,
+    "explanation": "Në Klinefelter (47,XXY) testikujt janë të vegjël (<4 ml) dhe të fortë nga hialinizimi i tubujve seminiferë; hipogonadizëm hipergonadotrop, azoospermi, gjinekomasti, shtat i gjatë."
+  },
+  {
+    "id": "licenca-endokrinologji-082",
+    "question": "Tek akromegalia, cili segment skeletik është më i prekuri nga proliferimi (shtimi) nënperiosteal:",
+    "answers": [
+      "Baçini",
+      "Sternumi",
+      "Mandibula",
+      "Femuri",
+      "Peroniumi"
+    ],
+    "correct": 2,
+    "explanation": "Në akromegali, rritja periostale e kockave shfaqet sidomos në mandibulë (prognatizëm, diastema dentare), harqet supraorbitale, duart dhe këmbët."
+  },
+  {
+    "id": "licenca-endokrinologji-083",
+    "question": "Cila prej alternativave nuk shkakton shtim të sekretimit të prolaktinës?",
+    "answers": [
+      "Thithja e kapecolit të gjirit",
+      "Stresi",
+      "Gjumi",
+      "Aktiviteti fizik",
+      "Dieta hiperkalorike"
+    ],
+    "correct": 4,
+    "explanation": "Prolaktinën e rrisin thithja e thithkës, stresi, gjumi, aktiviteti fizik, shtatzënia, hipoglicemia, barnat antidopaminergjike. Dieta hiperkalorike nuk është stimul i njohur."
+  },
+  {
+    "id": "licenca-endokrinologji-084",
+    "question": "Nuk shkaktohet shtim i sekretimit të sekretinës në cilën prej gjendjeve:",
+    "answers": [
+      "Reduktim të vëllimit plazmatik",
+      "Reduktim të Na",
+      "Variacionet hemodinamike të veshkës në lidhje me fluksin intrarenal të gjakut",
+      "Dhënia e beta-bllokuesve",
+      "Hipotensioni"
+    ],
+    "correct": 3,
+    "explanation": "Pyetja i referohet reninës (gabim shtypi \"sekretinës\"). Renina rritet nga hipovolemia, hiponatremia, hipotensioni dhe ndryshimet e perfuzionit renal; betabllokuesit e ulin sekretimin e reninës (bllokojnë beta1 të qelizave jukstaglomerulare)."
+  },
+  {
+    "id": "licenca-endokrinologji-085",
+    "question": "Cila prej simptomave nuk është karakteristike e M. Cushing tek një grua:",
+    "answers": [
+      "Obeziteti android",
+      "Hipotensioni arterial",
+      "Poliglobulia",
+      "Hirsutizmi",
+      "Akne"
+    ],
+    "correct": 1,
+    "explanation": "Cushing jep hipertension arterial (jo hipotension), obezitet qendror, poliglobuli, hirsutizëm, akne dhe çrregullime menstruale te gruaja."
+  },
+  {
+    "id": "licenca-endokrinologji-086",
+    "question": "Acidoza tek diabeti i pa kompensuar shkaktohet nga:",
+    "answers": [
+      "Rritja e formimit të acidit laktik",
+      "Lidhet direkt me shpejtësinë glukoneogjenezës",
+      "Lidhet direkt me shpejtësinë e lipolozës ose të ketogjenezës",
+      "Shkaktohet nga rritja e përqëndrimit të acidit karbonik në gjak",
+      "Hipokaliemia"
+    ],
+    "correct": 2,
+    "explanation": "Acidoza në diabetin e dekompensuar vjen nga lipoliza e tepërt dhe ketogjeneza hepatike (acidi aceto-acetik dhe beta-hidroksibutirik), për shkak të mungesës së insulinës dhe tepricës së glukagonit."
+  },
+  {
+    "id": "licenca-endokrinologji-087",
+    "question": "Pankreatiti akut mund të shfaqet gjatë:",
+    "answers": [
+      "Hiperkolesterolemisë",
+      "Hipertrigliceridemisë",
+      "Hiperkilomikronemisë",
+      "Formë e kombinuar",
+      "Hiper-HDL"
+    ],
+    "correct": 2,
+    "explanation": "Pankreatiti akut shkaktohet nga hipertrigliceridemia e rëndë (>1000 mg/dl), që korrespondon me hiperkilomikroneminë (tipet I dhe V të Fredrickson). Hiperkolesterolemia e izoluar nuk e shkakton."
+  },
+  {
+    "id": "licenca-endokrinologji-088",
+    "question": "Morbusi i Addison karakterizohet nga:",
+    "answers": [
+      "Humbja me urinën e joneve të klorit e kaliumit",
+      "Humbja me urinën e joneve të magnezit e kalçiumit",
+      "Alkalozë metabolike, hiperkolesterolemi",
+      "Humbja me urinën e joneve të natriumit",
+      "Acidozë metabolike"
+    ],
+    "correct": 3,
+    "explanation": "Në Addison mungesa e aldosteronit jep humbje urinare të Na+ (hiponatremi, hipovolemi) dhe mbajtje të K+ (hiperkalemi), me acidozë të lehtë metabolike."
+  },
+  {
+    "id": "licenca-endokrinologji-089",
+    "question": "Forma më e shpeshtë e hipertiroidizmit tek moshat e reja dhe adulte është:",
+    "answers": [
+      "Adenoma toksike",
+      "Morbusi i Basedow",
+      "Hipertiroidizmi i induktuar nga jodi",
+      "Tiroiditi subakut",
+      "Struma multinodulare toksike"
+    ],
+    "correct": 1,
+    "explanation": "Tek të rinjtë dhe të rriturit forma më e shpeshtë e hipertiroidizmit është Basedow-Graves (60–80% e rasteve), sidomos te gratë 20–50 vjeç."
+  },
+  {
+    "id": "licenca-endokrinologji-090",
+    "question": "Cila prej alternativave nuk është karakeristike për hipoparatiroidizmin:",
+    "answers": [
+      "Dhimbje muskulare",
+      "Parestezi",
+      "Bronkospazma/laringospazma",
+      "Kalçfikime të nën lëkurës",
+      "Stipsi (kapsllëk)"
+    ],
+    "correct": 4,
+    "explanation": "Hipoparatiroidizmi (hipokalcemi) jep parestezi, kramp/dhimbje muskulare, laringo/bronkospazëm, tetani, kalcifikime të ganglioneve bazale/nën lëkurë, katarakt. Kapsllëku është tipik për hiperkalceminë."
+  },
+  {
+    "id": "licenca-endokrinologji-091",
+    "question": "Cila prej patologjive nuk shkakton hipogonadizëm mashkullor hipergonadotrop?",
+    "answers": [
+      "S. Klinefelter",
+      "Aplasia e qelizave të Leydig",
+      "Anorki",
+      "Hiperprolaktinemi",
+      "Kriptorkidizëm bilateral"
+    ],
+    "correct": 3,
+    "explanation": "Hiperprolaktinemia frenon GnRH → hipogonadizëm hipogonadotrop (LH/FSH të ulëta). Klinefelter, aplazia e qelizave Leydig, anorkia dhe kriptorkidia bilaterale japin hipogonadizëm hipergonadotrop (primar)."
+  },
+  {
+    "id": "licenca-endokrinologji-092",
+    "question": "GH stimulon sekretimin e cilit prej hormoneve?",
+    "answers": [
+      "TSH",
+      "GHRH",
+      "IGF-1",
+      "ACTH",
+      "GnRH"
+    ],
+    "correct": 2,
+    "explanation": "GH stimulon prodhimin hepatik të IGF-1 (somatomedinës C), që ndërmjetëson shumicën e efekteve të rritjes; IGF-1 frenon me feedback GH-në."
+  },
+  {
+    "id": "licenca-endokrinologji-093",
+    "question": "Cili prej haplotipeve HLA shoqërohet më shpesh me diabetin tip 1:",
+    "answers": [
+      "DR3",
+      "DR4",
+      "DR3, DR4",
+      "DR2",
+      "B8"
+    ],
+    "correct": 2,
+    "explanation": "DM tip 1 lidhet me haplotipet HLA-DR3 dhe DR4 (DQ2/DQ8); heterozigotët DR3/DR4 kanë rrezikun më të lartë."
+  },
+  {
+    "id": "licenca-endokrinologji-094",
+    "question": "Hormonet tiroidee derivojnë nga metabolizmi i:",
+    "answers": [
+      "Tirozinës",
+      "Acidi iopanoik",
+      "Pentaiodotironina",
+      "Acetilkolina",
+      "Kolesteroli"
+    ],
+    "correct": 0,
+    "explanation": "Hormonet tiroidiane (T4, T3) sintetizohen nga jodinimi i mbetjeve të tirozinës në tireoglobulinë (MIT + DIT → T3, DIT + DIT → T4)."
+  },
+  {
+    "id": "licenca-endokrinologji-095",
+    "question": "Cilat janë karakteristikat klinike më të shpeshta të akromegalisë?",
+    "answers": [
+      "Visheromegali, reduktim të vëllimit të gjymtyrëve të sipërme, obezitet të trupit",
+      "Visheromegali, rritje të vëllimit të gjymtyrëve, facies luani",
+      "Poliuri, polidipsi",
+      "Gjinekomasti",
+      "Struma e përhapur"
+    ],
+    "correct": 1,
+    "explanation": "Akromegalia jep zmadhim të duarve e këmbëve, tipare të trasha të fytyrës (prognatizëm, hundë e madhe, buzë të trasha), viseromegali, djersitje, hipertension, diabet, apne gjumi."
+  },
+  {
+    "id": "licenca-endokrinologji-096",
+    "question": "Terapia e tiroidit subakut të De Quervain bazohet tek:",
+    "answers": [
+      "Antibiotikë",
+      "Tiroksina",
+      "Kortizonikë",
+      "Tireostatikë",
+      "Sulfamidet"
+    ],
+    "correct": 2,
+    "explanation": "Tiroiditi De Quervain trajtohet me FANS/aspirinë në format e lehta dhe me kortikosteroide (prednizon) në format me dhimbje të fortë; betabllokues për simptomat. Antitiroidienët nuk kanë vend (nuk ka hipersintezë)."
+  },
+  {
+    "id": "licenca-endokrinologji-097",
+    "question": "Diagnoza laboratorike e hipotiroidizmit primitiv bazohet tek:",
+    "answers": [
+      "Niveli i hormoneve tiroidee të lira normal, TSH normal",
+      "Niveli i hormoneve tiroidee të lira normal, TSH i pa dozueshëm",
+      "Niveli i hormoneve tiroidee të lira i reduktuar, TSH normal",
+      "Niveli i hormoneve tiroidee të lira reduktuar, TSH i rritur",
+      "Niveli i hormoneve tiroidee të lira reduktuar, TSH i pa dozueshëm"
+    ],
+    "correct": 3,
+    "explanation": "Hipotiroidizmi primar: FT4 i ulët + TSH i rritur (feedback). Hipotiroidizmi subklinik: FT4 normal + TSH i rritur. Hipotiroidizmi qendror: FT4 i ulët me TSH të ulët/normal."
+  },
+  {
+    "id": "licenca-endokrinologji-098",
+    "question": "Cili ekzaminim është i këshillueshëm për diagnozën e hershme të nefropatisë diabetike?",
+    "answers": [
+      "Echografia renale",
+      "Azotemia",
+      "Kreatininemia",
+      "Mikroalbuminuria",
+      "RMN renale"
+    ],
+    "correct": 3,
+    "explanation": "Mikroalbuminuria (raporti albuminë/kreatininë 30–300 mg/g) është shenja më e hershme e nefropatisë diabetike, shumë para rritjes së kreatininës; kontrollohet çdo vit."
+  },
+  {
+    "id": "licenca-endokrinologji-099",
+    "question": "Cila prej shenjave nuk është e pranishme në oftalmopatinë basedowiane:",
+    "answers": [
+      "Ezoftalmi",
+      "Diplopia",
+      "Kemoza",
+      "Neuriti optik",
+      "Hemianopsia bitemporale"
+    ],
+    "correct": 4,
+    "explanation": "Oftalmopatia Basedow jep ekzoftalmi, retraksion palpebral, diplopi (miopati restriktive), kemozë, keratit ekspozimi dhe neuropati optike kompresive. Hemianopsia bitemporale është nga lezionet e kiazmës (adenoma hipofizare)."
+  },
+  {
+    "id": "licenca-endokrinologji-100",
+    "question": "Kortizoli:",
+    "answers": [
+      "Eshtë hipoglicemizant",
+      "Eshtë hiperglicemizant",
+      "Nuk vepron tek glucidet",
+      "Stimulon sintezën pankreatike për insulinë",
+      "Ka funksion të ngjashëm me insulinën"
+    ],
+    "correct": 1,
+    "explanation": "Kortizoli është hormon hiperglicemiant (kundër-rregullues): rrit glukoneogjenezën hepatike, ul kapjen periferike të glukozës dhe jep insulinorezistencë — prandaj Cushing dhe steroidet japin diabet."
+  },
+  {
+    "id": "licenca-endokrinologji-101",
+    "question": "Tumoret hipofizare jo funksionale paraqesin kuadrin klinik me:",
+    "answers": [
+      "Rritje të gjymtyrëve të sipërme",
+      "Rritje të libidos (dëshirës seksuale)",
+      "Cefale dhe reduktim të fushëpamjes",
+      "Hiperidrozë",
+      "Gjinekomasti"
+    ],
+    "correct": 2,
+    "explanation": "Adenomat jofunksionale nuk sekretojnë hormone, ndaj shfaqen me efekte mase: cefale, defekte të fushës vizuale (hemianopsi bitemporale) dhe hipopituitarizëm."
+  },
+  {
+    "id": "licenca-endokrinologji-102",
+    "question": "Diabeti melitus tip 1 është:",
+    "answers": [
+      "Sëmundje gjenetike",
+      "Sëmundje poligjenike, e trashëgueshme, që ndikohet dhe nga faktorët ambientalë",
+      "Një variant i MODY (Maturity, Onset Diabetesof the Young)",
+      "Karakterizohet nga sekretimi me tepricë i insulinës",
+      "Prek ekskluzivisht fëmijët"
+    ],
+    "correct": 1,
+    "explanation": "DM tip 1 është sëmundje poligjenike me predispozitë të trashëgueshme (HLA) dhe ndikim faktorësh mjedisorë (infeksione virale) që nxisin autoimunitetin. Mund të shfaqet në çdo moshë; MODY është diabet monogjenik."
+  }
+]

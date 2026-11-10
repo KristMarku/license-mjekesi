@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "licenca-obstetrike-gjinekologji-001",
+    "question": "Pas menopauzes, dispareunia shkaktohet me shpesh nga:",
+    "answers": [
+      "thatesia vaginale",
+      "inkontinenca",
+      "infeksionet nga kandida",
+      "problemet erektive te partnerit",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 0,
+    "explanation": "Pas menopauzës, shkaku më i shpeshtë i dispareunisë është tharja vaginale nga atrofia vulvo-vaginale (mungesa e estrogjeneve). Infeksionet dhe faktorët e partnerit janë më të rrallë; çelësi i PDF-së (\"të gjitha\") nuk i përgjigjet fjalës \"më shpesh\"."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-002",
+    "question": "Zgjidhni testin me te mire te screening diagnostik per zbulimin e diagnozes se anemise falciforme te fetusit:",
+    "answers": [
+      "kultura e qelizave te likidit amniotik",
+      "kampionet e gjakut fetal",
+      "alfafetoproteina e likidit amniotik",
+      "perqendrimi kimik i urines materne",
+      "ekografia"
+    ],
+    "correct": 1,
+    "explanation": "Praktikë e vjetër: diagnoza prenatale e drepanocitozës bëhej me kampion gjaku fetal (kordocentezë) për studimin e hemoglobinës. Sot bëhet me analizë ADN-je nga vilet korionike (java 10–13) ose amniocitet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-003",
+    "question": "Nje grua 32-vjeçare me anamneze per infertilitet prej 4 vitesh eshte induktuar qe te ovuloje me klomifen. Pas 16 javesh gestacioni eshte vene re se fundi i uterusit ndodhet ne nivelin e umbilikusit. Nje ekografi ka treguar nje gravidance binjakesh ne dy sakuse me dy placenta (njera anteriore, ndersa tjetra posteriore). Kjo grua ndodhet nen risk per te zhvilluar nje prej patologjive te meposhtme:",
+    "answers": [
+      "infeksion te rrugeve urinare",
+      "hipertension te induktuar nga gestacioni",
+      "diabet gestacional",
+      "nivele materne te uleta te alfa-fetoproteines serike",
+      "moniliaze vaginale"
+    ],
+    "correct": 1,
+    "explanation": "Shtatzënia binjake (sidomos pas induksionit të ovulacionit) rrit rrezikun e hipertensionit gestacional/preeklampsisë (masë placentare më e madhe), si dhe të lindjes së parakohshme, anemisë, diabetit gestacional; AFP materne zakonisht rritet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-004",
+    "question": "Incidenca e ciles prej patologjive te meposhtme behet me e shpeshta pas menopauzes?",
+    "answers": [
+      "tumoret fibroide",
+      "adenomioza",
+      "endometrioza",
+      "relaksimi pelvik",
+      "kistet e korpusit luteal"
+    ],
+    "correct": 3,
+    "explanation": "Pas menopauzës, mungesa e estrogjeneve dobëson indet mbështetëse të legenit → relaksim pelvik (prolaps uterin, cistocelë, rektocelë). Fibromat, adenomioza dhe endometrioza regresojnë; kistet e korpusit luteal zhduken."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-005",
+    "question": "Kundraindikacion per perdorimin e pilules anticoncepsion eshte:",
+    "answers": [
+      "endometrioza",
+      "mastopatia fibrokistike",
+      "kisti ovarian seroz",
+      "karcinoma mamare e operuar prej me shume se 3 vitesh",
+      "nulipariteti"
+    ],
+    "correct": 3,
+    "explanation": "Kontraceptivët oralë kombinuar kundërindikohen në kancerin e gjirit (aktual ose i kaluar — kategori 4/3 OBSH). Endometrioza, mastopatia fibrokistike, kistet ovariane dhe nulipariteti nuk janë kundërindikacione (KO mund të jenë edhe terapeutikë)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-006",
+    "question": "Ne ekzaminimin mikroskopik te nje sekrecioni uretral, neisseria gonorreae paraqitet si:",
+    "answers": [
+      "streptokok grampozitiv jashteqelizor",
+      "diplokok grampozitiv jashteqelizor",
+      "diplokok gramnegativ jashteqelizor",
+      "diplokok grampozitiv brendaqelizor",
+      "diplokok gramnegativ brendaqelizor"
+    ],
+    "correct": 4,
+    "explanation": "Neisseria gonorrhoeae duket në mikroskop si diplokok Gram-negativ (në formë kokrre fasuleje) brendaqelizor (brenda neutrofileve) në sekrecionin uretral."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-007",
+    "question": "Cila eshte e sakte prej pohimeve te meposhtme ne lidhje me sindromen vulvo-vestibulare?",
+    "answers": [
+      "perfaqeson formen prevalente te vulvodinise",
+      "shoqerohet pothuajse gjithmone me dispareuni",
+      "te tera pergjigjet jane te sakta",
+      "pergjithesisht mungojne lezionet vulvare ose infeksionet e dukshme vulvu-vaginale",
+      "ndonjehere mund te verehet eriteme makulare pergjate sulkusit imenal dhe ne nivelin e hapjes se glandulave vestibulare major dhe minor"
+    ],
+    "correct": 2,
+    "explanation": "Vestibuliti/vulvodinia e lokalizuar: forma më e shpeshtë e vulvodinisë, me dispareuni superficiale, zakonisht pa lezione të dukshme, ndonjëherë me eritemë rreth hapjeve të gjëndrave vestibulare. Të gjitha pohimet janë të sakta."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-008",
+    "question": "Cili prej tumoreve malinje te meposhtem jep me shpesh metastaza ne placente dhe ne fetus?",
+    "answers": [
+      "melanoma",
+      "leucemia",
+      "karcinoma mamare",
+      "karcinoma e cerviksit",
+      "karcinoma uterine"
+    ],
+    "correct": 0,
+    "explanation": "Melanoma malinje është tumori që metastazon më shpesh në placentë dhe fetus; pasojnë leukemitë/limfomat."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-009",
+    "question": "Rritja fiziologjike e VES gjate gravidances shkaktohet nga:",
+    "answers": [
+      "reduktimi i gamaglobulinave",
+      "rritja e betaglobulinave",
+      "rritja e fibrinogjenit plazmatik",
+      "rritja e transferrines",
+      "rritja e prolaktines"
+    ],
+    "correct": 2,
+    "explanation": "Rritja fiziologjike e ERS në shtatzëni vjen kryesisht nga rritja e fibrinogjenit plazmatik (dhe globulinave) si dhe nga anemia diluzionale; ERS nuk është tregues i besueshëm inflamacioni në shtatzëni."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-010",
+    "question": "Gjate procesit te lindjes thuhet se dilatacioni i qafes se uterusit eshte i plote kur arrin permasen:",
+    "answers": [
+      "2-3 cm",
+      "6 cm",
+      "5 cm",
+      "10 cm",
+      "12 cm"
+    ],
+    "correct": 3,
+    "explanation": "Dilatacioni i plotë i qafës së mitrës gjatë lindjes është 10 cm (fundi i periudhës së parë të lindjes)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-011",
+    "question": "Ne cilen dite arrin LH nivelin me te larte te nje grua qe normalisht ka menstruacione çdo 30 dite?",
+    "answers": [
+      "diten e 12-te",
+      "diten e 14-te",
+      "diten e 16-te",
+      "diten e 18-te",
+      "diten e 27-te"
+    ],
+    "correct": 2,
+    "explanation": "Faza luteale ka kohëzgjatje relativisht konstante (~14 ditë), prandaj te cikli 30-ditor ovulacioni ndodh rreth ditës 16 dhe piku i LH 24–36 orë para saj (~dita 15–16)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-012",
+    "question": "Cila prej patologjive te meposhtme eshte shkaku me i mundshem i gjakrrjedhjes uterine disfunksionale te nje grua 28-vjeçare me ekzaminim objektiv negativ dhe pa asnje problem tjeter?",
+    "answers": [
+      "kondiloma akuminata",
+      "kondiloma lato",
+      "karcinoma vaginale me qeliza skuamoze",
+      "kankroidi",
+      "herpesi gjenital"
+    ],
+    "correct": 0,
+    "explanation": "Pyetja dhe opsionet nuk përputhen (opsionet janë lezione vulvo-vaginale); kondiloma akuminata (HPV) është lezioni më i shpeshtë ndër ata të listuar te gratë e reja dhe mund të gjakojë në kontakt. Gjakderdhja uterine disfunksionale vetë është diagnozë përjashtimi (zakonisht anovulatore)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-013",
+    "question": "Me termin ektropion kuptohet:",
+    "answers": [
+      "prania e endometrit ne lokalizim ektopik",
+      "nje lezion inflamator i cerviksit",
+      "nje prolaps i uterusit",
+      "nje eversion i mukozes endocervikale",
+      "nje fistule rekto-vaginale"
+    ],
+    "correct": 3,
+    "explanation": "Ektropioni (ektopia) i qafës së mitrës = eversion i mukozës endocervikale (epitel cilindrik) në ektocerviks, i dukshëm si zonë e kuqe rreth orificit; i shpeshtë me kontraceptivë/shtatzëni."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-014",
+    "question": "Cila klase e Ig mbizoteron ne kulloshter:",
+    "answers": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgD",
+      "IgE"
+    ],
+    "correct": 2,
+    "explanation": "Kullostra është shumë e pasur me IgA sekretore, që mbron mukozat e porsalindurit (imunitet pasiv); IgG kalojnë kryesisht përmes placentës."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-015",
+    "question": "Cila prej te meposhtmeve nuk eshte shkak i lubrifikimit vaginal te reduktuar:",
+    "answers": [
+      "menopauza",
+      "sindroma Sjögren",
+      "sindroma Cushing",
+      "skleroza multiple",
+      "hipotiroidizmi"
+    ],
+    "correct": 2,
+    "explanation": "Lubrifikimin vaginal e ulin menopauza (mungesa e estrogjeneve), sindroma Sjögren (tharje e mukozave), skleroza multiple (neurogjene), hipotiroidizmi, diabeti. Cushing nuk është shkak tipik."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-016",
+    "question": "Fistula ileo-vaginale",
+    "answers": [
+      "kerkon kolostomi",
+      "vilet korionike penetrojne ne miometer",
+      "vilet korionike arrijne serozen",
+      "vilet korionike ndodhen ne kontakt direkt me deciduan",
+      "vilet korionike penetrojne ne cerviks"
+    ],
+    "correct": 1,
+    "explanation": "Teksti i pyetjes duket gabim (\"fistula ileo-vaginale\"); opsionet i referohen placentës akreta-inkreta-perkreta. Alternativa B përshkruan placentën inkreta: vilet korionike depërtojnë në miometër (akreta = ngjitje në miometër pa decidua; perkreta = deri në serozë)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-017",
+    "question": "Cili eshte medikamenti me i pershtatshem per terapine e haemophilus vaginalis:",
+    "answers": [
+      "metronidazoli",
+      "mikonazoli",
+      "dienestroli",
+      "sulfisoksazoli",
+      "deosiciklina"
+    ],
+    "correct": 0,
+    "explanation": "Haemophilus (sot Gardnerella) vaginalis shkakton vaginozën bakteriale; trajtimi i zgjedhur është metronidazoli (oral ose vaginal) ose klindamicina."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-018",
+    "question": "Placente previa quhet:",
+    "answers": [
+      "placenta e inseruar pjeserisht ose totalisht ne segmentin uterin inferior",
+      "placenta e primipareve",
+      "placenta qe nxirret perpara fetusit",
+      "shkolitja e placentes ne muajin e gjashte",
+      "eshte nje term obsolet qe nuk ka domethenie klinike"
+    ],
+    "correct": 0,
+    "explanation": "Placenta previa = placentë e implantuar pjesërisht ose tërësisht në segmentin e poshtëm uterin, duke mbuluar ose duke qenë afër orificit të brendshëm; jep gjakderdhje pa dhimbje në trimestrin e tretë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-019",
+    "question": "Trajtimi elektiv i prezantimit me shpatull eshte:",
+    "answers": [
+      "oksitocine me doze te larte",
+      "ventuza obstetrike",
+      "forcepsi",
+      "sectio cesareo",
+      "nuk eshte i nevojshem asnje intervent sepse eshte nje prezantim fiziologjik"
+    ],
+    "correct": 3,
+    "explanation": "Prezantimi i shpatullës (situatë tërthore) me fetus në term e të gjallë është indikacion për prerje cezariane; lindja vaginale nuk është e mundur."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-020",
+    "question": "Frekuenca e infeksionit fetal si pasoje e rozolise materne:",
+    "answers": [
+      "eshte me e larte nese rozolia materne ndodh ne trimestrin e pare te gravidances",
+      "eshte me e larte nese rozolia materne ndodh ne trimestrin e dyte te gravidances",
+      "eshte me e larte nese rozolia materne ndodh ne trimestrin e trete te gravidances",
+      "eshte me e larte ne rast reinfektimi matern",
+      "asnje prej pergjigjeve te mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Rreziku i infeksionit fetal dhe i embriopatisë rubeolike (katarakt, shurdhim, kardiopati) është më i lartë kur infeksioni matern ndodh në trimestrin e parë (sidomos <12 javë)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-021",
+    "question": "Cila prej patologjive te meposhtme shkakton nivele te larta materne te alfafetoproteines ne javen e 17-te te gravidances:",
+    "answers": [
+      "trizomia e kromozomit 18",
+      "sindroma Down",
+      "vonesa e rritjes intrauterine",
+      "anencefalia",
+      "data e gabuar, data e sakte e shtatzenise eshte java e 14-te"
+    ],
+    "correct": 3,
+    "explanation": "AFP materne e rritur në javën 15–20 sugjeron defekte të hapura të tubit neural (anencefali, spina bifida), defekte të murit abdominal, shtatzëni binjake, datim të gabuar. Trizomitë 18 dhe 21 japin AFP të ulët."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-022",
+    "question": "Nje grua e prekur nga endometrioza mund te kete te tera ankesat e meposhtme, perveç:",
+    "answers": [
+      "dispareuni",
+      "sterilitet",
+      "dhembje gjate defekimit",
+      "dhembje abdominale periodike",
+      "mastodini"
+    ],
+    "correct": 3,
+    "explanation": "Endometrioza jep dismenorre, dispareuni të thellë, dhimbje pelvike kronike/ciklike, diskezi (dhimbje gjatë defekimit), sterilitet. Mastodinia nuk lidhet me endometriozën."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-023",
+    "question": "Cili eshte termi me i pershtatshme per te treguar humbjen fillimisht hematike, e me pas seroze, qe eshte karakteristike per puerperen:",
+    "answers": [
+      "menorragjia",
+      "menometrorragjia",
+      "lokiacioni",
+      "metrorragjia",
+      "eklampsia"
+    ],
+    "correct": 2,
+    "explanation": "Lokiet (lokiacioni) janë sekrecionet uterine pas lindjes: lochia rubra (e kuqe, ditët 1–4), serosa (rozë-kafe), alba (e bardhë), deri në 4–6 javë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-024",
+    "question": "Endrometrioza mund te provokoje:",
+    "answers": [
+      "inkontinence",
+      "amenorre",
+      "leukorre",
+      "dispareuni",
+      "anemi"
+    ],
+    "correct": 3,
+    "explanation": "Endometrioza shkakton dispareuni të thellë (implantet në Douglas, ligamentet uterosakrale), dismenorre, dhimbje pelvike kronike dhe infertilitet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-025",
+    "question": "Shkaku organik me i shpeshte qe ndodhet ne baze te çrregullimit te deshires hipoaktive femerore eshte:",
+    "answers": [
+      "diabeti mellitus",
+      "sindroma depresive",
+      "hipotiroidizmi",
+      "te tera pergjigjet e mesiperme jane te sakta",
+      "asnje pergjigje nuk eshte e sakte"
+    ],
+    "correct": 1,
+    "explanation": "Sindroma depresive (dhe barnat antidepresive) është shkaku më i shpeshtë i dëshirës seksuale hipoaktive te gruaja; ndikojnë edhe diabeti, hipotiroidizmi, hiperprolaktinemia."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-026",
+    "question": "Cili prej prezantimeve fetale te meposhtme nuk lejon lindjen spontane nese fetusi eshte zhvilluar normalisht ne terme:",
+    "answers": [
+      "prezantimi me bregme",
+      "prezantimi podalik",
+      "prezantimi frontal",
+      "prezantimi me fytyre",
+      "prezantimi me verteks"
+    ],
+    "correct": 2,
+    "explanation": "Prezantimi i ballit (frontal) me fetus normal në term nuk lejon lindjen vaginale (diametri më i madh paraqitës ~13,5 cm), prandaj kërkon cezariane. Prezantimi i fytyrës mento-anterior dhe podaliku mund të lindin vaginalisht."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-027",
+    "question": "Hormoni folikulostimulues prodhohet nga:",
+    "answers": [
+      "qelizat kromofobe te adenohipofizes",
+      "qelizat gonadotrope te adenohipofizes",
+      "qelizat acidofile te adenohipofizes",
+      "qelizat e tekes interne",
+      "te gjitha pergjigjet jane te sakta"
+    ],
+    "correct": 1,
+    "explanation": "FSH (dhe LH) prodhohen nga qelizat gonadotrope (bazofile) të adenohipofizës nën stimulimin pulsatil të GnRH."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-028",
+    "question": "Anomalia kromozomike qe ndeshet me shpesh gjate aborteve ne trimestrin e pare eshte:",
+    "answers": [
+      "sindroma Turner",
+      "poliploidia",
+      "monozomia autozomale",
+      "trizomia autozomike",
+      "translokimi i pabilancuar"
+    ],
+    "correct": 3,
+    "explanation": "Anomalia kromozomike më e shpeshtë në abortet spontane të trimestrit të parë janë trisomitë autozomike (sidomos trisomia 16), pastaj monosomia X (Turner) dhe poliploidia."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-029",
+    "question": "Per cilen prej semundjeve kromozomike te meposhtme eshte karakteristik pterigium colli:",
+    "answers": [
+      "sindroma Down",
+      "sindroma Klinefelter",
+      "sindroma Turner",
+      "sindroma Patau",
+      "sindroma cri du chat"
+    ],
+    "correct": 2,
+    "explanation": "Pterygium colli (qafë me palosje lëkure \"si krahë\") është tipike për sindromën Turner (45,X), krahas shtatit të shkurtër, amenorresë primare, koarktacionit të aortës."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-030",
+    "question": "Shkaku me i shpeshte i ambiguitetit gjenital te femijeve eshte:",
+    "answers": [
+      "mosndarja kromozomike",
+      "disgenezia gonadike",
+      "sindroma andrenogjenitale",
+      "mozaicizmi",
+      "feminilizimi testikular"
+    ],
+    "correct": 2,
+    "explanation": "Shkaku më i shpeshtë i gjenitaleve ambigue te të porsalindurit është sindroma adrenogjenitale (hiperplazia kongjenitale e surrenaleve nga deficiti i 21-hidroksilazës) te fëmijët 46,XX."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-031",
+    "question": "Te tera simptomat e meposhte tregojne vdekje fetale intrauterine, me perjashtim te njeres:",
+    "answers": [
+      "mungesa e ndjerjes se levizjeve fetale aktive nga nena",
+      "mungesa e rritjes se vellimit te uterusit",
+      "rritja e peshes materne",
+      "regresioni i simptomave te gravidances",
+      "mungesa e rrahjes kardiake fetale gjate ekzaminimit ekografik"
+    ],
+    "correct": 2,
+    "explanation": "Vdekja fetale intrauterine: mungesë e lëvizjeve fetale, uterus që nuk rritet, regres i simptomave të shtatzënisë, mungesë e rrahjeve kardiake në ekografi (diagnozë përfundimtare). Pesha materne zakonisht nuk rritet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-032",
+    "question": "Cila eshte simptome klinike e shpeshte e karcinomes endometriale:",
+    "answers": [
+      "vaginiti rekurrent",
+      "dispareunia",
+      "metrorragjite",
+      "asnje prej pergjigjeve",
+      "amenorrea"
+    ],
+    "correct": 2,
+    "explanation": "Simptoma kryesore e karcinomës endometriale është metrorragjia, sidomos pas menopauzës (çdo gjakderdhje postmenopauzale kërkon vlerësim të endometrit)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-033",
+    "question": "Lokalizimi me i shpesht i endometriozes eshte:",
+    "answers": [
+      "siperfaqja peritoneale e zorres se holle",
+      "omentumi",
+      "apendiksi",
+      "vezika urinare",
+      "peritoneumit i zones Douglas"
+    ],
+    "correct": 4,
+    "explanation": "Endometrioza lokalizohet më shpesh në vezoret (endometrioma) dhe në peritoneumin pelvik, sidomos në kavitetin Douglas dhe ligamentet uterosakrale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-034",
+    "question": "Cili eshte shkaku me i shpeshte i sterilitetit femeror:",
+    "answers": [
+      "hormonal (anovulacioni)",
+      "tubarik",
+      "uterin",
+      "kongjenital",
+      "vaginal"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i sterilitetit femëror është hormonal/ovulator (anovulacioni, p.sh. PCOS); pastaj faktorët tubarë (sëmundja inflamatore pelvike) dhe endometrioza."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-035",
+    "question": "Cili prej pohimeve te meposhtme eshte i sakte:",
+    "answers": [
+      "kriteri diagnostik kryesor i DSM-IV per vaginizmin eshte prania e “spazmes te pavullnetshme rekurrente ose persistente te muskulatures se nje te tretes se jashtme te vagines, qe nderhyn ne marredheniet seksuale”",
+      "ne rastin e sindromes vulvo-vestibulare, vestibulektomia ka si qellim rezekimin e indit qe shkakton shfaqjen e dhembjes se vestibulit vaginal",
+      "dispareunia e thelle eshte karakteristike e endometriozes, e PID, e varikoceles pelvike, si edhe e aderencave fibrotike",
+      "te tera pergjigjet jane te sakta",
+      "ndonjehere spazma e vaginizmit pershkruhet si nje spazme aq e gjate dhe e rende sa qe shkakton shfaqjen e dhembjes"
+    ],
+    "correct": 3,
+    "explanation": "Të gjitha pohimet janë të sakta: vaginizmi (DSM-IV) si spazmë e pavullnetshme e 1/3 së jashtme të vaginës; vestibulektomia heq indin e dhimbshëm; dispareunia e thellë lidhet me endometriozën, PID, varikocelën pelvike dhe aderencat."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-036",
+    "question": "Te tera patologjite e meposhtme shoqerohen me rritje te nivelit te prolaktines ne qarkullim, me perjashtim te:",
+    "answers": [
+      "stresit",
+      "hipotiroidizmit",
+      "anoreksise nervore",
+      "akromegalise",
+      "shtatzenise"
+    ],
+    "correct": 2,
+    "explanation": "Prolaktinën e rrisin stresi, hipotiroidizmi (TRH), shtatzënia, akromegalia (kosekretim GH-PRL), barnat antidopaminergjike. Në anoreksinë nervore prolaktina zakonisht nuk rritet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-037",
+    "question": "Ndarja e dyte maturuese e ovocitit ndodh:",
+    "answers": [
+      "ne uterus",
+      "ne vezore",
+      "ne peritoneum",
+      "ne vagine",
+      "ne tube"
+    ],
+    "correct": 4,
+    "explanation": "Ndarja e dytë mejotike e ovocitit përfundon vetëm pas fertilizimit, që ndodh në tubën uterine (ampula); ovocitit ovulohet i bllokuar në metafazën II."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-038",
+    "question": "Cili eshte tumori me i mundshem ne prani te niveleve te larta te beta HCG:",
+    "answers": [
+      "tumori i sinusit endodermal",
+      "tumori i granulozes-tekes se vezores",
+      "kistadenokarcinoma seroze",
+      "tumori i qelizave Sertoli-Leydig",
+      "koriokarcinoma"
+    ],
+    "correct": 4,
+    "explanation": "Nivele shumë të larta të beta-hCG sugjerojnë koriokarcinomë (ose molë hidatiforme). Tumori i sinusit endodermal jep AFP; tumoret e granulozës estrogjene/inhibinë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-039",
+    "question": "Gjate shtatzenise fiziologjike ndodhin te tera modifikimet e meposhtme te funksionit renal dhe te rrugeve urinare, me perjashtim te:",
+    "answers": [
+      "dilatacionit te uretereve",
+      "rritjes se fluksit plazmatik renal",
+      "rritjes se fluksit glomerular",
+      "reduktimit te klirensit te kreatinines",
+      "rritjes se eliminimit urinar te glukozes"
+    ],
+    "correct": 3,
+    "explanation": "Në shtatzëni rriten fluksi plazmatik renal dhe GFR (~50%), prandaj klirensi i kreatininës rritet (kreatinina serike ulet); ureterët dilatohen (sidomos djathtas) dhe rritet glukozuria fiziologjike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-040",
+    "question": "Hemopoieza ekstramedulare eshte shume e shpeshte ne fetusin human. Cili eshte lokalizimi me i rendesishem i hemopoiezes ne muajin e tete te shtatzenise:",
+    "answers": [
+      "sakusi vitelin",
+      "shpretka",
+      "palca e kockave",
+      "melçia",
+      "limfonodujt"
+    ],
+    "correct": 2,
+    "explanation": "Në muajin e tetë të shtatzënisë, hematopoieza fetale bëhet kryesisht në palcën e kockave (mëlçia dominon nga java 6 deri ~muaji 6–7; qesja e verdhë në javët e para)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-041",
+    "question": "Cila eshte shenja ose simptoma me e shpeshte me te cilen paraqitet karcinoma endometriale:",
+    "answers": [
+      "rritja vellimore e uterusit",
+      "kolika abdominale",
+      "hemorragjia",
+      "leukorrea",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma endometriale paraqitet më shpesh me hemorragji uterine anormale (metrorragji postmenopauzale) — në ~90% të rasteve, gjë që lejon diagnozë relativisht të hershme."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-042",
+    "question": "Shkaku/shkaqet endrokrin i trupit te shkurter te grave te reja perfshin:",
+    "answers": [
+      "sindroma Turner",
+      "hipotiroidizmi",
+      "hiperplazia surrenaliene",
+      "morbus Cushing",
+      "te tera shkaqet e mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Shkaqe endokrine/gjenetike të shtatit të shkurtër te vajzat: sindroma Turner, hipotiroidizmi, hiperplazia surrenale (mbyllje e hershme e epifizave), sindroma Cushing, deficiti i GH."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-043",
+    "question": "Kardiotokografia:",
+    "answers": [
+      "regjistron njekohesisht me dy sensore frekuencen kardiake fetale dhe aktivitetin e kontraktimit te miometrit",
+      "regjistron njekohesisht me dy elektroda frekuencen kardiake materne dhe aktivitetin e kontraktimit te miometrit",
+      "ben te mundur vleresimin e morfologjise kardiake fetale",
+      "regjistron njekohesisht me dy sensore frekuence kardiake fetale dhe aktivitetin e kontraktimit te miometrit dhe ben te mundur vleresimin e morfologjise kardiake fetale",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 0,
+    "explanation": "Kardiotokografia regjistron njëkohësisht me dy sensorë (ultratingull Doppler dhe tokodinamometër) frekuencën kardiake fetale dhe kontraksionet uterine; nuk vlerëson morfologjinë kardiake."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-044",
+    "question": "Sindroma Klinefelter karakterizohet nga modeli kromozomik anormal:",
+    "answers": [
+      "XO",
+      "trizomia e kromozomit 15",
+      "delecioni i krahut te shkurter te kromozomit 18",
+      "XXY",
+      "XYY"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Klinefelter = kariotip 47,XXY: hipogonadizëm hipergonadotrop, testikuj të vegjël, azoospermi, gjinekomasti, shtat i gjatë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-045",
+    "question": "Cili eshte medikamenti me i pershtatshem per trajtimin e nje vaginiti te shkaktuar nga moniliaza:",
+    "answers": [
+      "metronidazoli",
+      "mikonazoli",
+      "dienestroli",
+      "sulfisoksazoli",
+      "deoksiciklina"
+    ],
+    "correct": 1,
+    "explanation": "Vaginiti nga Candida (moniliaza) trajtohet me antimikotikë azolikë (mikonazol, klotrimazol vaginal; flukonazol oral). Metronidazoli është për trikomonazën/vaginozën bakteriale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-046",
+    "question": "Shkaku me i shpeshte i deshtimit te kontraceptiveve orale, qe si pasoje shkakton nje shtatzeni te padeshiruar, eshte:",
+    "answers": [
+      "ovulacioni qe fillon ne mes te ciklit",
+      "frekuenca e marredhenieve seksuale",
+      "perdorimi i pasakte i kontraceptiveve orale",
+      "keqperthithja gastrointestinale",
+      "krijimi i antitrupave"
+    ],
+    "correct": 2,
+    "explanation": "Shkaku më i shpeshtë i dështimit të kontraceptivëve oralë është përdorimi i pasaktë (harrimi i pilulave, vonesat, ndërveprimet me barna, të vjellat/diarreja)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-047",
+    "question": "Te tera patologjite e meposhtme shoqerohen me defekte te septumit interventrikular, me perjashtim te:",
+    "answers": [
+      "sindromes feto-alkoolike",
+      "duhanpirjes gjate shtatzenise",
+      "infeksionet intrauterine TORCH",
+      "sindromes Down",
+      "tetralogjise Fallot"
+    ],
+    "correct": 1,
+    "explanation": "Defektet e septumit interventrikular shoqërohen me sindromën Down, sindromën fetale alkoolike, infeksionet TORCH (rubeola), tetralogjinë Fallot. Duhanpirja në shtatzëni lidhet me vonesë rritjeje, lindje të parakohshme, placentë previa, por jo tipikisht me DSV."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-048",
+    "question": "Terapite zevendesuese hormonale vaginale per menopauzen mund te permiresojne:",
+    "answers": [
+      "thatesine vaginale",
+      "dispareunine",
+      "deshiren seksuale",
+      "te tera pergjigjet e mesiprme jane te sakta",
+      "raportin e çiftit"
+    ],
+    "correct": 3,
+    "explanation": "Terapia hormonale vaginale (estrogjene lokale) përmirëson tharjen vaginale dhe dispareuninë, dhe në mënyrë indirekte dëshirën seksuale dhe marrëdhënien e çiftit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-049",
+    "question": "Cili eshte risku i zhvillimit te nje rritjeje dhe zhvillimi jonormal te fetusit pas kryerjes se amniocentezes:",
+    "answers": [
+      "0%",
+      "3.5%",
+      "5%",
+      "10%",
+      "25%"
+    ],
+    "correct": 0,
+    "explanation": "Amniocenteza nuk shkakton anomali të rritjes/zhvillimit fetal; rreziku kryesor i saj është aborti (~0,5–1%) dhe rrjedhja e likidit amniotik."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-050",
+    "question": "Cili prej trajtimeve te meposhtme duhet te perdoret rutine per trajtimin e preeklampsise:",
+    "answers": [
+      "diuretiket",
+      "kufizimi i perdorimit te natriumit",
+      "propanololi",
+      "sulfati i magnezit",
+      "deambulimi"
+    ],
+    "correct": 3,
+    "explanation": "Sulfati i magnezit është terapia standarde për parandalimin dhe trajtimin e konvulsioneve eklamptike në preeklampsinë e rëndë. Diuretikët dhe kufizimi i natriumit nuk rekomandohen (preeklampsia ka hipovolemi relative)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-051",
+    "question": "Shkaku me i shpeshte i inkontinences urinare te nje paciente ne menopauze eshte:",
+    "answers": [
+      "inkontinenca urinare nga stresi",
+      "prania e divertikujve uretrale",
+      "inkontinenca nga grumbullimi i urines",
+      "vezika e paqendrueshme",
+      "fistula"
+    ],
+    "correct": 3,
+    "explanation": "Shkaku më i shpeshtë i inkontinencës te gratë në menopauzë është fshikëza e paqëndrueshme (hiperaktiviteti i detruzorit/inkontinencë urgjente), që rritet me moshën; inkontinenca nga stresi mbizotëron te gratë më të reja."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-052",
+    "question": "Shkaku me i shpeshte i abdomenit akut ne periudhen puerperale eshte:",
+    "answers": [
+      "sepsisi puerperal",
+      "apendisiti",
+      "volvulusi",
+      "divertikuli i Meckel",
+      "kolecistiti"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i abdomenit akut në periudhën e lehonisë është sepsa puerperale (endometrit, pelviperitonit), sidomos pas cezariane."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-053",
+    "question": "Cila prej substancave te marra nga nena gjate shtatzenise shoqerohet me anomali fetale dhe neonatale me demtime vaskulare:",
+    "answers": [
+      "duhani",
+      "alkooli",
+      "substancat narkotike",
+      "anfetaminat",
+      "kokaina"
+    ],
+    "correct": 4,
+    "explanation": "Kokaina (vazokonstriksion i fuqishëm) shkakton anomali dhe dëmtime vaskulare fetale: shkëputje placente, infarkte cerebrale fetale, defekte nga dëmtimi vaskular (atrezi intestinale, defekte gjymtyrësh)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-054",
+    "question": "Cila prej prezantimeve te meposhtme eshte indikacion absolut per sectio cesareo:",
+    "answers": [
+      "prezantimi me fytyre",
+      "prezantimi frontal",
+      "prezantimi podalik",
+      "te tera pergjigjet jane te sakta",
+      "asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Prezantimi i ballit (frontal) persistent me fetus në term është indikacion absolut për cezariane; prezantimi i fytyrës mento-anterior dhe podaliku mund të lindin vaginalisht në kushte të caktuara."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-055",
+    "question": "Korpusi albikant eshte:",
+    "answers": [
+      "folikul atrezik",
+      "folikul i Graaf",
+      "folikul primordial",
+      "nje rrejdhoje cikatriciale e korpusit luteum",
+      "asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Korpusi albikans është cikatrica fibroze e bardhë që mbetet pas regresit të korpusit luteum (kur nuk ka fertilizim)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-056",
+    "question": "Defekti me i shpeshte ne sindrome adrenogjenitale eshte:",
+    "answers": [
+      "idiopatik",
+      "deficiti i 11-hidroksilazes",
+      "deficiti i 17-hidroksilazes",
+      "deficiti i 21-hidroksilazes",
+      "deficiti i 3 01-dehidrogjenazes"
+    ],
+    "correct": 3,
+    "explanation": "Defekti më i shpeshtë në sindromën adrenogjenitale (hiperplazi kongjenitale e surrenaleve) është deficiti i 21-hidroksilazës (~90–95%)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-057",
+    "question": "Te tera medikamentet e meposhtme shoqerohen me anomali fetale kongjenitale, me perjashtim te njeres:",
+    "answers": [
+      "tetraciklina",
+      "talidomidi",
+      "litiumi",
+      "sulfamidet",
+      "kumarina"
+    ],
+    "correct": 3,
+    "explanation": "Teratogjenë të njohur: talidomidi (fokomeli), tetraciklinat (dhëmbë/kocka), litiumi (anomali Ebstein), kumarinat (embriopati warfarinike). Sulfamidet nuk janë teratogjene (rrezik kernikterusi pranë lindjes)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-058",
+    "question": "Plakja gjenitale femerore:",
+    "answers": [
+      "nuk modifikon kapacitetin orgazmik te gruas",
+      "ekzalton kapacitetin orgazmik te gruas",
+      "mund te shkaktojne involucion deri ne 50% te muskulatures se lemuar te trupave kavernoze",
+      "perkeqesohet nga mungesa e hormoneve te tiroides",
+      "pershpejtohet nga dietat drastike"
+    ],
+    "correct": 2,
+    "explanation": "Plakja gjenitale femërore (mungesa e estrogjeneve dhe androgjeneve) mund të shkaktojë involucion të deri ~50% të muskulaturës së lëmuar të trupave kavernozë klitoridianë dhe ulje të kapacitetit orgazmik."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-059",
+    "question": "Cila prej situatave te meposhtme perfaqeson nje avantazh te ekzaminimit te vileve korionike mbi amniocentezen, per percaktimin e anomalive fetale:",
+    "answers": [
+      "mund te kryhet me perpara gjate shtatzenise",
+      "mund te percaktoje me sakte defektet e tubit neural",
+      "ka nje mundesi me te ulet per te provokuar abort",
+      "aborti kryhet njekohesisht me ekzaminimin",
+      "asnjera prej pergjigjeve"
+    ],
+    "correct": 0,
+    "explanation": "Biopsia e vileve korionike mund të bëhet më herët (java 10–13) se amniocenteza (java 15–18), duke lejuar diagnozë të hershme; nuk diagnostikon defektet e tubit neural dhe ka rrezik aborti pak më të lartë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-060",
+    "question": "Cili prej tumoreve te meposhtem eshte pergjegjes per numrin me te madh te vdekjeve ne vit:",
+    "answers": [
+      "endometrial",
+      "mamar",
+      "pulmonar",
+      "intestinal (koloni)",
+      "cervikal"
+    ],
+    "correct": 2,
+    "explanation": "Kanceri i mushkërisë shkakton numrin më të madh të vdekjeve nga kanceri në vit (edhe te gratë në shumë vende, ka kaluar kancerin e gjirit)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-061",
+    "question": "Terapia e rrezikut te abortit bazohet normalisht mbi perdorimin e terapive te meposhtme, me perjashtim te:",
+    "answers": [
+      "antibiotikoterapise",
+      "progesteronikeve",
+      "beta-stimulueseve",
+      "antispastikeve",
+      "regjimit te shtratit"
+    ],
+    "correct": 0,
+    "explanation": "Kërcënimi i abortit trajtohet me pushim, progestinë (në raste të caktuara), tokolitikë/antispastikë; antibiotikët nuk janë terapi rutinë (vetëm në infeksion)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-062",
+    "question": "Cila prej ekzaminimeve diagnostike te meposhtme eshte me i besueshem per diagnostikimin e gravidances ektopike:",
+    "answers": [
+      "kuldocenteza",
+      "biospia endometriale",
+      "laparoskopia",
+      "dozimet seriale te hCG",
+      "roentgenografia direkte e rajonit pelvik"
+    ],
+    "correct": 2,
+    "explanation": "Laparoskopia është metoda më e besueshme (standardi i artë) për diagnozën e shtatzënisë ektopike. Në praktikë diagnoza bëhet me ekografi transvaginale + beta-hCG serike, dhe laparoskopia bëhet kur ka dyshim ose për trajtim."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-063",
+    "question": "Nivelet materne jonormale te alfafetoproteines lidhen me te tera patologjite e meposhtme, me perjashtim te:",
+    "answers": [
+      "semundjes hepatike materne",
+      "gravidances multiple",
+      "vdekjes fetale intrauterine",
+      "nefrozes kongjenitale fetale",
+      "hidrocefalise fetale"
+    ],
+    "correct": 4,
+    "explanation": "AFP materne anormale shoqërohet me defekte të hapura (tubi neural, muri abdominal), shtatzëni të shumëfishtë, vdekje fetale, nefrozë kongjenitale, sëmundje hepatike materne. Hidrocefalia e izoluar (defekt i mbyllur) nuk e ndryshon AFP-në."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-064",
+    "question": "Perforacioni i uterusit gjate eksplorimit instrumental te kavitetit uterin ndodh shpesh ne:",
+    "answers": [
+      "te tera rastet e meposhtme",
+      "retroversofleksionin uterin",
+      "antifleksionin rigid",
+      "neoplazine malinje te uterusit",
+      "nje rast me sectio cesareo gjate koheve te fundit"
+    ],
+    "correct": 0,
+    "explanation": "Perforimi uterin gjatë kyretazhit/histeroskopisë favorizohet nga uterusi retrovertoflektuar ose antefleksion i fortë, neoplazitë që dobësojnë murin, cikatrica e cezarianes së fundit, shtatzënia dhe lehonia."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-065",
+    "question": "Te tera vlerat e meposhtme fiziologjike ose laboratorike reduktohen ne trimestrin e dyte te nje shtatzenie normale, me perjashtim te:",
+    "answers": [
+      "frekuences kardiake",
+      "hematokritit",
+      "shpejtesise se eritrosedimentimit",
+      "natremise",
+      "vellimit respirator te imet"
+    ],
+    "correct": 1,
+    "explanation": "Në trimestrin e dytë hematokriti ulet (hemodilucion — vëllimi plazmatik rritet më shumë se masa eritrocitare). Në të kundërt rriten frekuenca kardiake, ERS dhe vëllimi respirator në minutë; natremia ulet pak. (Pyetja duket të kërkojë parametrin që sillet ndryshe.)"
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-066",
+    "question": "Trajtimi i hipertensionit gestacional kryhet me te tera terapite e meposhtme, me perjashtim te njerit:",
+    "answers": [
+      "antagonisteve te kalciumit",
+      "antikonvulsivanteve",
+      "sulfatit te magnezit",
+      "diuretikeve",
+      "induktimit te lindjes ose sectio cesareo"
+    ],
+    "correct": 3,
+    "explanation": "Hipertensioni gestacional trajtohet me antihipertensivë (labetalol, nifedipinë, metildopa), sulfat magnezi (parandalim i eklampsisë) dhe lindje (induksion/cezariane) në kohën e duhur. Diuretikët nuk përdoren (ulin vëllimin plazmatik)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-067",
+    "question": "Cila eshte simptoma specifike e periudhes klimaterike:",
+    "answers": [
+      "djersitjet nokturne",
+      "pagjumesia",
+      "renia ne peshe",
+      "frakturat",
+      "rritja ne peshe"
+    ],
+    "correct": 0,
+    "explanation": "Simptomat specifike të klimakterit janë simptomat vazomotore: valët e nxehtësisë dhe djersitjet nokturne (nga mungesa e estrogjeneve). Pagjumësia dhe ndryshimet e peshës janë jospecifike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-068",
+    "question": "Te tera prezantimet e meposhtme jane prezantime cefalike, me perjashtim te prezantimit me:",
+    "answers": [
+      "verteks",
+      "bregme",
+      "balle",
+      "akromion",
+      "fytyre"
+    ],
+    "correct": 3,
+    "explanation": "Prezantimet cefalike: verteks (kulmi), bregma, ballë (frontal), fytyrë. Prezantimi i akromionit (shpatullës) është prezantim i situatës tërthore."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-069",
+    "question": "Pasi te jete identifikuar nje fetus ne risk ne nje shtatzeni qe e ka kaluar termen, trajtimi me i sakte eshte:",
+    "answers": [
+      "amniocenteza per vleresimin e pjekurise pulmonare",
+      "lindja, pavaresisht nga gjendja e cerviksit",
+      "vleresimi i pH nga skalpi fetal",
+      "matja e somatomamotropines korionike humane",
+      "perseritja e vleresimit te mireqenies fetale pas nje jave"
+    ],
+    "correct": 1,
+    "explanation": "Kur në shtatzëninë e zgjatur (post-term) identifikohet fetus në rrezik (testime jo të mira të mirëqenies), indikohet lindja (induksion ose cezariane), pavarësisht gjendjes së qafës së mitrës."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-070",
+    "question": "Te nje grua shtatzene, diagnoza e hepatitit mund te vertetohet nga prania e nivelit te rritur te:",
+    "answers": [
+      "VES",
+      "fosfatazes alkaline",
+      "leukocitozes",
+      "SGOT",
+      "BUN"
+    ],
+    "correct": 3,
+    "explanation": "Në shtatzëni hepatiti vërtetohet nga rritja e transaminazave (SGOT/AST, SGPT/ALT). Fosfataza alkaline rritet fiziologjikisht (origjinë placentare), ERS dhe leukocitet janë fiziologjikisht të rritura."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-071",
+    "question": "Cila prej pohimeve te meposhtme mbi leiomimat uterine eshte e sakte:",
+    "answers": [
+      "jane indikacioni me i shpeshte per kryerjen e histerektomise",
+      "transformimi malinj ndodh ne rreth 20% te rasteve",
+      "kane prirje te regredojne gjate shtatzenise",
+      "nuk shkaktojne infertilitet",
+      "kontraceptivet orale perfaqesojne linjen e pare te trajtimit per reduktimin e madhesise se tyre"
+    ],
+    "correct": 0,
+    "explanation": "Leiomiomat uterine janë tumoret më të shpeshta pelvike te gratë dhe indikacioni më i shpeshtë për histerektomi. Malinjizimi (leiomiosarkoma) është shumë i rrallë (<0,5%); në shtatzëni priren të rriten; mund të shkaktojnë infertilitet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-072",
+    "question": "Cila prej te meposhtmeve nuk eshte karakteristike e hiperemesis gravidarum:",
+    "answers": [
+      "hipokalemia",
+      "renia ne peshe",
+      "ketonemia",
+      "nauzeja dhe te vjellat",
+      "acidoza metabolike"
+    ],
+    "correct": 4,
+    "explanation": "Hiperemeza gravidarum (të vjella të pakontrollueshme) jep rënie në peshë, ketonemi/ketonuri, dehidratim, hipokalemi dhe alkalozë metabolike hipokloremike (humbje HCl), jo acidozë metabolike tipike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-073",
+    "question": "Nje grua ka nauze dhe te vjella te patrajtueshme gjate trimestrit te pare te shtatzenise, qe shkakton renie te lehte ne peshe dhe kerkon nje shtrim ne spital per shkak te anomalive elektrolitike dhe te paaftesise per ta mbajtur ushqimin. Cili prej pohimeve te meposhtme ka me shume mundesi te jete i vertete:",
+    "answers": [
+      "gruaja eshte mbi 35 vjeç",
+      "gruaja ka femije te tjere",
+      "gruaja ka shume probleme te tjera sociale",
+      "gruaja nuk i pergjigjet kritereve te ngushta te hiperemesis gravidarum",
+      "gruaja ka koriokarcinome malinje"
+    ],
+    "correct": 2,
+    "explanation": "Hiperemeza gravidarum lidhet edhe me faktorë psikosocialë (stres, probleme sociale/familjare). Faktorë biologjikë: hCG e lartë (shtatzëni binjake, molë hidatiforme), primigraviditet, moshë e re."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-074",
+    "question": "Nje primigravide 24-vjeçare, shtatzene me 2 binjake ne javen e 11-te te shtatzenise, ankohet per nauze dhe te vjella me intensitet modest, qe jane me te forta ne mengjes. Ka tentuar terapi jofarmakologjike, te cilat kane pasur efikasitet te pakte. Ka tentuar te pije sasi te vogla lengjesh here pas here per te minimizuar te vjellat. Cila do te ishte gjendja karakteristike e saj:",
+    "answers": [
+      "trombocitopeni",
+      "hiperkalemi",
+      "anemi",
+      "alkaloze",
+      "reaksion leukomoid"
+    ],
+    "correct": 3,
+    "explanation": "Të vjellat e përsëritura në shtatzëni (edhe me intensitet modest, sidomos në binjakë me hCG të lartë) shkaktojnë humbje të HCl dhe K+ → alkalozë metabolike hipokloremike me hipokalemi."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-075",
+    "question": "Shtimi mesatar matern ne peshe gjate shtatzenise fiziologjike eshte:",
+    "answers": [
+      "8.0 kg",
+      "6 kg",
+      "12.5 kg",
+      "20 kg",
+      "16 kg"
+    ],
+    "correct": 2,
+    "explanation": "Shtimi mesatar në peshë gjatë shtatzënisë fiziologjike është rreth 11–12,5 kg (te gratë me BMI normal 11,5–16 kg)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-076",
+    "question": "Per cilen prej semundjeve te meposhtme eshte karakteristik transformimi mikropolikistik i vezores:",
+    "answers": [
+      "sindroma Morris",
+      "semundja Turner",
+      "skleroza tuberoze",
+      "semundja Stein-Leventhal",
+      "pseudohermafroditizmi femeror"
+    ],
+    "correct": 3,
+    "explanation": "Transformimi mikropolikistik i vezoreve (shumë folikuj të vegjël periferikë, stromë e trashë) është karakteristik për sindromën Stein-Leventhal (vezoret polikistike)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-077",
+    "question": "Nje gruaje 27-vjeçare i eshte marre gjak ne javen e 16-te te shtatzenise. Gjaku dergohet per kontroll te alfa-fetoproteines ne gjakun matern. Rezulton nje nivel i ulet pozitiv. Me cilen prej diagnozave te meposhtme lidhet ky rezultat:",
+    "answers": [
+      "spina bifida",
+      "anencefali",
+      "45X",
+      "trimozia e kromozomit 21",
+      "omfalocela"
+    ],
+    "correct": 3,
+    "explanation": "AFP serike materne e ulët në javën 15–20 shoqërohet me trisominë 21 (sindroma Down) dhe trisominë 18; AFP e rritur shoqërohet me defektet e tubit neural dhe të murit abdominal."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-078",
+    "question": "Ndodhja e ciklit menstrual varet nga:",
+    "answers": [
+      "sekretimi i prolaktines nga hipofiza anteriore",
+      "sekretimi pulsues i hormonit stimulues te sekretimit te gonadotropinave (GnRH)",
+      "nga kohezgjatja e luhatshme e fazes folikulare",
+      "nga sinteza e progesteronit ne korpus luteum",
+      "nga sekretimi ovarian i estrogjeneve"
+    ],
+    "correct": 1,
+    "explanation": "Cikli menstrual varet nga sekretimi pulsatil i GnRH nga hipotalamusi, që rregullon FSH/LH; sekretimi i vazhdueshëm (jo pulsatil) i GnRH e frenon boshtin (prandaj analogët GnRH përdoren për supresion)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-079",
+    "question": "Cili eshte medikamenti me i pershtatshem per nje vaginit nga trikomonasi:",
+    "answers": [
+      "metronidazoli",
+      "mikonazoli",
+      "dienestroli",
+      "sulfisoksazoli",
+      "deoksiciklina"
+    ],
+    "correct": 0,
+    "explanation": "Vaginiti nga Trichomonas vaginalis trajtohet me metronidazol (ose tinidazol) oral, me trajtim njëkohës të partnerit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-080",
+    "question": "Nje grua 25-vjeçare, primipare ne javen e 13-te te shtatzenise, ankohet per hemorragji vaginale. Gjate ekzaminimit objektiv ka nje presion arterial 160/95 mmHg, proteinuri 3+ dhe nje fundus uteri ne nivelin e umbilikusit. Cila prej te meposhtmeve eshte diagnoza me e mundshme:",
+    "answers": [
+      "diabet gestacional",
+      "gravidanza gemelare",
+      "anencefali fetale",
+      "abort i paevitueshem",
+      "gravidance molare"
+    ],
+    "correct": 4,
+    "explanation": "Hipertension dhe proteinuri (preeklampsi) para javës së 20-të, uterus më i madh se mosha gestacionale dhe gjakderdhje vaginale = molë hidatiforme (gravidancë molare); konfirmohet me beta-hCG shumë të lartë dhe ekografi."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-081",
+    "question": "Maturimi i spermatozoideve ndodh ne:",
+    "answers": [
+      "epididimus",
+      "tubujt seminifere",
+      "kanalin vaginal",
+      "duktusin deferent",
+      "kontakt me ovocitin"
+    ],
+    "correct": 0,
+    "explanation": "Spermatozoidet formohen në tubujt seminiferë, por maturohen (fitojnë lëvizshmëri dhe aftësi fertilizuese) gjatë kalimit në epididim; kapacitimi përfundon në traktin gjenital femëror."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-082",
+    "question": "Rruga me e shpeshte e difuzionit te neoplazive ovariane eshte/jane:",
+    "answers": [
+      "venat ovariane",
+      "enet limfatike te venes ovariane",
+      "enet limfatike pelvike",
+      "ekstensioni lokal",
+      "diseminimi endoperitoneal"
+    ],
+    "correct": 4,
+    "explanation": "Neoplazitë ovariane (sidomos epiteliale) përhapen më shpesh me diseminim endoperitoneal (implante në peritoneum, omentum, diafragmë, ascit), pastaj me rrugë limfatike (nyjet paraaortike dhe pelvike)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-083",
+    "question": "Cilat jane shenjat dhe/ose simptomat themelore te preeklampsise:",
+    "answers": [
+      "hipertensioni dhe skotomat",
+      "hipertensioni dhe edemat",
+      "hipertensioni, cefalea, konvulsionet",
+      "hipertensioni dhe proteinuria",
+      "asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Preeklampsia përkufizohet nga hipertensioni (≥140/90 mmHg pas javës 20) + proteinuria (≥300 mg/24h) ose shenja të dëmtimit të organeve; edemat nuk janë më kriter."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-084",
+    "question": "Pilula estro-progestinike vepron kryesisht (me qellim kontraceptiv) ne:",
+    "answers": [
+      "hipofize",
+      "tube",
+      "collus uteri",
+      "vezore",
+      "mbiveshkore"
+    ],
+    "correct": 0,
+    "explanation": "Kontraceptivët estro-progestinikë veprojnë kryesisht duke frenuar boshtin hipotalamo-hipofizar (feedback negativ mbi GnRH, LH, FSH) → frenim i ovulacionit; plus efekte në mukusin cervikal dhe endometër."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-085",
+    "question": "Prolapsi i kordonit umbilikal mund te shkaktohet nga :",
+    "answers": [
+      "asnje prej pergjigjeve",
+      "prezantimeve anormale",
+      "disproporcioneve fetus-pelvis",
+      "gjatesise se madhe (mbi 75 cm)",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Prolapsi i kordonit favorizohet nga prezantimet anormale (podalike, tërthore), disproporcioni feto-pelvik (pjesa paraqitëse nuk \"mbyll\" legenin), kordoni shumë i gjatë, polihidramniosi, ruptura e membranave me pjesë paraqitëse të lartë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-086",
+    "question": "Te tera pohimet e meposhtme mbi karcinomen in situ te cerviksit jane te sakta me perjashtim te njeres:",
+    "answers": [
+      "ka prekje te te tere trashesise se epitelit skuamoz",
+      "ka qeliza qe ngjasojne me ato te nje karcinome invazive",
+      "ka shenje per invazion stromal",
+      "ka humbje te plote te stratifikimit",
+      "ka regresioni dhe zhdukje okazionale"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma in situ e cerviksit (CIN3) prek gjithë trashësinë e epitelit me qeliza atipike dhe humbje të stratifikimit, por pa invazion stromal (membrana bazale e paprekur); mund edhe të regresojë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-087",
+    "question": "Metoda me e mire per te identifikuar placenten previa eshte:",
+    "answers": [
+      "ekografia",
+      "amniografia",
+      "ekzaminimi gjinekologjik",
+      "arteriografia selektive e arterieve uterine",
+      "radiografia e pelvisit"
+    ],
+    "correct": 0,
+    "explanation": "Ekografia (sidomos transvaginale) është metoda më e mirë dhe e sigurt për diagnozën dhe lokalizimin e placentës previa; ekzaminimi vaginal digjital kundërindikohet (rrezik hemorragjie)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-088",
+    "question": "Çrregullimet neurologjike, alterimet okulare, hidrocefalia dhe kalcifikimet cerebrale karakterizojne formen kongjenitale te:",
+    "answers": [
+      "gonorrese",
+      "toksoplazmozes",
+      "semundjes nga citomegalovirusi",
+      "sifilizit",
+      "leishmaniozes"
+    ],
+    "correct": 1,
+    "explanation": "Toksoplazmoza kongjenitale jep triadën klasike: korioretinit, hidrocefali dhe kalcifikime intrakraniale difuze, me konvulsione/çrregullime neurologjike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-089",
+    "question": "Cila prej karakteristikave te meposhtme nuk eshte element i treguesit te Apgar:",
+    "answers": [
+      "ngjyra e lekures",
+      "tonusi muskulor",
+      "temperatura trupore",
+      "frekuenca kardiake",
+      "impenjimi respirator"
+    ],
+    "correct": 2,
+    "explanation": "Pikët Apgar (në minutën 1 dhe 5) vlerësojnë: ngjyrën e lëkurës, frekuencën kardiake, reaktivitetin/refleksin, tonusin muskular dhe përpjekjen respiratore. Temperatura nuk përfshihet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-090",
+    "question": "Hormoni hipokalcemiant eshte:",
+    "answers": [
+      "kalcitonina",
+      "parathormoni",
+      "kortizoni",
+      "TSH",
+      "MSH"
+    ],
+    "correct": 0,
+    "explanation": "Kalcitonina (nga qelizat C të tiroides) është hormon hipokalcemiant: frenon osteoklastet dhe rrit ekskretimin renal të kalciumit. PTH është hiperkalcemiant."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-091",
+    "question": "Indikacioni me i rendesishem per kirurgjine rindertuese te uterusit dopio eshte:",
+    "answers": [
+      "aborti abitual",
+      "dismenorrea",
+      "menometrorragjia",
+      "dispareunia",
+      "lindja e parakohshme"
+    ],
+    "correct": 0,
+    "explanation": "Indikacioni kryesor për metroplastikë (rindërtim i uterusit dopio/septat) është aborti i përsëritur (habitual) dhe humbjet obstetrike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-092",
+    "question": "Cila prej patologjive te meposhtme shoqerohet me shpesh me oligohidramnios:",
+    "answers": [
+      "agenezia renale",
+      "atrezia duodenale",
+      "hidropsi fetal",
+      "anencefalia",
+      "gravidanza multiple"
+    ],
+    "correct": 0,
+    "explanation": "Oligohidramniosi lidhet me agjenezinë renale bilaterale (sindroma Potter), obstruksionet urinare, ruptura e membranave, insuficienca placentare. Atrezia duodenale dhe anencefalia japin polihidramnios."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-093",
+    "question": "Dismenorrea primare shkaktohet nga kontraktime uterine qe lindin nga sekretimi i prostaglandinave ne endometer. Masat farmakologjike per kontrollin e dhembjes perfshijne te tere medikamentet e meposhtme, perveç:",
+    "answers": [
+      "ibuprofenit",
+      "etenil estradiolit me noretindron",
+      "bromkriptines",
+      "indometacines",
+      "acidit mefenamik"
+    ],
+    "correct": 2,
+    "explanation": "Dismenorrea primare trajtohet me FANS (ibuprofen, indometacinë, acid mefenamik — frenues të prostaglandinave) dhe kontraceptivë oralë (frenojnë ovulacionin dhe trashësinë e endometrit). Bromokriptina nuk ka rol."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-094",
+    "question": "Perqendrimi i fibrinogjenit ne gjakun matern gjate shtatzenise:",
+    "answers": [
+      "ulet shume",
+      "ulet ne menyre te moderuar",
+      "mbetet i pandryshuar",
+      "rritet shume",
+      "rritet ne menyre te moderuar"
+    ],
+    "correct": 4,
+    "explanation": "Në shtatzëni fibrinogjeni rritet (rreth 50%, nga ~3 në ~4,5–6 g/L) — pjesë e gjendjes fiziologjike hiperkoagulabile; rritje e moderuar."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-095",
+    "question": "Çfare kuptohet me impenjim te pjeses se prezantuar:",
+    "answers": [
+      "koha gjate se ciles koka e fetusit kalon planin e ngushtices superiore",
+      "kalimi i pjeses se prezantuar te ngushtices superiore",
+      "koha gjate se ciles ndodh kalimi i perimetrit me te madh te pjeses se prezantuar permes planit te ngushtices superiore",
+      "kalimi i kokes pertej planit te ngushtices superiore",
+      "kalimi i pjeses se prezantuar pertej ngushtices inferiore"
+    ],
+    "correct": 2,
+    "explanation": "Angazhimi (impenjimi) i pjesës paraqitëse = kur perimetri/diametri më i madh i saj (për kokën: biparietal) kalon planin e ngushtimit të sipërm të legenit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-096",
+    "question": "Nje grua 24-vjeçare ka amenorre dytesore dhe nje test shtatzenie negativ. Nese administrimi i progesteronit nuk provokon gjakosje uterine, cila prej te meposhtmeve mund te jete nje mundesi e logjikshme diagnostike:",
+    "answers": [
+      "sindroma e ovarit polikistik",
+      "gravidanca ektopike",
+      "sindroma Turner",
+      "insuficienca ovariane premature",
+      "hipertiroidizmi"
+    ],
+    "correct": 3,
+    "explanation": "Amenorre sekondare me test negativ me progesteron (pa gjakderdhje) tregon mungesë estrogjeni (hipogonadizëm) ose defekt endometrial/obstruktiv; te e reja një shkak i mundshëm është insuficienca ovariane e parakohshme (FSH e lartë). PCOS zakonisht jep gjakderdhje pas progesteronit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-097",
+    "question": "Çfare eshte “Testi Post Koital”:",
+    "answers": [
+      "testi i sieropozitivitetit postkoital",
+      "testi i shtatzenise qe kryhet nepermjet vleresimit te niveleve te hCG",
+      "percaktimi i perqendrimit te spermatozoideve me levizshmeri lineare normale ne mukusin cervikal postkoital",
+      "elektromiografia postorgazmike",
+      "nuk ekziston"
+    ],
+    "correct": 2,
+    "explanation": "Testi postkoital (Sims-Huhner) vlerëson numrin e spermatozoideve me lëvizshmëri progresive në mukusin cervikal disa orë pas marrëdhënies, në periudhën periovulatore — studion ndërveprimin mukus-spermë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-098",
+    "question": "Cili hormon stimulon maturimin e folikulit ovarian:",
+    "answers": [
+      "FSH",
+      "LH",
+      "estrogjeni",
+      "progesteroni",
+      "testosteroni"
+    ],
+    "correct": 0,
+    "explanation": "FSH stimulon rritjen dhe maturimin e folikujve ovarianë (proliferim i qelizave të granulozës, aromatizim); piku i LH shkakton ovulacionin."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-099",
+    "question": "Çfare eshte onfalocela:",
+    "answers": [
+      "hernie cerebrale",
+      "aplazi e paretit abdominal te rajonit umbilikal",
+      "hernie inguinale kongjenitale",
+      "divertikul",
+      "hernie krurale"
+    ],
+    "correct": 1,
+    "explanation": "Omfalocela = defekt i murit abdominal në unazën umbilikale me herniim të organeve abdominale të mbuluara me membranë (peritoneum + amnion); shoqërohet shpesh me anomali kromozomike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-100",
+    "question": "Per cilin tumor eshte me i pershtatshem markuesi serik CA 125:",
+    "answers": [
+      "tumorin e sinusit endometrial",
+      "tumorin e granulozes-tekes se ovarit",
+      "kistadenokarcinomen seroze",
+      "tumorin e qelizave Sertoli-Leydig",
+      "koriokarcinomen"
+    ],
+    "correct": 2,
+    "explanation": "CA-125 është markuesi kryesor për tumoret epiteliale të ovarit, sidomos kistadenokarcinomën seroze. AFP – tumori i sinusit endodermal; hCG – koriokarcinoma; inhibina – tumoret e granulozës."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-101",
+    "question": "Cili eshte diametri me i madh i kokes se fetusit:",
+    "answers": [
+      "diametri biparietal",
+      "diametri bitemporal",
+      "diametri suboksipito-bregmatik",
+      "diametri verteks-mjeker",
+      "diametri oksipito-frontal"
+    ],
+    "correct": 3,
+    "explanation": "Diametri më i madh i kokës fetale është ai verteks-mjekër (mento-okcipital/occipitomental ~13,5 cm), që paraqitet në prezantimin e ballit dhe e bën lindjen vaginale të pamundur."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-102",
+    "question": "Shkaku me i shpeshte i vdekjes se grave qe shfaqin eklampsi eshte:",
+    "answers": [
+      "ruptura e heparit",
+      "insuficienca renale akute",
+      "hemorragjia cerebrale",
+      "embolia pulmonare",
+      "shoku septik"
+    ],
+    "correct": 2,
+    "explanation": "Shkaku më i shpeshtë i vdekjes nga eklampsia është hemorragjia cerebrale (iktus hemorragjik), pastaj edema pulmonare, insuficienca renale, HELLP/ruptura hepatike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-103",
+    "question": "Te nje grua 23-vjeçare e martuar pak kohe me pare eshte gjetur ne menyre te perseritur nje presion arterial 145/95 mmHg. Anamneza tregon qe pin nje pakete cigare ne dite, por nuk ka anamneze familjare per hipertension. Ekzaminimi objektiv eshte negativ. Eshte duke perdorur kontraceptive trifazike orale. Cili eshte shkaku me i mundshem i hipertensionit te kjo grua:",
+    "answers": [
+      "hipertensioni esencial",
+      "sindroma Turner",
+      "hiperplazia fibromuskulore e arteries renale",
+      "feokromocitoma",
+      "etiologjia jatrogjene"
+    ],
+    "correct": 4,
+    "explanation": "Hipertensioni te gruaja e re duhanpirëse që përdor kontraceptivë oralë pa histori familjare është më shpesh iatrogjen (nga estrogjenet, aktivizim i angiotensinogjenit); zakonisht zhduket pas ndërprerjes."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-104",
+    "question": "Ne rast perforimi te uterusit gjate ekzaminimit instrumental te kavitetit uterin duhet:",
+    "answers": [
+      "te vazhdohet manovra diagnostike",
+      "te vazhdohet me histerektomi te menjehershme",
+      "te kryhet nje laparotomi eksplorative",
+      "te kryhet ekografia urgjente",
+      "te nderpritet ekzaminimi dhe te fillohet terapia antibiotike"
+    ],
+    "correct": 4,
+    "explanation": "Në perforim uterin gjatë manovrës instrumentale, ekzaminimi ndërpritet menjëherë, pacientja vëzhgohet dhe jepet antibiotikoterapi; laparotomia/laparoskopia vetëm nëse ka hemorragji, dëmtim viscerash ose përkeqësim."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-105",
+    "question": "Cila prej pohimeve te meposhtme mbi fibroadenomen e sinusit eshte e sakte:",
+    "answers": [
+      "eshte e fortme dhe e levizshme",
+      "kthehet ne malinje ne 5% te rasteve",
+      "pergjithesisht eshte e lokalizuar ne pjesen inferiore te sinusit",
+      "zakonisht paraqet kalcifikime ne mamografi",
+      "eshte e dhembshme perpara menstruacioneve"
+    ],
+    "correct": 0,
+    "explanation": "Fibroadenoma e gjirit është e fortë-elastike, e lëvizshme (\"mi gjiri\"), me kufij të qartë, zakonisht e padhimbshme; malinjizimi është jashtëzakonisht i rrallë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-106",
+    "question": "Cili prej agjenteve infektive te meposhtem nuk shkakton keqformime embrio-fetale:",
+    "answers": [
+      "virusi i rozolise",
+      "herpesvirusi",
+      "toxoplasma gondii",
+      "gardnerella vaginalis",
+      "citomegalovirusi"
+    ],
+    "correct": 3,
+    "explanation": "Agjentët TORCH (toksoplazma, rubeola, CMV, herpes) shkaktojnë keqformime embrio-fetale. Gardnerella vaginalis (vaginoza bakteriale) lidhet me lindje të parakohshme, por jo me keqformime."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-107",
+    "question": "Cili prej te meposhtmeve nuk eshte nje test i zakonshem kontrolli ne nje shtatzeni fillestare pa nderlikime:",
+    "answers": [
+      "dozimet seriale te hCG",
+      "hemoglobina",
+      "testet imunologjike",
+      "Pap-testi",
+      "grupi i gjakut dhe faktori RH"
+    ],
+    "correct": 0,
+    "explanation": "Kontrollet rutinë në shtatzëninë e hershme të pakomplikuar: hemogramë, grupi i gjakut dhe Rh, Coombs indirekt, serologji (rubeolë, toksoplazmë, HIV, sifilis, HBsAg), Pap-test, urinë. Dozimet seriale të hCG bëhen vetëm në dyshim për ektopike/abort."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-108",
+    "question": "Vena ovariane dextra derdhet ne venen:",
+    "answers": [
+      "renale dextra",
+      "mezenterike inferiore",
+      "kava inferiore",
+      "iliake komune dextra",
+      "hipogastrike dextra"
+    ],
+    "correct": 2,
+    "explanation": "Vena ovariane e djathtë derdhet drejtpërdrejt në venën kava inferiore; e majta derdhet në venën renale të majtë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-109",
+    "question": "Cila prej te meposhtmeve nuk eshte nje pasoje e mundshme e diabetit ne shtatzeni:",
+    "answers": [
+      "aborti i trimestrit te pare",
+      "prapambetja e rritjes intrauterine",
+      "polihidramniosi",
+      "placenta previa",
+      "makrosomia fetale"
+    ],
+    "correct": 3,
+    "explanation": "Diabeti në shtatzëni shoqërohet me abort dhe keqformime (kontroll i dobët në periudhën e konceptimit), makrosomi, polihidramnios, vonesë rritjeje (vaskulopati), distoci të shpatullave. Placenta previa nuk lidhet me diabetin."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-110",
+    "question": "Te tera informacionet e meposhtme mbi endometriozen jane te verteta me perjashtim te njeres:",
+    "answers": [
+      "provokon insuficience renale",
+      "transformimet malinje jane te rralla",
+      "eshte me e shpeshte ne moshen fertile",
+      "grate e semura mund te paraqesin infertilitet",
+      "organi me i prekur eshte vezorja"
+    ],
+    "correct": 0,
+    "explanation": "Endometrioza prek gratë në moshë fertile, më shpesh vezoret, shkakton infertilitet; transformimi malinj është i rrallë. Nuk shkakton insuficiencë renale (përveç rasteve të rralla me obstruksion ureteral)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-111",
+    "question": "Gjate shtatzenise, fibromat uterine kane prirje qe:",
+    "answers": [
+      "te zvogelohen",
+      "te rriten",
+      "te mos ndryshojne",
+      "te kolikuojne",
+      "te kryejne transformim malinj"
+    ],
+    "correct": 1,
+    "explanation": "Gjatë shtatzënisë fibromat uterine kanë prirje të rriten (nga estrogjenet/progesteroni), sidomos në trimestrin e parë, dhe mund të pësojnë degjenerim të kuq (nekrozë) me dhimbje."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-112",
+    "question": "Cili prej hormoneve te meposhtem nuk derivon nga sinteza ose prodhimi placentar:",
+    "answers": [
+      "gonadotropina korionike humane",
+      "hormoni laktogjen placentar",
+      "prolaktina",
+      "progesteroni",
+      "estrioli"
+    ],
+    "correct": 2,
+    "explanation": "Placenta prodhon hCG, laktogjen placentar (hPL), progesteron dhe estrogjene (estrioli). Prolaktina prodhohet nga hipofiza anteriore materne (dhe decidua), jo nga placenta."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-113",
+    "question": "Cili eshte trajtimi me i mire per inkontinencen urinare nga paqendrueshmeria e detrusorit:",
+    "answers": [
+      "kolporrafia anteriore",
+      "nderhyrja fionde",
+      "farmakoterapia",
+      "te tera pergjigjet",
+      "rehabilitimi muskulor i dyshemese pelvike"
+    ],
+    "correct": 2,
+    "explanation": "Inkontinenca urinare nga hiperaktiviteti/paqëndrueshmëria e detruzorit trajtohet me farmakoterapi (antimuskarinikë, mirabegron) + trajnim të fshikëzës; kirurgjia (kolporafi, sling) është për inkontinencën nga stresi."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-114",
+    "question": "Diagnoza e ovulacionit mund te vendoset duke vezhguar:",
+    "answers": [
+      "modifikimet ciklike te mukusit cervikal",
+      "te tera pergjigjet",
+      "modifikimet ciklike te citologjise vaginale",
+      "modifikimet ciklike te temperatures bazale",
+      "modifikimet sekretore te endometrit"
+    ],
+    "correct": 1,
+    "explanation": "Ovulacioni mund të diagnostikohet nga ndryshimet ciklike të mukusit cervikal (spinnbarkeit, arborizim), të citologjisë vaginale, temperaturës bazale (rritje bifazike) dhe ndryshimet sekretore të endometrit (biopsi), si dhe nga progesteroni dhe ekografia."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-115",
+    "question": "Qelizat intersticiale te Leydig prodhojne:",
+    "answers": [
+      "spermatogjene",
+      "estrogjene",
+      "testosteron",
+      "mineralkortikoide",
+      "glukokortikoide"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat intersticiale Leydig të testikulit prodhojnë testosteron nën stimulin e LH-së; qelizat Sertoli mbështesin spermatogjenezën (FSH, inhibinë)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-116",
+    "question": "IVG brenda 90 diteve mund te kerkohet nga:",
+    "answers": [
+      "gruaja",
+      "partneri",
+      "mjeku kurues",
+      "mjeku gjinekolog",
+      "komiteti etik i struktures sanitare"
+    ],
+    "correct": 0,
+    "explanation": "Sipas legjislacionit (p.sh. ligji italian 194/78, i ngjashëm me atë shqiptar), ndërprerja vullnetare e shtatzënisë brenda 90 ditëve kërkohet nga vetë gruaja; partneri nuk ka të drejtë vendimi."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-117",
+    "question": "Nese nje homozigot normal çiftohet me nje homozigot per nje gjen recesiv, femijet do te jene:",
+    "answers": [
+      "te tere normale",
+      "te tere te semure",
+      "50% normale",
+      "75% normale",
+      "25% normale"
+    ],
+    "correct": 0,
+    "explanation": "AA × aa → të gjithë fëmijët Aa: heterozigotë, fenotipikisht normalë (bartës të gjenit recesiv)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-118",
+    "question": "Te tera patologjite e meposhtme kane nje incidence me te madhe gjate shtatzenise multiple, me perjashtim te njeres:",
+    "answers": [
+      "preeklampsia materne",
+      "mikrosomia fetale",
+      "atonia uterine postpartum",
+      "vasa previa",
+      "morbiditeti perinatal"
+    ],
+    "correct": 1,
+    "explanation": "Shtatzënitë e shumëfishta kanë më shpesh preeklampsi, atoni uterine postpartum (mbishtrirje), vasa previa (inserim velamentoz), morbiditet perinatal dhe vonesë rritjeje/peshë të ulët. \"mikrosomia\" (ka shumë mundësi \"makrosomia\" në origjinal) është përgjigjja — makrosomia nuk rritet te binjakët."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-119",
+    "question": "Me perjashtim te njerit, te tere faktoret e meposhtem jane prognostike per karcinomen e endometrit:",
+    "answers": [
+      "citologjia peritoneale",
+      "thellesia e invazionit miometrial",
+      "metastazat limfonodulare",
+      "mosha e pacientes",
+      "diferencimi histologjik"
+    ],
+    "correct": 3,
+    "explanation": "Faktorë prognostikë për karcinomën e endometrit: grada e diferencimit histologjik, thellësia e invazionit miometrial, metastazat limfonodulare, citologjia peritoneale, tipi histologjik. Mosha nuk konsiderohet faktor prognostik i pavarur në këtë listë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-120",
+    "question": "Cili eshte estrogjeni me i perdorur ne kontacepsionin hormonal:",
+    "answers": [
+      "etiniliestradioli",
+      "estron sulfati",
+      "estrioli",
+      "estradioli",
+      "raloksifeni"
+    ],
+    "correct": 0,
+    "explanation": "Estrogjeni më i përdorur në kontracepsionin hormonal është etinilestradioli (biodisponueshmëri e mirë orale); sot edhe estradioli valerat/estetroli në disa preparate."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-121",
+    "question": "Eklampsia karakterizohet nga:",
+    "answers": [
+      "cefale te lehta dhe tranzitore",
+      "hiperrefleksi",
+      "konvulsione te tipit gran mal",
+      "konvulsione te tipit te lehte",
+      "skotoma"
+    ],
+    "correct": 2,
+    "explanation": "Eklampsia përkufizohet nga shfaqja e konvulsioneve të gjeneralizuara toniko-klonike (tip grand mal) te gruaja me preeklampsi, që nuk mund t'u atribuohen shkaqeve të tjera."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-122",
+    "question": "Cili prej te meposhtmeve nuk shkak amenorreje:",
+    "answers": [
+      "sindroma Turner",
+      "diabeti mellitus",
+      "sindroma e ovarit polikistik",
+      "hiperplazia surrenaliene kongjenitale",
+      "hiperprolaktinemia"
+    ],
+    "correct": 1,
+    "explanation": "Amenorre japin sindroma Turner (insuficiencë ovariane), PCOS, hiperplazia kongjenitale surrenale, hiperprolaktinemia. Diabeti mellitus nuk konsiderohet shkak tipik i amenorresë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-123",
+    "question": "Cila prej patologjive te meposhtme nuk mund te diagnostikohet ne periudhen prenatale me teknikat e gjenetikes molekulare:",
+    "answers": [
+      "fenilketonuria",
+      "fibroza kistike",
+      "fibroza muskulare Duchenne",
+      "defektet e tubit neural",
+      "beta-talasemia"
+    ],
+    "correct": 3,
+    "explanation": "Defektet e tubit neural janë multifaktoriale dhe diagnostikohen prenatalisht me ekografi dhe AFP, jo me gjenetikë molekulare. Fenilketonuria, fibroza kistike, Duchenne dhe beta-talasemia diagnostikohen me analizë ADN-je."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-124",
+    "question": "Disfunksionet seksuale femerore prekin popullaten me prevalence:",
+    "answers": [
+      "45%",
+      "25%",
+      "10%",
+      "5%",
+      "nuk ekzistojne studime klinike dhe si rrjedhoje prevalenca nuk njihet"
+    ],
+    "correct": 0,
+    "explanation": "Studimet epidemiologjike (p.sh. Laumann, 1999) vlerësojnë prevalencën e disfunksioneve seksuale femërore rreth 40–45%."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-125",
+    "question": "Zhvillimi i klitorisit dhe i labra major te vagines mundesohet nga veprimi i:",
+    "answers": [
+      "estrogjeneve",
+      "progesteronikeve",
+      "androgjeneve",
+      "gonadotropinave",
+      "prolaktines"
+    ],
+    "correct": 2,
+    "explanation": "Zhvillimi i klitorisit dhe i labia majora (homologët e penisit dhe skrotumit) varet nga androgjenet; ekspozimi ndaj androgjeneve te fetusi femër jep klitoromegali dhe shkrirje labiale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-126",
+    "question": "Nje balerine 16-vjeçare, shume e dobet, ankohet per 6 muaj amenorre dhe ndjesi fryerje abdominale. Cila prej te meposhtmeve eshte diagnoza me e mundshme:",
+    "answers": [
+      "shtatzenia",
+      "sindroma premenstruale",
+      "depresioni",
+      "anoreksia nervore",
+      "hipotiroidizmi"
+    ],
+    "correct": 3,
+    "explanation": "Adoleshente balerinë shumë e dobët me amenorre 6-mujore = amenorre hipotalamike nga anoreksia nervore (rënie peshe, aktivitet fizik intensiv); fryrja abdominale nga ngadalësimi i tranzitit. Duhet përjashtuar shtatzënia."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-127",
+    "question": "Galaktocela eshte:",
+    "answers": [
+      "nje kist me retension qumeshti",
+      "nje granulome lipofagike",
+      "nje ektazi e duktuseve",
+      "nje forme mastiti kronik",
+      "nje nekroze mamare"
+    ],
+    "correct": 0,
+    "explanation": "Galaktocela është kist me retension qumështi (bllokim i duktusit gjatë laktacionit ose pas tij), që përmban material qumështor."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-128",
+    "question": "Cili eshte rezervuari natyror i toksoplazmes:",
+    "answers": [
+      "femijet ne moshe shkollore",
+      "ekskrementet e zogjve",
+      "peshqit e kontaminuar",
+      "macet",
+      "gjaku"
+    ],
+    "correct": 3,
+    "explanation": "Bujtësi përfundimtar dhe rezervuari natyral i Toxoplasma gondii janë macet (dhe felinët e tjerë), që eliminojnë oocistet me feçet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-129",
+    "question": "Te nje paciente me preeklampsi, cila prej anomalive te meposhtme ndeshet me shpesh gjate ekzaminimit te urines:",
+    "answers": [
+      "proteinuria",
+      "hematuria",
+      "glukozuria",
+      "ketonuria",
+      "asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Në preeklampsi anomalia urinare më e shpeshtë është proteinuria (≥300 mg/24 orë ose raport proteinë/kreatininë ≥0,3), nga dëmtimi endotelial glomerular (endotelioza)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-130",
+    "question": "Cili prej risqeve materne te meposhtme rritet gjate gravidances multiple:",
+    "answers": [
+      "infeksionet e rrugeve urinare",
+      "hipertensioni i induktuar nga shtatzenia",
+      "diabeti gestacional",
+      "nivelet e uleta te alfa-fetoproteines serike te nenes",
+      "moniliaza vaginale"
+    ],
+    "correct": 1,
+    "explanation": "Shtatzënia e shumëfishtë rrit rrezikun e hipertensionit të induktuar nga shtatzënia/preeklampsisë, anemisë, hemorragjisë postpartum, lindjes së parakohshme; AFP materne është e rritur."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-131",
+    "question": "Kisti Bartolini me absces duhet:",
+    "answers": [
+      "te asportohet me rruge kirurgjikale",
+      "te drenohet duket kryer nje marsupializim",
+      "te kurohet me bursa te ngrohta e te lageshta",
+      "te kurohet me antibiotike",
+      "te kontrollohet shpesh, pa kryer nderhyrje kirurgjikale"
+    ],
+    "correct": 1,
+    "explanation": "Abscesi i gjëndrës Bartholin trajtohet me drenim kirurgjikal, mundësisht me marsupializim (për të parandaluar recidivën) ose kateter Word; antibiotikët vetëm nuk mjaftojnë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-132",
+    "question": "Arborizimi si fier i mukusit endocervikal verehet:",
+    "answers": [
+      "ne shtatzeni",
+      "ne menopauze",
+      "ne fazen ovulatore",
+      "ne periudhen mestruale",
+      "ne rastet me hiperestrinizem"
+    ],
+    "correct": 2,
+    "explanation": "Arborizimi \"në fier\" i mukusit cervikal (kristalizim i NaCl) shihet në fazën periovulatore nën efektin e estrogjeneve të larta; zhduket në fazën luteale (progesteroni) dhe në shtatzëni."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-133",
+    "question": "Gjate javes se pare te puerperiumit, ne cilen perqindjen uterusi e humbet peshen e tij ne raport me periudhen menjehere postpartum:",
+    "answers": [
+      "5%",
+      "20%",
+      "50%",
+      "80%",
+      "90%"
+    ],
+    "correct": 2,
+    "explanation": "Involucioni uterin: pas lindjes uterusi peshon ~1000 g; në fund të javës së parë ~500 g (humbet ~50%), pas 6 javësh ~50–100 g."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-134",
+    "question": "Cilin aspekt histologjik merr me shpesh karcinoma e cerviksit uterin:",
+    "answers": [
+      "adenokarcinome",
+      "karcinome mukoepidermoidale",
+      "karcinome epidermoidale",
+      "koriokarcinome",
+      "kistosarkome filoide"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma e qafës së mitrës është më shpesh karcinomë skuamoze (epidermoide, ~75–80%), e lidhur me HPV; adenokarcinoma përbën ~20%."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-135",
+    "question": "Cili prej tumoreve ovariane te meposhtme, aktiv nga pikepamja endokrinologjike, shoqerohet me shpesh me pubertet te parakohshem te grate:",
+    "answers": [
+      "disgerminoma",
+      "ginandoblastoma",
+      "fibrotekoma",
+      "tumori i qelizave te granulozes-tekes",
+      "asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Tumori i qelizave të granulozës (granulozë-tekë) prodhon estrogjene dhe te vajzat shkakton pubertet të parakohshëm pseudo-precoce (periferik); te të moshuarat hiperplazi/karcinomë endometriale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-136",
+    "question": "Cili eshte lokalizimi me i shpeshte i implantimit te embrionit ne gravidancen ektopike:",
+    "answers": [
+      "vezorja",
+      "fundus uteri",
+      "peritoneumi",
+      "tuba",
+      "cerviksi uterin"
+    ],
+    "correct": 3,
+    "explanation": "Shtatzënia ektopike implantohet më shpesh (>95%) në tubë (sidomos në ampulë); më rrallë në vezore, abdomen, cerviks, cikatricë cezariane."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-137",
+    "question": "Miomat shoqerohen me te te tera patologjite klinike te meposhtme, perveç se me:",
+    "answers": [
+      "anemi",
+      "pielonefrit",
+      "poliakiuri",
+      "dismenorre",
+      "amenorre"
+    ],
+    "correct": 4,
+    "explanation": "Miomat japin menometrorragji (anemi), dismenorre, simptoma kompresive (poliakiuri, hidronefrozë/pielonefrit), infertilitet. Nuk shkaktojnë amenorre."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-138",
+    "question": "Amniocenteza per vleresimin e kariotipit fetal mund te kryhet:",
+    "answers": [
+      "ne javet 8-10",
+      "ne javet 10-12",
+      "ne javet 16-18",
+      "ne javet 22-24",
+      "ne çdo periudhe te shtatzenise"
+    ],
+    "correct": 2,
+    "explanation": "Amniocenteza për kariotipin fetal bëhet zakonisht në javët 15–18 (kur ka likid dhe qeliza të mjaftueshme); biopsia e vileve korionike në javët 10–13."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-139",
+    "question": "Te tera vlerat e meposhtme fiziologjike ose laboratorike pesojne luhatje ne trimestrin e dyte te nje shtatzenis normale, me perjashtim te:",
+    "answers": [
+      "frekuences kardiake",
+      "hematokritit",
+      "shpejtesise se eritrosedimentimit",
+      "natremise",
+      "vellimit respirator te imet"
+    ],
+    "correct": 3,
+    "explanation": "Në trimestrin e dytë ndryshojnë frekuenca kardiake (↑), hematokriti (↓ nga hemodilucioni), ERS (↑) dhe vëllimi respirator në minutë (↑). Natremia mbetet praktikisht e qëndrueshme (ulje e lehtë, brenda normës)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-140",
+    "question": "Hiperplazia glandulare kistike e endometrit shkaktohet nga:",
+    "answers": [
+      "nje stimulim estrogjenik i zgjatur",
+      "nje stimulim progestinik i zgjatur",
+      "nje endometrit",
+      "nje endometrioze",
+      "nje karcinome e portio uterina"
+    ],
+    "correct": 0,
+    "explanation": "Hiperplazia glandulare kistike e endometrit vjen nga stimulimi estrogjenik i zgjatur pa kundërpeshë progestinike (anovulacion, PCOS, obezitet, estrogjene ekzogjene, tumore estrogjenike)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-141",
+    "question": "Dismenorrea primare duket se shkaktohet nga kontraktimet uterine nga sekretimi i prostaglandinave nga ana e endometrit. Masat farmakologjike per kontrollin e dhembjes perfshijne perdorimin e te tera substancave te meposhtme, me perjashtim te:",
+    "answers": [
+      "ibuprofenit",
+      "etinil estraiolit me noretindron",
+      "bromkriptines",
+      "indometacines",
+      "acidit mefanamik"
+    ],
+    "correct": 2,
+    "explanation": "Dismenorrea primare trajtohet me FANS (ibuprofen, indometacinë, acid mefenamik) dhe kontraceptivë oralë kombinuar (etinilestradiol + noretindron). Bromokriptina (agonist dopaminergjik për hiperprolaktineminë) nuk ka rol."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-142",
+    "question": "Cili hormon korrelohet shume me trofizmin e organeve gjenitale femerore:",
+    "answers": [
+      "estradioli",
+      "testosteroni",
+      "DHEAS",
+      "delta4-androstenedioni",
+      "hormoni i rritjes"
+    ],
+    "correct": 0,
+    "explanation": "Estradioli (estrogjeni kryesor në moshë fertile) korrelon më shumë me trofizmin e organeve gjenitale femërore (epiteli vaginal, lubrifikimi, endometri); mungesa e tij në menopauzë jep atrofi."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-143",
+    "question": "Nje grua 24-vjeçare ankohet per sekrecione vaginale te bezdisshme dhe me prurit. Nje strisho e sekrecioneve vaginale tregon nje protozoo shume te levizshem. Cilet prej agjenteve farmakologjike te meposhtem do te ishte trajtimi me i pershtatshem:",
+    "answers": [
+      "metronidazoli",
+      "klotrimazoli",
+      "mikonazoli",
+      "acikloviri",
+      "spektinomicina"
+    ],
+    "correct": 0,
+    "explanation": "Sekrecione vaginale me prurit dhe protozoar shumë i lëvizshëm në preparat të freskët = trikomonazë (Trichomonas vaginalis); trajtim me metronidazol (edhe partneri)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-144",
+    "question": "Ne cilen moshe gestacionale (te perllogaritur nga cikli i fundit menstrual) eshte me i ndjeshem ndaj efekteve teratogjene fruti i koncepsionit:",
+    "answers": [
+      "ditet 1-14",
+      "ditet 15-28",
+      "ditet 29-72",
+      "ditet 73-90",
+      "ditet 91-120"
+    ],
+    "correct": 2,
+    "explanation": "Periudha më e ndjeshme ndaj teratogjenëve është organogjeneza: java 3–8 pas konceptimit, që korrespondon me ~ditët 29–72 nga menstruacioni i fundit. Para kësaj vlen ligji \"gjithçka ose asgjë\"."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-145",
+    "question": "Cila prej pohimeve te meposhtme mbi hepatitin B dhe shtatzenine eshte i sakte:",
+    "answers": [
+      "shtatzenia pershpejton dekursin e hepatitit B akut matern",
+      "menyra e lindjes nuk ka asnje ndikim mbi transmetimin nene-neonat",
+      "ushqyerja me gji nuk e rrit riskun neonatal per te marre hepatitin B",
+      "te porsalindurit mund te mbrohen nga hepatiti B duke marre imunizim pasiv ne diten e pare te lindjes",
+      "shpejtesia e perparimit te semundjes eshte e njejte te nena dhe te neonati"
+    ],
+    "correct": 3,
+    "explanation": "Të porsalindurit nga nëna HBsAg+ mbrohen me imunoglobulinë specifike (HBIG) + vaksinë brenda 12–24 orëve pas lindjes (efikasitet >90%); ushqyerja me gji lejohet pas imunoprofilaksisë; shtatzënia nuk e përshpejton hepatitin akut."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-146",
+    "question": "Perqindja e aborteve te shkaktuara nga amniocenteza e kryer ne trimestrin e dyte eshte rreth:",
+    "answers": [
+      "1%",
+      "3%",
+      "4%",
+      "5%",
+      ">5%"
+    ],
+    "correct": 0,
+    "explanation": "Rreziku i abortit pas amniocentezës në trimestrin e dytë vlerësohet rreth 0,5–1%."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-147",
+    "question": "Nga cili hormon induktohet “plasja” e folikulit ovarian:",
+    "answers": [
+      "prolaktina",
+      "FSH",
+      "GH",
+      "estradioli",
+      "LH"
+    ],
+    "correct": 4,
+    "explanation": "Piku i LH-së (i nxitur nga feedback-u pozitiv i estradiolit) shkakton plasjen e folikulit dhe ovulacionin rreth 24–36 orë më pas."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-148",
+    "question": "Cila eshte shenja me e shpeshte e hapjes iminente te nje plage kirurgjikale:",
+    "answers": [
+      "drenimi serik",
+      "drenimi i gjakut",
+      "drenimi sero-hematik",
+      "dhembja abdominale pa drenim",
+      "prania e permbajtjeve abdominale ne plage"
+    ],
+    "correct": 2,
+    "explanation": "Shenja më e shpeshtë paralajmëruese e dehiscencës (çeljes) së plagës kirurgjikale abdominale është rrjedhja e likidit sero-hematik (si \"lëng mishi\") nga plaga, zakonisht ditët 5–8 postoperatore."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-149",
+    "question": "Numri me i madh i vdekjeve nga karcinoma cervikale shkaktohet nga:",
+    "answers": [
+      "ekstensioni lokal",
+      "metastazat ne sistemin nervor qendror",
+      "metastazat ne mushkeri",
+      "shkaqet jatrogjene",
+      "asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Vdekjet nga kanceri cervikal vijnë kryesisht nga shtrirja lokale/regjionale: infiltrimi i parametreve dhe obstruksioni ureteral bilateral → uremi (insuficiencë renale), si dhe hemorragjia dhe infeksionet."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-150",
+    "question": "Nje grua 20-vjeçare paraqet hemorragji te tepert vaginale 1 ore pas lindjes vaginale spontane te nje neonati mashkull (femija i trete) me peshe 4400 g. Lindja ka zgjatur 7 ore me administrim oksitocine gjate 2 oreve te fundit. Cili eshte shpjegimi me i mundshem per hemorragjine postpartum te saj:",
+    "answers": [
+      "retensioni i indit placentar",
+      "trauma e traktit gjenital",
+      "atonia uterine",
+      "inversioni uterin",
+      "çrregullimi i koagulimit"
+    ],
+    "correct": 2,
+    "explanation": "Hemorragjia postpartum pas lindjes së fëmijës makrosom (4400 g), me multiparitet dhe oksitocinë të zgjatur = atoni uterine (shkaku më i shpeshtë i HPP, ~70–80%)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-151",
+    "question": "Humbja mesatare e gjakut nga menstruacioni eshte:",
+    "answers": [
+      "10-15 ml",
+      "25-50 ml",
+      "75-100 ml",
+      "101-125 ml",
+      "130-150 ml"
+    ],
+    "correct": 1,
+    "explanation": "Humbja mesatare e gjakut gjatë menstruacioneve është 30–40 ml (25–50 ml); >80 ml konsiderohet menorragji."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-152",
+    "question": "pH vaginal korrelon me:",
+    "answers": [
+      "perberjen e ekosistemit vaginal",
+      "nivelin e estrogjeneve ne indet vaginale",
+      "cenueshmerine nga infeksionet nga bakteret e kolonit",
+      "moshen e pacientes",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "pH vaginal (normal 3,8–4,5) varet nga ekosistemi vaginal (laktobacilet → acid laktik), niveli i estrogjeneve (glikogjeni epitelial), mosha (i lartë para pubertetit dhe pas menopauzës) dhe ndikon në rrezikun e infeksioneve."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-153",
+    "question": "Trajtimi paresor i karcinomes endometriale te kufizuar ne korpus uterii konsiston ne:",
+    "answers": [
+      "terapia rrezatimi ekstern",
+      "radium intrakavitar",
+      "histerektomi",
+      "kemioterapi",
+      "terapi progestinike"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma endometriale e kufizuar në trupin e uterusit (stadi I) trajtohet në radhë të parë kirurgjikalisht: histerektomi totale + salpingo-ooforektomi bilaterale ± limfadenektomi/limfonod sentinel; radioterapi adjuvante sipas rrezikut."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-154",
+    "question": "Cila prej simptomave te meposhtme nuk ndeshet ne rastin e gravidances tubarike:",
+    "answers": [
+      "dhembje ne kuadrantet inferiore abdominale",
+      "humbje hematike vaginale ose spotting",
+      "amenorre",
+      "proktorragji",
+      "dhembje ne shpatull"
+    ],
+    "correct": 3,
+    "explanation": "Shtatzënia tubare jep amenorre, dhimbje në kuadrantet e poshtme, gjakderdhje/spotting vaginal dhe, në rupturë, dhimbje në shpatull (hemoperitoneum). Proktorragjia nuk është simptomë e saj."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-155",
+    "question": "Cili prej te meposhtmeve nuk eshte indikacion absolut per sectio cesareo:",
+    "answers": [
+      "prezantimi frontal",
+      "placenta previa centrale",
+      "vuajtja fetale akute ne fillim te procesit te lindjes",
+      "prolapsi i funikulit",
+      "sectio cesareo i meparshem"
+    ],
+    "correct": 4,
+    "explanation": "Një cezariane e mëparshme (me incizion transvers të segmentit të poshtëm) nuk është indikacion absolut për cezariane — lejohet tentativa e lindjes vaginale (VBAC). Indikacione absolute: prezantimi i ballit, placenta previa totale, prolapsi i kordonit, distresi fetal akut larg lindjes."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-156",
+    "question": "Cili eshte treguesi fetal i prezantimit podalik:",
+    "answers": [
+      "sakrumi",
+      "tibia",
+      "peroneumi",
+      "iskiumi",
+      "vertebra e 5-te lumbare"
+    ],
+    "correct": 0,
+    "explanation": "Pika referuese (treguesi) e fetusit në prezantimin podalik është sakrumi (në prezantimin cefalik me verteks: okciputi; me fytyrë: mjekra)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-157",
+    "question": "Cila prej metodikave te meposhtme te diagnozes prenatale kryhet ne periudhen me te hershme gestacionale:",
+    "answers": [
+      "fetoskopia",
+      "amniocenteza",
+      "marrja e vileve korionike",
+      "funikolocenteza",
+      "biopsia fetale"
+    ],
+    "correct": 2,
+    "explanation": "Biopsia e vileve korionike është metoda invazive e diagnozës prenatale që kryhet më herët (java 10–13); amniocenteza 15–18, kordocenteza/funikolocenteza >18–20."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-158",
+    "question": "Ciklofosfamidi mund te shkaktoje te tera efektet e meposhtme kolaterale, me perjashtim te:",
+    "answers": [
+      "nauzese dhe te vjellave",
+      "inhibimit medular",
+      "stomatitit",
+      "cistitit hemorragjik",
+      "alopecise"
+    ],
+    "correct": 2,
+    "explanation": "Ciklofosfamidi jep nauze/të vjella, mielosupresion, alopeci, cistit hemorragjik (akroleina — parandalohet me mesna), sterilitet. Stomatiti nuk është efekt tipik (është më i shpeshtë me metotreksatin dhe 5-FU)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-159",
+    "question": "Vaginizmi eshte shkaku femeror kryesor i:",
+    "answers": [
+      "dispareunise",
+      "moskonsumimit te marteses",
+      "ejakulacionit te parakohshem",
+      "krizes bashkeshortore",
+      "uljes se deshires seksuale te femres"
+    ],
+    "correct": 1,
+    "explanation": "Vaginizmi (spazmë e pavullnetshme e muskulaturës perivaginale) është shkaku kryesor femëror i moskonsumimit të martesës (pamundësi e penetrimit)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-160",
+    "question": "Te nje grua me cikle te rregullta 28-ditore, periudha fertile presupozohet te jete:",
+    "answers": [
+      "ditet 2-5",
+      "ditet 7-11",
+      "ditet 10-16",
+      "ditet 18-26",
+      "ditet 20-29"
+    ],
+    "correct": 2,
+    "explanation": "Te cikli i rregullt 28-ditor ovulacioni ndodh rreth ditës 14; periudha fertile (duke marrë parasysh mbijetesën e spermatozoideve 3–5 ditë dhe të ovocitit 24 orë) është rreth ditëve 10–16."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-161",
+    "question": "Gjinekomastia e vertete shfaqet gjate:",
+    "answers": [
+      "trizomise se kromozomit 21",
+      "sindromes Turner",
+      "sindromes Klinefelter",
+      "morbus Addison",
+      "adenomes Plummer"
+    ],
+    "correct": 2,
+    "explanation": "Gjinekomastia e vërtetë (proliferim i indit gjëndëror) është tipike në sindromën Klinefelter (47,XXY) për shkak të raportit të lartë estrogjen/testosteron."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-162",
+    "question": "Cila eshte diagnoza me e mundshme te nje grua 24-vjeçare, qe paraqet ne gjirin e djathte nje mase te levizshme, te izoluar, te kufizuar mire, me konsistence si gome dhe te padhembshme:",
+    "answers": [
+      "karcinome mamare",
+      "semundje fibrokistike te mameles",
+      "fibroadenome",
+      "absces mamar",
+      "nekroze dhjamore te mameles"
+    ],
+    "correct": 2,
+    "explanation": "E re me masë të lëvizshme, të vetme, të kufizuar mirë, me konsistencë gome, pa dhimbje = fibroadenomë (tumori beninj më i shpeshtë i gjirit te gratë e reja)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-163",
+    "question": "Cila/cilat prej situatave te meposhtme eshte/jane e lidhur me nje rritje te mundesise se hemorragjise postpartum:",
+    "answers": [
+      "procesi i shpejte i lindjes",
+      "procesi i gjate i lindjes",
+      "stimulimi i lindjes me oksitocine",
+      "gravidanza multiple",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Rrezikun e hemorragjisë postpartum e rrisin lindja e shpejtë (precipitate) ose e zgjatur, stimulimi me oksitocinë (desensibilizim i receptorëve), mbishtrirja uterine (shtatzëni e shumëfishtë, makrosomi, polihidramnios), multipariteti."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-164",
+    "question": "Nje vajze 19-vjeçare shkon te mjeku sepse nuk ka pasur kurre menstruacione. Ekzaminimi objektiv ve ne dukje pranine e gjinjve normale, por nuk arrihet te individualizohet uterusi as me palpim dhe as gjate ekzaminimit pelvik. Cili prej ekzaminimeve te meposhtme do te ishte me i dobishmi per identifikimin e shkakut te amenorrese:",
+    "answers": [
+      "LH dhe FSH",
+      "prolaktina",
+      "estrogjeni",
+      "progesteroni",
+      "testosteroni"
+    ],
+    "correct": 4,
+    "explanation": "Amenorre primare me gjinj normalë dhe mungesë uterusi: diagnoza diferenciale midis agjenezisë Mülleriane (Mayer-Rokitansky, kariotip 46,XX, testosteron femëror) dhe insensitivitetit ndaj androgjeneve (46,XY, testosteron në nivel mashkullor); testosteroni (dhe kariotipi) i dallon."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-165",
+    "question": "Te nje paciente ne moshe pediatrike me rrjedhje vaginale te vazhdueshme fillimisht duhet te kerkohet:",
+    "answers": [
+      "trupi i huaj",
+      "oksuria",
+      "abuzimi i medikamenteve",
+      "lacerimet vaginale",
+      "ureteri ektopik"
+    ],
+    "correct": 0,
+    "explanation": "Te vajza e vogël me rrjedhje vaginale të vazhdueshme (shpesh me erë/gjak) fillimisht duhet kërkuar trup i huaj vaginal (p.sh. letër higjienike); pastaj oksiuroza, infeksionet, abuzimi."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-166",
+    "question": "A nderhyn statusi i infertilitetit ne marredhenien seksuale te nje çifti te qendrueshem:",
+    "answers": [
+      "vetem nese eshte e prekur gruaja",
+      "vetem nese eshte i prekur burri",
+      "shume shpesh",
+      "kurre",
+      "ndonjehere"
+    ],
+    "correct": 2,
+    "explanation": "Infertiliteti ndikon shumë shpesh negativisht në marrëdhënien seksuale të çiftit (seks \"me orar\", stres, ndjenja faji, ulje e dëshirës, disfunksione)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-167",
+    "question": "Shkaku me i shpeshte i dispareunise se thelle eshte:",
+    "answers": [
+      "sindroma Master Allen",
+      "semundja inflamatore pelvike (PID)",
+      "endometrioza",
+      "varikocela",
+      "sindroma e bllokimit te nervave abdominale (ACNES)"
+    ],
+    "correct": 2,
+    "explanation": "Endometrioza (implantet në Douglas, ligamentet uterosakrale, septumi rektovaginal) është shkaku më i shpeshtë i dispareunisë së thellë; pastaj PID kronike, aderencat, kongjestioni pelvik."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-168",
+    "question": "Placenta prodhon ne menyre fiziologjike:",
+    "answers": [
+      "estrogjen dhe progesteron",
+      "gonadotropina korionike",
+      "substance somatotroponosimile",
+      "kortikosteroide",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Placenta prodhon hCG, laktogjen placentar (hPL — substancë somatotropin-ngjashme), estrogjene (estriol), progesteron, CRH, si dhe kortikosteroide/hormone të tjera."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-169",
+    "question": "Nje vajze 15-vjeçare paraqet dhimbje abdominale te papritur. Ekzaminimi objektiv ve ne dukje nje mase te dhembshme ne aneksin e majte. Testi i shtatzenise eshte negativ. Radiografia tregon nje lezion hapesirezenes ne vezoren e majte me zona kalficikimi fokal. Cila eshte diagnoza me e mundshme:",
+    "answers": [
+      "kist folikular",
+      "kistadenome mucinoze",
+      "teratome kistike",
+      "tumor Brenner",
+      "kistadenome seroze"
+    ],
+    "correct": 2,
+    "explanation": "Adoleshente me dhimbje abdominale të papritur dhe masë anekse me kalcifikime në radiografi (dhëmbë/kockë) = teratoma kistike e pjekur (kisti dermoid), shpesh e ndërlikuar me torsion."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-170",
+    "question": "Cila prej formacioneve te meposhtme anatomike e merr prejardhjen nga duktusi Wolff te gruaja:",
+    "answers": [
+      "tubat uterine",
+      "uterusi",
+      "vagina",
+      "ligamenti i gjere",
+      "asnjera prej formacioneve te mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Te gruaja duktuset e Müller-it japin tubat, uterusin dhe pjesën e sipërme të vaginës; duktuset e Wolff-it regresojnë (mbeten vetëm vestigje si epooforoni, kisti i Gartner-it). Ligamenti i gjerë është palë peritoneale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-171",
+    "question": "Mastiti akut ndodh me shpesh gjate:",
+    "answers": [
+      "pubertetit",
+      "laktacionit",
+      "ciklit menstrual normal",
+      "shtatzenise",
+      "menopauzes"
+    ],
+    "correct": 1,
+    "explanation": "Mastiti akut (zakonisht nga S. aureus) shfaqet më shpesh gjatë laktacionit (sidomos javët e para), nga ragadat e thithkës dhe staza e qumështit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-172",
+    "question": "Te tera pohimet e meposhtme mbi kancerin e vezores jane te sakta, me perjashtim te njeres:",
+    "answers": [
+      "eshte kanceri me i shpeshte i aparatit gjenital femeror",
+      "ka perqindjen me te larte te vdekshmerire nder tumoret me te shpeshta te aparatit gjenital femeror",
+      "ka prirje qe te jete asimptomatik deri sa arrin stadin e perparuar",
+      "zhvillimi i tij mund te ndikohet nga faktore ambientale, kulturore, socioekonomike",
+      "shtrishot e Papanicolau (Pap test) nuk jane te efektshme per kontrollin diagnostik rutine"
+    ],
+    "correct": 0,
+    "explanation": "Kanceri i ovarit nuk është më i shpeshti i aparatit gjenital femëror (endometri në vendet e zhvilluara, cerviksi në botë), por ka vdekshmërinë më të lartë, sepse diagnostikohet vonë (asimptomatik); Pap-testi nuk e zbulon."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-173",
+    "question": "Nje primigravide 18-vjeçare eshte ne javen e 26-te te shtatzenise. Kultura e cerviksit eshte pozitive per Chlamydia trachomatis. Cili prej antibiotikeve te meposhtme eshte me i pershtatshem per kete paciente:",
+    "answers": [
+      "dikloksacilina",
+      "ampicilina",
+      "cefuroksamidi",
+      "vankomicina",
+      "eritromicina"
+    ],
+    "correct": 4,
+    "explanation": "Infeksioni me Chlamydia trachomatis në shtatzëni trajtohet me azitromicinë (zgjedhja e parë) ose eritromicinë/amoksicilinë; tetraciklinat/doksiciklina dhe fluorokinolonet kundërindikohen."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-174",
+    "question": "Gjate jetes fetale, duktusi arterioz i Botallo sherben:",
+    "answers": [
+      "si qark i shkurter per qarkullimin pulmonar",
+      "per te shkembyer gjakun ndermjet gjymtyreve",
+      "si qark i shkurter per heparin ne zhvillim",
+      "per te parandaluar koarktacionin",
+      "asnjera prej pergjigjeve te mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Në jetën fetale duktusi arterioz (Botallo) lidh arterien pulmonare me aortën, duke anashkaluar qarkullimin pulmonar (mushkëritë jo funksionale); mbyllet pas lindjes."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-175",
+    "question": "Kater prej patologjive te meposhtme jane kundraindikacione absolute per perdorimin e kontraceptiveve hormonale te kombinuar. Cila prej patologjive perben te vetmin kundraindikacion relativ:",
+    "answers": [
+      "anamneza pozitive per tromboflebit",
+      "diabeti mellitus me probleme vaskulare",
+      "hipertrigliceridemia dhe hiperkolesterolemia",
+      "hemikrania me aura",
+      "duhanpirja mbi 35 vjet"
+    ],
+    "correct": 2,
+    "explanation": "Dislipidemia (hipertrigliceridemia, hiperkolesterolemia) është kundërindikacion relativ për kontraceptivët e kombinuar. Kundërindikacione absolute: tromboembolizëm i kaluar, diabet me vaskulopati, migrenë me aura, duhanpirje >35 vjeç (≥15 cigare)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-176",
+    "question": "Nje grua 33-vjeçare (G1P1), qe ka lindur femijen e saj te pare 5 jave me pare, telefonon ne ambulator. Regeron se ndjehet shume e lodhur dhe anksioze. Ndjen se nuk eshte ne gjendje te beje asgje ne menyren e duhur dhe se ndihet shume e trishtuar gjate te tere dites. Tregon se qan ne menyre te vazhdueshme dhe nuk arrin te fleje gjate ntes. Cila eshte diagnoza me e sakte:",
+    "answers": [
+      "depresioni postpartum",
+      "çrregullimi i ankthit",
+      "psikoza postpartum",
+      "semundja bipolare",
+      "pagjumesia"
+    ],
+    "correct": 0,
+    "explanation": "Lodhje, ankth, trishtim gjatë gjithë ditës, të qara, ndjenja paaftësie dhe pagjumësi 5 javë pas lindjes = depresion postpartum (zgjat >2 javë, ndryshe nga \"baby blues\"); psikoza postpartum ka halucinacione/deliria."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-177",
+    "question": "Nje paciente diagnostikohet me karcinome mamare. Cili eshte faktori prognostik me i rendesishem per trajtimin e kesja patologjie:",
+    "answers": [
+      "mosha e pacientes",
+      "madhesia e tumorit",
+      "metastazat ne limfonodujt ascelare",
+      "prania ne tumor e receptoreve per estrogjenet",
+      "prania ne tumor e receptorve per progesteronin"
+    ],
+    "correct": 2,
+    "explanation": "Faktori prognostik më i rëndësishëm i kancerit të gjirit është statusi i limfonodujve aksilarë (numri i nyjeve metastatike)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-178",
+    "question": "Nje grua 38-vjeçare (G3P3) fillon te ushqeje me gji femijen e saj 5-ditesh. Femija kapet mire pas gjirit dhe fillon te thithe. Cila prej pergjigjeve ndaj thithjes ndodh te gruaja:",
+    "answers": [
+      "reduktimi i oksitocines",
+      "rritja e PIF (faktori inhibues i prolaktines)",
+      "rritja e prolaktines hipotalamike",
+      "rritja e dopamines hipotalamike",
+      "rritja e faktorit te çlirimit te LH dhe te FSH"
+    ],
+    "correct": 2,
+    "explanation": "Thithja e gjirit stimulon (përmes harkut refleks neuroendokrin) sekretimin e prolaktinës (duke frenuar dopaminën hipotalamike/PIF) dhe të oksitocinës (refleksi i nxjerrjes së qumështit), dhe frenon GnRH (amenorre laktacionale)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-179",
+    "question": "Nje grua 33-vjeçare (G2P1) sapo ka lindur me lindje vaginale spontane. Nuk eshte ndjekur mire ne periudhen prenatale dhe, duke qene se nuk ka kryer asnje ekografi gjate shtatzenise, eshte anksioze per te ditur seksin e femijes. Ne pamje te pare verehen organe gjenitale femerore, por duke i ekzaminuar me kujdes organet gjenitale verehet se ato duhet te klasifikohen si “ambigue”. Cili eshte hapi pasues me i mire per vleresimin e ketij te porsalinduri:",
+    "answers": [
+      "analiza kromozomike",
+      "rivleresimi ne moshen 1-mujore",
+      "ekografia pelvike",
+      "ekzaminimi pelvik i plote",
+      "laparotomia per kryerjen e gonadektomise"
+    ],
+    "correct": 3,
+    "explanation": "Para gjenitaleve ambigue hapi i parë është ekzaminimi i plotë i gjenitaleve/pelvik (palpimi i gonadave, vlerësimi i strukturave); pastaj kariotip, 17-OH-progesteron, elektrolite dhe ekografi pelvike — pa caktuar seksin para vlerësimit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-180",
+    "question": "Gjate vizites se nje gruaje 30-vjeçare per infertilitet, vendoset diagnoza e uterusit bikorn. Gruas i shpjegohet se nevojiten ekzaminime te metejshme, pasi ekziston nje risk me i madh per anomali kongjenital ne njerin prej sistemeve organike te meposhtme:",
+    "answers": [
+      "skeletik",
+      "hematopoietik",
+      "urinar",
+      "sistemin nervor qendror",
+      "gastrointestinal"
+    ],
+    "correct": 2,
+    "explanation": "Anomalitë Mülleriane (uterus bikorn, septat) shoqërohen shpesh me anomali kongjenitale të sistemit urinar (agjenezi renale, veshkë ektopike), për shkak të origjinës embriologjike të afërt; kërkohet ekografi renale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-181",
+    "question": "Nje grua 74-vjeçare paraqitet ne ambulator per nje vizite kontrolli. Pap testi dhe mamografia e fundit e saj jane te 3 viteve me pare. Ajo ka hipertension, nivele te larta te kolesterolit dhe osteoartrit. Ka nderprere pirjen e duhanit 15 vite me pare dhe nuk referon perdorim te alkoolit. Duke u bazuar mbi anamnezen e kesaj pacienteje, sila prej problemeve klinike te meposhtme duhet te jete shqetesimi kryesor i saj:",
+    "answers": [
+      "semundja Alzheimer",
+      "neoplazia mamare",
+      "semundja cerebrovaskulare",
+      "semundja kardiake",
+      "tumori pulmonar"
+    ],
+    "correct": 3,
+    "explanation": "Te gruaja 74 vjeç me hipertension, hiperkolesterolemi dhe ish-duhanpirëse, shkaku kryesor i vdekshmërisë dhe shqetësimi kryesor shëndetësor është sëmundja kardiovaskulare (koronare)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-182",
+    "question": "Nje grua 50-vjeçare diagnostikohet me kancer te cerviksit. Cili prej grupeve te limfonodujve eshte i pari qe perfshihet pas diseminimit metastazik te kesaj semundjeje, perveç cerviksit dhe uterusit:",
+    "answers": [
+      "limfonodujt iliake komune",
+      "limfonodujt parametriale",
+      "limfonodujt iliake eksterne",
+      "limfonodujt paracervikale ose ureterale",
+      "limfonodujt paraaortale"
+    ],
+    "correct": 3,
+    "explanation": "Kanceri i qafës së mitrës përhapet limfatikisht fillimisht në nyjet paracervikale/parametriale (ureterale), pastaj obturatore, iliake të brendshme e të jashtme, iliake të përbashkëta dhe paraaortike."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-183",
+    "question": "Nje grua 24-vjeçare i kerkon mjekut te saj mundesine e nje kontrolli gjenetik per nje mutacion te BRCA1. Nena e saj ka vdekur si pasoje e karcinomes mamare ne moshen 44-vjeçare dhe nje moter e saj eshte diagnostikuar me karcinome duktale in situ ne moshen 38-vjeçare. Cila eshte keshilla me e pershtashme per kete grua:",
+    "answers": [
+      "shpjegohet se mutacionet e BRCA1 nuk jane te lidhura me nje risk me te larte per karcinome mamare",
+      "rekomandohet kryerja e kontrollit vetem nese eshte pasardhese e hebrenjve Ashkenazi",
+      "rekomandohet nje keshillim gjenetik perpara se te kryhet kontrolli gjenetik",
+      "sugjerohet qe t’ì nenshtrohet nje interventi profilaktik mastektomie bilaterale ne vend te kontrollit gjenetik",
+      "rekomandohet kryerja e nje biopsie mamare bilaterale"
+    ],
+    "correct": 2,
+    "explanation": "Para testimit gjenetik për BRCA1/2 (histori familjare e fortë: nënë me kancer gjiri në 44 vjeç, motër me CDIS në 38 vjeç) rekomandohet këshillim gjenetik për të shpjeguar përfitimet, kufijtë dhe pasojat e rezultatit."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-184",
+    "question": "Nje grua 24-vjeçare sapo eshte diagnostikuar me toksoplasmoze. Mundoheni te percaktoni se cilet mund te kene qene faktoret e saj te riskut. Cili prej tyre perben riskun me te larte:",
+    "answers": [
+      "konsumimi i mishit te pagatuar",
+      "konsumimi i peshkut te pagatuar",
+      "prania e nje qeni ne shtepi",
+      "kombesia angleze",
+      "fakti qe ka pasur nje infeksion viral te parakohshem gjate shtatzenise"
+    ],
+    "correct": 0,
+    "explanation": "Faktori kryesor i rrezikut për toksoplazmozën është ngrënia e mishit të papjekur/të pagatuar mirë (cistet e indeve), pastaj kontakti me feçet e maceve, perimet e palara, toka."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-185",
+    "question": "Nje shtatzene 35-vjeçare ndodhet nen risk shume te larte per te zhvilluar njekohesisht neoplazi malinje te:",
+    "answers": [
+      "cerviksit",
+      "vezores",
+      "gjirit",
+      "vagines",
+      "kolonit"
+    ],
+    "correct": 0,
+    "explanation": "Kanceri më i shpeshtë që diagnostikohet gjatë shtatzënisë është ai i qafës së mitrës (edhe kanceri i gjirit është ndër më të shpeshtët), sepse depistohet në kontrollet prenatale."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-186",
+    "question": "Nje grua 23-vjeçare (G1P0) sapo ka pasur nje lindje vaginale spontane. Nderkohe qe nxirrej placenta, verehet nje mase e mishte e kuqe, qe protrudon nga prapa placentes. Cili eshte hapi pasues me i mire per t’u hedhur te kjo paciente:",
+    "answers": [
+      "fillimi i infuzionit endovenoz te oksitocines",
+      "kerkohet me shume personel mjekesor per nje asistence te menjehershme",
+      "vazhdohet heqja manuale e placentes",
+      "i indikohet anestezistit qe te administroje sulfat magnezi",
+      "shtyhet placenta brenda uterusit"
+    ],
+    "correct": 1,
+    "explanation": "Masë e kuqe \"si mish\" që del pas placentës gjatë nxjerrjes së saj = inversion uterin. Hapi i parë është thirrja e ndihmës së menjëhershme (anestezist, personel) dhe ndalimi i oksitocinës, për rivendosje manuale të uterusit (pa hequr placentën) dhe stabilizim hemodinamik. (PDF-ja nuk e ka të shënuar çelësin; kjo është përgjigjja e arsyetuar.)"
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-187",
+    "question": "Pas nje shtatzenie te pare, qe rezultoi ne nje humbje spontane ne trimestrin e pare, pacientja eshte e shqetesuar nga mundesia qe kjo gje te ndodhe serish. Cila eshte pergjigja me e pershtatshme ne lidhje me mundesine e nje rekurrence:",
+    "answers": [
+      "mundesia varet nga perberja gjenetike e frutit te abortit te meparshem",
+      "mundesia nuk ndryshon nga mundesia qe kishte aborti i pare",
+      "mundesia eshte rritur rreth 50%",
+      "mundesia eshte rritur mbi 50%",
+      "mundesia varet nga seksi i frutit te abortit te pare"
+    ],
+    "correct": 1,
+    "explanation": "Pas një aborti të vetëm spontan në trimestrin e parë (zakonisht nga anomali kromozomike sporadike), rreziku i recidivës nuk rritet ndjeshëm — mbetet afërsisht i njëjtë me rrezikun bazë (~15%)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-188",
+    "question": "Nje grua 33-vjeçare (G3P2) ne javen e 30-te te shtatzenise merr nje infeksion. Cili prej te meposhtmeve eshte nje riaktivizim dhe si rrjedhoje nuk perben risk per fetusin:",
+    "answers": [
+      "coxsackiervirus grupi B",
+      "virusi i rozolise",
+      "virusi i variceles",
+      "zjarri i Shen Andonit",
+      "herpesvirusi tip 2"
+    ],
+    "correct": 3,
+    "explanation": "Herpes zoster (\"zjarri i Shën Antonit\") është riaktivizim i VZV te nëna me imunitet; antitrupat materne IgG mbrojnë fetusin, prandaj nuk ka rrezik fetal domethënës (ndryshe nga varicela primare)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-189",
+    "question": "Nje grua 30-vjeçare me nje patologji gjenetike te karakterizuar nga nje mungese e fenilalanine hidroksilazes, po mendon nje shtatzeni per here te pare. Mjeku i saj i shpjegon riskun me te larte te femijes se saj per prapambetje mendore dhe per semundje kardiake kongjenitale. Cili rekomandim duhet bere:",
+    "answers": [
+      "perpara koncepsionit duhet te fillohet nje diete me nivele te uleta te fenilalanines",
+      "rekomandohet nje suplement me glicine ne diete",
+      "rekomandohet nje suplmenet me L-karnitine ne diete",
+      "nuk ka nevoje per kontroll dietetik nese nivelet e fenilalanines jane lehtesisht te rritura",
+      "te porsalindurit duhet t’i jepet vitamine B12 menjehere pas lindjes"
+    ],
+    "correct": 0,
+    "explanation": "Në fenilketonurinë materne, fenilalanina e lartë është teratogjene (mikrocefali, prapambetje mendore, kardiopati kongjenitale); dieta me pak fenilalaninë duhet nisur para konceptimit dhe mbajtur gjatë gjithë shtatzënisë."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-190",
+    "question": "Diten pas nje marredhenieje seksuale rastesore me nje burre heteroseksual, i cili sapo eshte diagnostikuar me antikorpe pozitive ndaj HIV, pacientja juaj eshte e shqetesuar dhe do te dije nese mund te jete e infektuar. Rezulton nje titer antikorpal negativ. Per te testuar mundesine e sierokonversionit, cila eshte periudha me e hershme per rivleresimin e pranise se antitrupave pas nje takimi seksual:",
+    "answers": [
+      "1-2 jave",
+      "3-4 jave",
+      "4-10 jave",
+      "12-15 jave",
+      "26-52 jave"
+    ],
+    "correct": 2,
+    "explanation": "Pas ekspozimit seksual ndaj HIV, antitrupat (serokonversioni) shfaqen zakonisht pas 3–12 javësh (shumica brenda 4–10 javësh); testet Ag/Ac e shkurtojnë dritaren; konfirmimi përfundimtar në 3 muaj."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-191",
+    "question": "Nje grua 27-vjeçare sapo ka pasur nje gravidance ektopike. Cila prej ngjarjeve te meposhtme eshte me e mundshmja qe te predispozoje per nje gravidance ektopike:",
+    "answers": [
+      "nje konizim cervikal i meparshem",
+      "semundja inflamatore pelvike (PID)",
+      "perdorimi i mjeteve kontraceptive intrauterine (DIU)",
+      "induktimi i ovulacionit",
+      "ekspozimi in utero ndaj dietilstilbisterolit (DES)"
+    ],
+    "correct": 1,
+    "explanation": "Faktori kryesor predispozues për shtatzëninë ektopike është sëmundja inflamatore pelvike (salpingit — dëmtim tubar, sidomos nga Chlamydia), si dhe kirurgjia tubare dhe ektopika e mëparshme."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-192",
+    "question": "Nje vajze 18-vjeçare (G2P1), qe diten e pare te ciklit te fundit menstrual e ka pasur me date 7 maj, vjen per viziten e saj te pare obstetrike pas 10 javesh. Cila mund te jete data e mundshme e lindjes:",
+    "answers": [
+      "28 janari i vitit tjeter",
+      "7 shkurti i vitit tjeter",
+      "14 shkurti i vitit tjeter",
+      "21 shkurti i vitit tjeter",
+      "28 shkurti i vitit tjeter"
+    ],
+    "correct": 2,
+    "explanation": "Data e lindjes sipas rregullit Naegele: dita e parë e menstruacionit të fundit + 7 ditë − 3 muaj (+1 vit): 7 maj + 7 = 14 maj − 3 muaj = 14 shkurt i vitit tjetër."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-193",
+    "question": "Nje grua 30-vjeçare shkon te mjeku pasi ka frike se mos zhvillon nje neoplazi ovariane. Gjyshja e saj 70-vjeçare ka vdekur gjate koheve te fundit si pasoje e nje karcinome ovariane. Diskutohen faktoret e riskut dhe parandalimin e neoplazise se ovarit. Çfare mund ta reduktoje riskun e shfaqjes se neoplazise se ovarit:",
+    "answers": [
+      "perdorimi i nje terapie te kombinuar me kontraceptive orale",
+      "menopauza pas moshes 55-vjeçare",
+      "perdorimi i medikamenteve antiinflamatore josteroide",
+      "nullipariteti",
+      "perdorimi i medikamenteve qe induktojne ovulacionin"
+    ],
+    "correct": 0,
+    "explanation": "Kontraceptivët oralë kombinuar ulin rrezikun e kancerit ovarian (~50% pas 5 vitesh përdorimi), duke frenuar ovulacionin; edhe shtatzënitë, laktacioni dhe ligatura tubare e ulin. Nulipariteti dhe menopauza e vonë e rrisin."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-194",
+    "question": "Gjate vleresimit te nje amenorreje dytesore te nje grua 24-vjeçare diagnostikohet hiperprolaktinemia. Cila prej problemeve te meposhtme mund te rrise perqendrimin e prolaktines ne qarkullim dhe amenorrene te kjo paciente:",
+    "answers": [
+      "stresi",
+      "hipertiroidizmi paresor",
+      "anoreksia nervore",
+      "hiperplazia kongjenitale e surrenaleve",
+      "semundja e ovarit polikistik"
+    ],
+    "correct": 1,
+    "explanation": "Hipotiroidizmi primar rrit TRH-në, e cila stimulon prolaktinën → hiperprolaktinemi dhe amenorre. Alternativa B duket se ka një gabim përkthimi (\"hipertiroidizmi\" në vend të \"hipotiroidizmi\"); stresi rrit prolaktinën pak, por zakonisht jo deri në amenorre. (PDF-ja nuk e ka të shënuar çelësin; kjo është përgjigjja e arsyetuar.)"
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-195",
+    "question": "Nje vajze 18-vjeçare ne javen e 8-te te shtatzenise, ankon per nauze dhe te vjella te perditshme gjate javes se fundit. Nauzeja dhe te vjellat jane simptoma te shpeshta te fazes fillestare te shtatzenise. Cili prej problemeve te meposhtme do te tregonte mundesine e nje diagnoze me serioze te “hiperemesis gravidarum”:",
+    "answers": [
+      "hipotiroidizmi",
+      "hipokalemia",
+      "shtimi ne peshe",
+      "proteinuria",
+      "diarrea"
+    ],
+    "correct": 1,
+    "explanation": "Hiperemeza gravidarum dallohet nga të vjellat e zakonshme të shtatzënisë nga pasojat sistemike: humbje peshe >5%, dehidratim, ketonuri, çrregullime elektrolitike (hipokalemi, alkalozë hipokloremike)."
+  },
+  {
+    "id": "licenca-obstetrike-gjinekologji-196",
+    "question": "Gjate vleresimit per infertilitet te nje gruaje 25-vjeçare, kryhet nge histerosalpingograme qe tregon shenja te sindromes Asherman. Cilen prej simptomave te meposhtme priten te verehen te kjo paciente:",
+    "answers": [
+      "dismenorre",
+      "hipomenorre",
+      "menorragji",
+      "metrorragji",
+      "oligomenorre"
+    ],
+    "correct": 1,
+    "explanation": "Sindroma Asherman (sinekie/aderenca intrauterine pas kyretazheve ose infeksioneve) shkakton hipomenorre ose amenorre, infertilitet dhe abort të përsëritur."
+  }
+]

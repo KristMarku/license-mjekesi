@@ -1,0 +1,3070 @@
+[
+  {
+    "id": "licenca-pediatri-001",
+    "question": "Të gjitha pohimet e mëposhtme jane tregues prognostike pozitiv te Leuçemise Limfoblastike akute në moshën pediatrike përveç:",
+    "answers": [
+      "Mosha 3-7 vjeç.",
+      "Seksi mashkull",
+      "Limfocitozë fillestare <10 000/ mm3",
+      "Vlera e hemoglobinës < 7g/dL",
+      "Trombocitet >100 000 mm3"
+    ],
+    "correct": 1,
+    "explanation": "Faktorë prognostikë të mirë në LLA pediatrike: mosha 1–10 vjeç (sidomos 3–7), leukocite fillestare <50.000 (këtu <10.000), seksi femër, imunofenotip B, hiperdiploidi, përgjigje e shpejtë ndaj terapisë. Seksi mashkull është faktor i pafavorshëm."
+  },
+  {
+    "id": "licenca-pediatri-002",
+    "question": "Kur dyshojmë për një invaginacion intestinal tek fëmija, cili është egzaminimi diagnostik që përjashton diagnozën?",
+    "answers": [
+      "Klizma opake",
+      "Radiografi e drejtpërdrejtë e abdomenit",
+      "Radiografi me kontrast bariumi",
+      "Stratigrafi",
+      "Invertogram"
+    ],
+    "correct": 0,
+    "explanation": "Klizma opake (me kontrast ose ajër, nën kontroll radiologjik) diagnostikon invaginimin (imazhi \"kokë kobre\"/\"thua\") dhe njëkohësisht mund ta reduktojë; ekografia është sot ekzaminimi i parë diagnostik."
+  },
+  {
+    "id": "licenca-pediatri-003",
+    "question": "Cili është simptomi më i shpeshtë me të cilin fillon kraniofaringioma te fëmijët?",
+    "answers": [
+      "Strabizëm",
+      "Dhimbje koke",
+      "Ngadalësim në rritje",
+      "Turbullime të shikimit",
+      "Marrje mendsh"
+    ],
+    "correct": 2,
+    "explanation": "Kraniofaringioma te fëmijët shpesh nis me ngadalësim të rritjes (deficit i GH), krahas cefalesë, të vjellave dhe çrregullimeve vizive (hemianopsi bitemporale)."
+  },
+  {
+    "id": "licenca-pediatri-004",
+    "question": "Divertikuli i Meckel-it mund të jetë:",
+    "answers": [
+      "Simptomatik vetëm në seksin mashkull",
+      "Asimptomatik",
+      "Gjithnjë simptomatik",
+      "Përcaktohet vetëm me autopsi",
+      "Simptomatik vetëm në seksin femër"
+    ],
+    "correct": 1,
+    "explanation": "Divertikuli Meckel (te ~2% e popullsisë) është zakonisht asimptomatik gjatë gjithë jetës; vetëm një pakicë jep komplikacione (hemorragji, obstruksion, divertikulit), më shpesh te djemtë <2 vjeç."
+  },
+  {
+    "id": "licenca-pediatri-005",
+    "question": "Cili nga komponentët e mëposhtëm gjendet më tepër në qumshtin e gjirit në krahasim me qumshtin e lopës?",
+    "answers": [
+      "Acidet yndyrore të pangopura",
+      "Vitaminat",
+      "Kazeina",
+      "Laktoalbumina",
+      "Kripëra minerale"
+    ],
+    "correct": 1,
+    "explanation": "Qumështi i gjirit përmban më shumë vitamina (A, C, E) se ai i lopës; është gjithashtu më i pasur me acide yndyrore të pangopura dhe laktozë, ndërsa qumështi i lopës ka më shumë kazeinë, proteina totale dhe kripëra minerale."
+  },
+  {
+    "id": "licenca-pediatri-006",
+    "question": "Si përcaktohet diagnoza “refluks gastroezofageal”:",
+    "answers": [
+      "Me anë të shinitgrafisë ezofageale",
+      "Ph metria 24 orëshe",
+      "Manometria ezofageale",
+      "Me anë gastroskopisë",
+      "Asnjëra nga të mësipërmet"
+    ],
+    "correct": 1,
+    "explanation": "pH-metria 24-orëshe është testi i referencës për diagnozën e refluksit gastroezofageal acid te fëmijët (sot shpesh impedanc-pH-metria); endoskopia vlerëson ezofagitin."
+  },
+  {
+    "id": "licenca-pediatri-007",
+    "question": "Zhurma e pafajshme është zakonisht:",
+    "answers": [
+      "Protomezosistolike",
+      "E vazhdueshme",
+      "Mezotelesistolike",
+      "Diastolike në pozicion të shtrirë",
+      "E pranishme vetëm mbas ushtrimit fizik"
+    ],
+    "correct": 0,
+    "explanation": "Zhurma e pafajshme (funksionale) është zakonisht proto-mezosistolike, e butë (≤2/6), muzikore, ndryshon me pozicionin (më e fortë në shtrirje), pa thrill dhe me tone normale; zhurmat diastolike janë gjithmonë patologjike."
+  },
+  {
+    "id": "licenca-pediatri-008",
+    "question": "Terapia e krizave astmatike të moderuara:",
+    "answers": [
+      "Parashikon përdorimin e a2 stimulantëve per os dhe në rast se nuk ka përmirsim për 12 orët në vazhdim , përdoret prednisolon",
+      "Parashikon përdorimin e a2 stimulantit ipratropium bromid në rrugë inhalatore dhe n.q.s nuk kemi përmirësim për 4 orë, përdoret prednisolon",
+      "Kërkon shtrim urgjent në spital",
+      "Parashikon përdorimin e b2 stimulantët në rrugë inhalatore dhe prednizolonit per os",
+      "Teofilina"
+    ],
+    "correct": 3,
+    "explanation": "Kriza astmatike e moderuar te fëmija trajtohet me beta2-agonist me veprim të shkurtër në rrugë inhalatore (salbutamol, i përsëritur), + kortikosteroid oral (prednizolon) herët ± ipratropium. Ipratropiumi nuk është beta2-stimulues, ndaj alternativa B (çelësi) është e pasaktë."
+  },
+  {
+    "id": "licenca-pediatri-009",
+    "question": "Një vajzë me moshë 4 vjeç, po luante në një fushë të trajtuar me insekticid. Prindërit e sjellin në ndihmën e shpejtë në gjëndje letargjie, me sekrecione nga goja, miozë, lotim dhe inkontinencë urine dhe fekale, të vjella, dhe dridhje. Mjeku dyshon për helmim me fosfatoorganik. Për të trajtuar efektin nikotinidik, cili nga mjekimet e mëposhtme duhet përdorur?",
+    "answers": [
+      "Atopina",
+      "BAL (british antilewisite)",
+      "Pralidoxim (2- Pam)",
+      "Naloxon",
+      "Ca- EDTA"
+    ],
+    "correct": 2,
+    "explanation": "Në helmimin me organofosforikë, efektet muskarinike trajtohen me atropinë, ndërsa efektet nikotinike (fashikulacione, dobësi/paralizë muskulore) trajtohen me oksime — pralidoksima (2-PAM), që riaktivizon acetilkolinesterazën."
+  },
+  {
+    "id": "licenca-pediatri-010",
+    "question": "Në rastin e një fëmije me gastroenterit akut, cili është hapi prioritar?",
+    "answers": [
+      "Prick- test alergjik",
+      "Vlerësimi i gjendjes së hidratimi dhe ekuilibri acidobazik",
+      "Testi i absorbimit intestinal",
+      "Fillimi i terapisë antibiotike",
+      "Kërkim i oksiureve në feçe"
+    ],
+    "correct": 1,
+    "explanation": "Te fëmija me gastroenterit akut hapi prioritar është vlerësimi i gradës së dehidratimit (peshë, mukoza, turgor, diurezë, gjendje e vetëdijes) dhe i ekuilibrit hidroelektrolitik/acido-bazik, për rihidratim oral ose IV."
+  },
+  {
+    "id": "licenca-pediatri-011",
+    "question": "Cili nuk është komplikacion i parotitit?",
+    "answers": [
+      "Adenit supurativ",
+      "Pankreatiti",
+      "Orkiti",
+      "Gastriti",
+      "Meningoencefaliti"
+    ],
+    "correct": 0,
+    "explanation": "Komplikacionet e parotitit (shytave): orkiti/ooforiti, pankreatiti, meningoencefaliti, surditet, tiroidit. Adeniti supurativ nuk është komplikacion tipik (parotiti viral nuk supuron)."
+  },
+  {
+    "id": "licenca-pediatri-012",
+    "question": "Cili simptom është tipik për sindromin nefrotik?",
+    "answers": [
+      "Edema",
+      "Poliuria",
+      "Hematuria",
+      "Glukozuria",
+      "Hipertensioni"
+    ],
+    "correct": 0,
+    "explanation": "Simptoma tipike dhe kryesore e sindromës nefrotike është edema (periorbitale në mëngjes, e gjeneralizuar), nga hipoalbuminemia; hematuria dhe hipertensioni janë tipike për sindromën nefritike."
+  },
+  {
+    "id": "licenca-pediatri-013",
+    "question": "Infeksioni me Mycoplasma pneumoniæ mund të shkaktojë të gjitha pathologjitë e mëposhtme, përveç:",
+    "answers": [
+      "Bronkitit",
+      "Bronkiolitit",
+      "Konjuktivitit",
+      "Faringotonsilitit",
+      "Otitis media"
+    ],
+    "correct": 2,
+    "explanation": "Mycoplasma pneumoniae shkakton faringotonsilit, trakeobronkit, bronkiolit, pneumoni atipike dhe miringit bulloz/otit; konjunktiviti nuk është manifestim tipik (është tipik për adenoviruset, Chlamydia)."
+  },
+  {
+    "id": "licenca-pediatri-014",
+    "question": "Cili egzaminim përcakton gravitetin në diagnozën klinike të bronkiolitit?",
+    "answers": [
+      "Ekzaminimi hemokromocitometrik.",
+      "Rx e Toraksit",
+      "Temperatura",
+      "Saturacioni O2",
+      "Presioni arterial sistemik"
+    ],
+    "correct": 3,
+    "explanation": "Rëndesa e bronkiolitit përcaktohet kryesisht nga saturimi i O2 (pulsoksimetria): SpO2 <90–92% është indikacion për shtrim dhe oksigjenoterapi, së bashku me frekuencën respiratore dhe aftësinë për t'u ushqyer."
+  },
+  {
+    "id": "licenca-pediatri-015",
+    "question": "Për cilën sëmundje hematologjike në pediatri rekomandohet heparina + plazma e freskët?",
+    "answers": [
+      "Hemofilia A",
+      "DIC (KID- koagulimi intravazal i diseminuar)",
+      "Sëmundje von Willebrand",
+      "Hemofilia B",
+      "Difekt i koagulimit si pasojë e hepatopatisë"
+    ],
+    "correct": 1,
+    "explanation": "Heparina + plazmë e freskët e ngrirë (zëvendësim i faktorëve të konsumuar) përdoren në koagulimin intravaskular të diseminuar (CID/KID), përveç trajtimit të shkakut."
+  },
+  {
+    "id": "licenca-pediatri-016",
+    "question": "Një fëmijë 4 vjeç që merr mësime noti, shfaqet tek pediatri me dhimbje në veshin e djathtë. Ekzaminimi objektiv i veshit tregon edemë dhe eritemë të kanalit auditiv me praninë e sekrecioneve me ngjyrë të gjelbër. Dhimbja shtohet me prekje të aurikulës dhE)shtypjes mbi tragus. Cili është shkaktari më i mundshëm i këtij infeksioni?",
+    "answers": [
+      "Hæmophilus Influenzæ",
+      "Pseudomonas aeruginosa",
+      "Moraxella catarrhalis",
+      "Streptococcus agalactiæ",
+      "Escherichia coli"
+    ],
+    "correct": 1,
+    "explanation": "Fëmijë notar me otit ekstern (edemë e kanalit, sekrecion i gjelbër, dhimbje kur prek tragusin/aurikulën) — \"veshi i notarit\"; shkaktari më i shpeshtë është Pseudomonas aeruginosa (edhe S. aureus)."
+  },
+  {
+    "id": "licenca-pediatri-017",
+    "question": "Një neonat i gjatë për moshën gestionale paraqitet me lëkurë të rrudhur dhe të deskuamuar. Thonjtë janë të gjata dhe të gjelbra. Nuk ka prezencë pushi. Sa është mosha gestionale e këtij fëmije?",
+    "answers": [
+      "34 javë",
+      "36 javë",
+      "38 javë",
+      "40 javë",
+      "42 javë"
+    ],
+    "correct": 4,
+    "explanation": "Neonat i gjatë, me lëkurë të rrudhur e deskuamuar, pa vernix/lanugo, me thonj të gjatë dhe të ngjyrosur me mekonium (jeshil) = i porsalindur postmatur (≥42 javë)."
+  },
+  {
+    "id": "licenca-pediatri-018",
+    "question": "Cilat janë pasojat e rubeolës kongenitale?",
+    "answers": [
+      "Anencefalia",
+      "Kardiopathia",
+      "Shurdhim",
+      "Verbim",
+      "Të gjitha të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Rubeola kongjenitale jep triadën Gregg: kardiopati (duktus arterioz, stenozë pulmonare), shurdhim neurosensorial dhe katarakt/verbim; plus mikrocefali, prapambetje mendore, hepatosplenomegali, purpurë."
+  },
+  {
+    "id": "licenca-pediatri-019",
+    "question": "Cila ngA)ndërhyrjet e mëposhtme është e detyrueshme dhe prioritare tek një fëmijë me arrest kardiocirkulator?",
+    "answers": [
+      "Ekzaminimi biokimik dhe instrumental.",
+      "Lirimi i rrugëve të frymëmarrjes, ventilacion dhe masazh kardiak.",
+      "Monitorim i presionit arterial dhe diurezës",
+      "Vendosja e vigonit dhe fillimi i serumit endovenoz.",
+      "Administrimi i medikamenteve jetike."
+    ],
+    "correct": 1,
+    "explanation": "Te fëmija në arrest kardiocirkulator prioritet absolut janë manovrat e ringjalljes: hapja e rrugëve ajrore, ventilimi (5 frymëmarrje fillestare) dhe masazhi kardiak (15:2), sipas protokollit PBLS."
+  },
+  {
+    "id": "licenca-pediatri-020",
+    "question": "Intoleranca ndaj proteinave të qumështit mund të manifestohet me të gjitha kuadret klinike të mëposhtme, përveç:",
+    "answers": [
+      "Formë akute me diarre dhe të vjella",
+      "Formë kronike me kolit / ose anemi",
+      "Të vjella dhe acidozë metabolike.",
+      "Dermatit atopik dhe urtikarie",
+      "Diarre me gjak okult në feçe."
+    ],
+    "correct": 2,
+    "explanation": "Alergjia/intoleranca ndaj proteinave të qumështit të lopës mund të japë forma akute (të vjella, diarre, urtikarie, anafilaksi), forma kronike (enterokolit, kolit me gjak okult, anemi), dermatit atopik. Acidoza metabolike me të vjella nuk është manifestim tipik."
+  },
+  {
+    "id": "licenca-pediatri-021",
+    "question": "Cila nga pathologjitë e mëposhtme te sistemit genital, mund të jetë shkaktar i abdomenit akut tek vajzat?",
+    "answers": [
+      "Torsion i ovarit",
+      "Hipotrofia e klitorisit",
+      "Hipertrofia e klitorisit",
+      "Hipertrofia e buzëve të vogla",
+      "Hipertrofia e buzëve të mëdha"
+    ],
+    "correct": 0,
+    "explanation": "Torsioni i ovarit (shpesh mbi një kist/teratomë) është shkak i abdomenit akut te vajzat: dhimbje e papritur e fortë në fosën iliake, të vjella; kërkon kirurgji urgjente."
+  },
+  {
+    "id": "licenca-pediatri-022",
+    "question": "Sasia e yndyrnave në dietën e fëmijës së vitit të dytë të jetës,këshillohet në një nga opsionet e mëposhtme:",
+    "answers": [
+      "Nën 10% të kalorive ditore.",
+      "Nën 15% të kalorive ditore.",
+      "Jo më tepër se 15% të kalorive ditore.",
+      "Jo më tepër se 30% të kalorive ditore",
+      "Më tepër se 40% të kalorive ditore."
+    ],
+    "correct": 3,
+    "explanation": "Në vitin e dytë të jetës yndyrnat duhet të jenë jo më shumë se ~30% të kalorive ditore (rekomandimet aktuale lejojnë 30–40% deri në 3 vjeç)."
+  },
+  {
+    "id": "licenca-pediatri-023",
+    "question": "Cili nga trajtimet e mëposhtme duhet të përdoret si medikament i linjës së parë në rastin e një ataku akut të astmës te fëmijët.",
+    "answers": [
+      "β2 agonist per os",
+      "Kortikosteroid per os",
+      "β2 agonist në rrugë inhalatore",
+      "Antihistaminikë per os",
+      "β2 agonist per os dhe bikarbonat natriumi."
+    ],
+    "correct": 2,
+    "explanation": "Bari i linjës së parë në atakun akut të astmës te fëmijët është beta2-agonisti me veprim të shkurtër në rrugë inhalatore (salbutamol me spacer/nebulizator), i përsëritur në orën e parë."
+  },
+  {
+    "id": "licenca-pediatri-024",
+    "question": "Të gjitha pohimet e mëposhtme janë tipike për stenozën hipertrofike të pylorit, përveç:",
+    "answers": [
+      "Alkalozës metabolike",
+      "Haset më shpesh tek meshkujt",
+      "Shfaqet mbas moshës 2-3 javëshe.",
+      "Të vjella me përmbajtje biliare.",
+      "Të vjella pa përmbajtje biliare"
+    ],
+    "correct": 3,
+    "explanation": "Stenoza hipertrofike e pilorit (meshkuj, java 2–8) jep të vjella \"në shatërvan\" jo-biliare (obstruksioni është para papilës së Vaterit) dhe alkalozë metabolike hipokloremike-hipokalemike."
+  },
+  {
+    "id": "licenca-pediatri-025",
+    "question": "Në cilin rast nuk indikohet profilaksia antimeningokoksike?",
+    "answers": [
+      "Kontakte familjare me të sëmurin",
+      "Kontakte me të sëmurin në çerdhe gjatë 7 ditëve paraardhëse.",
+      "Subjekte në kontakt të drejtpërdrejt me sekrecionet e pacientit, ose që kanë përdorur objekte të përbashkëta.",
+      "Personeli sanitar që nuk ka pasur ekzpozim të drejtpërdrejt me pacientin.",
+      "Subjekte që kanë fjetur ose ngrënë me pacientin."
+    ],
+    "correct": 3,
+    "explanation": "Profilaksia antimeningokoksike (rifampicinë/ciprofloksacinë/ceftriakson) indikohet për kontaktet e ngushta: familjarët, kontaktet në çerdhe/shkollë në 7 ditët e fundit, personat e ekspozuar ndaj sekrecioneve (puthje, intubim pa maskë). Personeli shëndetësor pa ekspozim të drejtpërdrejtë nuk e kërkon."
+  },
+  {
+    "id": "licenca-pediatri-026",
+    "question": "Hiperplazia gingivale mund të shfaqet tek një pacient i cili merr mjekim me:",
+    "answers": [
+      "Meticilina",
+      "Ampicilina",
+      "Eritromicina",
+      "Tetraciklina",
+      "Diphenylhydantoina"
+    ],
+    "correct": 4,
+    "explanation": "Hiperplazia gingivale shkaktohet nga fenitoina (difenilhidantoina), si dhe nga ciklosporina dhe kalciumbllokuesit (nifedipina)."
+  },
+  {
+    "id": "licenca-pediatri-027",
+    "question": "Cili nga faktorët e mëposhtëm mendohet se lidhet me sindromin e vdekjes së papritur foshnjore (SIDS)?",
+    "answers": [
+      "Pozicioni shtrirë mbi bark",
+      "Përdorimi i biberonit",
+      "Toksikoza e shtatzanisë",
+      "Kardiopatia",
+      "Luksacionet e lindura"
+    ],
+    "correct": 0,
+    "explanation": "Faktori kryesor i rrezikut për SIDS është pozicioni i gjumit me bark poshtë (prone); të tjerë: duhanpirja, mbinxehja, shtroja të buta, gjumi në shtrat me prindërit. Kampanjat \"Back to sleep\" e kanë ulur ndjeshëm incidencën."
+  },
+  {
+    "id": "licenca-pediatri-028",
+    "question": "Të gjitha sindromat e mëposhtme janë uropati malformative, përveç:",
+    "answers": [
+      "Hidroureteronefroza",
+      "Ren polikistik",
+      "Hipertrofia e klitorisit",
+      "Megaureter obstruktiv primar",
+      "Refluksi vezikoureteral"
+    ],
+    "correct": 2,
+    "explanation": "Uropatitë malformative: hidroureteronefroza (stenoza pielo-ureterale), veshka polikistike, megaureteri obstruktiv, refluksi veziko-ureteral, valvulat e uretrës. Hipertrofia e klitorisit nuk është uropati."
+  },
+  {
+    "id": "licenca-pediatri-029",
+    "question": "Të gjitha komplikacionet e mëposhtme mund të gjenden tek neonati i një mamaje diabetike, përveç:",
+    "answers": [
+      "Ikter",
+      "Policitemia",
+      "Trauma të lindjes",
+      "Hernia umbilikale",
+      "Anomali kongjenitale"
+    ],
+    "correct": 3,
+    "explanation": "Neonati i nënës diabetike: makrosomi me trauma të lindjes, hipoglicemi, hipokalcemi, policitemi, ikter, sindromë distresi respirator, kardiomiopati hipertrofike, anomali kongjenitale (regresion kaudal). Hernia umbilikale nuk lidhet."
+  },
+  {
+    "id": "licenca-pediatri-030",
+    "question": "Të gjitha të mëposhtmet janë manifestime ekstraintestinale të alergjive nga ushqimet, përveç:",
+    "answers": [
+      "Dermatit atopik",
+      "Urtikaries",
+      "Dhimbjes së kokës",
+      "Bronkospazma, kolla e thatë e vazhduar.",
+      "Onikomikoza"
+    ],
+    "correct": 4,
+    "explanation": "Manifestimet ekstraintestinale të alergjive ushqimore: dermatit atopik, urtikarie/angioedemë, bronkospazëm, kollë, rinit, anafilaksi, ndonjëherë cefale. Onikomikoza është infeksion mikotik i thonjve."
+  },
+  {
+    "id": "licenca-pediatri-031",
+    "question": "Cila është etiopatogjeneza e hernies inguinale te fëmija?",
+    "answers": [
+      "Dobësi e paretit abdominal",
+      "Moszbritja e testikulit",
+      "Mosmbyllja e processus vaginalis peritonei",
+      "Traumë e lindjes",
+      "Inflamacion e kanalit inguinal"
+    ],
+    "correct": 2,
+    "explanation": "Hernia inguinale e fëmijës është indirekte dhe vjen nga mosmbyllja e processus vaginalis peritonei (kanal peritoneo-vaginal i hapur), jo nga dobësia e murit abdominal si te i rrituri."
+  },
+  {
+    "id": "licenca-pediatri-032",
+    "question": "Cili nga markerët e mëposhtëm identifikon pacientin me HBV kronik me risk më të lartë infektimi?",
+    "answers": [
+      "HBsAg",
+      "HBeAg",
+      "IgM anti- HBc",
+      "Antikorpe kundër HBc.",
+      "Antikorpe kundër HBs."
+    ],
+    "correct": 1,
+    "explanation": "HBeAg pozitiv tregon replikim aktiv viral dhe infektivitet të lartë (ngarkesë virale e lartë); anti-HBe tregon replikim të ulët."
+  },
+  {
+    "id": "licenca-pediatri-033",
+    "question": "Cila nga pohimet e mëposhtme është i saktë, për sëmundjen Lyme?",
+    "answers": [
+      "Shkaktohet nga Borrelia vincenti",
+      "Shkaktohet nga Adenovirus",
+      "Lëkura është vendndodhja fillestare e infeksionit.",
+      "Artriti është një nga manifestimet e para.",
+      "Mjekimi kryhet me aminoglikozide."
+    ],
+    "correct": 2,
+    "explanation": "Sëmundja Lyme (Borrelia burgdorferi, nga rriqrat Ixodes) fillon në lëkurë me eritemë migrans në vendin e pickimit; artriti shfaqet më vonë (faza e tretë); trajtohet me doksiciklinë/amoksicilinë."
+  },
+  {
+    "id": "licenca-pediatri-034",
+    "question": "Hormoni Antidiuretik (Vazopresin) sintetizohet në:",
+    "answers": [
+      "Qelizat acidofile të hipofizës anteriore",
+      "Qelizat bazofilike të hipofizës anteriore",
+      "Nga qelizat e n. supraopticus dhe n. paraventricularis të hipotalamusit.",
+      "Nga n. Arcuatus e hipotalamusit.",
+      "Asnjë nga përgjigjet e mësiperme."
+    ],
+    "correct": 2,
+    "explanation": "ADH (vazopresina) sintetizohet në neuronet e bërthamave supraoptike dhe paraventrikulare të hipotalamusit, transportohet në neurohipofizë dhe çlirohet prej andej."
+  },
+  {
+    "id": "licenca-pediatri-035",
+    "question": "N.q.s. një fëmijë ka një gjatësi më të shkurtër se percentili i tretë do të thotë:",
+    "answers": [
+      "Më tepër se 3% e fëmijëve të moshës së tij janë më të shkurtër se ai.",
+      "Më tepër se 97% e fëmijëve të moshës së tij janë më të gjatë se ai.",
+      "Më tepër se 97% e fëmijëve të moshës së tij janë më të shkurtër se ai.",
+      "Më pak se 3% e fëmijëve të moshës së tij janë më të gjatë se ai.",
+      "Më pak se 97% e fëmijëve të moshës së tij janë më të gjatë se ai"
+    ],
+    "correct": 1,
+    "explanation": "Gjatësia nën percentilin e 3-të do të thotë që më shumë se 97% e fëmijëve të së njëjtës moshë dhe seks janë më të gjatë se ai (vetëm 3% janë më të shkurtër)."
+  },
+  {
+    "id": "licenca-pediatri-036",
+    "question": "Një vajzë 14 vjeçare, me një histori për hipotireoidizëm ka temperaturë, anoreksi, amenore dhe ikter që persiston prej 4 muajsh. Diagnoza më e mundshme është:",
+    "answers": [
+      "Mononukleozë",
+      "Kalkulozë biliare",
+      "Defiçit i α1- antitripsinës",
+      "Sëmundje e Wilsonit",
+      "Hepatit autoimun"
+    ],
+    "correct": 4,
+    "explanation": "Adoleshente me histori autoimune (hipotiroidizëm), me ethe, anoreksi, amenorre dhe ikter persistent (>3 muaj) = hepatit autoimun (ANA/ASMA ose anti-LKM, IgG të rritura); duhet përjashtuar Wilson."
+  },
+  {
+    "id": "licenca-pediatri-037",
+    "question": "Cila nga sëmundjet e mëposhtme karakterizohet me praninë e petekieve?",
+    "answers": [
+      "Purpura thrombocytopenike idiopathike",
+      "Sëmundja von Willebrand",
+      "Hemofilia klasike",
+      "Mungesë e faktorëve II, VII, IX, X",
+      "Mungesa e faktorëve III, VI, VIII"
+    ],
+    "correct": 0,
+    "explanation": "Petekiet (gjakderdhje kapilare) janë tipike për çrregullimet trombocitare (PTI) dhe vaskulare. Hemofilitë dhe deficitet e faktorëve japin hematoma dhe hemartroza; von Willebrand jep më shumë gjakderdhje mukozale."
+  },
+  {
+    "id": "licenca-pediatri-038",
+    "question": "Tek latantët me infeksione të rrugëve urinare, manifestimi klinik më i shpeshtë është:",
+    "answers": [
+      "Temperaturë",
+      "Dizuri",
+      "Polakiuria",
+      "Dhimbje të regjionit lumbar",
+      "Inkontinenca"
+    ],
+    "correct": 0,
+    "explanation": "Te foshnjat infeksioni urinar shfaqet më shpesh vetëm me ethe (pa fokus të dukshëm), irritabilitet, të vjella, mosshtim në peshë; simptomat urinare tipike (disuri, polakiuri) shfaqen te fëmijët më të rritur."
+  },
+  {
+    "id": "licenca-pediatri-039",
+    "question": "Të gjitha pohimet e mëposhtme janë të pranishme tek anemia B12 deficitare, përveç:",
+    "answers": [
+      "Ulje e numrit të eritrociteve",
+      "Ulje e Hemoglobinës",
+      "MCV e rritur",
+      "MCV e ulur",
+      "Retikulocite të rritura"
+    ],
+    "correct": 3,
+    "explanation": "Anemia nga mungesa e B12 jep ulje të eritrociteve dhe Hb, makrocitozë (MCV e rritur), retikulocite të ulëta (eritropoiezë joefektive). MCV e ulët është tipike për sideropeninë/talaseminë. (Edhe \"retikulocite të rritura\" është e pasaktë; ndodhin vetëm pas terapisë.)"
+  },
+  {
+    "id": "licenca-pediatri-040",
+    "question": "Një fëmijë e moshës 10 muajshe me diarre akute të rëndë dhe dehidratim ka marrë vetëm qumësht të skremuar gjatë dy ditëve të para të diarresë. Cilën është vlera e pritshme e natriemisë?",
+    "answers": [
+      "102 meq/L",
+      "124 meq/L",
+      "136 meq/L",
+      "142 meq/L",
+      "154 meq/L"
+    ],
+    "correct": 4,
+    "explanation": "Dhënia e qumështit të skremuar (i përqendruar, me ngarkesë të lartë osmotike/natriumi dhe proteinash) te foshnja me diarre e dehidratim shkakton dehidratim hipernatremik (Na ~150–155 mEq/L), me rrezik konvulsionesh."
+  },
+  {
+    "id": "licenca-pediatri-041",
+    "question": "Infeksioni i rrugëve urinare tek fëmijët është shoqërues i refluksit vezikoureteral:",
+    "answers": [
+      "Në 100% të rasteve.",
+      "30- 50% të rasteve.",
+      "Asnjëherë",
+      "Në 98% të rasteve.",
+      "Në 2-3 % të rasteve."
+    ],
+    "correct": 1,
+    "explanation": "Refluksi veziko-ureteral gjendet në rreth 30–50% të fëmijëve me infeksion të rrugëve urinare (sidomos <2 vjeç), prandaj pas IVU-së febrile vlerësohet me ekografi ± cistouretrografi miksionale."
+  },
+  {
+    "id": "licenca-pediatri-042",
+    "question": "Cili infeksion tek fëmija nuk shkaktohet nga Streptococcus pneumoniæ?",
+    "answers": [
+      "Otiti",
+      "Pneumonia",
+      "Meningiti",
+      "Cistiti",
+      "Faringiti"
+    ],
+    "correct": 3,
+    "explanation": "Streptococcus pneumoniae shkakton otit të mesëm, sinusit, pneumoni, meningit, bakteriemi, rrallë faringit; cistiti shkaktohet zakonisht nga E. coli dhe enterobakteret e tjera."
+  },
+  {
+    "id": "licenca-pediatri-043",
+    "question": "Cili nga pohimet e mëposhtme është manifestimi më i shpeshtë i defiçitit të α1- antitripsinës tek fëmijët?",
+    "answers": [
+      "Kistet pulmonare",
+      "Miokarditi",
+      "Cirroza hepatike",
+      "Insuficienca pankreatike",
+      "Bronkiti Kronik Obstruktiv"
+    ],
+    "correct": 2,
+    "explanation": "Te fëmijët deficiti i alfa1-antitripsinës shfaqet kryesisht me sëmundje hepatike: kolestazë neonatale, hepatit, deri në cirrozë; emfizema (SPOK) shfaqet te të rriturit, sidomos duhanpirës."
+  },
+  {
+    "id": "licenca-pediatri-044",
+    "question": "Cila nga pohimet e mëposhtme është “standarti i artë” për lokalizimin e një testikuli të papalpueshëm në moshën pediatrike?",
+    "answers": [
+      "Ekzaminimi objektiv",
+      "Rx direkte e abdominit",
+      "Rezonanca magnetike",
+      "TAK (Tomografia Aksiale e kompjuterizuar)",
+      "Eksplorimi laparoskopik"
+    ],
+    "correct": 4,
+    "explanation": "Standardi i artë për lokalizimin e testikulit të papalpueshëm është eksplorimi laparoskopik (diagnostik dhe terapeutik); ekografia/RM kanë ndjeshmëri të kufizuar."
+  },
+  {
+    "id": "licenca-pediatri-045",
+    "question": "Një fëmijë mE)me sindromën Down, ka rrezik te rritur për:",
+    "answers": [
+      "Malformacione të aparatit urogjenital.",
+      "Malformacione cerebrale.",
+      "Malformacione të aparatit digjestiv.",
+      "Malformacione kardiake",
+      "Infeksione"
+    ],
+    "correct": 3,
+    "explanation": "Fëmijët me sindromën Down kanë rrezik të lartë malformacionesh kardiake (~40–50%): kanali atrioventrikular, defektet septale (DSV, DSA), Fallot; edhe atrezi duodenale, Hirschsprung, leukemi, hipotiroidizëm."
+  },
+  {
+    "id": "licenca-pediatri-046",
+    "question": "Të gjitha simptomat dhe shënjat e mëposhtme bëjnë pjesë tek kriteret e madhore te Johns’ it për diagnozën e sëmundjes rheumatike, përveç:",
+    "answers": [
+      "Artralgji",
+      "Karditi",
+      "Korea",
+      "Eritema marginatum",
+      "Nodule subkutane"
+    ],
+    "correct": 0,
+    "explanation": "Kriteret madhore të Jones: kardit, poliartrit, korea Sydenham, eritema marginatum, nodule subkutane. Artralgjia është kriter minor (nuk numërohet nëse ka artrit)."
+  },
+  {
+    "id": "licenca-pediatri-047",
+    "question": "Apendiciti akut te fëmija është arsyeja më e shpeshtë e abdomenit akut:",
+    "answers": [
+      "Vetëm tek latantët",
+      "Po",
+      "Jo",
+      "Vetëm tek fëmijët nën moshën 12 muajshe",
+      "Vetëm tek fëmija në moshën e pubertetit."
+    ],
+    "correct": 1,
+    "explanation": "Apendiciti akut është shkaku më i shpeshtë kirurgjikal i abdomenit akut te fëmijët (sidomos 6–12 vjeç); te foshnjat shkaku më i shpeshtë është invaginimi."
+  },
+  {
+    "id": "licenca-pediatri-048",
+    "question": "Cili është shkaktari më i shpeshtë i gastroenteritit akut në moshën pediatrike, në vendet e industrializuara:",
+    "answers": [
+      "E. coli",
+      "Salmonella spp.",
+      "Rotavirusi",
+      "Adenovirusi",
+      "Lamblia intestinale"
+    ],
+    "correct": 2,
+    "explanation": "Në vendet e industrializuara shkaktari më i shpeshtë i gastroenteritit akut te fëmijët (sidomos <5 vjeç) është rotavirusi (sot i ulur falë vaksinës), pastaj norovirusi."
+  },
+  {
+    "id": "licenca-pediatri-049",
+    "question": "Të gjithë të dhënat laboratorike të mëposhtme janë karakteristike për aneminë feriprive, me përjashtim të:",
+    "answers": [
+      "Ulje e nivelit të hekurit në serum",
+      "Kapacitet i lidhjes së hekurit i rritur",
+      "Ulje e nivele të feritinës në serum.",
+      "Ulje e protoporfirinës eritrocitare të lirë",
+      "Eritrocite mikrocitike"
+    ],
+    "correct": 3,
+    "explanation": "Në aneminë sideropenike: hekur serik i ulët, TIBC i rritur, ferritinë e ulët, mikrocitozë dhe protoporfirina eritrocitare e lirë e RRITUR (hekuri mungon për ta kthyer në hem). Pra \"ulje e protoporfirinës\" është e gabuar."
+  },
+  {
+    "id": "licenca-pediatri-050",
+    "question": "Cila nga thëniet e mëposhtme për vaksinën kundër thruthit është e saktë:",
+    "answers": [
+      "Aplikohet te neonati.",
+      "Aplikohet në moshën 15 muaj.",
+      "Nuk aplikohet te prematurët.",
+      "Nuk aplikohet te subjektet alergjike.",
+      "Nuk aplikohet te fëmijët e nënave diabetike."
+    ],
+    "correct": 1,
+    "explanation": "Vaksina kundër fruthit (MMR, e gjallë) aplikohet në moshën 12–15 muaj (doza e parë) dhe përsëritet në 5–6 vjeç; nuk bëhet te neonati (antitrupat materne e neutralizojnë)."
+  },
+  {
+    "id": "licenca-pediatri-051",
+    "question": "Një nënë që i jep gji foshnjes së saj 3 muajshe, diagnostikohet me mastit të gjirit të majtë. Gruaja nuk e di nëse duhet të vazhdojë t’i japi gji fëmijës. Cila është këshilla më e mirë që mund t’i jepni kësaj nëne?",
+    "answers": [
+      "Të ndërpresë menjëherë gjirin fëmijës, sepse mund të infektohet.",
+      "Të ndërpresë mënjëherë gjirin fëmijës, sepse ajo do të fillojë të marrë antibiotikë.",
+      "Të vazhdojë të japi gji vetëm me gjirin e djathtë.",
+      "Të vazhdojë të japi gji duke përdorur të dy gjinjtë.",
+      "Të kalohet në ushqim artificial."
+    ],
+    "correct": 3,
+    "explanation": "Në mastitin puerperal ushqyerja me gji vazhdon nga të dy gjinjtë (përfshirë atë të prekurin), sepse zbrazja e gjirit është pjesë e trajtimit dhe qumështi nuk është i rrezikshëm për foshnjën; antibiotikët (p.sh. dikloksacilinë/cefaleksinë) janë të përputhshëm."
+  },
+  {
+    "id": "licenca-pediatri-052",
+    "question": "Cila nga sindromet e mëposhtme nuk manifestohet me shtat të shkurtër:",
+    "answers": [
+      "Sindromi Turner",
+      "Akondroplazia",
+      "Sindrom Noonan",
+      "Sindrom De Soto",
+      "Hypokondroplazia"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Sotos (gjigantizëm cerebral) karakterizohet nga rritje e tepërt (shtat i lartë, makrocefali). Turner, akondroplazia, hipokondroplazia dhe Noonan japin shtat të shkurtër."
+  },
+  {
+    "id": "licenca-pediatri-053",
+    "question": "Cila nga pohimet e mëposhtme është i vërtetë për vaksinimin antipneumokoksik:",
+    "answers": [
+      "Kryhet mbas moshës 2 vjec",
+      "Nuk rekomandohet.",
+      "Kryhet duke filluar nga moshe 3 muajshe me cdo tip vaksine.",
+      "Kryhet duke filluar nga mosha 2-3 muajshe me vaksinë të konjuguar.",
+      "Kryhet vetëm tek femrat."
+    ],
+    "correct": 3,
+    "explanation": "Vaksinimi antipneumokoksik te foshnjat bëhet me vaksinë të konjuguar (PCV13/PCV15/PCV20) duke filluar në moshën 2–3 muaj, sepse vaksina polisakaridike nuk është imunogjene <2 vjeç."
+  },
+  {
+    "id": "licenca-pediatri-054",
+    "question": "Një fëmijë e moshës 12 vjec shfaqet me lodhje, dhimbje gryke, dobësi, temperature, hepatosplenomegali, limfoadenopati të gjeneralizuar diagnostikohet me një mononukleozë të shkaktuar nga virusi Epstein- Barr. Të gjitha komplikacionet e mëposhtme mund të shfaqen, me përjashtim të:",
+    "answers": [
+      "Anemi aplastike",
+      "Encefaliti",
+      "Mieliti transvers",
+      "Rupturë e lienit",
+      "Hepatit kronik aktiv."
+    ],
+    "correct": 4,
+    "explanation": "Komplikacionet e mononukleozës EBV: obstruksion i rrugëve ajrore, rupturë e shpretkës, anemi hemolitike/aplastike, trombocitopeni, encefalit, mielit transvers, Guillain-Barré, paralizë fakiale. Hepatiti kronik aktiv nuk është komplikacion (hepatiti i EBV është akut, i lehtë)."
+  },
+  {
+    "id": "licenca-pediatri-055",
+    "question": "Nje femije 4 vjec paraqet fecE)ne sasi te shtuar (abondante), me ere te rende dhe me permbajtje yndyrore. Diagnoza me e mundshme eshte:",
+    "answers": [
+      "Semundja celiaki",
+      "Giardiasis",
+      "Fibroze kistike",
+      "Deficit i laktazes",
+      "Hipotiroidizem"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijë 4 vjeç me feçe abundante, me erë të rëndë dhe yndyrore (steatorre), shpesh me infeksione respiratore dhe mosshtim në peshë = fibrozë kistike (insuficiencë pankreatike ekzokrine); diagnozë me testin e djersës."
+  },
+  {
+    "id": "licenca-pediatri-056",
+    "question": "Cila nga karakteristikat e meposhteme eshtE)tipike per konvulsionet febrile te thjeshta:",
+    "answers": [
+      "Kriza te gjeneralizuara ne rast rritje te temperatures trupore ne femijet e cdo moshe.",
+      "Kriza parciale pa humbje te ndergjegjes.",
+      "Kriza te gjeneralizuara ne femijet me deficite neurologjike te evidentuara gjate temperatures",
+      "Kriza toniko-klonike te gjeneralizuara ne rastet e episodeve febrilE)ne femijet nga mosha 6 muaj ne 5 vjec",
+      "Risk i larte per te zhvilluar epilepsi ne te ardhmen."
+    ],
+    "correct": 3,
+    "explanation": "Konvulsionet febrile të thjeshta: kriza toniko-klonike të gjeneralizuara, <15 min, një herë në 24 orë, gjatë etheve, te fëmijët 6 muaj–5 vjeç, pa deficite neurologjike; rreziku i epilepsisë është vetëm pak më i lartë se në popullatë."
+  },
+  {
+    "id": "licenca-pediatri-057",
+    "question": "Te gjitha pohimet e meposhtemE)qe lidhen me infeksionin HBV gjate shtatezanise dhe periudhes neonatale jane te verteta, pervec:",
+    "answers": [
+      "Infeksioni paralindjes me HBV mund te coje ne te ardhmen ne zhvillimin e nje carcinome hepatoqelizore",
+      "Rreth 70-90% e te porsalindurve te infektuar me HBV do te behen bartes kronik te HBsAg",
+      "Skema e rekomanduar per vaksinimin dhe profilaksine passive per HBV te te porsalindurit ndryshon ne varesi te gjendjes serologjike e nenes.",
+      "Vaksina kunder hepatitit B eshte universalisht e rekomanduar per te gjithe te porsalindurit ne terme",
+      "Vaksina anti HBV eshte e kunder indikuar ne shtatezani,pavaresisht gjendjes serologjike te nenes"
+    ],
+    "correct": 4,
+    "explanation": "E gabuar: vaksina anti-HBV (rekombinante, jo e gjallë) nuk kundërindikohet në shtatzëni dhe mund të bëhet te gratë në rrezik. Pohimet e tjera (rreziku i kronicizimit 70–90% te neonatët, HCC, profilaksia sipas statusit të nënës, vaksinimi universal) janë të sakta."
+  },
+  {
+    "id": "licenca-pediatri-058",
+    "question": "Cila nga diagnozat eshte me e mundshme ne nje femije 3 vjec me te dhenat hematologjike te meposhteme:HB 11.5 g/dl,MCV 60, eritrocite 5,5x 10^6?",
+    "answers": [
+      "Semundje kronike",
+      "Profil talasemik",
+      "Mungese hekuri",
+      "Mungese ne acid folik",
+      "Mungese ne vit B12"
+    ],
+    "correct": 1,
+    "explanation": "Hb pak e ulët (11,5), mikrocitozë e theksuar (MCV 60) me numër eritrocitesh të rritur (5,5 milion) — indeksi Mentzer (MCV/RBC = 11) <13 — sugjeron tipar talasemik (beta-talasemi minor), jo mungesë hekuri."
+  },
+  {
+    "id": "licenca-pediatri-059",
+    "question": "Cili test eshte gjeresisht i perdorur per te monitoruar terapine me heparine?",
+    "answers": [
+      "Numrimi i trombociteve",
+      "Koha e trombines (TT)",
+      "Dozimi i nje faktori specifik",
+      "Koha e pjesshme e tromboplastines(aPTT)",
+      "Koha e protrombines(PT)"
+    ],
+    "correct": 3,
+    "explanation": "Terapia me heparinë jofraksionuar monitorohet me aPTT (koha e tromboplastinës parciale e aktivizuar); heparinat me peshë të ulët molekulare (kur nevojitet) me anti-Xa."
+  },
+  {
+    "id": "licenca-pediatri-060",
+    "question": "Cila nga gjendrat limfatike eshte me shpesh e prekur ne limfomen Hodgkin?",
+    "answers": [
+      "Limfonodujt aksilar",
+      "Limfonodujt inguinal",
+      "Limfonodujt laterocervikal",
+      "Limfonodujt ilo-mediastinal",
+      "Limfonodujt lumboaortal"
+    ],
+    "correct": 2,
+    "explanation": "Limfoma Hodgkin prek më shpesh limfonodujt laterocervikalë dhe supraklavikularë (pa dhimbje), shpesh me prekje mediastinale; përhapet në mënyrë të vazhdueshme (në stacione fqinje)."
+  },
+  {
+    "id": "licenca-pediatri-061",
+    "question": "Cila nga shenjat apo simptomat e meposhtmE)mund te mungoje ne nje te porsalindur me meningit?",
+    "answers": [
+      "Temperature",
+      "Te vjella",
+      "Kriza convulsive",
+      "Rigiditeti nukal",
+      "PCR e rritur"
+    ],
+    "correct": 3,
+    "explanation": "Te i porsalinduri me meningit shenjat meningeale (ngurtësia nukale) shpesh mungojnë; simptomat janë jospecifike: ethe ose hipotermi, letargji, mosushqyerje, të vjella, konvulsione, fontanelë e fryrë, PCR e rritur."
+  },
+  {
+    "id": "licenca-pediatri-062",
+    "question": "Nje latant 7 muajsh qe paraqet te qara intermitente, te vjella dhe fece me mucus dhe gjak ka nevoje per:",
+    "answers": [
+      "Koprokulture dhe solucione gluko-elektrolitike",
+      "Rx direkte abdomeni dhe barium enema",
+      "Trajtim me prokinetike",
+      "Rx me contrast(barium test)",
+      "Pozicion antirefluks"
+    ],
+    "correct": 1,
+    "explanation": "Foshnjë 7 muajsh me të qara intermitente (krizë dhimbjeje), të vjella dhe feçe me mukus e gjak = invaginim intestinal; kërkon ekografi/radiografi dhe klizmë me kontrast (diagnostike dhe terapeutike)."
+  },
+  {
+    "id": "licenca-pediatri-063",
+    "question": "Parvovirusi B19 shkakton:",
+    "answers": [
+      "Semundjen VI",
+      "Semundjen V",
+      "Mononukleozen infektive",
+      "Ekzantema subitum",
+      "Semundja e IV"
+    ],
+    "correct": 1,
+    "explanation": "Parvovirusi B19 shkakton eritemën infektioze (\"sëmundja e pestë\", fytyrë \"e shuplakuar\"), krizë aplastike te pacientët me hemolizë dhe hidrops fetal. Sëmundja e gjashtë (ekzantema subitum) shkaktohet nga HHV-6."
+  },
+  {
+    "id": "licenca-pediatri-064",
+    "question": "Vlerat e hematokritit ne lindje jane :",
+    "answers": [
+      "25-35%",
+      "45-65%",
+      "70-85%",
+      "65-85%",
+      "mbi 85%"
+    ],
+    "correct": 1,
+    "explanation": "Hematokriti i të porsalindurit në term është i lartë: ~45–65% (Hb 14–20 g/dl); >65% përkufizon policitemi neonatale."
+  },
+  {
+    "id": "licenca-pediatri-065",
+    "question": "Hematuria asimptomatike ne moshat shkollore eshte prezente ne:",
+    "answers": [
+      "0-0.1% te femijeve",
+      "0,5-2% te femijeve",
+      "3-5 % te femijeve",
+      "5-10% te femijeve",
+      "8-15% te femijeve"
+    ],
+    "correct": 1,
+    "explanation": "Hematuria mikroskopike asimptomatike gjendet në rreth 0,5–2% të fëmijëve në moshë shkollore në depistime; shpesh kalimtare."
+  },
+  {
+    "id": "licenca-pediatri-066",
+    "question": "Cila nga alternativat e meposhtme mund te jete nderlikim i interventit kirurgjikal te hernies inguinale te lindur tek femijet?",
+    "answers": [
+      "Atrofi testikulare jatrogjene",
+      "Gastroektazi jatrogjene",
+      "Retension urinar",
+      "Nje kist ne duktusin tireo-gloss",
+      "Nje infeksion i rrugeve urinare"
+    ],
+    "correct": 0,
+    "explanation": "Komplikacionet e herniotomisë inguinale te fëmija: atrofi testikulare iatrogjene (dëmtim i enëve spermatike), dëmtim i duktusit deferent, testikul i ngjitur lart (kriptorkidi iatrogjene), recidivë, hematomë/infeksion plage."
+  },
+  {
+    "id": "licenca-pediatri-067",
+    "question": "Per te arritur te ashtequajturen Imunitetin ne komunitet ( herD)immunity ) eshte e nevojshme te vaksinohet:",
+    "answers": [
+      "50% e popullates receptive",
+      "70% e popullates receptive",
+      ">90% e popullates receptive",
+      ">80 % e popullates receptive",
+      ">60 % e popullates receptive"
+    ],
+    "correct": 2,
+    "explanation": "Imuniteti i tufës (herd immunity) për sëmundje shumë ngjitëse si fruthi kërkon mbulim vaksinal >90–95% të popullatës së ndjeshme (sipas numrit bazë të riprodhimit R0)."
+  },
+  {
+    "id": "licenca-pediatri-068",
+    "question": "Nga cila prej deficiteve ushqimore te meposhteme jane te kercenuar latantet e ushqyer vetem me qumesht dhie?",
+    "answers": [
+      "Deficit/mungese ne vit A",
+      "Deficit ne vit B6",
+      "Deficit ne vit E",
+      "Deficit ne folate",
+      "Deficit ne thiamine"
+    ],
+    "correct": 3,
+    "explanation": "Qumështi i dhisë është i varfër në acid folik (dhe vitaminë B12, D, hekur); foshnjat e ushqyera vetëm me të rrezikojnë anemi megaloblastike nga deficiti i folateve."
+  },
+  {
+    "id": "licenca-pediatri-069",
+    "question": "Ne diagnozen definitive te sepsis neonatal, cila nga alternativat e meposhteme eshte vendimtare per vendosjen e diagnozes?",
+    "answers": [
+      "Temperatura",
+      "Simptomatologjia e organit",
+      "Eritrosedimenti",
+      "Pozitiviteti i hemokultures",
+      "Pergjigjja klinike gjate antibiotiko-terapise"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza përfundimtare e sepsës neonatale bazohet në pozitivitetin e hemokulturës (izolimi i agjentit); shenjat klinike, PCR dhe ERS janë mbështetëse dhe jospecifike."
+  },
+  {
+    "id": "licenca-pediatri-070",
+    "question": "Cila nga semundjet e trashegueshme ka nje kuader klinik qe karakterizohet nga infeksione te shpeshta dhe deficit te aftesise se neutrofileve per te shkaterruar bakteret e fagocituara?",
+    "answers": [
+      "Agamaglobulinemia",
+      "Semundja Wilson",
+      "Fibroza kistike",
+      "Semundja granulomatoze kronike",
+      "Neutropenia kongenitale"
+    ],
+    "correct": 3,
+    "explanation": "Sëmundja granulomatoze kronike (defekt i NADPH oksidazës) karakterizohet nga pamundësia e neutrofileve për të vrarë bakteret e fagocituara (pa \"burst\" oksidativ) → infeksione të përsëritura nga mikroorganizma katalazë-pozitivë (S. aureus, Aspergillus) me granuloma."
+  },
+  {
+    "id": "licenca-pediatri-071",
+    "question": "Nje te porsalinduri i behet nje ekzaminim objektiv. Cila nga shenjat nuk sugjeron per ndryshime pathologjike?",
+    "answers": [
+      "Akrocianoze",
+      "Hepar 2cm nen harkun brinjor",
+      "Sufel sistolik I lehte 1-2/VI",
+      "Frekuenca respiratore=70/min",
+      "Zona te pigmentuarA)ne nivelin lumbosakral"
+    ],
+    "correct": 3,
+    "explanation": "Te i porsalinduri janë normale: akrocianoza (në orët e para), mëlçia deri 2 cm nën harkun brinjor, një zhurmë sistolike e lehtë kalimtare, njollat mongoloide lumbosakrale. Frekuenca respiratore 70/min (normalja 40–60) tregon takipne patologjike — pyetja duket e formuluar me logjikë të përmbysur; elementi patologjik është D."
+  },
+  {
+    "id": "licenca-pediatri-072",
+    "question": "Te gjitha pohimet rreth infeksionit te Hemofilus influenza tipi b jane te verteta pervec:",
+    "answers": [
+      "I identifikueshem ne mikroskop pas ngjyrimit me Gram",
+      "Eshte pergjejges per epiglotitin",
+      "Mund te shkaktoje celulit",
+      "Toksoidi tetanik sherben si proteine conjuguese per vaksinen.",
+      "Godet kryesisht femijet mbi 7 vjec"
+    ],
+    "correct": 4,
+    "explanation": "H. influenzae tip b (kokobacil Gram-negativ) shkakton epiglotit, meningit, celulit, artrit septik, kryesisht te fëmijët <5 vjeç (jo mbi 7 vjeç); vaksina konjuguar përdor si proteinë bartëse edhe toksoidin tetanik (PRP-T)."
+  },
+  {
+    "id": "licenca-pediatri-073",
+    "question": "Te gjitha pohimet e meposhteme jane te verteta ,pervec:",
+    "answers": [
+      "Fontanela e perparme mbyllet ne vitin e pare te jetes",
+      "Fontanela e perparme (anteriore) eshte e gjere ne rastet me hipotiroidizem",
+      "Fontanela posteriorembyllet ne moshen 3mujore",
+      "Fontanela e perparme mbyllet me vonese ne rakitizem",
+      "Fontanela e perparme mbyllet me shpejt ne hipertiroidizem"
+    ],
+    "correct": 2,
+    "explanation": "Pohimi i gabuar është mbyllja e fontanelës posteriore në moshën 3-mujore (ajo mbyllet zakonisht brenda 6–8 javëve). Fontanela anteriore mbyllet në 12–18 muaj; mbyllet me vonesë në hipotiroidizëm/rakitizëm dhe herët në hipertiroidizëm."
+  },
+  {
+    "id": "licenca-pediatri-074",
+    "question": "Nje femije 15 muajsh paraqet kolle paroksizmale e shoqeruar me te vjella. Trajtimi me cilen nga medikamentet e meposhteme mund te jape rezultatet terapeutike me te mira?",
+    "answers": [
+      "Ampiciline",
+      "Cefaclor",
+      "Kortikosteroid",
+      "Eritromicine",
+      "Rimfapicine"
+    ],
+    "correct": 3,
+    "explanation": "kolla paroksistike e shoqëruar me të vjella pas kollës te fëmija 15 muajsh sugjeron pertusis (kollë e mirë); trajtimi i zgjedhur është makrolidi (eritromicinë/azitromicinë), që ul edhe infektivitetin."
+  },
+  {
+    "id": "licenca-pediatri-075",
+    "question": "Nje femije 10 vjec ka kaluar nje infeksion te rrugeve te siperme respiratore para 5 ditesh,eshte trajtuar me aspirine si antipiretik dhe gjendja dukej e permiresuar. Tani shtrohet ne urgjence me temperature,te vjella profuze dhe letargji. Ne ekzaminimin objektiv vihet re hepatosplenomegali e lehte. Ekzaminimet laboratorike tregojne per nje rritje te bilirubines totale, te transaminazave dhe amonemise. Cila nga opsionet e meposhteme perben diagnozen me te mundshme?",
+    "answers": [
+      "Hepatit A (HAV)",
+      "Hepatit I shkaktuar nga barnat",
+      "Sindromi Reye",
+      "Mononukleoza infective",
+      "Sindromi Gilbert"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijë që pas infeksioni viral dhe marrjes së aspirinës shfaq të vjella profuze, letargji, hepatomegali, transaminaza dhe amoniak të rritura = sindroma Reye (encefalopati akute + steatozë hepatike mikrovezikulare)."
+  },
+  {
+    "id": "licenca-pediatri-076",
+    "question": "Te gjithe shenjat dhe simptomat e meposhteme jane tregues te dehidrimit akut ne femije, pervec?",
+    "answers": [
+      "Tharje e mukozave dhe lekures",
+      "Oliguri",
+      "Renie ne peshe >10%",
+      "Hipertension",
+      "Somnolence, asteni"
+    ],
+    "correct": 3,
+    "explanation": "Shenjat e dehidratimit akut: tharje e mukozave dhe lëkurës, turgor i ulët, oliguri, rënie në peshë, sy të futur, fontanelë e zhytur, takikardi, letargji; hipotensioni është shenjë e vonë (shok). Hipertensioni nuk është shenjë dehidratimi."
+  },
+  {
+    "id": "licenca-pediatri-077",
+    "question": "Cilat nga psindromat e meposhtme eshte shkaku kryesor i insuficiences respiratore te femijet obeze?",
+    "answers": [
+      "Pneumotoraksi",
+      "Refluksi gastroezofageal.",
+      "Insuficienca cardiake congjestive.",
+      "Astma",
+      "Apnea e gjumit"
+    ],
+    "correct": 4,
+    "explanation": "Te fëmijët obezë shkaku kryesor i insuficiencës respiratore është sindroma e apnesë obstruktive të gjumit (dhe hipoventilimi nga obeziteti), me hipertrofi adeno-tonsilare shoqëruese."
+  },
+  {
+    "id": "licenca-pediatri-078",
+    "question": "Cilat nga etapat e meposhteme te zhvillimit psikomotor karakterizojne nje femije 10 muajsh?",
+    "answers": [
+      "Te ecurit",
+      "Te folurit",
+      "Te shkarraviturit me nje laps",
+      "Te ulet vetem dhe te ngrihet ne kembe duke e ndihmuar",
+      "Te ndertoje nje kulle me 2-3 kuba"
+    ],
+    "correct": 3,
+    "explanation": "Foshnja 10 muajsh ulet vetë në mënyrë të qëndrueshme, ngrihet në këmbë duke u mbajtur (dhe ecën anash mobilieve), kap me pincë. Ecja e pavarur rreth 12 muaj, kulla me 2 kube rreth 15 muaj."
+  },
+  {
+    "id": "licenca-pediatri-079",
+    "question": "Cila nga anomalite e meposhteme kardiovaskulare eshte me shpesh e hasur ne sindromin Williams?",
+    "answers": [
+      "Difekt ne septumin atrio-ventrikular",
+      "Prolaps I valvules mitrale",
+      "Stenoze aortale supravalvulare",
+      "Koarktacion aorte",
+      "Stenoze e a.pulmonare"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma Williams (delecion 7q11.23, gjeni i elastinës) shoqërohet tipikisht me stenozë aortale supravalvulare (dhe stenoza pulmonare periferike), fytyrë \"elf\", hiperkalcemi, personalitet shumë shoqëror."
+  },
+  {
+    "id": "licenca-pediatri-080",
+    "question": "Ne traumat e heparit, cila nga te dhenat e meposhtme diagnostike mund te perdoret?",
+    "answers": [
+      "Cistografia",
+      "Urografia",
+      "Ekografia abdominale",
+      "TAC cerebrale",
+      "Klizem me barium."
+    ],
+    "correct": 2,
+    "explanation": "Në traumat abdominale (përfshirë mëlçinë) metoda e parë e shpejtë në shtrat është ekografia abdominale (FAST) për likid të lirë dhe lezione parenkimale; CT me kontrast te pacienti i qëndrueshëm."
+  },
+  {
+    "id": "licenca-pediatri-081",
+    "question": "Te gjitha pohimet e meposhteme shkojne me diagnozen e sindromit Turner ne nje paciente adoleshente, pervec?",
+    "answers": [
+      "Kariotipi 45,X",
+      "Stature e shkurter",
+      "Amenorre primare",
+      "LH e rritur dhe FSH e ulur",
+      "Koarktacion I aortes"
+    ],
+    "correct": 3,
+    "explanation": "Në sindromën Turner (45,X) disgjeneza gonadale (gonada \"në fije\") jep hipogonadizëm hipergonadotrop: LH dhe FSH të dyja të rritura (FSH sidomos). Tipike: shtat i shkurtër, amenorre primare, koarktacion aorte, veshka në patkua."
+  },
+  {
+    "id": "licenca-pediatri-082",
+    "question": "Nje adoleshent ve re nje masE)ne forme qese jo te dhimbshme ne anen e majte te skrotumit. Cila nga diagnozat e meposhtme eshte me e mundshme?",
+    "answers": [
+      "Hidrocele",
+      "Varikocele",
+      "Epididimit",
+      "Torsion I testikulit",
+      "Torsion I appendix testis (hydatid Morgagni)"
+    ],
+    "correct": 1,
+    "explanation": "Masë jo e dhimbshme në hemiskrotumin e majtë, që ndihet si \"qese me krimba\" dhe zmadhohet në këmbë/Valsalva = varikocele (vena spermatike e majtë derdhet në kënd të drejtë në venën renale)."
+  },
+  {
+    "id": "licenca-pediatri-083",
+    "question": "Cili eshte “standarti I arte” , per diagnostikimin se semundjes se Hirschprung?",
+    "answers": [
+      "Ph-Metria",
+      "Klizma opake",
+      "Biopsia rektale",
+      "Echografi abdominale",
+      "Manometria anorektale."
+    ],
+    "correct": 2,
+    "explanation": "Standardi i artë për sëmundjen Hirschsprung është biopsia rektale (me thithje) që tregon mungesën e qelizave ganglionare dhe hipertrofinë e fibrave nervore (acetilkolinesterazë +); manometria (mungesë e refleksit rekto-anal inhibitor) dhe klizma opake janë mbështetëse."
+  },
+  {
+    "id": "licenca-pediatri-084",
+    "question": "Nje nene sjell femijen 4 vjecar tek pediatri sepse ka hemorragji nga hundet cdo dite, nje gjakederdhje e vazhdueshme ne sasi te paket nga nares dexter.Cila nga mundesite e meposhtme eshte shkaku me i shpeshte i epistaksit ne popullaten pediatrike?",
+    "answers": [
+      "Rinit alergjik",
+      "Zakoni I te futurit te gishtave ne hunde",
+      "Semundja Von Willembrand",
+      "Purpura trombocitopenike idiopatike",
+      "Angiofibrome nasale"
+    ],
+    "correct": 1,
+    "explanation": "Shkaku më i shpeshtë i epistaksës te fëmijët është trauma digjitale (futja e gishtave në hundë) mbi zonën Kiesselbach (pleksusi anterior), sidomos me ajër të thatë/rinit."
+  },
+  {
+    "id": "licenca-pediatri-085",
+    "question": "Parandalimi i transmetimit vertikal tek femijet me HIV realizohet me ane te:",
+    "answers": [
+      "Lindjes me rruge natyrale (via vaginale)",
+      "Te ushqyerit me gji",
+      "Marrja e AZT ne shtatezani",
+      "Te gjitha pergjigjet e dhena",
+      "Asnje nga pergjigjet e dhena"
+    ],
+    "correct": 2,
+    "explanation": "Transmetimi vertikal i HIV ulet ndjeshëm (nga ~25% në <1–2%) me terapi antiretrovirale gjatë shtatzënisë (historikisht AZT/zidovudinë), lindje me cezariane kur ngarkesa virale është e lartë dhe shmangie të ushqyerjes me gji (në vendet me burime). Përgjigjja \"asnjë\" është e gabuar; e saktë është C."
+  },
+  {
+    "id": "licenca-pediatri-086",
+    "question": "Nena e nje latanti 2 muajsh eshte e shqetesuar nga nje artikull ne gazete qe flet per SIDS (Sindromi I vdekjes se papritur) dhe pyet cilet jane faktoret e riskut per kete patologji.Te gjitha indikimet qe i jep nenes jane te verteta ,pervec?",
+    "answers": [
+      "Hipertermia ambientale",
+      "Ushqyerja artificial",
+      "Duhanpirja e nenes ne shtatezani",
+      "Anamneze familjare positive per raste te meparshme me SIDS",
+      "Qendrim permbys ose anash jo i sigurte gjate nates"
+    ],
+    "correct": 1,
+    "explanation": "Faktorë të vërtetuar rreziku për SIDS: gjumi në pozicion prone/anash, duhanpirja e nënës, mbinxehja, shtroja të buta, histori familjare. Ushqyerja artificiale është përjashtimi (megjithëse ushqyerja me gji konsiderohet sot faktor mbrojtës)."
+  },
+  {
+    "id": "licenca-pediatri-087",
+    "question": "Cili eshte shkaku me I shpeshte I hipoglicemise ne nje femije<1vjec?",
+    "answers": [
+      "Hiperinsulinizem",
+      "Hipopituitarizem",
+      "Hipoglicemia ketotike",
+      "Deficiti enzimatik I neoglukogenezes",
+      "Malabsorbimi"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i hipoglicemisë persistente te foshnja <1 vjeç është hiperinsulinizmi (kongjenital ose kalimtar, p.sh. neonat i nënës diabetike); hipoglicemia ketotike është tipike për fëmijët 18 muaj–5 vjeç."
+  },
+  {
+    "id": "licenca-pediatri-088",
+    "question": "Te gjitha pohimet e meposhtme mbi renien ne peshe ne ditet e para te jetes jane korrekte, pervec?",
+    "answers": [
+      "Mund te jete deri ne 15% ne prematuret.",
+      "Vjen nga humbja e shprehur e mekoniumit dhe lengjeve",
+      "Vjen nga mungesat relative kalorike ne 2-3 ditet e para",
+      "Pesha e lindjes duhet te rekuperohet brenda dites se 5 te jetes",
+      "Konsiderohet fiziologjike nje humbje rreth 10% te peshes se lindjes"
+    ],
+    "correct": 3,
+    "explanation": "Rënia fiziologjike e peshës (deri ~10% në term, deri 15% te prematurët) vjen nga humbja e lëngjeve dhe mekoniumit dhe marrja e pakët kalorike; pesha e lindjes rikuperohet brenda ditës 10–14, jo brenda ditës së 5-të."
+  },
+  {
+    "id": "licenca-pediatri-089",
+    "question": "Diagnoza e semundjes Werding-Hoffman eshte shume e mundshme ne nje femije me hipotoni te rende qe manifestohet me cilen prej shenjave te meposhteme?",
+    "answers": [
+      "Reflekset tendinoze te thella normale",
+      "Konvulsione",
+      "Fashikulacion (dridhje) e gjuhes",
+      "Temperatura te herepas’hereshme",
+      "Atrofi e nervit optik"
+    ],
+    "correct": 2,
+    "explanation": "Sëmundja Werdnig-Hoffmann (atrofi muskulare spinale tip 1, degjenerim i motoneuroneve të brirëve anteriore) jep hipotoni të rëndë (\"floppy infant\"), arefleksi dhe fashikulacione të gjuhës; intelekti është normal."
+  },
+  {
+    "id": "licenca-pediatri-090",
+    "question": "Gjaku komplet i nje pacienti tregon ulje te vellimit korpuskular dhe ulje te numrit te retikulociteve. Cila nga diagnozat e meposhteme eshte me e mundshme?",
+    "answers": [
+      "Talasemia major",
+      "Anemia ferriprive.",
+      "Anemia ne semundjet kronike",
+      "Profil talasemik",
+      "Anemia nga deficit I acidit folik"
+    ],
+    "correct": 1,
+    "explanation": "Mikrocitoza (MCV e ulët) me retikulocite të ulëta (prodhim i pamjaftueshëm) sugjeron anemi ferriprive (sideropenike), anemia më e shpeshtë te fëmijët."
+  },
+  {
+    "id": "licenca-pediatri-091",
+    "question": "Nje femije 3vjec paraqet temperature 39 C ,rigiditet nukal prej 3 ditesh.Ne ekzaminimin objektiv vihet re hiperemi e farinksit, shtim te konsistences se limfonodujve cervical anterior dhe posterior si dhe rritje te rezistences gjate fleksionit te qafes. Masa me e shpejte qe duhet ndermarre eshte:",
+    "answers": [
+      "Punksioni lumbar",
+      "Test per anticorpet heterofile",
+      "Tampon faringeal dhe peniciline per 7 dite nga goja",
+      "Tampon faringeal dhe peniciline per 10 dite nga goja",
+      "Tampon faringeal, formule leukocitare dhe rivleresim pas 24 oresh"
+    ],
+    "correct": 0,
+    "explanation": "Fëmijë me ethe dhe ngurtësi nukale (rezistencë në fleksionin e qafës) duhet konsideruar meningit derisa të provohet e kundërta; masa urgjente diagnostike është punksioni lumbar (pas përjashtimit të hipertensionit intrakranial)."
+  },
+  {
+    "id": "licenca-pediatri-092",
+    "question": "Te gjithe faktoret e meposhtem jane te perfshire ne patogenezen e bronkodisplazise, pervec:",
+    "answers": [
+      "Infeksioni",
+      "Prematuritet",
+      "Ikteri i parakohshem.",
+      "Oksigjenoterapia",
+      "Ventilimi mekanik"
+    ],
+    "correct": 2,
+    "explanation": "Bronkodisplazia pulmonare (sëmundje kronike pulmonare e prematurit) lidhet me prematuritetin, toksicitetin e oksigjenit, barotraumën/volutraumën nga ventilimi mekanik dhe infeksionet/inflamacionin; ikteri nuk ka rol."
+  },
+  {
+    "id": "licenca-pediatri-093",
+    "question": "Nje vajze 9 vjece ishte ne gjendje shendetesore shume te mire para 10 oresh, kur filloi te shfaqte letargji, te vjella, te qara intermitente me retraktim te gjymtyreve te poshtme ne nivel te barkut.Ne qendren ambulatore defekon fecE)me pak gjak dhe xhelatinoze. Diagnoza me e mundshme eshte:",
+    "answers": [
+      "Stenoze pilori",
+      "Apendisitis",
+      "Infeksion I rrugeve urinare",
+      "Invaginim intestinal",
+      "Ulcer duodenale"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbje abdominale kolike intermitente (fëmija i tërheq këmbët drejt barkut), të vjella, letargji dhe feçe me mukus e gjak (\"pelte qershie\") = invaginim intestinal."
+  },
+  {
+    "id": "licenca-pediatri-094",
+    "question": "Vleresimi klinik per te percaktuar pikezimin Apgar behet ne :",
+    "answers": [
+      "1min,3min ,6min",
+      "1min,6min ,8min",
+      "1min,5min,10min",
+      "3min,6min,9min",
+      "3min,10min,20min"
+    ],
+    "correct": 2,
+    "explanation": "Pikëzimi Apgar vlerësohet në minutën 1 dhe 5 pas lindjes, dhe përsëritet në minutën 10 (e më tej) nëse pikët në minutën 5 janë <7."
+  },
+  {
+    "id": "licenca-pediatri-095",
+    "question": "Traumat abdominale mund te jene shkak i abdomenit akut:",
+    "answers": [
+      "Po, gjithmone",
+      "Po, ndonjehere",
+      "Vetem nese shoqerohen me trauma kraniale",
+      "Vetem nese shoqerohen me trauma torakale",
+      "Vetem ne prani te frakturave te gjymtyreve te poshtem"
+    ],
+    "correct": 1,
+    "explanation": "Traumat abdominale (rupturë e shpretkës/mëlçisë, perforim i zorrës) mund të shkaktojnë abdomen akut, por jo gjithmonë: shumë trauma janë të lehta dhe pa lezione viscerale."
+  },
+  {
+    "id": "licenca-pediatri-096",
+    "question": "Cila nga pohimet e meposhtme mbi sindromin Berger eshte korrekte:",
+    "answers": [
+      "Proliferimi mezangial eshte I dokumentuar ne mikroskop optic",
+      "Depozitimet mezangiale jane kryesisht te perbera nga IgG",
+      "Eshte me e shpeshte ne femra",
+      "Nivelet serike te C3 jane te ulura",
+      "Trajtimi nuk mund te behet me imunosupresore"
+    ],
+    "correct": 0,
+    "explanation": "Nefropatia IgA (sëmundja Berger): proliferim mezangial në mikroskop optik me depozitime mezangiale IgA në imunofluoreshencë; më e shpeshtë te meshkujt, C3 normal; në format progresive përdoren kortikosteroide/imunosupresorë."
+  },
+  {
+    "id": "licenca-pediatri-097",
+    "question": "Cila nga shenjat e meposhteme eshte e nevojshme per te bere nje diagnoze te ADHD (crregullim i hiperaktivitetit dhe deficit i vemendjes):",
+    "answers": [
+      "Shfaqje para moshes 10 vjecù",
+      "Paaftesi per te mesuar",
+      "Impulsivitet",
+      "Anamneze per trauma ne lindje",
+      "Moter/vella me diagnoze te ADHD"
+    ],
+    "correct": 2,
+    "explanation": "ADHD diagnostikohet me simptoma të mosvëmendjes dhe/ose hiperaktivitet-impulsivitetit (≥6 simptoma, ≥6 muaj, në ≥2 mjedise, me fillim para 12 vjeç sipas DSM-5); impulsiviteti është pjesë thelbësore e kritereve."
+  },
+  {
+    "id": "licenca-pediatri-098",
+    "question": "Nje femije me fibroze kistike ka pneumoni te shkaktuar nga Staphylococcus aureus. Femija pa pritur ben nje detres respirator, zbehje te zhurmave respiratore ne anen e majte te toraksit dhe devijim te trakese ne te djathte. Cila nga pohimet e meposhteme eshte diagnoza me e mundshme:",
+    "answers": [
+      "Emfizeme",
+      "Versament pleuritik",
+      "Rupture e nje pneumatocele nen trysni",
+      "Sindrom I detressit respirator tek I rrituri",
+      "Infarkt pulmonar."
+    ],
+    "correct": 2,
+    "explanation": "Pneumonia stafilokoksike jep shpesh pneumatocele; ruptura e një pneumatoceleje nën tension shkakton pneumotoraks (me tension): distres i papritur, mungesë e zhurmave në anën e prekur dhe devijim i trakesë në anën e kundërt."
+  },
+  {
+    "id": "licenca-pediatri-099",
+    "question": "Cili eshte ‘’shkaku me “ I shpeshte ne hipotiroidizmin juvenile?",
+    "answers": [
+      "Mungesa ne jod",
+      "Tiroiditi subakut",
+      "Struma e thjeshte",
+      "Tiroiditi Hashimoto",
+      "Karcinoma tiroidiene"
+    ],
+    "correct": 3,
+    "explanation": "Shkaku më i shpeshtë i hipotiroidizmit të fituar te fëmijët/adoleshentët (në zonat pa mungesë jodi) është tiroiditi autoimun Hashimoto (antitrupa anti-TPO/anti-Tg), më shpesh te vajzat."
+  },
+  {
+    "id": "licenca-pediatri-100",
+    "question": "Cili nga barnat e meposhtem mund te shkaktojE)rash morbiliform ne mononukleozen infective?",
+    "answers": [
+      "Meticilina",
+      "Ampicilina",
+      "Eritromicina",
+      "Tetraciklina",
+      "Difenilhydantoina"
+    ],
+    "correct": 1,
+    "explanation": "Në mononukleozën infektive dhënia e ampicilinës/amoksicilinës shkakton në 70–90% të rasteve rash makulopapular morbiliform (reaksion imunologjik, jo alergji e vërtetë)."
+  },
+  {
+    "id": "licenca-pediatri-101",
+    "question": "Nje femije 3 vjeç paraqet temperature,rash kalimtar, artrit, hepatosplenomegali, versament perikardiak, eritrosedimentacion te rritur, leukocitoze, neutrofili. Cila nga alternativat e meposhteme eshte me e mundshme?",
+    "answers": [
+      "Ethe reumatizmale acute",
+      "Lupus eritematoz sistemik (LES)",
+      "Artrit rheumatoid juvenile",
+      "Semundja Lyme",
+      "Spondiliti ankilozant"
+    ],
+    "correct": 2,
+    "explanation": "Ethe me kulme, rash i kalimtar me ngjyrë salmoni, artrit, hepatosplenomegali, serozit (perikardit), leukocitozë neutrofilike, ERS e rritur = artrit idiopatik juvenil forma sistemike (sëmundja Still)."
+  },
+  {
+    "id": "licenca-pediatri-102",
+    "question": "Cila nga karakteristikat klinikE)te meposhteme eshte tregues i nje urgjence neurologjike- neurokirurgjike ne nje femije me cefale akute?",
+    "answers": [
+      "Intensiteti I dhimbjes",
+      "Lloji I dhimbjes",
+      "Prania e fotofobise",
+      "Prania e shenjave neurologjike shoqeruese",
+      "Zgjatja e dhimbjes"
+    ],
+    "correct": 3,
+    "explanation": "Te fëmija me cefale akute shenjë alarmi (red flag) për urgjencë neurologjike/neurokirurgjikale është prania e shenjave neurologjike fokale ose çrregullimet e vetëdijes (edhe edema papilare, të vjellat në mëngjes, cefale që zgjon nga gjumi)."
+  },
+  {
+    "id": "licenca-pediatri-103",
+    "question": "Cila nga keto crregullime elektrolitike eshte tipike per fibrozen kistike ?",
+    "answers": [
+      "Acidoza metabolike",
+      "Alkaloza hipokloremike",
+      "Alkaloza hiperkloremike",
+      "Alkaloze e kompensuar",
+      "Acidoze respiratore"
+    ],
+    "correct": 1,
+    "explanation": "Në fibrozën kistike humbja e tepërt e kripës (NaCl) me djersë, sidomos në vapë, mund të shkaktojë alkalozë metabolike hipokloremike me hiponatremi (pseudo-Bartter)."
+  },
+  {
+    "id": "licenca-pediatri-104",
+    "question": "Cila nga gjendiet pasuese karakterizon sindromin TURNER?",
+    "answers": [
+      "Hirsutizmi",
+      "Vonese mendore",
+      "Rrisk I larte per obezitet",
+      "Incidence e larte per hipotiroidizem congenital",
+      "Incidence e larte per semundje autozomike"
+    ],
+    "correct": 4,
+    "explanation": "Në sindromën Turner ka incidencë të lartë të sëmundjeve autoimune (tiroidit Hashimoto, celiaki, diabet), si dhe obezitet, intolerancë ndaj glukozës. Intelekti zakonisht normal; hirsutizmi nuk është tipik."
+  },
+  {
+    "id": "licenca-pediatri-105",
+    "question": "Nje latant tre javesh prezanton mikrocefali, kalcifikime cerebrale ne radiografine e kokes dhe verberi. Cila nga patologjite e meposhtme eshte me e mundshme per te shpjeguar keto simptoma?",
+    "answers": [
+      "Hemoragji subdurale bilaterale",
+      "Agenezi cerebrale",
+      "Infeksion nga citomegalovirusi",
+      "Eritroblastoze",
+      "Mikrocefali primitive"
+    ],
+    "correct": 2,
+    "explanation": "Foshnjë me mikrocefali, kalcifikime cerebrale (periventrikulare) dhe korioretinit/verbim = infeksion kongjenital nga citomegalovirusi (infeksioni kongjenital më i shpeshtë); toksoplazmoza jep kalcifikime difuze dhe hidrocefali."
+  },
+  {
+    "id": "licenca-pediatri-106",
+    "question": "Cila nga anomalite kongenitale te meposhtme haset me shpesh?",
+    "answers": [
+      "Mielomeningocele",
+      "Hipospadia",
+      "Fokomelia",
+      "Palatoskizi",
+      "Deformime te kembeve"
+    ],
+    "correct": 1,
+    "explanation": "Ndër anomalitë e listuara, hipospadia është më e shpeshta (rreth 1 në 200–300 lindje mashkullore); malformacionet e këmbëve (pes equinovarus) rreth 1/1000, mielomeningocela dhe palatoskiza më rralla."
+  },
+  {
+    "id": "licenca-pediatri-107",
+    "question": "Cila nga pohimet e meposhtme duhet ndjekur se pari ne ekzaminimet e femijes me traume te kraniumit?",
+    "answers": [
+      "Anamneze mbi rrethanat e traumes",
+      "Inspeksion dhe palpacion te kokes",
+      "Kontroll i ekuilibrit acido-bazik",
+      "Vlersimi i funksioneve jetesore",
+      "Radiografi e kafkes"
+    ],
+    "correct": 3,
+    "explanation": "Në çdo fëmijë të traumatizuar (përfshirë traumën kraniale) vlerësimi fillestar ndjek ABCDE: së pari funksionet jetësore (rrugët ajrore, frymëmarrja, qarkullimi, shkalla Glasgow), pastaj anamneza, inspektimi i kokës dhe imazheria."
+  },
+  {
+    "id": "licenca-pediatri-108",
+    "question": "Per nje rritje normale ne gjashte muajt e pare te jetes, cila nga vlerat e meposhtme eshte me afer marrjes ditore te rekomanduar te proteinave?",
+    "answers": [
+      "0.2 g/kg",
+      "1. 0 g/kg",
+      "2.0 g/kg",
+      "5.0 g/kg",
+      "10.0 g/kg"
+    ],
+    "correct": 2,
+    "explanation": "Nevoja ditore për proteina në 6 muajt e parë është rreth 2 g/kg/ditë (më e lartë te prematurët, ~3–4 g/kg), duke u ulur gradualisht me moshën."
+  },
+  {
+    "id": "licenca-pediatri-109",
+    "question": "Cila nga manifestimet e meposhtme do te pritej te gjendej ne nje femije gjashte muajsh me nje defekt te madh te septumit ventricular?",
+    "answers": [
+      "Cianoze",
+      "Zemer e zmadhuar",
+      "Zhurme e vazhdueshme",
+      "Ulje te vaskularizimit pulmonar ne radiografi",
+      "Predominim te hipertrofise se ventrikulit te djathte ne EKG"
+    ],
+    "correct": 1,
+    "explanation": "DSV i madh jep shant majtas-djathtas me hiperfluks pulmonar: kardiomegali (zgjerim i atriumit dhe ventrikulit të majtë), vaskularizim pulmonar i shtuar, insuficiencë kardiake, zhurmë holosistolike; nuk ka cianozë (përveç Eisenmenger)."
+  },
+  {
+    "id": "licenca-pediatri-110",
+    "question": "Cila eshte neoplazia malinje me e shpeshte tek femijet me te vegjel se pesembedhjete vjece?",
+    "answers": [
+      "Morbus HODGKIN",
+      "Neuroblastoma",
+      "Leukemia",
+      "Retinoblastoma",
+      "Hepatoblastoma"
+    ],
+    "correct": 2,
+    "explanation": "Neoplazia malinje më e shpeshtë te fëmijët <15 vjeç janë leukemitë (~30%, kryesisht LLA), pasuar nga tumoret e SNQ dhe limfomat."
+  },
+  {
+    "id": "licenca-pediatri-111",
+    "question": "Nje bebe mashkull lindi ne javen e tridhjete e nente te shtatzanise me nje peshe trupore 4500g.Te gjithapohimet e meposhtme mund te jene shkak , pervec:",
+    "answers": [
+      "Sindomi i Beckwith wiedman (hipoglicemia nga hiperinsulinemia, makroglosia etj)",
+      "Pirja e duhanit nga nena",
+      "Diabet mellitus i nenes",
+      "Hidrops fetal",
+      "Predispozite gjenetike"
+    ],
+    "correct": 1,
+    "explanation": "Makrosomia (4500 g) lidhet me diabetin e nënës, Beckwith-Wiedemann, hidrops fetal, predispozitë gjenetike/obezitet i nënës. Duhanpirja e nënës shkakton vonesë të rritjes intrauterine (peshë e ulët), jo makrosomi."
+  },
+  {
+    "id": "licenca-pediatri-112",
+    "question": "Shkaku me i shpeshte i hipotiroidizmit congenital tek femijet eshte:",
+    "answers": [
+      "Diskinezia glandular",
+      "Deficit hipotalamik I TRH",
+      "Defekt ne hormonogjeneze",
+      "Hipotiroidizem sekondar",
+      "Mungesa e jodit"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i hipotiroidizmit kongjenital (~85%) është disgjeneza tiroidiene (agjenezi, hipoplazi, ektopi); dishormonogjeneza ~10–15%; forma qendrore e rrallë."
+  },
+  {
+    "id": "licenca-pediatri-113",
+    "question": "Te gjitha shkaqet e meposhtme jane pohime korrekte per anemine megaloblastike pervec:",
+    "answers": [
+      "Malabsorbim intestinal",
+      "Rezeksion i gjysmes distale te ileumit",
+      "Dieta vegjetariane integrale",
+      "Hemoragji gastrointestinale",
+      "Perdorim i zgjatur i trimetoprimes"
+    ],
+    "correct": 3,
+    "explanation": "Anemia megaloblastike vjen nga mungesa e B12/folateve: malabsorbim, rezeksion i ileumit terminal (B12), dietë vegane (B12), barna antifolate (trimetoprim, metotreksat). Hemorragjia gastrointestinale shkakton anemi sideropenike mikrocitare."
+  },
+  {
+    "id": "licenca-pediatri-114",
+    "question": "Si vihet diagnoza e Semundjes se Celiakise?",
+    "answers": [
+      "Dozim i antiorpeve anti-Gliadine",
+      "Dozimi i antikorpeve anti-muskulature te lemuar",
+      "Dozimi i antikorpeve anti-Transglutaminaze",
+      "Me vleresimin e HLA",
+      "Me biopsi duodenale"
+    ],
+    "correct": 4,
+    "explanation": "Diagnoza e sëmundjes celiake bazohet në serologji (anti-transglutaminazë IgA, anti-endomizium) dhe konfirmohet me biopsi duodenale (atrofi vilore, hiperplazi kriptash, limfocite intraepiteliale); te fëmijët me anti-tTG >10x normës mund të shmanget biopsia (ESPGHAN)."
+  },
+  {
+    "id": "licenca-pediatri-115",
+    "question": "Cila nga kombinimet e meposhtme eshte me i pershtashem per per nje femije shtate vjec i diagnostikuar prej nje viti me diabet melitus tipi pare ?",
+    "answers": [
+      "Hipoglicemiant oral dhe diete hipokalorike",
+      "Insulinoterapi me diete te balancuar normokalorike",
+      "Insulinoterapi dhe permbajtje e larte fibrave ne diete",
+      "Insulinoterapi dhe perjashtim i sheqernave nga dieta",
+      "Insulinoterapi ose antidiabetik oral dhe diete hiperproteinike"
+    ],
+    "correct": 1,
+    "explanation": "Diabeti tip 1 trajtohet me insulinë (skema bazal-bolus/pompë) dhe dietë të ekuilibruar normokalorike që siguron rritje normale; antidiabetikët oralë nuk përdoren dhe sheqernat nuk përjashtohen plotësisht."
+  },
+  {
+    "id": "licenca-pediatri-116",
+    "question": "Femijet me obezitet te thjeshte prezantohen me shpesh:",
+    "answers": [
+      "Pubertet te pershpejtuar",
+      "Moshe kockore te vonuar",
+      "Shtat me i shkurter sesa i moshatareve",
+      "Shtat me i larte se i moshatareve",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 3,
+    "explanation": "Fëmijët me obezitet të thjeshtë (esencial) kanë zakonisht shtat më të lartë se moshatarët dhe moshë kockore të përparuar; obeziteti me shtat të shkurtër sugjeron shkak endokrin (hipotiroidizëm, Cushing, deficit GH) ose sindromik."
+  },
+  {
+    "id": "licenca-pediatri-117",
+    "question": "Ne cilat nga patologjite e meposhtme indikohet perdorimi i naloksonit:",
+    "answers": [
+      "Sindrome bipolare",
+      "Depresion",
+      "Eneurezis",
+      "Skizofrenia",
+      "Abuzimi nga droga"
+    ],
+    "correct": 4,
+    "explanation": "Naloksoni është antagonist i receptorëve opioidë; përdoret në intoksikimin/mbidozimin me opioidë (abuzim me droga), përfshirë depresionin respirator neonatal nga opioidët materne."
+  },
+  {
+    "id": "licenca-pediatri-118",
+    "question": "Cila nga manifestimet e meposhtmE)karakterizon sindromin e X-te thyeshem",
+    "answers": [
+      "Fraktura multiple te kockave te gjata",
+      "Plage qe sherohen me veshitiresi",
+      "Vonese mentale",
+      "Testikuj te vegjel",
+      "Infeksione bakteriale rekurente"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma e X-it të brishtë (zgjerim i tripletit CGG në gjenin FMR1) është shkaku më i shpeshtë i trashëguar i vonesës mendore; tipare: fytyrë e zgjatur, veshë të mëdhenj, makroorkidizëm pas pubertetit (testikuj të mëdhenj, jo të vegjël), autizëm."
+  },
+  {
+    "id": "licenca-pediatri-119",
+    "question": "Terapia kirurgjkale ne hernien inguinale tek femija konsiston ne .",
+    "answers": [
+      "Mbyllje te kanalit umbilikal",
+      "Mbyllje te kanalit pertoneo-vaginal",
+      "Mbyllje te unazes inguinale te jashtme",
+      "Vendosje te patchit ne zonen ehernies",
+      "Vendosje te patchit ne skrotum"
+    ],
+    "correct": 1,
+    "explanation": "Herniotomia te fëmija konsiston në izolimin dhe lidhjen e qeses herniare në nivelin e unazës së brendshme, pra mbylljen e kanalit peritoneo-vaginal; nuk vendoset rrjetë (patch) si te i rrituri."
+  },
+  {
+    "id": "licenca-pediatri-120",
+    "question": "Prania e cianozes ne lindje mund te jete pasoje e te gjitha shkaqeve te meposhtme pervec:",
+    "answers": [
+      "Tetrades Fallot",
+      "Transpozicionit te eneve te medha te gjakut",
+      "Duktus arterioz hapur",
+      "Atrezi trikuspidale",
+      "Hipertension pulmonar persistem"
+    ],
+    "correct": 2,
+    "explanation": "Cianozë në lindje japin kardiopatitë cianogjene (Fallot, transpozicion i arterieve të mëdha, atrezi trikuspidale) dhe hipertensioni pulmonar persistent. Duktusi arterioz i hapur izolues jep shant majtas-djathtas pa cianozë."
+  },
+  {
+    "id": "licenca-pediatri-121",
+    "question": "Ne hernien inguinale te inkarceruar mund te pasohet me nje:",
+    "answers": [
+      "Nje gonadoektomi",
+      "Nje gastroektomi",
+      "Nje nefroektomi",
+      "Nje splenektomi",
+      "Nje vezikostomi"
+    ],
+    "correct": 0,
+    "explanation": "Hernia inguinale e inkarceruar te djali mund të komprimojë enët spermatike dhe të shkaktojë infarkt/nekrozë testikulare, që mund të kërkojë orkiektomi (gonadektomi); prandaj reduktimi/kirurgjia duhet të jetë urgjente."
+  },
+  {
+    "id": "licenca-pediatri-122",
+    "question": "Trajtimi ketoacidozes diabetike perfshin te gjitha masat e meposhtme pervec:",
+    "answers": [
+      "Dhenies se bikarbonatit nese ph eshte me i vogel se 7.15",
+      "Dhenies se insulines ne fazat e para me 0.1 unite per kg ne ore",
+      "Infuzionit te glukozes 5% ne rruge intravenoze nese glicemia eshte me e vogel se 250 mg/dl",
+      "Dhenies se parakohshme te kaliumit nese ka acidoze",
+      "Dhenia e insulines sukutan nese femija ushqehet"
+    ],
+    "correct": 0,
+    "explanation": "Në ketoacidozën diabetike pediatrike: rihidratim i kujdesshëm, insulinë IV 0,05–0,1 U/kg/orë, shtim glukoze 5% kur glicemia <250–300 mg/dl, kalium sapo ka diurezë. Bikarbonati nuk jepet rutinë (rrezik edeme cerebrale) — vetëm në acidozë ekstreme (pH <6,9), jo me pH <7,15."
+  },
+  {
+    "id": "licenca-pediatri-123",
+    "question": "Diarreja akute te latantet duhet te trajtohet me:",
+    "answers": [
+      "Antibiotike",
+      "Probiotike",
+      "Prebiotike",
+      "Rehidrim oral",
+      "Rehidrim endovenoz"
+    ],
+    "correct": 3,
+    "explanation": "Diarreja akute te foshnja trajtohet kryesisht me solucion rihidratues oral (hipoosmolar) dhe vazhdim të ushqyerjes; antibiotikët nuk indikohen rutinë, rehidrimi IV vetëm në dehidratim të rëndë/dështim të rrugës orale."
+  },
+  {
+    "id": "licenca-pediatri-124",
+    "question": "Nje femije 5 vjec vjen pasi eshte vizituar per nje faringit akut dhe pas marrjes se tamponi faringeal per mbjellje trajtohet me amoksiciline. Ne harkun kohor 24-48 ore,ai zhvillon nje egzanteme dhe tamponi faringal rrezulton negative. Cila nga dg e meposhtme eshte me e mundshme?",
+    "answers": [
+      "Skarlatine",
+      "Mononukleoze",
+      "Semundje e “gjashte”",
+      "Semundja Kawasaki",
+      "Purpura Schonlein-Henoch"
+    ],
+    "correct": 1,
+    "explanation": "Fëmijë me faringit, tampon negativ për streptokok, që pas amoksicilinës zhvillon rash makulopapular = mononukleozë infektive (EBV) me rash nga aminopenicilinat."
+  },
+  {
+    "id": "licenca-pediatri-125",
+    "question": "Cila nga semundjet e meposhtme eshte shkaku me i shpeshte i malabsorbimit te femijet e moshes shkollore?",
+    "answers": [
+      "Divertikuli meckelit",
+      "Semundja e crohnit",
+      "Celiakia",
+      "Fibroza kistike",
+      "Koloni irritable"
+    ],
+    "correct": 2,
+    "explanation": "Në moshën shkollore (dhe në përgjithësi pas ushqyerjes me gluten) shkaku më i shpeshtë i malabsorbimit është sëmundja celiake; fibroza kistike manifestohet zakonisht më herët."
+  },
+  {
+    "id": "licenca-pediatri-126",
+    "question": "Nje femije 4 javesh paraqitet qe prej 10 ditesh me perkeqesim te te vjellave te cilat jane jobiliare. Ka uri, eshte aktiv dhe ka renie ne peshe.Cila nga dg e meposhtme eshte me e mundshmja?",
+    "answers": [
+      "Obstruksion i zorres se holle",
+      "Stenoze hipertrofike e pilorit",
+      "Gastroenetrit",
+      "Invaginacion",
+      "Neoplazi cerebrale"
+    ],
+    "correct": 1,
+    "explanation": "Foshnjë 4 javëshe (zakonisht mashkull) me të vjella progresive, jo-biliare, \"në shatërvan\", me uri të vazhdueshme pas të vjellave dhe rënie në peshë = stenozë hipertrofike e pilorit (\"ulliri\" i palpueshëm, alkalozë hipokloremike)."
+  },
+  {
+    "id": "licenca-pediatri-127",
+    "question": "Komplikacioni me i shpeshte i nje etheje reumatizmale te patrajtuar ose te trajtuar jo mjaftueshem eshte:",
+    "answers": [
+      "Artropati kronike",
+      "Insuficensa renale",
+      "Vonese ne stature",
+      "Uveitis",
+      "Kardiopati kronike"
+    ],
+    "correct": 4,
+    "explanation": "Komplikacioni më i rëndë dhe më i shpeshtë afatgjatë i ethes reumatizmale është kardiopatia reumatizmale kronike (sidomos stenoza/insuficienca mitrale), që rritet me episodet e përsëritura; artriti shërohet pa pasoja."
+  },
+  {
+    "id": "licenca-pediatri-128",
+    "question": "Te gjitha pohimet e meposhtme jane te verteta ne lidhje me pneumonine nga Mycoplazma pneuomonie, pervec:",
+    "answers": [
+      "Eshte me e shpeshte ne moshen parashkollore",
+      "Rezultat normal i rruazave te bardha te gjakut qarkulluese",
+      "Prezence e aglutinit ne te ftohte te serumit",
+      "Radiografi e toraksit me infiltracion te 1 ose 2 lobeve se bashku",
+      "Manifestohet me temperature,dhimbje fyti dhe kolle te thate."
+    ],
+    "correct": 0,
+    "explanation": "Pneumonia nga Mycoplasma është më e shpeshtë në moshën shkollore dhe te adoleshentët (5–20 vjeç), jo parashkollore; jep kollë të thatë persistente, leukocite normale, aglutinina të ftohta, infiltrate interstiticiale."
+  },
+  {
+    "id": "licenca-pediatri-129",
+    "question": "Ne 10 ml urine te mbledhura ne kushte te fresketa, te egzaminuara ne terren ushqyes te mire, hematuria mikroskopike perkufizohet si prezenca e te pakten:",
+    "answers": [
+      "0-1 rruaza te kuqe per fushe",
+      "3-5 rruaza te kuqe per fushe",
+      "3-10 rruaza te kuqe per fushe",
+      ">10 rruaza te kuqe per fushe",
+      "Asnje nga pergjigjet"
+    ],
+    "correct": 1,
+    "explanation": "Hematuria mikroskopike përkufizohet si ≥3–5 eritrocite për fushë me zmadhim të lartë në sedimentin e urinës së centrifuguar (në ≥2 nga 3 mostra)."
+  },
+  {
+    "id": "licenca-pediatri-130",
+    "question": "Nje djale 14 vjec qe luan shpesh basketboll, sillet ne pediatri per calim dhe dhimbje ne gju. Dhimbja forcohet nga vrapi , kercimet, ngjitja e shkalleve. Tuberoziteti tibial eshte i enjtur por pa grumbullim te likidit sinovial apo prezence te trashjes se kavitetit te gjurit. Cila nga dg e meposhtme eshte me e mundshme?",
+    "answers": [
+      "Semundja e Pertes",
+      "Renie e epifizes se kokes se femurit",
+      "Semundja Osgood Schlatter",
+      "Artriti septic i gjurit",
+      "Kondromalacia e kupes se gjurit"
+    ],
+    "correct": 2,
+    "explanation": "Adoleshent sportiv (vrap/kërcim) me dhimbje dhe ënjtje të tuberozitetit tibial, pa efuzion artikular = sëmundja Osgood-Schlatter (apofizit tërheqës i tendinit patelar); trajtim konservativ."
+  },
+  {
+    "id": "licenca-pediatri-131",
+    "question": "Nje femije 4 vjec ka temperature 40 grade celcius prej 4 ditesh. Egzaminimi objektiv paraqet konjuktivit, rash eritematoz, adenopati cervikale dhe edeme te duarve dhe kembeve. Egzaminimet laboratorike tregojne leukocitoze me predominim te leukociteve, trombocite ne norme, ERS i rritur . Cila eshte diagnoza me e mundshme?",
+    "answers": [
+      "Skarlatina",
+      "Ethe reumatizmale",
+      "Periarterit nodoz",
+      "Lupus eritematoz i diseminuar",
+      "Sindromi Kawasaki"
+    ],
+    "correct": 4,
+    "explanation": "Ethe ≥5 ditë + konjunktivit bilateral jo-eksudativ, rash polimorf, adenopati cervikale, edemë/eritemë e duarve dhe këmbëve (dhe ndryshime orale) = sëmundja Kawasaki; trajtim me IVIG + aspirinë për të parandaluar aneurizmat koronare. (Trombocitoza shfaqet në javën e 2-të.)"
+  },
+  {
+    "id": "licenca-pediatri-132",
+    "question": "Nje djale 8 vjec me zona multiple alopecie. Ne ekzaminim me llampen e Wood-it shihet nje fluoroshence blu ne te verdhe. Cili nga patogjenet eshte me i mundshem?",
+    "answers": [
+      "Epidermophyton floccosum",
+      "Mikrosporom canis",
+      "Candida albicans",
+      "Tricophyton tonsurans",
+      "Aspergillus"
+    ],
+    "correct": 1,
+    "explanation": "Tinea capitis me fluoreshencë të gjelbër-verdhë në llambën Wood shkaktohet nga Microsporum (canis/audouinii); Trichophyton tonsurans (endothrix) nuk fluoreshon."
+  },
+  {
+    "id": "licenca-pediatri-133",
+    "question": "Si parndalohen kompikacionet reuamatizmalE)te Skarlatines?",
+    "answers": [
+      "Me izolimin e femijeve te infektuar",
+      "Me penicillin per 10 dite",
+      "Me ampicillin per 6 dite",
+      "Me vaksinimin masiv",
+      "Asnje nga te mesipermet"
+    ],
+    "correct": 1,
+    "explanation": "Komplikacionet reumatizmale (ethe reumatizmale) të skarlatinës/faringitit streptokoksik parandalohen me trajtim antibiotik adekuat: penicilinë 10 ditë (ose benzatinë penicilinë IM një dozë), e filluar brenda 9 ditëve."
+  },
+  {
+    "id": "licenca-pediatri-134",
+    "question": "Femija 1 vjec peshon:",
+    "answers": [
+      "9-11 kg",
+      "13-14 kg",
+      "16-17 kg",
+      "19-20 kg",
+      "8-9 kg"
+    ],
+    "correct": 0,
+    "explanation": "Foshnja e trefishon peshën e lindjes në 1 vjeç: ~9–11 kg (në 5 muaj e dyfishon)."
+  },
+  {
+    "id": "licenca-pediatri-135",
+    "question": "Nje latant qe paraqitet ne gjendje te mire shendetsore, kohet e fundit ka vuajtur nga nje infeksion nga rotavirusi. Pas rehidrimit oral, vazhdon riushqyerjen me formulen standart qe perdorte para fillimit te diarese. Sa here qe merr qumesht prezanton diare te ujshme. Diagnoza me e mundshme eshte",
+    "answers": [
+      "Sindromi i zorres se shkurter",
+      "Insuficienca pankreatike",
+      "Deficit primari disaharidases",
+      "Deficit sekondar i laktazes",
+      "Alergji ndaj proteinave te qumeshtit te lopes"
+    ],
+    "correct": 3,
+    "explanation": "Pas gastroenteritit nga rotavirusi, dëmtimi i enterociteve të majave të vileve shkakton deficit sekondar (kalimtar) të laktazës: diarre osmotike të ujshme pas qumështit; trajtim me formulë pa laktozë për disa javë."
+  },
+  {
+    "id": "licenca-pediatri-136",
+    "question": "Nje femije me tumor te fosa krani posterior, ankohet per dyfishim te pamjes. Egzaminimi i levizjeve te syve tregon strabizmus. Paraliza e cilit muskul eshte me e mundshme?",
+    "answers": [
+      "Paralize e m oblique superor",
+      "Paralize e m rectus lateralis",
+      "Paralize e m oblique inferior",
+      "Paraliza e m rectus medialis",
+      "Paralize e m rectus superior"
+    ],
+    "correct": 1,
+    "explanation": "Tumoret e fosës posteriore (me hipertension intrakranial) shkaktojnë shpesh paralizë të nervit VI (abducens), me nervin më të gjatë intrakranial → paralizë e m. rectus lateralis: strabizëm konvergjent dhe diplopi horizontale."
+  },
+  {
+    "id": "licenca-pediatri-137",
+    "question": "Zgjidh agjentin me te shpeshte pergjegjes per sepsisin neonatal:",
+    "answers": [
+      "Streptokoku b-hemolitik I gr A",
+      "Streptokoku b-hemolitik gr-B",
+      "Stafilokoku aureus",
+      "H. influence tipi B",
+      "N. meningitidis"
+    ],
+    "correct": 1,
+    "explanation": "Streptokoku beta-hemolitik i grupit B (S. agalactiae) është shkaktari më i shpeshtë i sepsës neonatale (sidomos e hershme), pasuar nga E. coli dhe Listeria."
+  },
+  {
+    "id": "licenca-pediatri-138",
+    "question": "Te gjitha teknikat e meposhtme perdoren per ekzaminimin e RGE pervec’.",
+    "answers": [
+      "Kalueshmerise me Ba",
+      "Manometria ezofageale",
+      "Ph metria ezofageale",
+      "Shintigrafia me technecium radioaktiov",
+      "Testi i urese ( Breath test )"
+    ],
+    "correct": 4,
+    "explanation": "Refluksi gastroezofageal ekzaminohet me pH-metri/impedancë, manometri ezofageale, studim me barium (anatomia), shintigrafi me teknecium dhe endoskopi. Breath testi me ure përdoret për H. pylori."
+  },
+  {
+    "id": "licenca-pediatri-139",
+    "question": "Cili eshte shkaku , me i shpeshte i hematurise mikroskopike?",
+    "answers": [
+      "Sindromi nefritik",
+      "Tu renal",
+      "Infeksion i rrugeve urinare",
+      "Nje koagulopati",
+      "Traume renale"
+    ],
+    "correct": 2,
+    "explanation": "Infeksioni i rrugëve urinare është shkaku më i shpeshtë i hematurisë mikroskopike te fëmijët (bashkë me hiperkalciurinë dhe glomerulopatitë, p.sh. nefropatia IgA)."
+  },
+  {
+    "id": "licenca-pediatri-140",
+    "question": "Cili nga defektet e traktit gastrintestnal shoqerohet me shpesh me malformacione kardiake?",
+    "answers": [
+      "Omfalocele",
+      "Volvulus congenital",
+      "Semundja e Hirshprungut",
+      "Gastroskiza",
+      "Stenoza e pilorit"
+    ],
+    "correct": 0,
+    "explanation": "Omfalocela (defekt i linjës mesatare me qese membranoze) shoqërohet shpesh (~30–50%) me anomali kromozomike (trisomi 13, 18) dhe malformacione kardiake; gastroskiza rrallë ka anomali shoqëruese."
+  },
+  {
+    "id": "licenca-pediatri-141",
+    "question": "Divertikuli I Meckelit eshte I vendosur.",
+    "answers": [
+      "Ne rectum",
+      "Ne ileum 20-40 cm nga valvula ileo cekale",
+      "Ne ileum 120cm nga valvula ileo cekale",
+      "Ne kolon",
+      "Ne ezofag"
+    ],
+    "correct": 1,
+    "explanation": "Rregulla \"e dy-ve\" e divertikulit Meckel: 2% e popullatës, 2 inç (5 cm) gjatësi, ~2 këmbë (40–60 cm) nga valvula ileocekale në ileum, 2 lloje mukoze ektopike (gastrike, pankreatike), simptomatik para 2 vjeç."
+  },
+  {
+    "id": "licenca-pediatri-142",
+    "question": "Vleresimi I rritjes dhe zhvillimit eshte themelor tek femija .Te gjitha pohimet e meposhtme jane te verteta, pervec.",
+    "answers": [
+      "Cirkumferenca e kraniumit ne 2 vjec ka arritur 90% te circumferences se te rriturit.",
+      "Ne nje vjec femija zakonisht trefishon peshen e lindjes",
+      "Nje femije ne 7 muaj mund te qendroje ulur",
+      "Permasat e peshes dhe gjatesise tek neonati jane te lidhura me potencialin gjenetik",
+      "Ne 3 vjec femija mashkull ka arritur ½ e gjatesise se moshes se rritur"
+    ],
+    "correct": 3,
+    "explanation": "Pesha dhe gjatësia në lindje reflektojnë kryesisht mjedisin intrauterin (ushqyerja placentare, sëmundjet e nënës), jo potencialin gjenetik; ky shfaqet gradualisht në 2 vitet e para (\"catch-up/catch-down\")."
+  },
+  {
+    "id": "licenca-pediatri-143",
+    "question": "Zgjidh semundjen me te pershtatshme e cila manifestohet me zgjatje te kohes se hemorragjise dhe rritje te kohes se tromboplastines parciale.",
+    "answers": [
+      "Purpura trombocitopenike idiopatike",
+      "Semundja e von Willenbrandit",
+      "Hemofilia klasike",
+      "Mungesa e faktoreve II,VII,IX,X",
+      "Mungesa e faktoreve III , VI,VIII"
+    ],
+    "correct": 1,
+    "explanation": "Sëmundja von Willebrand jep zgjatje të kohës së gjakderdhjes (defekt i adezionit trombocitar) dhe shpesh të aPTT-së (faktori VIII i ulur, se vWF e stabilizon). PTI jep vetëm kohë gjakderdhjeje të zgjatur; hemofilia vetëm aPTT të zgjatur."
+  },
+  {
+    "id": "licenca-pediatri-144",
+    "question": "Hidrocela ne dalje te kanalit peritoneo-vaginal nese nuk zgjidhet spontanisht duhet te operohet.",
+    "answers": [
+      "Ne pubertet",
+      "15 ditet e para te jetes",
+      "Rreth 12 muajve",
+      "Pas 5 vjetesh",
+      "Pas pubertetit"
+    ],
+    "correct": 2,
+    "explanation": "Hidrocela komunikuese kongjenitale shpesh zgjidhet spontanisht brenda vitit të parë (mbyllja e processus vaginalis); nëse persiston, operohet rreth 12–24 muaj."
+  },
+  {
+    "id": "licenca-pediatri-145",
+    "question": "Cili nga agjentet e meposhtem eshte shkaku me i shpeshte otitit te mesem pas periudhes neonatale?",
+    "answers": [
+      "S. pneumoniae",
+      "S.aureus",
+      "Mycoplazma pnumonie",
+      "E.coli",
+      "Streptococu i gr A"
+    ],
+    "correct": 0,
+    "explanation": "Pas periudhës neonatale shkaktarët kryesorë të otitit akut të mesëm janë S. pneumoniae, H. influenzae jo-tipizueshëm dhe Moraxella catarrhalis; pneumokoku është më i shpeshti."
+  },
+  {
+    "id": "licenca-pediatri-146",
+    "question": "Cila nga pohimet e meposhtme eshte shkaku me i shpeshte i hidronefrozes pielike tek femija.",
+    "answers": [
+      "Stenoze ne nivel te bashkimit pieloureterale",
+      "anomali vazale",
+      "Kalkuloze",
+      "Refluks veziko ureteral",
+      "Valvules se uretres posteriore"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i hidronefrozës te fëmijët (shpesh me diagnozë prenatale) është obstruksioni i bashkimit pielo-ureteral (stenozë intrinseke, ndonjëherë enë aberrante)."
+  },
+  {
+    "id": "licenca-pediatri-147",
+    "question": "Sa eshte treguesi i Apgarit tek nje neonat me FC=110/min, frymemarrje te ngadalte dhe crregullt, te qara me gjalleri, ngjyra e lekures roze, ndersa ekstremitetet blu.",
+    "answers": [
+      "3",
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "Apgar: FZ 110 (>100) = 2; frymëmarrje e ngadaltë/e parregullt = 1; e qarë e fuqishme (reaktivitet) = 2; trup rozë me ekstremitete blu = 1; toni muskular nuk jepet. Shuma e parametrave të dhëna është 6 (çelësi PDF-së jep 3, që është i gabuar)."
+  },
+  {
+    "id": "licenca-pediatri-148",
+    "question": "Cila nga semundjet e meposhtme kerkon izolimin e femijes .",
+    "answers": [
+      "Varicele",
+      "Ekzanteme kritike",
+      "Pozitivitet per Hiv",
+      "Purpura Schonlein Henoch",
+      "Mononukleoze infektive"
+    ],
+    "correct": 0,
+    "explanation": "Varicela është shumë ngjitëse (ajërore dhe me kontakt) dhe kërkon izolim të fëmijës derisa të gjitha lezionet të kenë krustë (~5–7 ditë pas daljes së rashit); mononukleoza, HIV dhe Henoch nuk kërkojnë izolim."
+  },
+  {
+    "id": "licenca-pediatri-149",
+    "question": "Cila nga pohimet e meposhtme eshte e vertete per artritin rheumatoid juvenil?",
+    "answers": [
+      "Forma me e shpeshte eshte ajo pauciartikulare e tipit te dyte.",
+      "Semundje e Still eshte me e shpeshte te femrat",
+      "Iridocikliti gjendet me shpesh ne formen poliartikulare.",
+      "Forma pauciartikulare e tipit te dyte eshte elidhur me pranine e genotipi HLAB27",
+      "Sacro- ileiti gjendet me shpesh ne formen poliartikulare me fakto Rrheumatoid pozitiv."
+    ],
+    "correct": 3,
+    "explanation": "Forma oligoartikulare tip II e AIJ (djem >8 vjeç) lidhet me HLA-B27 dhe evoluon drejt spondiloartropatisë (entezit, sakroileit). Iridocikliti kronik është tipik për oligoartritin e hershëm të vajzave me ANA+, jo për poliartritin."
+  },
+  {
+    "id": "licenca-pediatri-150",
+    "question": "Te gjitha pohimet me poshte per sa i perket Luksacionit coxo-femoral kongenital jane te verteta, pervec:",
+    "answers": [
+      "Si faktoret gjenetike dhe ata jo gjenetikE)jane te rendesishem ne patogenezen e semundjes",
+      "Ne ekzaminimin objektiv mund te gjendet disproporcion ne gjatesine e gjymtyreve dhe asimetri e plikes kutane gluteale.",
+      "Nje shenje objektive mund te jete ajo e Ortolanit, qe eshte vleresimi i nje kliku i palpuar ne rotacionin ekstern dhe abduksionin e kycit.",
+      "Diagnoza zakonisht mund te konfirmohet me ekzaminim ultrasonografik",
+      "Ne shumicen e rasteve eshte e nevojshme korigjimi me nderhyrje kirurgjikale."
+    ],
+    "correct": 4,
+    "explanation": "Displazia e kofshës (luksacioni koksofemoral kongjenital) diagnostikohet herët me manovrat Ortolani/Barlow dhe ekografi (Graf); në shumicën e rasteve trajtohet në mënyrë konservative me abduksion (jastëk/harness Pavlik), pa kirurgji."
+  },
+  {
+    "id": "licenca-pediatri-151",
+    "question": "Nje femije 3 vjec, gelltit te pakten 40 kompresa Fe-sulfat 300mg secila qe permbajne 60 mg Fe elementar. Cila nga shfaqjet e meposhtme eshteme pak e mundur?",
+    "answers": [
+      "Vomitus dhe diarre",
+      "Acidoza",
+      "Kolapsi cirkulator",
+      "Insuficienca hepatike",
+      "Insuficienca renale"
+    ],
+    "correct": 4,
+    "explanation": "Intoksikimi me hekur (këtu ~2400 mg Fe elementar, >150 mg/kg) jep: faza 1 të vjella, diarre hemorragjike; pastaj acidozë metabolike, shok/kolaps, insuficiencë hepatike (ditët 2–3), më vonë stenoza pilorike. Insuficienca renale nuk është tipike."
+  },
+  {
+    "id": "licenca-pediatri-152",
+    "question": "Cfare shenje ose simptome duhet kerkuar tek nje latant ne te cilin dyshohet per refluks gastro-ezofageal patologjik?",
+    "answers": [
+      "Krizat e apnese",
+      "Anemia ferodeficitare",
+      "Hemoragjia gastro-intestinale",
+      "Vonesa ne rritje dhe anoreksia",
+      "Te gjitha"
+    ],
+    "correct": 4,
+    "explanation": "Refluksi gastroezofageal patologjik (sëmundja e refluksit) te foshnja mund të japë: apne/ALTE, anemi sideropenike nga ezofagiti, hematemezë/melenë, vonesë në rritje, refuzim ushqimi/irritabilitet. Të gjitha duhen kërkuar."
+  },
+  {
+    "id": "licenca-pediatri-153",
+    "question": "Nje femije 15 muaj ka anemi mikrocitare nga mungesa e hekurit, rezistente ndaj trajtimit me hekur. Fecet e tij jane ne menyre te perseritur pozitive per gjak okult. Prinderit e sjellin femijen ne urgjence pasi kane vene re gjak nga rektumi te pashoqeruar me dhimbje. Cila eshte diagnoza me e mundshme?",
+    "answers": [
+      "Invaginacioni",
+      "Ulcera duodenale",
+      "Volvulus",
+      "Divertikuli Meckel",
+      "Koliti ulceroz"
+    ],
+    "correct": 3,
+    "explanation": "Fëmijë i vogël me anemi sideropenike rezistente ndaj hekurit, gjak okult i përsëritur dhe rektorragji pa dhimbje = divertikul Meckel me mukozë gastrike ektopike (ulçerë e ileumit fqinj); diagnozë me shintigrafi me Tc-99m pertechnetat."
+  },
+  {
+    "id": "licenca-pediatri-154",
+    "question": "Ne traumat e shpretkes, cila nga metodat diagnostike mund te perdoret:",
+    "answers": [
+      "Cistografia",
+      "Urografia",
+      "Ekografia abdominale",
+      "TAC)i trurit",
+      "Klizma me barium"
+    ],
+    "correct": 2,
+    "explanation": "Në traumat e shpretkës metoda e parë është ekografia abdominale (FAST: hemoperitoneum, lezione parenkimale); CT me kontrast te pacienti hemodinamikisht i qëndrueshëm."
+  },
+  {
+    "id": "licenca-pediatri-155",
+    "question": "Cila nga shenjat eshte shume e nevojshme ne diferencimin e M. Crohn nga Koliti ulceroz?",
+    "answers": [
+      "Hemorragjia rektale",
+      "Abseset e kripteve",
+      "Perfshirja e ileumit",
+      "Eritema nodoze",
+      "Kolangiti"
+    ],
+    "correct": 2,
+    "explanation": "Prekja e ileumit terminal (ileit) dallon Crohn-in (prek çdo segment, transmural, lezione me ndërprerje) nga koliti ulceroz (vetëm kolon, i vazhdueshëm nga rektumi). Abscesi kriptal, eritema nodoze dhe rektorragjia gjenden në të dyja."
+  },
+  {
+    "id": "licenca-pediatri-156",
+    "question": "Nje djale 12 vjec, paraqet veshtiresi progresive ne shkolle, me ikter kronik qe zgjat prej 6 muajsh. Te dhena laboratorike tregojne hipertransaminazemi modeste, anemi hemolitike, glukozuri. Diagnoza me e mundshme eshte:",
+    "answers": [
+      "Hepatit kronik B",
+      "Sindroma Reye",
+      "Semundja Wilson",
+      "Galaktozemia",
+      "Glikogjenozat"
+    ],
+    "correct": 2,
+    "explanation": "Fëmijë >5 vjeç me rënie të rezultateve shkollore (prekje neuropsikike), hepatit kronik/ikter, anemi hemolitike Coombs-negative dhe glukozuri (tubulopati Fanconi) = sëmundja Wilson; kërko ceruloplazminë e ulët, bakrin urinar, unazat Kayser-Fleischer."
+  },
+  {
+    "id": "licenca-pediatri-157",
+    "question": "Cilat prej infeksioneve , ka periudhen e inkubacionit me te gjate te foshnjet?",
+    "answers": [
+      "Rubeola",
+      "Parotiti",
+      "Fruthi",
+      "Eritema infeksioze (semundja e 5-te)",
+      "Varicela"
+    ],
+    "correct": 1,
+    "explanation": "Inkubacioni: parotiti 16–18 ditë (deri 25), rubeola 14–21, varicela 10–21, fruthi 10–12, eritema infektioze 4–14 ditë; parotiti ka inkubacionin më të gjatë."
+  },
+  {
+    "id": "licenca-pediatri-158",
+    "question": "Per te nxitur maturimin e pulmoneve ne rastin e lindjeve premature perdoren:",
+    "answers": [
+      "Kortizoniket",
+      "Antibiotiket",
+      "Surfaktant ekzogjen",
+      "Hormonet e tiroides",
+      "Growth factor (GH)"
+    ],
+    "correct": 0,
+    "explanation": "Për maturimin e pulmoneve në kërcënimin e lindjes premature (24–34 javë) i jepen nënës kortikosteroide (betametazon/deksametazon), që ulin SDR, hemorragjinë intraventrikulare dhe enterokolitin nekrotizues. Surfaktanti i jepet neonatit pas lindjes."
+  },
+  {
+    "id": "licenca-pediatri-159",
+    "question": "Limfadenopatia retro-nukale eshte karakteristike e:",
+    "answers": [
+      "Rubeola",
+      "Semundja e gervishtjes se maces",
+      "Mononukleoza",
+      "Adeniti tuberkular",
+      "Infeksion nga HIV"
+    ],
+    "correct": 0,
+    "explanation": "Limfadenopatia retroaurikulare, okcipitale dhe nukale e dhimbshme (para rashit) është karakteristike e rubeolës."
+  },
+  {
+    "id": "licenca-pediatri-160",
+    "question": "Cila nga terapite do te keshillohej per nje femije lindur ne term me nivel bilirubine mbas 36 oresh, prej 24mg/dl",
+    "answers": [
+      "Hidratimi",
+      "Infuzion i albumines",
+      "Fototerapia",
+      "Terapia me barbiturate",
+      "Eksanguinotransfuzion"
+    ],
+    "correct": 4,
+    "explanation": "Neonat në term me bilirubinë 24 mg/dl në 36 orë është mbi pragun e eksanguinotransfuzionit (sipas nomogrameve AAP, ~19–22 mg/dl në këtë moshë); ndërkohë nis menjëherë fototerapi intensive. Rrezik i kernikterusit."
+  },
+  {
+    "id": "licenca-pediatri-161",
+    "question": "Cili nga tumoret takohet me shpesh ne testikulin kriptorkidik?",
+    "answers": [
+      "Teratoma",
+      "Seminoma",
+      "Embrionalkarcinoma",
+      "Tumor i qelizave Sertoli",
+      "Tumor i qelizave Leydig"
+    ],
+    "correct": 1,
+    "explanation": "Testikuli kriptorkid ka rrezik 3–10 herë më të lartë për tumore të qelizave germinale; më i shpeshti është seminoma (rreziku ulet me orkidopeksi para moshës 1–2 vjeç)."
+  },
+  {
+    "id": "licenca-pediatri-162",
+    "question": "Aftesia per te kopjuar forma zhvillohet sipas nje rradhe te caktuar. Cila nga keto eshte rradha e duhur?",
+    "answers": [
+      "Kopjon 1 kuadrat,1 kryq,1 rreth",
+      "Kopjon 1kuadrat,1 rreth,1 kryq",
+      "Kopjon 1kryq,1 rreth,1 kuadrat",
+      "Kopjon 1 rreth,1kuadrat,1kryq",
+      "Kopjon 1 rreth,1 kryq,1 kuadrat"
+    ],
+    "correct": 4,
+    "explanation": "Zhvillimi grafomotor: kopjon rrethin ~3 vjeç, kryqin ~3,5–4 vjeç, katrorin ~4–4,5 vjeç, trekëndëshin ~5 vjeç, rombin ~7 vjeç."
+  },
+  {
+    "id": "licenca-pediatri-163",
+    "question": "Hidrocela eshte:",
+    "answers": [
+      "Nje grumbullim likidi seroz ne vaginen propria te testikulit",
+      "Nje dilatacion i ventrikujve cerebral",
+      "Nje grumbullim pusi ne nivelin skrotal",
+      "Nje shfaqje ekzanteme",
+      "Nje semundje infektive"
+    ],
+    "correct": 0,
+    "explanation": "Hidrocela është grumbullim i lëngut seroz midis dy fletëve të tunica vaginalis propria të testikulit; transiluminohet pozitivisht."
+  },
+  {
+    "id": "licenca-pediatri-164",
+    "question": "Mundesite e infektimit nga Toxoplasma per njeriun jane:",
+    "answers": [
+      "Kontakti me macet",
+      "Ngrenja e perimeve jo te lara mire",
+      "Ngrenja e mishit te pa gatuar mire ose krudo",
+      "Kontakti me delet",
+      "Te gjitha te mesipermet"
+    ],
+    "correct": 4,
+    "explanation": "Toxoplasma gondii transmetohet duke ngrënë mish të papjekur (cista në mishin e deleve, derrit), perime/ujë të ndotur me oocista nga feçet e maceve, kontakt me tokë/rërë të maceve, dhe vertikalisht."
+  },
+  {
+    "id": "licenca-pediatri-165",
+    "question": "Zmadhimi i gjendrave limfatike ne semundjen e gervishtjes se maces regredon menjehere mbas:",
+    "answers": [
+      "1-2 muaj",
+      "1-2jave",
+      "1-2 dite",
+      "6 muaj",
+      "Te gjitha me siper jane te mundshme"
+    ],
+    "correct": 0,
+    "explanation": "Limfadeniti në sëmundjen e gërvishtjes së maces (Bartonella henselae) është vetëkufizues dhe regredon zakonisht brenda 1–2 (deri 4) muajve; mund të supurojë."
+  },
+  {
+    "id": "licenca-pediatri-166",
+    "question": "Cili nga tumoret solide eshte me i shpeshti tek foshnjet?",
+    "answers": [
+      "Tumori Wilms",
+      "Neuroblastoma",
+      "Rabdomiosarkoma",
+      "Sarkoma Ewing",
+      "Teratoma"
+    ],
+    "correct": 1,
+    "explanation": "Neuroblastoma është tumori solid ekstrakranial më i shpeshtë te foshnjat (<1 vjeç); në gjithë moshën pediatrike tumoret solide më të shpeshta janë ato të SNQ."
+  },
+  {
+    "id": "licenca-pediatri-167",
+    "question": "Nena e Anes nje vajze 3 vjecare, ju paraqet ekzaminimin rutine te gjakut komplet te vajzes, si me poshte: Hb 12; MCV 75; ERS10; RB 10900; N 37%,L 48%, PLT 200000. Cfare mendoni?",
+    "answers": [
+      "Ka nje infeksion probabilisht viral",
+      "Ka nje anemi mikrocitare",
+      "Ka nje leucemi limfoblastike akute (LLA)",
+      "Ka parametra hematologjike brenda kufijve te normes per moshen",
+      "Ka nje infeksion probabel bakterial"
+    ],
+    "correct": 3,
+    "explanation": "Te fëmija 3 vjeç vlerat janë normale: Hb 12 g/dl, MCV 75 fl (normale për moshën ~70–86), leukocite deri 15.000 me predominim limfocitar (fiziologjik deri ~4–5 vjeç), PLT normale, ERS normale."
+  },
+  {
+    "id": "licenca-pediatri-168",
+    "question": "Te gjitha pohimet e meposhtme jane te verteta per sa i perket ekzaminimit objektiv te neonatit, me perjashtim te:",
+    "answers": [
+      "Frekuenca kardiake mesatare e neonatit eshte 100-110/min",
+      "Retraksioni i toraksit anterior ne inspirim eshte i zakonshme",
+      "50% e neonateve japin nje imazh iketrik ne pamje",
+      "Refleksi i kapjes eshte normalisht prezent tek neonati",
+      "Shenja e Babinski shpesh mund te evidentohet gjate vizites."
+    ],
+    "correct": 0,
+    "explanation": "Frekuenca kardiake normale e neonatit është 120–160/min (jo 100–110). Normale janë: retraksione të lehta torakale, ikter fiziologjik te ~50–60%, refleksi i kapjes dhe shenja Babinski pozitive."
+  },
+  {
+    "id": "licenca-pediatri-169",
+    "question": "Puberteti prekoks shoqerohet me:",
+    "answers": [
+      "Rritje te nivelit te gonadotropinave",
+      "Ulje te nivelit te gonadotropinave",
+      "Vonese te moshes kockore",
+      "Ritme te ulta rritje",
+      "Te gjitha me siper"
+    ],
+    "correct": 0,
+    "explanation": "Puberteti i parakohshëm qendror (i varur nga gonadotropinat, më i shpeshti) karakterizohet nga aktivizimi i boshtit hipotalamo-hipofizar me LH/FSH të rritura, përshpejtim të rritjes dhe moshë kockore të përparuar."
+  },
+  {
+    "id": "licenca-pediatri-170",
+    "question": "Te gjitha pohimet jane te vertetA)persa i perket hiperbilirubinemise neonatale, pervec:",
+    "answers": [
+      "Te neonati ne term dhe te shendetshem mund te perdoret si fototerapia ashtu dhe eksanguinotransfuzioni",
+      "Bilirubina eshte potencialisht toksike per SNQ",
+      "Ka nje korelacion te drejte midis nivelit serik te bilirubines dhe ikterit nuklear.",
+      "Rreth 1,1-2% te femijeve te ushqyer me gji zhvillojne ikter nga qumeshti i nenes",
+      "Fototerapia mund te reduktoje nivelet e bilirubines serike te femijet me ikter jo hemolitik"
+    ],
+    "correct": 2,
+    "explanation": "Nuk ka korelacion të drejtpërdrejtë mes bilirubinës serike dhe kernikterusit: rreziku varet edhe nga albumina, acidoza, prematuriteti, sepsa, hemoliza, barnat që zhvendosin bilirubinën. Pohimet e tjera janë të sakta."
+  },
+  {
+    "id": "licenca-pediatri-171",
+    "question": "Cili nga medikamentet eshte pergjegjes per ritjen e nivelit serik te Teofilines?",
+    "answers": [
+      "Penicillina",
+      "Eritromicina",
+      "Cefalotina",
+      "Sulfisoxazol",
+      "Gentamicina"
+    ],
+    "correct": 1,
+    "explanation": "Eritromicina (dhe klaritromicina, ciprofloksacina, cimetidina) frenon citokromin P450 (CYP3A4/1A2) dhe rrit nivelet serike të teofilinës, me rrezik toksiciteti (aritmi, konvulsione)."
+  },
+  {
+    "id": "licenca-pediatri-172",
+    "question": "Interventi per korigjimin e hernies inguinale duhet te kryhet:",
+    "answers": [
+      "Kur femija arrin peshen trupore 5 kg",
+      "Kur femija arin peshen trupore 10 kg",
+      "Kur femija mbush moshen 6 muaj",
+      "Ne varesi te rastit",
+      "Si urgjence ne momentin e paraqitjes"
+    ],
+    "correct": 3,
+    "explanation": "Hernia inguinale te fëmija nuk zgjidhet spontanisht dhe operohet në mënyrë elektive sa më shpejt pas diagnozës (sidomos te foshnjat, për rrezikun e inkarcerimit); koha varet nga rasti (prematuriteti, gjendja); hernia e inkarceruar është urgjencë."
+  },
+  {
+    "id": "licenca-pediatri-173",
+    "question": "Sa eshte cirkumferenca kraniale e neonatit?",
+    "answers": [
+      "60 cm",
+      "55 cm",
+      "40 cm",
+      "30 cm",
+      "35 cm"
+    ],
+    "correct": 4,
+    "explanation": "Perimetri kranial i neonatit në term është ~34–35 cm (rritet ~2 cm/muaj në 3 muajt e parë, ~46–47 cm në 1 vjeç)."
+  },
+  {
+    "id": "licenca-pediatri-174",
+    "question": "Cila nga vitaminat keshillohet te shtohet ne muajt e pare te femija qe ushqehet me gji?",
+    "answers": [
+      "Vitamina A",
+      "Vitamina D",
+      "Vitamina E",
+      "Vitamina C",
+      "Te gjitha"
+    ],
+    "correct": 1,
+    "explanation": "Te foshnja e ushqyer me gji rekomandohet suplementimi me vitaminë D (400 UI/ditë) që në ditët e para, sepse qumështi i nënës ka pak vitaminë D; vitamina K jepet në lindje. Vitamina C nuk suplementohet (çelësi i PDF-së D është i gabuar)."
+  },
+  {
+    "id": "licenca-pediatri-175",
+    "question": "Cili organ demtohet vecanerisht ne fenilketonuri?",
+    "answers": [
+      "Veshka",
+      "Mushkeria",
+      "Zemra",
+      "Melcia",
+      "Truri"
+    ],
+    "correct": 4,
+    "explanation": "Në fenilketonuri (deficit i fenilalanin-hidroksilazës) akumulimi i fenilalaninës dëmton trurin: prapambetje mendore, konvulsione, mikrocefali, çrregullime sjelljeje; parandalohet me depistim neonatal dhe dietë të varfër në fenilalaninë."
+  },
+  {
+    "id": "licenca-pediatri-176",
+    "question": "Te cilat gra aplikohet immunoglobulina anti-D pas lindjes ?",
+    "answers": [
+      "Te grate grup Rh+ me femijen Rh-",
+      "Te grate grup Rh- me femijen Rh+",
+      "Te grate grup Rh- me femijen Rh-",
+      "Te grate grup Rh+ me femijen Rh+",
+      "Te te gjitha grate mbas lindjes se pare"
+    ],
+    "correct": 1,
+    "explanation": "Imunoglobulina anti-D i jepet nënës Rh-negative (pa antitrupa) brenda 72 orëve pas lindjes së fëmijës Rh-pozitiv (edhe pas abortit, amniocentezës, gjakderdhjeve, dhe profilaktikisht në javën 28), për të parandaluar alloimunizimin."
+  },
+  {
+    "id": "licenca-pediatri-177",
+    "question": "Pasojat nga infeksioni me Toxoplasma mund te jene",
+    "answers": [
+      "Hidrocefalia",
+      "Kardiopatia",
+      "Hepatopatia",
+      "Shurdhim",
+      "Keqformime te artikulacioneve"
+    ],
+    "correct": 0,
+    "explanation": "Toksoplazmoza kongjenitale jep triadën klasike: hidrocefali, kalcifikime intrakraniale difuze dhe korioretinit; edhe konvulsione, prapambetje mendore."
+  },
+  {
+    "id": "licenca-pediatri-178",
+    "question": "Ne S. Turner cila nga shenjat ose simptomat mungon?",
+    "answers": [
+      "Gjatesia e shkurter",
+      "Steriliteti",
+      "Prapambetje mendore",
+      "Pterigium koli",
+      "Coxa vara"
+    ],
+    "correct": 4,
+    "explanation": "Turner: shtat i shkurtër, sterilitet (disgjenezë gonadale), pterigium colli, cubitus valgus, gjoks në mburojë; inteligjenca zakonisht normale. Coxa vara nuk është tipar i Turner-it (edhe prapambetja mendore nuk është tipike)."
+  },
+  {
+    "id": "licenca-pediatri-179",
+    "question": "Cila eshte gjatesia e femijes ne lindje",
+    "answers": [
+      "40 cm",
+      "55 cm",
+      "50 cm",
+      "60 cm",
+      "70 cm"
+    ],
+    "correct": 2,
+    "explanation": "Gjatësia mesatare e neonatit në term është ~50 cm (rritet ~25 cm në vitin e parë, 75 cm në 1 vjeç)."
+  },
+  {
+    "id": "licenca-pediatri-180",
+    "question": "Cfare eshte semundja e Celiakise",
+    "answers": [
+      "Intolerance permanente ndaj Glutenit",
+      "Intolerance tranzitore ndaj Glutenit",
+      "Hipersensibilitet ndaj Glutenit",
+      "Intolerance sekondare ndaj Glutenit",
+      "Intolerance permanente ndaj orizit"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja celiake është enteropati autoimune me intolerancë permanente ndaj glutenit (gliadinës) te individët e predispozuar gjenetikisht (HLA-DQ2/DQ8); trajtohet me dietë pa gluten gjithë jetën."
+  },
+  {
+    "id": "licenca-pediatri-181",
+    "question": "Ne cilen moshe mund te perdoret vaksina anti-Papillomavirus?",
+    "answers": [
+      "Ne moshen 6 vjec",
+      "Ne moshen 12 vjec",
+      "Ne moshen 8 vjec",
+      "Ne lindje",
+      "Ne moshen 10 vjec"
+    ],
+    "correct": 1,
+    "explanation": "Vaksina anti-HPV është e licencuar nga mosha 9 vjeç; vaksinimi rutinë rekomandohet në 11–12 vjeç (para fillimit të aktivitetit seksual), me 2 doza deri 14 vjeç. Mosha 6 vjeç (çelësi i PDF-së) nuk është e saktë."
+  },
+  {
+    "id": "licenca-pediatri-182",
+    "question": "Cili serotip i meningokokut nuk eshte ende prezent ne vaksinat qe ndodhen ne treg?",
+    "answers": [
+      "C",
+      "A",
+      "W-135",
+      "Y",
+      "B"
+    ],
+    "correct": 4,
+    "explanation": "Pyetje e vjetër: serogrupi B ishte i vetmi pa vaksinë, sepse kapsula e tij polisakaridike është pak imunogjene (e ngjashme me molekulat neurale). Sot ekzistojnë vaksina proteinike kundër MenB (4CMenB, MenB-fHbp)."
+  },
+  {
+    "id": "licenca-pediatri-183",
+    "question": "Nje femije normal i shendetshem ne moshen 1 vjec peshon:",
+    "answers": [
+      "8-9 kg",
+      "7-8 kg",
+      "10-11 kg",
+      "11-12 kg",
+      "12-13 kg"
+    ],
+    "correct": 2,
+    "explanation": "Foshnja e trefishon peshën e lindjes në 1 vjeç: ~10 kg (9–11 kg)."
+  },
+  {
+    "id": "licenca-pediatri-184",
+    "question": "Kur ikteri konsiderohet fiziologjik?",
+    "answers": [
+      "Kur shfaqet brenda 24 h",
+      "Kur shfaqet mbas 24 h",
+      "Kur bilirubina kalon vleren 20mg/dl",
+      "Kur dominon bilirubina direkte",
+      "Asnjera prej tyre"
+    ],
+    "correct": 1,
+    "explanation": "Ikteri fiziologjik shfaqet pas 24 orëve të para (dita 2–3), me bilirubinë indirekte, kulm në ditën 3–5 dhe zhduket brenda 1–2 javëve. Ikteri brenda 24 orëve, bilirubina direkte e rritur ose >15–20 mg/dl janë patologjike."
+  },
+  {
+    "id": "licenca-pediatri-185",
+    "question": "Ne depistimin e hipotiroidizmit congenital cfare dozojme?",
+    "answers": [
+      "GH",
+      "T3 e T4",
+      "TSH dhe/ose T4",
+      "FSH e LH",
+      "17OH Progesteron"
+    ],
+    "correct": 2,
+    "explanation": "Depistimi neonatal i hipotiroidizmit kongjenital bëhet me matjen e TSH (dhe/ose T4) në gjak kapilar në letër filtri në ditën 2–5 të jetës."
+  },
+  {
+    "id": "licenca-pediatri-186",
+    "question": "Cila mund te jete nje nga pasojat e nje infeksioni invaziv nga Streptococcus Pneumoniae?",
+    "answers": [
+      "Meningiti",
+      "Encefaliti",
+      "Karditi",
+      "Glomerulonefriti",
+      "Artriti"
+    ],
+    "correct": 0,
+    "explanation": "Infeksionet invazive nga Streptococcus pneumoniae: meningit, bakteriemi/sepsë, pneumoni me empiemë, artrit septik, osteomielit. Ndër opsionet, meningiti është pasoja tipike dhe më e rëndë."
+  },
+  {
+    "id": "licenca-pediatri-187",
+    "question": "Cili eshte shkaku i semundjes hemoragjike te te porsalindurit?",
+    "answers": [
+      "Deficenca e vit D",
+      "Deficenca e vit E",
+      "Deficenca e vit K",
+      "Deficenca e vit C",
+      "Deficenca e Acidit folik"
+    ],
+    "correct": 2,
+    "explanation": "Sëmundja hemorragjike e të porsalindurit vjen nga deficiti i vitaminës K (kalim i pakët placentar, qumësht gjiri i varfër, florë intestinale e paformuar); parandalohet me vitaminë K 1 mg IM në lindje."
+  },
+  {
+    "id": "licenca-pediatri-188",
+    "question": "Kur nje neonat percaktohet si me peshe sheme te ulet ne lindje (VLBW)?",
+    "answers": [
+      "< 2500gr",
+      "<2000gr",
+      "<1500gr",
+      "<1000gr",
+      "<500gr"
+    ],
+    "correct": 2,
+    "explanation": "Klasifikimi sipas peshës në lindje: LBW <2500 g, VLBW (peshë shumë e ulët) <1500 g, ELBW (peshë jashtëzakonisht e ulët) <1000 g. Çelësi i PDF-së (<1000 g) i përgjigjet ELBW."
+  },
+  {
+    "id": "licenca-pediatri-189",
+    "question": "Nje femije 5 vjec vuan per her te dyte nga meningiti meningokoksik. Cili eshte ekzaminimi me i mire qe duhet bere?",
+    "answers": [
+      "Percaktimi i nivelit te imunoglobulinave",
+      "Ekzaminimi i subpopullatave limfocitareT.",
+      "CH50",
+      "Matja sasiore e testit te NBT ( Clorur Nitroblu tetrazolit)",
+      "Testet e hipersensibilitetit te vonuar kutan"
+    ],
+    "correct": 2,
+    "explanation": "Infeksionet e përsëritura me Neisseria (meningokok) sugjerojnë deficit të komplementit terminal (C5–C9) ose properdinës; testi i depistimit është aktiviteti hemolitik total i komplementit (CH50)."
+  },
+  {
+    "id": "licenca-pediatri-190",
+    "question": "Nje femije 8 vjec shtrohet per shfaqjen e konvulsioneve. Cila nga shfaqjet e meposhteme do te mbeshteste me shume nje diagnoze te konvulsioneve parciale komplekse (psikomotore)",
+    "answers": [
+      "Statusi mental normal,koshjent dhe pergjigjet gjate konvulsioneve",
+      "Nje faze e shpejte toniko-klonike",
+      "Automatizmat",
+      "Modeli EEG karakterizuar nga trase maje- vale,3/sec",
+      "Statusi mental normal,koshjent dhe qe pergjigjet mbas konvulsioneve"
+    ],
+    "correct": 2,
+    "explanation": "Krizat parciale komplekse (lob temporal) karakterizohen nga çrregullim i vetëdijes dhe automatizma (lëvizje të buzëve, përtypje, gjeste stereotipike), shpesh me aura dhe konfuzion pas krizës. Kompleksi majë-valë 3/sek është tipik për absencat."
+  },
+  {
+    "id": "licenca-pediatri-191",
+    "question": "Ne nje neonat diagnostikohet Aniridia. Cili nga egzaminimet e meposhtme duhet te kryhet tek ky femije?",
+    "answers": [
+      "Radiografia torakale",
+      "Matja e alfa fetoproteines",
+      "Percaktimi i funksionit renal",
+      "Egzaminimi i testikujve",
+      "ECHO renale"
+    ],
+    "correct": 4,
+    "explanation": "Aniridia sporadike shoqërohet me sindromën WAGR (delecion 11p13: Wilms, Aniridi, anomali Gjenitourinare, prapambetje mendore); kërkon depistim me ekografi renale çdo 3 muaj deri 8 vjeç për tumorin Wilms."
+  },
+  {
+    "id": "licenca-pediatri-192",
+    "question": "Nje femije 2 vjec eshte e plogesht dhe e zbehte. Ju kryeni nje gjak komplet dhe zbuloni se femija ka anemi megaloblastike. Cila e dhene ne anamneze shpjegon kete situate?",
+    "answers": [
+      "Ha vetem produkte te ritura organikisht",
+      "Pi vetem qumesht dhie",
+      "Ka mare fototerapi ne periudhen neonatale",
+      "Ka mare shume antibiotike per trajtimin e otitis media",
+      "Eshte femije e lindur nga nje nene diabetike"
+    ],
+    "correct": 1,
+    "explanation": "Qumështi i dhisë është i varfër në acid folik (dhe B12); foshnja e ushqyer vetëm me të zhvillon anemi megaloblastike."
+  },
+  {
+    "id": "licenca-pediatri-193",
+    "question": "Nje femije 5 vjec me Artrit Juvenil Idiopatik Pauciartikular ka ANA+(antikorpet anti-nukleare). Cila nga me poshte do te ishte gjetja me e mundeshme per kte rast?",
+    "answers": [
+      "Perikarditi",
+      "Nefriti",
+      "Uveiti",
+      "Splenomegalia",
+      "Linfadenopatia"
+    ],
+    "correct": 2,
+    "explanation": "Te vajzat e vogla me AIJ oligoartikulare ANA-pozitive rreziku kryesor është uveiti anterior kronik (iridociklit) asimptomatik, që mund të çojë në verbim; kërkon kontroll oftalmologjik me llambë të çarë çdo 3 muaj."
+  },
+  {
+    "id": "licenca-pediatri-194",
+    "question": "Nje adoleshente 16 vjec ka obezitet te shprehur. Cila nga situatat me poshte perfaqeson shkakun me te shpeshte te insuficiences respiratore ne adoleshentet obeze?",
+    "answers": [
+      "Pneumotoraksi",
+      "Refluksi gastro-ezofageal",
+      "Insuficienca kardiake kongjestive",
+      "Astma",
+      "Apnea e gjumit"
+    ],
+    "correct": 4,
+    "explanation": "Te adoleshentët me obezitet të rëndë shkaku kryesor i insuficiencës respiratore është sindroma e apnesë obstruktive të gjumit dhe hipoventilimi nga obeziteti (sindroma Pickwick)."
+  },
+  {
+    "id": "licenca-pediatri-195",
+    "question": "Nje femije 18 muajsh ka anemi mikrocitare. Cila nga te dhenat anamnestike shpjegon me mire shkakun e saj?",
+    "answers": [
+      "Pica",
+      "Mungesa ne diete e perimeve te fresketa",
+      "Futja e pamjaftueshme ne diete e lengjeve te frutave",
+      "Marrja e sasive te medhe te vit. C",
+      "Marrja e sasive te medha te qumeshtit te lopes te paholluar."
+    ],
+    "correct": 4,
+    "explanation": "Marrja e sasive të mëdha qumështi lope të paholluar (>700 ml/ditë) te fëmija i vogël shkakton anemi sideropenike: qumështi është i varfër në hekur, ul oreksin për ushqime të tjera dhe shkakton humbje okulte gjaku intestinale."
+  },
+  {
+    "id": "licenca-pediatri-196",
+    "question": "Nje neonat 2-javesh paraqet apne. Femija kishte lindur ne term pas nje shtatzanie te pakomplikuar. Nena e femijes kishte rinorhea dhe kolle,te cilat i kishin filluar para 3 javesh dhe tani ka nje kolle te shpeshte e persistente me te vjella pas akseseve te kolles. Cili nga mjekimet e meposhtme duhet t’I fillohet femijes?",
+    "answers": [
+      "Ceftriaxone",
+      "Amoxicilline",
+      "Azitromicine",
+      "Vancomicine",
+      "Amantadine"
+    ],
+    "correct": 2,
+    "explanation": "Nëna me kollë persistente paroksistike me të vjella pas kollës (pertusis) dhe foshnja me apne = pertusis neonatal; trajtohet me azitromicinë (makrolidi i preferuar <1 muaj; eritromicina lidhet me stenozë pilorike)."
+  },
+  {
+    "id": "licenca-pediatri-197",
+    "question": "Nje foshnje 14-muajsh ka nje histori me diarre intermitente per 4 muaj. Shpesh ka defekime shkarkuesE)qe permbajne pjeseza ushqimore.Rritet mire dhe ekzaminimi objektiv eshte normal. Cili eshte hapi qe duhet ndjekur me tej?",
+    "answers": [
+      "Te qetesohen prinderit",
+      "Koprokulture",
+      "Vleresim cilesor i imunoglobulinave serike",
+      "Vleresim cilesor I yndyrnave ne fece",
+      "Te pershkruhen antidiarreike orale"
+    ],
+    "correct": 0,
+    "explanation": "Fëmijë 1–3 vjeç që rritet mirë, me diarre kronike intermitente me mbetje ushqimore të patretura dhe ekzaminim normal = diarre funksionale e fëmijës së vogël (\"toddler's diarrhea\"); duhen qetësuar prindërit dhe rregulluar dieta (pak lëngje frutash, më shumë yndyrë)."
+  },
+  {
+    "id": "licenca-pediatri-198",
+    "question": "Nje vajze 12 muajshe eshte diagnostikuar me eritroblastopeni tranzitore infantile. Cili nga pohimet eshte i sakte?",
+    "answers": [
+      "Trajtimi me kortikosteroide zakonisht eshte i perzgjedhur",
+      "Mund te jete i nevojshem transfuzion eritrocitar",
+      "Zakonisht eshte e pranishme hepatosplenomegalia",
+      "Zakonisht nuk ka sherim spontan",
+      "Semundja lidhet me infeksionin nga parvovirus"
+    ],
+    "correct": 1,
+    "explanation": "Eritroblastopenia kalimtare e fëmijërisë (aplazi e pastër eritrocitare e fituar, 6 muaj–3 vjeç) shërohet spontanisht brenda 1–2 muajve; ndonjëherë kërkon transfuzion nëse anemia është e rëndë. Nuk ka organomegali, kortikosteroidet nuk indikohen, nuk lidhet me Parvovirusin."
+  },
+  {
+    "id": "licenca-pediatri-199",
+    "question": "Ne nje latant me hipotoni dyshohet diagnoza Werdning-Hoffman.Cila nga shenjat e meposhtme mbeshtet diagnozen?",
+    "answers": [
+      "Reflekse te thella tendinoze normale",
+      "Konvulsione",
+      "Fashikulacione te gjuhes",
+      "Episode febrile rekurente",
+      "Atrofi e nervit optik"
+    ],
+    "correct": 2,
+    "explanation": "Në sëmundjen Werdnig-Hoffmann (AMS tip 1) shenjat tipike janë hipotonia e rëndë, arefleksia dhe fashikulacionet e gjuhës (dëmtim i neuronit motor periferik)."
+  },
+  {
+    "id": "licenca-pediatri-200",
+    "question": "Nje vajze 12 vjec ka dobesi muskulare gjate javes se fundit. Ka nje rash eritematoz ne fytyre, krahe, kofshe dhe nje rash retikular ne palpebrat superiore. Cili do te ishte ekzaminimi me i mire per t’u kryer?",
+    "answers": [
+      "Faktor reumatoid",
+      "Eritrosedimenti",
+      "Analize urine",
+      "Matja e kreatinine kinazes serike",
+      "Antikorpet antinukleare"
+    ],
+    "correct": 3,
+    "explanation": "Dobësi muskulare proksimale + rash heliotrop i qepallave + eritemë e fytyrës dhe ekstremiteteve (papula Gottron) = dermatomiozit juvenil; testi më i dobishëm është kreatinkinaza serike (dhe enzimat e tjera muskulare), pastaj RM/EMG/biopsi."
+  },
+  {
+    "id": "licenca-pediatri-201",
+    "question": "Cilen anomali hematologjike duhet te dyshosh te nje neonat me mungese bilaterale te radiusit?",
+    "answers": [
+      "Trombocitopenia",
+      "Anemia",
+      "Neutropenia",
+      "Pancitopenia",
+      "Limfopenia"
+    ],
+    "correct": 0,
+    "explanation": "Mungesa bilaterale e radiusit me gishta të mëdhenj të pranishëm = sindroma TAR (Trombocitopeni-Absent Radius): trombocitopeni e rëndë neonatale. (Anemia Fanconi ka mungesë të gishtit të madh dhe pancitopeni më vonë.)"
+  },
+  {
+    "id": "licenca-pediatri-202",
+    "question": "Nje djale 14 muaj paraqet ekzeme grave,nje anamneze me otit rekurent dhe infeksion te gjinjve, trombocitopeni.Cila eshte menyra e trashegimise se kesaj patologjie?",
+    "answers": [
+      "Lidhje me kromozomin X",
+      "Autozomike dominante",
+      "Autozomike recesive",
+      "Mutacion i rastesishem",
+      "Multifaktoriale"
+    ],
+    "correct": 0,
+    "explanation": "Ekzemë, infeksione të përsëritura (otit) dhe trombocitopeni me trombocite të vogla te një djalë = sindroma Wiskott-Aldrich, me trashëgimi të lidhur me X-in (gjeni WAS). Çelësi i PDF-së (autozomike dominante) është i gabuar."
+  },
+  {
+    "id": "licenca-pediatri-203",
+    "question": "Nje neonat u diagnostikua me hipoparatiroidizem kongenital.Cila nga me poshte ka mundesi te gjendet me shpesh gjate vleresimit te tij?",
+    "answers": [
+      "Mikrocefalia",
+      "Hiponatremia",
+      "Hiperkalemia",
+      "Gogesima",
+      "Kandidoze"
+    ],
+    "correct": 4,
+    "explanation": "Hipoparatiroidizmi kongjenital te neonati sugjeron sindromën DiGeorge (delecion 22q11: aplazi timusi dhe paratiroidesh): hipokalcemi me tetani/konvulsione dhe imunodeficit qelizor T me infeksione si kandidoza mukokutane; edhe kardiopati konotrunkale."
+  },
+  {
+    "id": "licenca-pediatri-204",
+    "question": "Nje vajze 16 muaj nga Nigeria paraqet nje fillim akut te ataksise se trungut me te vjella, nistagmus dhe disartri. Nuk ka temperature,as rigiditet nukal. Cila nga te dhenat e anamnezes do te te ndihmonte per te gjetur shkakun e ketyre simptomave?",
+    "answers": [
+      "Nivelet e larta te plumbit ne moshen 1 vjec",
+      "Konvulsione febrile ne moshen 13 muaj",
+      "Faringodinia me vezikula ne palatum 3 jave me pare",
+      "Semundje febrile me erupsione kutane 2 muaj me pare",
+      "Vaksina e pare MMR (fruth, parotit, rubeole) 1 muaj me pare"
+    ],
+    "correct": 2,
+    "explanation": "Ataksia cerebelare akute post-infektive (më shpesh pas varicelës ose enteroviruseve, 1–3 javë pas infeksionit) te fëmija i vogël; një faringit me vezikula në qiellzë 3 javë më parë (infeksion viral) është e dhëna anamnestike që e shpjegon."
+  },
+  {
+    "id": "licenca-pediatri-205",
+    "question": "Nje djale 12 vjec vuan nga artrit migrant,me artikulacione te skuqur,te nxehte, te enjtur. Paraqet serologji per infeksion recent me streptokok gr A. Ne keto kushte artriti karakterizohet:",
+    "answers": [
+      "Zakonisht jo i dhimbshem",
+      "Sherohet pa shkaktuar deformime",
+      "Shfaqet pasi zhduket temperatura",
+      "Shfaqet vetem ne pacientet qe kane edhe kardit",
+      "Perfshin ne te njejten menyre artikulacionet e medha dhe te vogla"
+    ],
+    "correct": 1,
+    "explanation": "Artriti i ethes reumatizmale është migrant, prek artikulacionet e mëdha, është shumë i dhimbshëm, i përgjigjet shpejt salicilateve dhe shërohet pa deformime (ndryshe nga AIJ)."
+  },
+  {
+    "id": "licenca-pediatri-206",
+    "question": "Nje 2 vjecar me origjine afrikane paraqitet me enjtje te dhimbshme te duarve dhe kembeve. Te dhenat laboratorike tregojne per hemoglobine 9 g/dl,leukocite 11500/mm3,trombocite 250000/mm3.Cili nga ekzaminimet e meposhtme do mbeshtese diagnozen tende?",
+    "answers": [
+      "Ekzaminim radiologjik i plote",
+      "VDRL",
+      "Mielograme",
+      "Elektroforeze e hemoglobines",
+      "Kalcemia"
+    ],
+    "correct": 3,
+    "explanation": "Fëmijë me origjinë afrikane me ënjtje të dhimbshme të duarve dhe këmbëve (daktilit, sindroma \"dorë-këmbë\" nga vazookluzioni) dhe anemi = drepanocitozë; diagnoza konfirmohet me elektroforezën e hemoglobinës (HbS)."
+  },
+  {
+    "id": "licenca-pediatri-207",
+    "question": "Nje 4 vjecar nuk ka zhvillim fizik normal dhe ka te dhena per insuficence pankreatike ekzokrine.Cili eshte shkaku me i mundshem i ketyre shfaqjeve klinike?",
+    "answers": [
+      "Pankreatit akut",
+      "Atrezi biliare",
+      "Sindroma e Swachman-Diamond",
+      "Mungesa kongenitale e pankreasit",
+      "Fibroza kistike"
+    ],
+    "correct": 2,
+    "explanation": "Insuficiencë pankreatike ekzokrine me mosrritje te fëmija sugjeron fibrozë kistike ose sindromën Shwachman-Diamond (+ neutropeni, anomali skeletike metafizare); kjo e fundit (në praktikë FK është më e shpeshtë dhe duhet përjashtuar me testin e djersës)."
+  },
+  {
+    "id": "licenca-pediatri-208",
+    "question": "Ne nje vajze 2 vjec dyshohet per tumor cerebral. Ajo ka ataksi, ligjerate te ruajtur, te vjella heret ne mengjes. Cili nga pohimet rreth tumoreve cerebrale te femijet eshte i sakte?",
+    "answers": [
+      "Pjesa me e madhe e tyre lokalizohen ne linea mediana dhe/ose poshte tentoriumit.",
+      "Tumoret cerebrale paraqesin nje forme te rralle te neoplazive te femijet.",
+      "Hipertensioni endokranial eshte i rralle nder shenjat e shfaqjes se tumorit.",
+      "Konvulsionet paraqesin shenjen me te shpeshte te shfaqjes se tumorit ne pjesen me te madhe te rasteve.",
+      "Pjesa me e madhe shfaqen ne vitin e pare te jetes."
+    ],
+    "correct": 0,
+    "explanation": "Te fëmijët tumoret cerebrale janë tumoret solide më të shpeshta; shumica janë infratentoriale dhe në linjën mediane (meduloblastoma, astrocitoma cerebelare, ependimoma), me ataksi dhe shenja të hipertensionit intrakranial (të vjella në mëngjes, cefale)."
+  },
+  {
+    "id": "licenca-pediatri-209",
+    "question": "Nje 12 vjecare ka ikter,tremor progresiv dhe labilitet emocional.Cilen nga me poshte mund te gjesh me shpesh gjate ekzaminimit objektiv?",
+    "answers": [
+      "Cirkumferenca e kokes eshte mbi percentilin 95",
+      "Ngjyrim i kornese ne te verdhe te erret",
+      "Shurdhim konduktor bilateral",
+      "Limfadenopati e gjeneralizuar",
+      "Floke ne fovea sakrale"
+    ],
+    "correct": 1,
+    "explanation": "Adoleshent me ikter, tremor dhe çrregullime psikike = sëmundja Wilson; në ekzaminim gjenden unazat Kayser-Fleischer (depozitim bakri në membranën Descemet, ngjyrë kafe e verdhë/e gjelbër në periferi të kornesë)."
+  },
+  {
+    "id": "licenca-pediatri-210",
+    "question": "Nje neonat 38 javesh lindi nga nje nene me diabet gestacional. Pesha e lindjes eshte 4255g. Cfare pritet te gjendet me shpesh te ky neonat?",
+    "answers": [
+      "Difekt i tubit neural",
+      "Sindroma e kolonit te shkurter te majte.",
+      "Kardiomegali",
+      "Hidronefroze",
+      "Displazi renale"
+    ],
+    "correct": 2,
+    "explanation": "Neonati makrosom i nënës diabetike ka shpesh kardiomegali nga kardiomiopatia hipertrofike (septale) kalimtare, nga hiperinsulinizmi fetal; edhe hipoglicemi, policitemi, hipokalcemi, sindromë e kolonit të vogël të majtë (më rrallë)."
+  },
+  {
+    "id": "licenca-pediatri-211",
+    "question": "Nje 2 vjecar ka nje mase abdominale voluminoze dhe pancitopeni. Cila nga diagnozat e meposhtme mund te vertetohet me mielograme?",
+    "answers": [
+      "Hepatoblastome",
+      "Neuroblastome",
+      "Karcinome me qeliza renale",
+      "Rabdomiosarkome",
+      "Tumori Wilms"
+    ],
+    "correct": 1,
+    "explanation": "Neuroblastoma metastazon herët në palcën kockore (pancitopeni), kocka dhe mëlçi; mielogrami/biopsia e palcës tregon \"rozeta\" të qelizave neuroblastike dhe konfirmon diagnozën (krahas katekolaminave urinare VMA/HVA)."
+  },
+  {
+    "id": "licenca-pediatri-212",
+    "question": "Nje 6 vjecare ka konjuktivit unilateral jopurulent, jo i dhimbshem me limfadenit preaurikular.Cili eshte shaktari me i mundshem?",
+    "answers": [
+      "Mycobacterium avium",
+      "Bartonella henselae",
+      "Adenovirus spp.",
+      "Staphylococcus aureus",
+      "Chlamydia trachomatis"
+    ],
+    "correct": 1,
+    "explanation": "Konjunktivit unilateral jopurulent me limfadenit preaurikular = sindroma okuloglandulare Parinaud, më shpesh nga Bartonella henselae (sëmundja e gërvishtjes së maces)."
+  },
+  {
+    "id": "licenca-pediatri-213",
+    "question": "Nje vajze me displazi fibrotike te kockave dhe pigmentim jonormal te lekures diagnostikohet me nje patologji e cila lidhet edhe me nje nga manifestimet e meposhtme:",
+    "answers": [
+      "Anemia.",
+      "Shurdhim.",
+      "Pubertet prekoks.",
+      "Neurofibrome multiple.",
+      "Glomerulonefrit kronik."
+    ],
+    "correct": 2,
+    "explanation": "Displazi fibroze poliostotike + njolla \"café-au-lait\" me kufij të parregullt + endokrinopati = sindroma McCune-Albright (mutacion GNAS), me pubertet të parakohshëm periferik (sidomos te vajzat)."
+  },
+  {
+    "id": "licenca-pediatri-214",
+    "question": "Nje femije normal 6 muajsh paraqet nje zhurme kardiake te vazhdueshme me puls periferik te tensionuar. Cili do ishte hapi i rradhes?",
+    "answers": [
+      "Vleresim i kariotipit.",
+      "Korigjim i defektit permes kirurgjise ose kateterit.",
+      "Profilaksi kardiake gjate jetes per procedura te caktuara.",
+      "Ekzaminim kontrolli ne moshen 12 muaj.",
+      "Qetesimi i prinderve."
+    ],
+    "correct": 1,
+    "explanation": "Zhurmë e vazhdueshme (\"makinë\") me pulse periferike kërcyese te foshnja 6 muajsh = duktus arterioz i hapur; indikohet mbyllja me kateter (pajisje/spirale) ose kirurgjikale, për të parandaluar insuficiencën kardiake, hipertensionin pulmonar dhe endarteritin."
+  },
+  {
+    "id": "licenca-pediatri-215",
+    "question": "Ne qendren shendetsore ku punon, je duke ndjekur nje pacient me Kraniosinostoze dhe malformacion te kokes e fytyres. Cilin malformacion tjeter kongenital ka me shume mundesi te gjesh te ky pacient?",
+    "answers": [
+      "Malformacion te trakese dhe ezofagut.",
+      "Malformacion kardiak.",
+      "Malformacion te traktit genito-urinar.",
+      "Malformacion te ekstremiteteve.",
+      "Malformacion te kolones vertebrale."
+    ],
+    "correct": 3,
+    "explanation": "Kraniosinostoza me malformacione kraniofaciale shoqërohet shpesh me anomali të ekstremiteteve në sindromat Apert (sindaktili e duarve/këmbëve), Pfeiffer, Carpenter."
+  },
+  {
+    "id": "licenca-pediatri-216",
+    "question": "Nje 14 vjecare vuan nga cefale progresive.Ne ekzaminim objektiv vihet re edeme papilare bilaterale.CT e kokes rezulton normale. Cili duhet te jete ekzaminimi i rradhes?",
+    "answers": [
+      "Punksion lumbar.",
+      "Rezonance magnetike e kokes.",
+      "CT e orbitave.",
+      "Ekzaminim toksikologjik i urines.",
+      "Matja e nivelit te β-HCG."
+    ],
+    "correct": 0,
+    "explanation": "Cefale progresive me edemë papilare bilaterale dhe neuroimazheri normale (pa masë/hidrocefali) = hipertension intrakranial idiopatik (pseudotumor cerebri), më shpesh te adoleshentet obeze; konfirmohet me punksion lumbar (presion hapës i rritur, likuor normal), që është edhe terapeutik."
+  },
+  {
+    "id": "licenca-pediatri-217",
+    "question": "Nje femije 8 muajsh ka te vjella dhe te qara per 12 ore.Ne ekzaminim objektiv vihet re nje mase ne forme salcice ne kuadratin superior dekster te abdomenit. Cila nga me poshte do ishte me e vlefshme?",
+    "answers": [
+      "Inserimi i nje sonde nazo-gastrike.",
+      "Ekzaminim i feçeve per parazite.",
+      "Hemokulture.",
+      "Ekografi abdominale.",
+      "Ekzaminim me klizme bariumi."
+    ],
+    "correct": 4,
+    "explanation": "Foshnjë 8 muajsh me të qara kolike, të vjella dhe masë \"si salçiçe\" në abdomen = invaginim; klizma me kontrast (barium/ajër, nën fluoroskopi) është diagnostike dhe terapeutike. Ekografia është sot ekzaminimi i parë diagnostik."
+  },
+  {
+    "id": "licenca-pediatri-218",
+    "question": "Cili ekzaminim eshte me i rendesishem per t’u bere te nje 2 vjecar me sindrom Beckwith-Wiedemann dhe me nje mase abdominale?",
+    "answers": [
+      "shintigrafi hepatobiliare",
+      "endoskopi gastrointestinale speriore",
+      "niveli i katekolaminave ne urine",
+      "niveli i alfa-fetoproteinave serike",
+      "cistouretrografia miksionale"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Beckwith-Wiedemann predispozon për tumorin Wilms dhe hepatoblastomën; para një mase abdominale ekzaminimi më i rëndësishëm është alfa-fetoproteina serike (shënues i hepatoblastomës), krahas ekografisë."
+  },
+  {
+    "id": "licenca-pediatri-219",
+    "question": "Nje i porsalindur ka nje vonese ne eleminimin e mekoniumit.Radiografia me barium tregon dilatim te kolonit proksimal dhe obstriksion te kolonit distal.Cili do ishte ekzaminimi i rradhes?",
+    "answers": [
+      "CT abdominale",
+      "Ekzaminim i feçeve",
+      "Biopsi rektale",
+      "Matja e Cl- ne djerse",
+      "Analize kromozomike"
+    ],
+    "correct": 2,
+    "explanation": "Vonesa e eliminimit të mekoniumit (>48 orë) me kolon proksimal të dilatuar dhe segment distal të ngushtë = sëmundja Hirschsprung; konfirmohet me biopsi rektale (mungesë e qelizave ganglionare)."
+  },
+  {
+    "id": "licenca-pediatri-220",
+    "question": "Nje femije 2 muajsh ka dispne te rende dhe cianoze.Radiografia e toraksit paraqet kardiomegali minimale dhe pamje retikulare difuze te fushave pulmonare. Cila nga me poshte shpjegon me mire keto rezultate?",
+    "answers": [
+      "Miokardit viral akut.",
+      "Sindroma e zemres hipoplastike te majte.",
+      "Atrezi e arteries pulmonare.",
+      "Drenazh jonormal pulmonar me obstruksion venoz.",
+      "Transpozicion i eneve te medha."
+    ],
+    "correct": 3,
+    "explanation": "Cianozë dhe dispne e rëndë te foshnja me zemër pothuajse normale dhe pamje retikulare/kongjestion venoz pulmonar difuz (\"si edemë\") = kthim venoz pulmonar anomal total me obstruksion venoz (sidomos forma infradiafragmatike); urgjencë kirurgjikale."
+  },
+  {
+    "id": "licenca-pediatri-221",
+    "question": "Nje 7 vjecare ka enureze nokturne sekondare.Cili eshte ekzaminimi me i mire per t’u ndjekur?",
+    "answers": [
+      "Ekografia renale.",
+      "Cistouretrografia miksionale.",
+      "Radiografia abdominale.",
+      "Analize urine.",
+      "Klirensi i kreatinines."
+    ],
+    "correct": 3,
+    "explanation": "Në enurezën sekondare (pas ≥6 muajsh kontinence) ekzaminimi i parë është analiza e urinës (+ urokultura): përjashton infeksion urinar, diabet mellitus (glukozuri), diabet insipid (densitet i ulët)."
+  },
+  {
+    "id": "licenca-pediatri-222",
+    "question": "Prinderit e nje femije 8 vjeҫ jane te shqetesuar per shtatin e tij te shkurter. Cili eshte hapi tjeter me i rendesishem?",
+    "answers": [
+      "Percaktimi i indeksit te mases trupore.",
+      "Matja e stadit te maturimit genital.",
+      "Matja emoshes kockore.",
+      "Matja e shpejtesise se rritjes.",
+      "Matja e raportit peshe/gjatesi."
+    ],
+    "correct": 3,
+    "explanation": "Në vlerësimin e shtatit të shkurtër hapi më i rëndësishëm është matja e shpejtësisë së rritjes (cm/vit) në kohë: shpejtësia normale sugjeron shtat familjar/vonesë konstitucionale; shpejtësia e ulët sugjeron shkak patologjik (endokrin, sistemik)."
+  },
+  {
+    "id": "licenca-pediatri-223",
+    "question": "Cili nga pohimet e meposhtme eshte tipik per nje konvulsion febril?",
+    "answers": [
+      "Zgjat maksimalisht 15 min.",
+      "Shfaqet ne nje femer me moshe me pak se 6 muaj.",
+      "Paralize Todd post-konvulsive.",
+      "Temperature jo >38˚ C ne 24 oret e ardhshme.",
+      "Anamneze familjare pozitive per konvulsione febrile ne 40% te rasteve."
+    ],
+    "correct": 4,
+    "explanation": "Konvulsionet febrile kanë komponent të fortë familjar: histori familjare pozitive në ~25–40% të rasteve. Ato shfaqen 6 muaj–5 vjeç; ato të thjeshta zgjasin <15 min, pa paralizë Todd (opsioni A në fakt është gjithashtu tipik për formën e thjeshtë)."
+  },
+  {
+    "id": "licenca-pediatri-224",
+    "question": "Cila eshte karakteristika dalluese mes “manise” dhe depresionit”?",
+    "answers": [
+      "Alterim i aktivitetit.",
+      "Prezenca e psikozes.",
+      "Cilesia e humorit.",
+      "Prezenca e pagjumesise.",
+      "Prezenca e nje mekanizmi fizpatologjik te njohur."
+    ],
+    "correct": 2,
+    "explanation": "Mania dhe depresioni dallohen nga cilësia/polariteti i humorit (euforik/ekspansiv/irritabël vs. i ulët/depresiv); pagjumësia, ndryshimi i aktivitetit dhe simptomat psikotike mund të gjenden në të dyja."
+  },
+  {
+    "id": "licenca-pediatri-225",
+    "question": "Persistenca e reflekseve neonatale eshte tregues i zhvillimit te vone. Refleksi Moro duhet te zhduket ne moshen:",
+    "answers": [
+      "1-2 muaj",
+      "3-5 muaj",
+      "6-8 muaj",
+      "10-12 muaj",
+      "14-18 muaj"
+    ],
+    "correct": 1,
+    "explanation": "Refleksi Moro është i pranishëm në lindje dhe zhduket rreth moshës 3–6 muaj (zakonisht 4–5); persistenca pas 6 muajsh sugjeron dëmtim neurologjik. Ndër opsionet, 3–5 muaj është përgjigjja e saktë (çelësi i PDF-së 6–8 muaj është i vonë)."
+  },
+  {
+    "id": "licenca-pediatri-226",
+    "question": "Ne cilin prej kushteve te meposhtme gjendet mioze unilaterale?",
+    "answers": [
+      "Sindroma Claude- Bernard- Horner.",
+      "Paralize e nervit te trete.",
+      "Tumor qe prek nervin optik.",
+      "Marrje e barbiturateve.",
+      "Retinopati e prematuritetit."
+    ],
+    "correct": 0,
+    "explanation": "Sindroma Claude Bernard-Horner (dëmtim i rrugës simpatike okulare) jep miozë unilaterale, ptozë të lehtë dhe anhidrozë homolaterale. Paraliza e nervit III jep midriazë; barbituratet japin miozë bilaterale."
+  },
+  {
+    "id": "licenca-pediatri-227",
+    "question": "Nje 8 vjeҫare ka hemipareze pas nje konvulsioni fokal. Brenda 24 oreve dobesia dhe deficiti neurologjik zhduken. Cila eshte diagnoza me e mundshme?",
+    "answers": [
+      "Hemiplegji nga hemikraniumi pergjegjes",
+      "Hemiplegji spastike",
+      "Encefalit",
+      "Tumor nententorial",
+      "Paraliza Todd"
+    ],
+    "correct": 4,
+    "explanation": "Hemiparezë kalimtare pas një krize konvulsive fokale, që zhduket brenda 24–48 orëve = paraliza postiktale e Todd-it."
+  },
+  {
+    "id": "licenca-pediatri-228",
+    "question": "Nje femije dergohet te pediatri per nje vizite kontrolli. Femija kalon nje objekt nga nje dore ne tjetren,rri ulur,perserit tingujt e te folures,paraqet perdorim te mire te gishtit tregues. Cila eshte mosha e femijes?",
+    "answers": [
+      "2 muaj",
+      "4 muaj",
+      "6 muaj",
+      "8 muaj",
+      "10 muaj"
+    ],
+    "correct": 4,
+    "explanation": "Fëmija që ulet vetë, kalon objekte nga një dorë te tjetra, përsërit rrokje (babëzim) dhe përdor gishtin tregues (pinca, tregon me gisht) është rreth 9–10 muajsh."
+  },
+  {
+    "id": "licenca-pediatri-229",
+    "question": "Te folurit eshte nje mates i zhvillimit konjitiv dhe emcional. Me cilen nga situatat eshte e lidhur vonesa ne te folur?",
+    "answers": [
+      "Sindroma Di George",
+      "Sindroma Williams- Beuren",
+      "Diabet",
+      "Keqtrajtim",
+      "Astma"
+    ],
+    "correct": 3,
+    "explanation": "Vonesa në të folur lidhet me shurdhimin, prapambetjen mendore, autizmin dhe privimin psikosocial/keqtrajtimin (neglizhencën) — mungesa e stimulimit gjuhësor. Sindroma Williams karakterizohet përkundrazi nga aftësi verbale relativisht të mira."
+  },
+  {
+    "id": "licenca-pediatri-230",
+    "question": "Nje vajze e klases se dyte ka aftesi intelektuale te nje nxenesi te vitit te pare te shkolles se mesme. Cili eshte koeficenti i inteligjences se vajzes?",
+    "answers": [
+      "90",
+      "105",
+      "120",
+      "135",
+      "150"
+    ],
+    "correct": 4,
+    "explanation": "IQ = (mosha mendore / mosha kronologjike) × 100. Një vajzë e klasës së dytë (~7 vjeç) me aftësitë e një nxënësi të vitit të parë të shkollës së mesme të ulët (~11 vjeç): 11/7 × 100 ≈ 150."
+  },
+  {
+    "id": "licenca-pediatri-231",
+    "question": "Cili nga komplikacionet e meposhtme gjendet te nje person me bulimi nervore pa shqetesime te tjera psikiatrike?",
+    "answers": [
+      "Peshe trupore nen 75% te peshes ideale",
+      "Abuzim me laksative",
+      "Ushtrim fizik i rende dhe i zgjatur",
+      "Periudha shendoshjeje gjate te cilave pacienti humb kontrollin",
+      "Seksi femer"
+    ],
+    "correct": 0,
+    "explanation": "Pyetja (e përkthyer keq) kërkon elementin që nuk gjendet në bulimi nervore: pesha <75% (ose <85%) e peshës ideale është tipike për anoreksinë nervore; në bulimi pesha është zakonisht normale. Bulimia ka episode bulimike me humbje kontrolli, sjellje kompensuese (laksativë, ushtrime të tepërta, të vjella) dhe prek kryesisht femrat."
+  },
+  {
+    "id": "licenca-pediatri-232",
+    "question": "Te gjitha pohimet mbi çrregullimin autike jane te sakta, perveç:",
+    "answers": [
+      "Me i shpeshte te meshkujt se te femrat.",
+      "Fillimi eshte para moshes 3 vjecare.",
+      "Femijet e prekur kane sjellje motore stereotipike.",
+      "Shumica kane prapambetje mendore.",
+      "Thuhet se shkaku me i shpeshte eshte rubeola kongenitale."
+    ],
+    "correct": 4,
+    "explanation": "Çrregullimi i spektrit autik: më i shpeshtë te meshkujt (4:1), fillim në fëmijërinë e hershme (para 3 vjeç), sjellje stereotipike dhe interesa të kufizuara, shpesh me prapambetje mendore. Shkaku është kryesisht gjenetik/neurozhvillimor; rubeola kongjenitale është shkak i rrallë, jo më i shpeshti."
+  },
+  {
+    "id": "licenca-pediatri-233",
+    "question": "Kolika te latanti eshte shume shqetesuese per prinderit.Cili nga pohimet eshte i sakte?",
+    "answers": [
+      "Kolika zakonisht eshte e lidhur me ushqimin artificial.",
+      "Kolika tipike fillon ne javen 41-42 gestacionale pavarsisht moshes gestacionale ne lindje.",
+      "Kolika ka prevalence me te larte te femijet kaukaziane.",
+      "Kolika shfaqet me shpesh te femrat.",
+      "Ka studime qe parashikojne temperamentin e femijeve qe kane vuajtur nga kolika."
+    ],
+    "correct": 1,
+    "explanation": "Kolikat e foshnjës fillojnë rreth javës së 2-të pas lindjes në term (rreth javës 41–42 të moshës post-konceptuale, edhe te prematurët), kulmojnë në 6 javë dhe zhduken në 3–4 muaj; nuk lidhen me llojin e ushqyerjes apo seksin."
+  },
+  {
+    "id": "licenca-pediatri-234",
+    "question": "Nje nene sjell femijen 10 vjeҫ te mjeku sepse eshte e shqetesuar per zhurmat e perseritura qe ai ben. Nena zbulon se djali kishte patur episode te tilla disa vite me pare. Djali pershkruhet si hiperaktiv dhe nuk eshte ne gjendje te kontrolloje impulset e veta. Cilin nga manifestimet e meposhtme pret te shfaqet ne te ardhmen?",
+    "answers": [
+      "Episode intermitente me fjale te keqija.",
+      "Zjarrvenie dhe keqtrajtim i kafsheve.",
+      "Enureze nokturne.",
+      "Refuzon te shkoje ne shkolle nga frika e te qenit i braktisur.",
+      "Paralize."
+    ],
+    "correct": 0,
+    "explanation": "Fëmijë me tike vokale dhe motore të përsëritura për vite, me ADHD shoqëruese = sindroma Tourette; mund të shfaqë koprolali (fjalë të ndyra intermitente), si edhe simptoma obsesivo-kompulsive."
+  },
+  {
+    "id": "licenca-pediatri-235",
+    "question": "Nje femije ka fituar kontrollin e sfinkterave,ben lojra interaktive,thote emrin dhe mbiemrin e vet,pedalon nje tricikel,kopjon nje kryq dhe nje rreth por jo nje katror apo trekendesh. Nuk kap dot nje top qe eshte duke u perplasur,nuk vishet pa ndihme. Cila eshte mosha e femijes?",
+    "answers": [
+      "1 vjeç",
+      "2 vjeç",
+      "3 vjeç",
+      "4 vjeç",
+      "5 vjeç"
+    ],
+    "correct": 2,
+    "explanation": "Në 3 vjeç fëmija pedalon triçikël, thotë emrin dhe mbiemrin, kopjon rrethin (dhe kryqin), ka kontroll sfinkteresh gjatë ditës, luan me të tjerë; katrorin e kopjon në 4 vjeç dhe vishet vetë rreth 4–5 vjeç."
+  },
+  {
+    "id": "licenca-pediatri-236",
+    "question": "Cili eshte kriteri i çrregullimit te te mesuarit?",
+    "answers": [
+      "Inteligjence mbi mesatare.",
+      "Ngaterrim i shkrimit te shkronjave.",
+      "Mungese e problemeve emocionale apo te sjelljes.",
+      "Mungese lidhjeje mes inteligjences dhe rendimentit ne nje apo me shume fusha.",
+      "Defiçit ne perceptimin vizual apo auditiv"
+    ],
+    "correct": 3,
+    "explanation": "Çrregullimi specifik i të mësuarit (disleksi, diskalkuli, disgrafi) përkufizohet nga mospërputhja midis inteligjencës normale dhe rendimentit në një apo më shumë fusha akademike, që nuk shpjegohet me deficit shqisor, intelektual apo mungesë mësimdhënieje."
+  }
+]

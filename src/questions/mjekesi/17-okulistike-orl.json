@@ -1,0 +1,938 @@
+[
+  {
+    "id": "licenca-okulistike-orl-001",
+    "question": "Nje diplopi e papritur e shoqeruar me strabizem konvergjent shkaktohet nga:",
+    "answers": [
+      "paraliza e nervit te VI kranial",
+      "paraliza e nervit te III kranial",
+      "neuriti retrobulbar akut",
+      "okluzioni i arteries qendrore te retines",
+      "neuralgjia e trigeminusit"
+    ],
+    "correct": 0,
+    "explanation": "Paraliza e nervit të VI (abducens) pengon abduksionin e syrit (muskuli rektus lateral) → strabizëm konvergjent (ezotropi) dhe diplopi horizontale që rritet kur shikon nga ana e prekur."
+  },
+  {
+    "id": "licenca-okulistike-orl-002",
+    "question": "Te dhjetat dhe dioptrite:",
+    "answers": [
+      "jane e njejta gje",
+      "nuk kane asnje lidhje ndermet tyre",
+      "jane te lidhura ne menyre te drejteperdrejte",
+      "jane te barabarta me 10 te nje subjekt normal",
+      "shprehin mprehtesine vizive dhe luhaten nga 1 deri ne 10"
+    ],
+    "correct": 1,
+    "explanation": "Të dhjetat (p.sh. 10/10) shprehin mprehtësinë vizive, ndërsa dioptritë shprehin fuqinë refraktive të thjerrëzave/defektin refraktiv; nuk ka lidhje matematikore të drejtpërdrejtë midis tyre."
+  },
+  {
+    "id": "licenca-okulistike-orl-003",
+    "question": "Perdorimi i zgjatur i kolireve me kortizon te subjektet e predispozuara mund te provokoje:",
+    "answers": [
+      "opacitet korneal",
+      "katarakt",
+      "turbullim te vitrozit",
+      "konjuktivit kronik",
+      "glaukome dytesore"
+    ],
+    "correct": 4,
+    "explanation": "Përdorimi i zgjatur i kolireve me kortikosteroide te personat e predispozuar (\"steroid responders\") rrit presionin intraokular → glaukomë sekondare (me humbje fushëpamjeje); mund të japë edhe katarakt subkapsular posterior."
+  },
+  {
+    "id": "licenca-okulistike-orl-004",
+    "question": "Nje hemianopsi bitemporale pergjithesisht shkaktohet nga nje:",
+    "answers": [
+      "lezion komprimues ne nervat optike",
+      "lezion ne korteksin cerebral oksipital",
+      "lezion ekspansiv ne hipofize",
+      "hemorragji subaraknoidale",
+      "lezion ne rrezatimet optike"
+    ],
+    "correct": 2,
+    "explanation": "Hemianopsia bitemporale vjen nga kompresioni i kiazmës optike (fibrat nazale të kryqëzuara), më shpesh nga një lezion ekspansiv hipofizar (makroadenoma) ose kraniofaringioma."
+  },
+  {
+    "id": "licenca-okulistike-orl-005",
+    "question": "Ne rast diplopie me fillim akut eshte e nevojshme qe:",
+    "answers": [
+      "te pritet qe simptomat te regredojne",
+      "te mbyllet me bende syri i devijuar",
+      "te kerkohet nje konsulte neurologjike urgjente",
+      "te jepen kapilaroprotektore",
+      "te kryhet nje monitorim i presionit arterial"
+    ],
+    "correct": 2,
+    "explanation": "Diplopia binokulare me fillim akut mund të jetë shenjë e patologjive neurologjike serioze (aneurizëm, iktus, tumor, miasteni), prandaj kërkon konsultë neurologjike urgjente dhe imazheri."
+  },
+  {
+    "id": "licenca-okulistike-orl-006",
+    "question": "Nderlikimi me i rrezikshem i arteritit Horton te patrajtuar eshte:",
+    "answers": [
+      "embolia cerebrale",
+      "verberia bilaterale e parikthyeshme",
+      "tromboza e arteries temporale siperfaqesore",
+      "shurdhesia kokleare",
+      "atake te forta e te perseritura cefaleje"
+    ],
+    "correct": 1,
+    "explanation": "Komplikacioni më i rrezikshëm i arteritit Horton të patrajtuar është neuropatia optike ishemike → verbëri e papritur e pakthyeshme, shpesh bilaterale; prandaj kortikosteroidet nisen menjëherë."
+  },
+  {
+    "id": "licenca-okulistike-orl-007",
+    "question": "Ne rastin e nje syri te kuq, te dhembshem, me ulje te moderuar te vizusit dhe me mioze pupilare, diagnoza me e mundshme eshte:",
+    "answers": [
+      "glaukoma akute",
+      "iridocikliti akut",
+      "konjuktiviti akut",
+      "neuriti optik akut",
+      "okluzioni i venes qendrore te retines"
+    ],
+    "correct": 1,
+    "explanation": "Sy i kuq, i dhimbshëm, me fotofobi, ulje të moderuar të vizusit dhe mioze (pupilë e vogël, shpesh e çrregullt nga sinekiet) = iridociklit akut (uveit anterior). Në glaukomën akute pupila është në midriazë mesatare."
+  },
+  {
+    "id": "licenca-okulistike-orl-008",
+    "question": "Presioni endokular i nje subjekti normal:",
+    "answers": [
+      "eshte i lidhur drejteperdrejte me presionin arterial",
+      "luhatet nga 10 deri ne 20 mmHg",
+      "ulet ne pozicion supin",
+      "ulet me rritjen e moshes",
+      "luhatet nga 20 deri ne 30 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Presioni intraokular normal është 10–21 mmHg (mesatarisht ~15–16); vlerat mbi 21 mmHg sugjerojnë hipertension okular/glaukomë."
+  },
+  {
+    "id": "licenca-okulistike-orl-009",
+    "question": "Nje ekzoftalmi e shoqeruar me retraksion te palpebres superiore shoqerohet shpesh me:",
+    "answers": [
+      "byc",
+      "paralize te nervit te III kranial",
+      "morbus Basedow",
+      "mielome multiple",
+      "sarkoidoze"
+    ],
+    "correct": 2,
+    "explanation": "Ekzoftalmia me retraksion të palpebrës së sipërme (shenja Dalrymple, von Graefe) është tipike për oftalmopatinë e Basedow-Graves."
+  },
+  {
+    "id": "licenca-okulistike-orl-010",
+    "question": "Nje diplopi e papritur e shoqeruar me strabizem konvergjient shkaktohet nga:",
+    "answers": [
+      "paraliza e nervit te VI kranial",
+      "paraliza e nervit te III kranial",
+      "neuriti retrobulbar akut",
+      "okluzioni i arteries qendrore te retines",
+      "neuralgjia e trigeminusit"
+    ],
+    "correct": 0,
+    "explanation": "Diplopia e papritur me strabizëm konvergjent (syri devijon nga brenda) shkaktohet nga paraliza e nervit të VI (abducens), që inervon muskulin rektus lateral."
+  },
+  {
+    "id": "licenca-okulistike-orl-011",
+    "question": "Nje ulje e pamjes nen kushtet e drites se muzgut (emeralopia) eshte nje simptome tipike e:",
+    "answers": [
+      "glaukomes kronike te thjeshte",
+      "neuritit optik toksik",
+      "makulopatise degjenerative",
+      "retinitit pigmentoz",
+      "kataraktit"
+    ],
+    "correct": 3,
+    "explanation": "Hemeralopia/niktalopia (shikim i dobët në dritë të zbehtë/muzg) është simptoma e parë tipike e retinitit pigmentoz (degjenerim i shkopinjve), si dhe e deficitit të vitaminës A."
+  },
+  {
+    "id": "licenca-okulistike-orl-012",
+    "question": "Glaukoma:",
+    "answers": [
+      "presioni intraokular normal i te rriturit duhet te jete 20 ± 3 mmHg",
+      "manifestohet vetem te personat me miopi",
+      "glaukoma kronike e thjeshte me kend te hapur karakterizohet nga rritja e presionit intraokular, alterime te nervit optik dhe nga deficiti pasues i kampusit viziv",
+      "demtimi i nervit optik shoqerohet gjithmone me nje rritje patologjike te presionit intraokular",
+      "ne patogjeneze ka nje rritje primitive te prodhimit te korpusit vitroz"
+    ],
+    "correct": 2,
+    "explanation": "Glaukoma kronike me kënd të hapur karakterizohet nga presion intraokular zakonisht i rritur, ekskavacion/atrofi e papilës optike dhe defekte progresive të fushëpamjes; ekziston edhe glaukoma me presion normal."
+  },
+  {
+    "id": "licenca-okulistike-orl-013",
+    "question": "Nje ulje monolaterale e papritur e vizusit pa dhembje mund te shkaktohet nga:",
+    "answers": [
+      "shkolitja e retines",
+      "glaukoma akute",
+      "iridocikliti akut",
+      "okluzioni i arteries qendrore te retines",
+      "keratiti herpetik"
+    ],
+    "correct": 3,
+    "explanation": "Ulje e papritur, e njëanshme dhe pa dhimbje e vizusit shkaktohet nga okluzioni i arteries qendrore të retinës (sy me njollë \"qershie\" në makulë), okluzioni venoz, shkëputja e retinës, hemorragjia vitreale, neuropatia optike ishemike. Keratiti herpetik dhe glaukoma akute janë të dhimbshme. Çelësi (E) duket gabim."
+  },
+  {
+    "id": "licenca-okulistike-orl-014",
+    "question": "Te nje i porsalindur me fotofobi te spikatur dhe me lotim te vazhdueshme duhet te perjashtohet mundesia e pranise se:",
+    "answers": [
+      "glaukomes kongjenitale",
+      "okluzionit te kanaleve lakrimale",
+      "keratitit herpetik",
+      "konjuktivitit gonokoksik",
+      "kataraktit kongjenital"
+    ],
+    "correct": 0,
+    "explanation": "Te i porsalinduri, fotofobia e theksuar, lotimi dhe blefarospazma (me kornea të madhe e të turbullt) duhet të ngjallin dyshim për glaukomë kongjenitale — urgjencë kirurgjikale për të shpëtuar shikimin."
+  },
+  {
+    "id": "licenca-okulistike-orl-015",
+    "question": "Pergjegjes per shfaqjen e papritur te bliceve luminoze (fosfenet) dhe te mizave fluturuese eshte:",
+    "answers": [
+      "ataku i glaukomes akute",
+      "neuriti optik",
+      "makulopatia eksudative",
+      "okluzioni i arteries qendrore te retines",
+      "shkolitja posteriore e vitrozit"
+    ],
+    "correct": 4,
+    "explanation": "Shfaqja e papritur e fosfeneve (blice drite) dhe \"mizave fluturuese\" vjen nga shkëputja posteriore e vitrozit (tërheqje mbi retinë); kërkon ekzaminim të fundusit për të përjashtuar çarjen/shkëputjen e retinës."
+  },
+  {
+    "id": "licenca-okulistike-orl-016",
+    "question": "Cila prej simptomave te meposhtme nuk shkaktohet kurre nga nje katarakt:",
+    "answers": [
+      "ulja progresive e vizusit",
+      "miopia me rendim gradual",
+      "ulja e ndjeshmerise ndaj kontrastit",
+      "diplopia monokulare",
+      "reduktimi koncentrik i kampusit viziv"
+    ],
+    "correct": 4,
+    "explanation": "Katarakta jep ulje progresive të vizusit, miopizim (katarakt nukleare), ulje të ndjeshmërisë ndaj kontrastit, verbim nga drita, diplopi monokulare. Ngushtimi koncentrik i fushëpamjes është tipik për glaukomën/retinitin pigmentoz."
+  },
+  {
+    "id": "licenca-okulistike-orl-017",
+    "question": "Nje hemorragji subkonjuktivale spontane:",
+    "answers": [
+      "eshte gjithmone tregues i nje patologjie vaskulare te rende",
+      "kerkon kryerjen e vizites okulistike urgjente",
+      "mund te jete shenje e nje glaukome incipiente",
+      "duhet te trajtohet me kolire vazokonstriktore",
+      "nuk ka nevoje per asnje lloj terapie"
+    ],
+    "correct": 4,
+    "explanation": "Hemorragjia subkonjunktivale spontane (shpesh nga kolla, sforcimi, hipertensioni, antikoagulantët) është beninje, rezorbohet vetë brenda 1–3 javësh dhe nuk kërkon terapi (vetëm kontroll i TA/koagulimit nëse përsëritet)."
+  },
+  {
+    "id": "licenca-okulistike-orl-018",
+    "question": "Gjate nje krize glaukome akute:",
+    "answers": [
+      "pupila ndodhet ne mioze",
+      "eshte i pranishem pruriti",
+      "ka sekrecion mukopurulent",
+      "vizusi mbetet i mire",
+      "eshte e pranishme nje dhembje intense e vetullave"
+    ],
+    "correct": 4,
+    "explanation": "Kriza e glaukomës akute me kënd të mbyllur: dhimbje intensive okulare/periorbitale (të vetullave), cefale, nauze/të vjella, ulje e vizusit, halo, sy i kuq, kornea edematoze, pupilë në midriazë mesatare e areaktive."
+  },
+  {
+    "id": "licenca-okulistike-orl-019",
+    "question": "Retinopatia diabetike:",
+    "answers": [
+      "eshte e pranishme ne 40% te pacienteve te semure prej me shume se 15 vjet",
+      "patogjeneza perbehet nga alterime te pareteve vazale, te fluksit te gjakut dhe te agregacionit trombocitar",
+      "demtimi ishemik, nese nuk trajtohet, me kalimin e kohes çon drejt nje neovaskulogjeneze vetem ne disa zona retinike",
+      "terapia eshte gjithmone dhe vetem kirurgjia (vitrektomia)",
+      "retinopatia eshte demtimi i vetem okular i diabetit"
+    ],
+    "correct": 1,
+    "explanation": "Patogjeneza e retinopatisë diabetike përfshin dëmtimin e mureve kapilare (humbje e periciteve, trashje e membranës bazale), ndryshime të fluksit dhe hiperagregim trombocitar → mikroaneurizma, ishemi, neovaskularizim. Prek pothuajse të gjithë pas 15–20 vjetësh."
+  },
+  {
+    "id": "licenca-okulistike-orl-020",
+    "question": "Simptomat karakteristike te shkolitjes se retines jane:",
+    "answers": [
+      "amauroza e papritur",
+      "blice luminoze te ndjekura nga reduktimi progresiv i kampusit viziv ne nje sektor",
+      "dhembja akute dhe ulja graduale e vizusit",
+      "reduktimi i madh i ndjeshmerise ndaj kontrastit",
+      "diplopia"
+    ],
+    "correct": 1,
+    "explanation": "Shkëputja e retinës: fosfene (blice drite) dhe miza fluturuese, të ndjekura nga një \"perde\"/hije që ngushton progresivisht një sektor të fushëpamjes; pa dhimbje."
+  },
+  {
+    "id": "licenca-okulistike-orl-021",
+    "question": "Abuzimi i alkoolit dhe i duhanit mund te provokoje:",
+    "answers": [
+      "katarakt",
+      "glaukome kronike",
+      "neurit optik retrobulbar",
+      "paralize te nervit te III kranial",
+      "makulopati degjenerative"
+    ],
+    "correct": 2,
+    "explanation": "Abuzimi kronik me alkool dhe duhan (me kequshqyerje, deficit B12/folatesh) shkakton neuropati optike toksike-ushqyese (neurit retrobulbar) me skotomë qendrore/ceko-qendrore bilaterale."
+  },
+  {
+    "id": "licenca-okulistike-orl-022",
+    "question": "Shfaqja e papritur e fotofobise, lotimit dhe dhembjes monokulare shkaktohet shpeshhere nga:",
+    "answers": [
+      "iridocikliti",
+      "konjuktiviti kataral",
+      "trupi i huaj korneal",
+      "kalatio",
+      "glaukoma akute"
+    ],
+    "correct": 2,
+    "explanation": "Fotofobia, lotimi dhe dhimbja e papritur njëanshme me ndjesi trupi të huaj janë shpesh nga trupi i huaj korneal ose erozioni kornean."
+  },
+  {
+    "id": "licenca-okulistike-orl-023",
+    "question": "Ne rast dyshimi per keratit herpetik, gabimi qe duhet te shmanget eshte:",
+    "answers": [
+      "mbyllja e syrit me bende",
+      "dhenia e kolireve me kortizon",
+      "dhenia e kolireve me antibiotik",
+      "te pritet 2-3 dite perpara se te referohet pacienti tek okulisti",
+      "te fillohet menjehere nje trajtim antiviral"
+    ],
+    "correct": 1,
+    "explanation": "Në dyshim për keratit herpetik (dendritik) duhet shmangur rreptësisht përdorimi i kolireve me kortikosteroide, që përkeqësojnë replikimin viral (ulçera gjeografike, perforim). Trajtimi është antiviral (aciklovir)."
+  },
+  {
+    "id": "licenca-okulistike-orl-024",
+    "question": "Nje edeme palpebrale me dhembje akute ne digitopresion zakonisht shkaktohet nga:",
+    "answers": [
+      "neuriti optik akut",
+      "glaukoma akute",
+      "ekzoftalmusi tireotoksik",
+      "kalatio",
+      "byci"
+    ],
+    "correct": 4,
+    "explanation": "Byçi (hordeolum) është infeksion akut stafilokoksik i gjëndrave të palpebrës: edemë dhe skuqje palpebrale me dhimbje të fortë në presion. Kalazioni (granulomë kronike e gjëndrës Meibom) nuk është i dhimbshëm."
+  },
+  {
+    "id": "licenca-okulistike-orl-025",
+    "question": "Cila prej shenjave te meposhtme nuk eshte karakteristike per konjuktivitin kataral akut?",
+    "answers": [
+      "hiperemia konjuktivale",
+      "sekrecioni mukopurulent",
+      "ulja e madhe e mprehtesise se pamjes",
+      "edema palpebrale",
+      "fotofobia"
+    ],
+    "correct": 2,
+    "explanation": "Konjuktiviti kataral akut jep hiperemi konjunktivale, sekrecion mukopurulent, edemë palpebrale, ndjesi rëre/fotofobi të lehtë, por vizusi nuk ulet ndjeshëm (përveç sekrecionit që e turbullon përkohësisht)."
+  },
+  {
+    "id": "licenca-okulistike-orl-026",
+    "question": "Nje trajtim i zgjatur me kortizonike sistemike mund te shkaktoje:",
+    "answers": [
+      "glaukome",
+      "opacitet te vitrozit",
+      "makulopati degjenerative",
+      "katarakt",
+      "depozitime korneale"
+    ],
+    "correct": 3,
+    "explanation": "Kortikosteroidet sistemike të zgjatura shkaktojnë katarakt subkapsulare posteriore (efekti okular më i shpeshtë) dhe rrallë glaukomë."
+  },
+  {
+    "id": "licenca-okulistike-orl-027",
+    "question": "Nje paralize e nervit te III kranial:",
+    "answers": [
+      "perveç diplopise mund te shkaktoje ptoze dhe deficit te akomodimit",
+      "mund te zgjidhet spontanisht krejtesisht ose vetem pjeserisht",
+      "per te reduktuar diskomfortin e diplopise eshte e pershtatshme qe te okludohet syri i prekur nga paraliza",
+      "nderhyrja kirurgjikale kryhet te pakten gjashte muaj pas fillimit te semundjes dhe vetem ne kushte te stabilizuara",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Paraliza e nervit të III jep diplopi, ptozë, devijim të syrit \"poshtë e jashtë\", midriazë dhe deficit të akomodimit; mund të regresojë spontanisht (sidomos ishemike/diabetike); okluzioni i syrit lehtëson diplopinë; kirurgjia bëhet pas ≥6 muajsh stabilizimi."
+  },
+  {
+    "id": "licenca-okulistike-orl-028",
+    "question": "Rabdomiosarkoma:",
+    "answers": [
+      "eshte nje tumor beninj i orbites",
+      "eshte tumori malinj orbitar me i shpeshte gjate femijerise",
+      "simptomatologjia fillon ne menyre te fshehte dhe shume ngadale",
+      "terapia e vetme eshte exenteratio orbitae",
+      "duhet te kryhet diagnoza diferenciale me retinoblastomen"
+    ],
+    "correct": 1,
+    "explanation": "Rabdomiosarkoma është tumori malinj primar më i shpeshtë i orbitës te fëmijët: ekzoftalmi me fillim të shpejtë; trajtim me kemio-radioterapi (ekzenterimi është rezervë). Retinoblastoma është intraokulare."
+  },
+  {
+    "id": "licenca-okulistike-orl-029",
+    "question": "Katarakta:",
+    "answers": [
+      "eshte nje opacitet i lenteve dioptrike",
+      "shfaqet te te tere personat mbi moshen 65-vjeçare",
+      "kataraktat kongjenitale nuk duhet te operohen kurre perpara moshes 3 vjeç",
+      "aktualisht interventi i zgjedhur eshte fakoemulsifikimi me implant te lentes intraokulare (IOL)",
+      "Katarakte dytesore eshte nje opacifikim i lentes intraokulare te implantuar ORL"
+    ],
+    "correct": 3,
+    "explanation": "Katarakta është opacifikim i kristalinit; trajtimi i zgjedhur sot është fakoemulsifikimi me implant të lentes intraokulare (IOL). Katarakta kongjenitale e dendur operohet herët (javët e para) për të shmangur ambliopinë."
+  },
+  {
+    "id": "licenca-okulistike-orl-030",
+    "question": "Mukocela e sinuseve paranazale provokon:",
+    "answers": [
+      "rritje te trashesise kockore",
+      "opacizim te sinusit",
+      "obliterim te duktusit nazolakrimal",
+      "erozion te pareteve kockore",
+      "bllokim te ostiumit te sinusit"
+    ],
+    "correct": 3,
+    "explanation": "Mukocela e sinuseve (grumbullim mukusi në sinus të bllokuar) zgjerohet ngadalë dhe shkakton erozion/hollim të mureve kockore, mund të invadojë orbitën (ekzoftalmi) ose kafkën."
+  },
+  {
+    "id": "licenca-okulistike-orl-031",
+    "question": "Zona vizive (optike) ndodhet ne lobin:",
+    "answers": [
+      "parietal",
+      "temporal",
+      "limbik",
+      "frontal",
+      "oksipital"
+    ],
+    "correct": 4,
+    "explanation": "Korteksi vizual primar (zona 17 e Brodmann-it) ndodhet në lobin okcipital, përreth fisurës kalkarine."
+  },
+  {
+    "id": "licenca-okulistike-orl-032",
+    "question": "Vertigo paroksistike pozicionale beninje shkaktohet nga:",
+    "answers": [
+      "litiaza utrikulare",
+      "litiaza sakulare",
+      "litiaza kokleare",
+      "kupulokanalolitiaza laterale ose posteriore",
+      "kupulokanalolitiaza laterale ose superiore"
+    ],
+    "correct": 3,
+    "explanation": "Vertigoja paroksistike pozicionale beninje shkaktohet nga kupulo- ose kanalolitiaza (otokonie të shkëputura nga utrikuli) në kanalin gjysmërrethor posterior (më shpesh) ose lateral."
+  },
+  {
+    "id": "licenca-okulistike-orl-033",
+    "question": "Nje simptome konstante e dermatiteve aurikulare eshte:",
+    "answers": [
+      "pruriti",
+      "otorragjia",
+      "otodinia",
+      "hipoakusia",
+      "akufeni"
+    ],
+    "correct": 0,
+    "explanation": "Dermatitet aurikulare (ekzema e kanalit të jashtëm dhe pavionit) shoqërohen pothuajse gjithmonë me prurit."
+  },
+  {
+    "id": "licenca-okulistike-orl-034",
+    "question": "Ne cilen prej semundjeve te meposhtme te veshit ka rrezik per nderlikime endokraniale?",
+    "answers": [
+      "otiti kataral kronik",
+      "otiti kronik i thjeshte",
+      "kolesteatoma",
+      "otoskleroza",
+      "otiti ekstern mikotik"
+    ],
+    "correct": 2,
+    "explanation": "Kolesteatoma (otiti kronik kolesteatomatoz) erodon kockën dhe mund të japë ndërlikime endokraniale (meningit, abscese cerebrale/cerebelare, tromboflebit të sinusit sigmoid) dhe ekstrakraniale (mastoidit, paralizë fakiale, labirintit)."
+  },
+  {
+    "id": "licenca-okulistike-orl-035",
+    "question": "Stapedioplastika eshte nje nderhyrje qe ka si qellim zgjidhjen e hipoakusise perçuese te:",
+    "answers": [
+      "otitit kataral kronik",
+      "perforacionit te membranes timpanike",
+      "otosklerozes stapedio-ovalare",
+      "kolesteatomes se veshit te mesem",
+      "otitit kronik skleroadeziv"
+    ],
+    "correct": 2,
+    "explanation": "Stapedioplastika/stapedotomia trajton hipoakuzinë përcuese nga otoskleroza (fiksim i stapesit në dritaren ovale), duke zëvendësuar stapesin me protezë."
+  },
+  {
+    "id": "licenca-okulistike-orl-036",
+    "question": "Mobiliteti i kordave vokale (abduksion/adduksion) sigurohet nga funksioni i:",
+    "answers": [
+      "nervave glosofaringeale",
+      "nervave laringeale superiore",
+      "nervave laringeale inferiore (rekurente)",
+      "nervave hipoglosike",
+      "te tera pergjigjet e mesiperme jane te sakta"
+    ],
+    "correct": 2,
+    "explanation": "Lëvizshmëria e kordave vokale (abduksioni nga krikoaritenoideu posterior, adduksioni nga muskujt e tjerë intrinsekë) sigurohet nga nervat laringealë inferiorë (rekurrentë); laringeali superior inervon krikotiroidin (tensionin)."
+  },
+  {
+    "id": "licenca-okulistike-orl-037",
+    "question": "Ne cilen prej semundjeve te meposhtme indikohet injektimi intratimpanik i gentamicines?",
+    "answers": [
+      "ne otitin sieromukoz",
+      "ne otitin akut si alternative e antibiotikut per os",
+      "ne akufene",
+      "ne semundjen Meniere",
+      "ne vertigot pozicionale"
+    ],
+    "correct": 3,
+    "explanation": "Injektimi intratimpanik i gentamicinës (labirintektomi kimike) indikohet në sëmundjen Ménière me vertigo të rënda refraktare ndaj terapisë mjekësore."
+  },
+  {
+    "id": "licenca-okulistike-orl-038",
+    "question": "Nje dispne obstruktive laringeale kerkon:",
+    "answers": [
+      "terapi antibiotike, qendrim ne pozicion ulur/gjysme ulur, shtrim ne spital",
+      "terapi antibiotike, qendrim ne pozicion klinostatik, shtrim ne spital",
+      "terapi me kortikosteroide, qendrim ne pozicion klinostatik, shtrim ne spital",
+      "terapi me kortikosteroide, qendrim ne pozicion ulur/gjysme ulur, shtrim ne spital",
+      "terapi me kortikosteroide, qendrim ne pozicion ulur/gjysme ulur, ndjekje ambulatore"
+    ],
+    "correct": 3,
+    "explanation": "Dispnea obstruktive laringeale (p.sh. laringit, edemë) kërkon kortikosteroide (antiedematoze), pozicion ulur/gjysmë-ulur (lehtëson frymëmarrjen), shtrim në spital dhe monitorim (gatishmëri për intubim/trakeotomi)."
+  },
+  {
+    "id": "licenca-okulistike-orl-039",
+    "question": "Furunkuli i alae nasi kerkon:",
+    "answers": [
+      "terapi kunder dhimbjes",
+      "terapi antibiotike",
+      "terapia aereosolike me kortikosteroide",
+      "terapi kirurgjikale",
+      "indikohen te tera keto terapi"
+    ],
+    "correct": 1,
+    "explanation": "Furunkuli i krahut të hundës (S. aureus) trajtohet me antibiotikë sistemikë (antistafilokoksikë) + lokalë; nuk shtrydhet (zona \"e trekëndëshit të rrezikshëm\" — rrezik trombozë e sinusit kavernoz)."
+  },
+  {
+    "id": "licenca-okulistike-orl-040",
+    "question": "Nje tumefaksion retroaurikular shume i dhembshem ne prekje duhet te beje te linde dyshimi per:",
+    "answers": [
+      "parotit akut",
+      "mastoidit akut",
+      "absces cerebral",
+      "otit kronik kolesteatomatoz",
+      "otit i mesem akut kataral"
+    ],
+    "correct": 1,
+    "explanation": "Tumefaksion retroaurikular shumë i dhimbshëm, me zhvendosje të pavionit përpara, pas otitit të mesëm akut = mastoidit akut."
+  },
+  {
+    "id": "licenca-okulistike-orl-041",
+    "question": "Me emertimin hipoakusi perçuese nenkuptohet nje ulje e degjimit e shkaktuar nga patologjia:",
+    "answers": [
+      "e veshit jashtem dhe/ose te mesem",
+      "e veshit te mesem dhe te brendshem",
+      "vetem e veshit te jashtem",
+      "vetem e veshit te mesem",
+      "vetem e veshit te brendshem"
+    ],
+    "correct": 0,
+    "explanation": "Hipoakuzia përcuese (transmisive) vjen nga patologji e veshit të jashtëm (tapë ceruminoze, otit ekstern) dhe/ose të mesëm (otit, otosklerozë, perforim); testet Weber/Rinne e dallojnë."
+  },
+  {
+    "id": "licenca-okulistike-orl-042",
+    "question": "Nga cila prej problemeve te meposhtme shkaktohet hipoakusia perçuese otosklerotike?",
+    "answers": [
+      "nga nje ngushtim subtotal i perçimit uditiv nga ezostoza masive",
+      "nga nje demtim koklear si rrjedhoje e nje vaskulopatie aterosklerotike",
+      "nga nje degjenerim me baze gjenetike te organit te Corti",
+      "nga nje bllokim cikatricial i artikulacionit incus-malleus",
+      "nga nje mobilitet i reduktuar i stapesit si rrjedhoje e nje vatre otospongiotike"
+    ],
+    "correct": 4,
+    "explanation": "Në otosklerozë një vatër otospongiotike (kockë e re, e rrallë) fikson platinën e stapesit në dritaren ovale → ulje e lëvizshmërisë së stapesit → hipoakuzi përcuese progresive."
+  },
+  {
+    "id": "licenca-okulistike-orl-043",
+    "question": "Cila prej pohimeve te meposhtme identifikon hiperreaktivitetin nazal?",
+    "answers": [
+      "Eshte sinonim i rinitit alergjik",
+      "Eshte tendence per te vuajtur nga epistaksis te shpeshta",
+      "Eshte nje prurit me baze ekzematoza i lekures se piramides nazale",
+      "Eshte reaksion jonormal i mukozes nazale ndaj stimujve te ndryshem fizike, kimike ose farmakologjike",
+      "Eshte nje rinorre profuze qe shfaqet te subjektet alergjike ndaj poleneve"
+    ],
+    "correct": 3,
+    "explanation": "Hiperreaktiviteti nazal është reaksion jonormal (i tepruar) i mukozës nazale (rinorre, teshtima, kongjestion) ndaj stimujve jospecifikë fizikë, kimikë ose farmakologjikë; mund të jetë alergjik ose jo-alergjik (vazomotor)."
+  },
+  {
+    "id": "licenca-okulistike-orl-044",
+    "question": "Trajtimi i epistaksisit:",
+    "answers": [
+      "kerkon gjithmone nderhyrjen e specialistit ORL",
+      "kerkon perdorimin e pambukut hemostatik (me perklorur hekuri)",
+      "kerkon shpeshhere ligatura vaskulare",
+      "te tera pergjigjet e mesiperme",
+      "asnje prej pergjigjeve te mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Shumica e epistaksive (anteriore, nga zona Kiesselbach) trajtohen me kompresion digjital 10–15 min, kokë përpara, akull, ose tamponim/kauterizim i thjeshtë; nuk kërkojnë gjithmonë specialist, pambuk me perklorur hekuri apo ligatura vaskulare."
+  },
+  {
+    "id": "licenca-okulistike-orl-045",
+    "question": "Gjate kryerjes se parotidektomise eshte e nevojshme qe te identifikohet me pare nervi facial ne pozicionin e daljes se tij nga kraniumi nepermjet:",
+    "answers": [
+      "foramenit oval",
+      "foramenit stilomastoid",
+      "foramenit oksipital",
+      "foramenit rotund",
+      "foramenit spinoz"
+    ],
+    "correct": 1,
+    "explanation": "Nervi fakial del nga kafka përmes foramenit stilomastoid; në parotidektomi identifikohet trungu i tij aty, para se të ndjekë degët brenda gjëndrës."
+  },
+  {
+    "id": "licenca-okulistike-orl-046",
+    "question": "Cila prej laringopative te meposhtme nuk korrelohet kurre me refluksin gastroezofageal:",
+    "answers": [
+      "kistet epidermoide intrakordale",
+      "granuloma laringeale posteriore",
+      "laringiti posterior",
+      "pseudosulkusi",
+      "hiperemia e aritenoideve"
+    ],
+    "correct": 0,
+    "explanation": "Refluksi laringofaringeal shoqërohet me laringit posterior, granulomë laringeale posteriore, hiperemi/edemë të aritenoideve, pseudosulkus. Kistet epidermoide intrakordale janë lezione kongjenitale/nga keqpërdorimi i zërit, jo nga refluksi."
+  },
+  {
+    "id": "licenca-okulistike-orl-047",
+    "question": "Hipoakusia, akufenet dhe vertigot objektive jane triada simptomatologjike karakteristike e:",
+    "answers": [
+      "otitit te mesem akut",
+      "otitit kronik purulent",
+      "semundjes Menière",
+      "otosklerozes",
+      "otitit kronik timpanosklerotik"
+    ],
+    "correct": 2,
+    "explanation": "Triada e sëmundjes Ménière: hipoakuzi perceptive fluktuuese (fillimisht për frekuencat e ulëta), zhurmë/akufenë dhe kriza vertigoje rrotulluese (objektive), shpesh me ndjesi plotësie në vesh (hidrops endolimfatik)."
+  },
+  {
+    "id": "licenca-okulistike-orl-048",
+    "question": "Nje stenoze e kanalit te jashtem te degjimit me dhembje te forte lokale dhe mungese otorreje duhet te beje te linde dyshimi per:",
+    "answers": [
+      "otit ekstern akut furunkular",
+      "otit te mesem akut kataral",
+      "otit te mesem akut purulent",
+      "neoplazi te veshit",
+      "asnje prej pergjigjeve te mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Stenozë e kanalit të jashtëm me dhimbje të fortë lokale (që rritet me tërheqjen e pavionit/shtypjen e tragusit) pa otorre = otit ekstern i kufizuar furunkular (furunkul i kanalit)."
+  },
+  {
+    "id": "licenca-okulistike-orl-049",
+    "question": "Nje vertigo “objektive” eshte karakteristike per:",
+    "answers": [
+      "patologji periferike te veshit (veshi i mesem dhe i brendshem)",
+      "patologji e sistemit nervor qendror",
+      "patologji te trungut encefalik",
+      "patologji te rakidit cervikal",
+      "patologji vizive"
+    ],
+    "correct": 0,
+    "explanation": "Vertigoja \"objektive\" (rrotulluese, ku ambienti duket se rrotullohet) është tipike për patologjitë periferike vestibulare (veshi i brendshëm/nervi vestibular), me nistagmus horizontal-rrotullues."
+  },
+  {
+    "id": "licenca-okulistike-orl-050",
+    "question": "Nje tumefaksion hiperemik, duro-elastik, i dhembshem i piramides nazale ben te linde dyshimi per:",
+    "answers": [
+      "TBC nazale",
+      "sinusit akut",
+      "furunkul te hundes",
+      "karcinome te hundes",
+      "asnje prej pergjigjeve te mesiperme"
+    ],
+    "correct": 2,
+    "explanation": "Tumefaksion hiperemik, duro-elastik dhe i dhimbshëm i piramidës nazale = furunkul i hundës (infeksion stafilokoksik i folikulit pilor)."
+  },
+  {
+    "id": "licenca-okulistike-orl-051",
+    "question": "Me termin hipoakusi perceptive nenkuptohet nje ulje e degjimit e lidhur me patologjine e:",
+    "answers": [
+      "veshit te jashtem dhe/ose te mesem",
+      "veshit te mesem dhe te brendshem",
+      "vetem te veshit te jashtem",
+      "vetem te veshit te mesem",
+      "vetem te veshit te brendshem"
+    ],
+    "correct": 4,
+    "explanation": "Hipoakuzia perceptive (neurosensoriale) vjen nga patologjia e veshit të brendshëm (kokleës) ose e nervit akustik/rrugëve qendrore (retrokokleare); në alternativat e dhëna — veshi i brendshëm."
+  },
+  {
+    "id": "licenca-okulistike-orl-052",
+    "question": "Nje tumefaksion monolateral i tonsiles, me dhembje lokale te forte, disfagi dhe hiperpireksi, ben te linde dyshimi per:",
+    "answers": [
+      "tonsilit akut purulent",
+      "mononukleoze infektive",
+      "absces peritonsilar",
+      "karcinome tonsilare",
+      "limfome tonsilare"
+    ],
+    "correct": 2,
+    "explanation": "Tumefaksion njëanshëm i tonsilës (zhvendosje e uvulës kontralateralisht), dhimbje e fortë, disfagi, trizmus, ethe të larta dhe zë \"si me patate në gojë\" = abscesi peritonsilar; trajtim me drenim + antibiotikë."
+  },
+  {
+    "id": "licenca-okulistike-orl-053",
+    "question": "Kistadenolimfoma eshte:",
+    "answers": [
+      "nje tumor malinj i veshit te mesem",
+      "nje tumor beninj i gjendrave salivare",
+      "nje infiltrat limfocitar difuz i parotides",
+      "kuadri histologjik karakteristik i gjendrave salivare minore ne sindromen e Sjögren",
+      "nje tip i veçante limfome qe prek tonsilen palatine"
+    ],
+    "correct": 1,
+    "explanation": "Cistadenolimfoma (tumori Warthin) është tumor beninj i gjëndrave të pështymës (zakonisht parotida), i dyti për nga shpeshtësia pas adenomës pleomorfe, tipik te burrat duhanpirës, mund të jetë bilateral."
+  },
+  {
+    "id": "licenca-okulistike-orl-054",
+    "question": "Nje disfoni qe zgjat per me shume se 15 dite kerkon:",
+    "answers": [
+      "terapi antibiotike",
+      "terapi me kortikosteroide",
+      "terapi termale sulfure",
+      "kontroll laringoskopik",
+      "CT te qafes dhe te laringut"
+    ],
+    "correct": 3,
+    "explanation": "Disfonia që zgjat >15 ditë (sidomos te duhanpirësit) kërkon laringoskopi për të përjashtuar karcinomën laringeale dhe lezione të tjera të kordave vokale."
+  },
+  {
+    "id": "licenca-okulistike-orl-055",
+    "question": "Ne cilen prej situatave te meposhtme indikohet injektimi i toksines botulinike ne kordat vokale?",
+    "answers": [
+      "ne presbifoni",
+      "ne disfoninen disfunksionale hiperkinetike",
+      "ne disfonine spazmodike",
+      "ne nodujt kordale",
+      "ne afonine psikogjene"
+    ],
+    "correct": 2,
+    "explanation": "Toksina botulinike injektohet në muskujt e laringut në disfoninë spazmodike (distoni fokale laringeale), ku ul spazmat e kordave vokale."
+  },
+  {
+    "id": "licenca-okulistike-orl-056",
+    "question": "Kur kerkohet vleresimi nga specialisti per kryerjen e nje laringoskopie ne rast disfonie persistente?",
+    "answers": [
+      "pas disa cikleve mujore te perseritura me terapi mjekesore te pergjithshme dhe inhalatore",
+      "vetem nese shoqerohet me disfagi",
+      "vetem nese pacienti eshte duhanpires",
+      "nese lind gjate nje episodi flogjistik te rrugeve te siperme respiratore",
+      "nese nuk zgjidhet brenda 15 diteve"
+    ],
+    "correct": 4,
+    "explanation": "Laringoskopia specialistike indikohet kur disfonia nuk zgjidhet brenda ~15 ditëve (2–3 javë), pavarësisht shkakut të supozuar."
+  },
+  {
+    "id": "licenca-okulistike-orl-057",
+    "question": "Hipertrofia adenoidale e spikatur tek femijet tregon:",
+    "answers": [
+      "hipoakusi perçuese",
+      "dispne nazale",
+      "rinolali te mbyllur posteriore",
+      "te tera pergjigjet e mesiperme jane te sakta",
+      "asnjera"
+    ],
+    "correct": 3,
+    "explanation": "Hipertrofia adenoidale e theksuar te fëmijët jep obstruksion nazal (frymëmarrje me gojë, gërhitje, apne), rinolali të mbyllur posteriore dhe disfunksion tubar me otit seromukoz → hipoakuzi përcuese."
+  },
+  {
+    "id": "licenca-okulistike-orl-058",
+    "question": "Nje tumefaksion i vetem, i forte, i padhembshem, i levizshem ose pak i levizshem, ne pozicion nen kendin e mandibules, ben te linde dyshimi per:",
+    "answers": [
+      "limfoadenit supurativ",
+      "limfoadenit reaktiv",
+      "lokalizim limfomatoz",
+      "adenopati metastazike nga karcinoma e rrugeve te siperme respiratore-digjestive",
+      "limfoadenit tuberkular"
+    ],
+    "correct": 3,
+    "explanation": "Masë e vetme, e fortë, pa dhimbje, pak e lëvizshme nën këndin e mandibulës te i rrituri (sidomos duhanpirës) duhet të ngjallë dyshim për metastazë limfonodale nga karcinoma e rrugëve të sipërme aero-digjestive."
+  },
+  {
+    "id": "licenca-okulistike-orl-059",
+    "question": "Te nje pacient i moshuar, pa dhembe, nje disfagi e rende dhe e menjehershme duhet te beje te mendoje per nje:",
+    "answers": [
+      "karcinome ezofageale",
+      "trup te huaj ne ezofag",
+      "bolus alimentar ne ezofag",
+      "ezofagit akut",
+      "ezofagit nga refluksi"
+    ],
+    "correct": 2,
+    "explanation": "Te i moshuari pa dhëmbë (përtypje e dobët), disfagia e papritur dhe e rëndë sugjeron bllokim të një bolusi ushqimor (copë mishi) në ezofag, shpesh mbi një stenozë ekzistuese."
+  },
+  {
+    "id": "licenca-okulistike-orl-060",
+    "question": "Nje tonsilit kronik, hipertrofik, jo i riakutizuar, te femijet eshte indikacion per tonsilektomi:",
+    "answers": [
+      "po, gjithmone",
+      "jo, asnjehere",
+      "vetem nese hipertrofia shkaktom komprometim te funksioneve te fonise/gelltitjes/respirimit",
+      "vetem te pacientet me moshe mbi gjashte vjeç",
+      "vetem te pacientet me moshe nen gjashte vjeç"
+    ],
+    "correct": 2,
+    "explanation": "Tonsilektomia te fëmija me tonsila hipertrofike jo të inflamuara indikohet vetëm kur hipertrofia komprometon frymëmarrjen (apne obstruktive gjatë gjumit), gëlltitjen ose fonacionin."
+  },
+  {
+    "id": "licenca-okulistike-orl-061",
+    "question": "Nje tumefaksion i dhembshem, me fillim te menjehershem, ne nje gjender te vetme submandibulare kerkon:",
+    "answers": [
+      "terapi antibiotike te menjehershme",
+      "terapi kortizonike",
+      "hidratim te kujdesshem te pacientit",
+      "kontroll per kalkula salivare me teknikat e “imazherise” (rreze x, ekografi)",
+      "ndjekje ne kohe"
+    ],
+    "correct": 3,
+    "explanation": "Fryrja e papritur, e dhimbshme e gjëndrës submandibulare (sidomos gjatë ngrënies — \"kolika salivare\") sugjeron litiazë salivare; kontrollohet me ekografi/radiografi (gurët submandibularë janë shpesh radio-opakë)."
+  },
+  {
+    "id": "licenca-okulistike-orl-062",
+    "question": "Cila nga te meposhtmet eshte manifestimi me i shpeshte otorinolaringoiatrik i morbus Rendu-Osler?",
+    "answers": [
+      "hematemeza",
+      "hemoptoe",
+      "epistaksis",
+      "otorragjia",
+      "hemorragjia intrakordale"
+    ],
+    "correct": 3,
+    "explanation": "Teleangjektazia hemorragjike hereditare (Rendu-Osler-Weber) manifestohet më shpesh në ORL me epistaksë të përsëritura (teleangjektazi të mukozës nazale), shpesh simptoma e parë."
+  },
+  {
+    "id": "licenca-okulistike-orl-063",
+    "question": "Nje hipoakusi ekskluzivisht neurosensoriale verehet vetem ne nje prej patologjive te meposhtme:",
+    "answers": [
+      "otoskleroza stapedio-ovalare",
+      "otiti kronik kolesteatomatoz",
+      "otiti kataral kronik",
+      "hipoakusia e papritur",
+      "shkeputja e zinxhirit"
+    ],
+    "correct": 3,
+    "explanation": "Hipoakuzia e papritur (idiopatike) është hipoakuzi vetëm neurosensoriale (koklear), që kërkon trajtim urgjent me kortikosteroide. Otoskleroza, otitet dhe shkëputja e zinxhirit osikular japin hipoakuzi përcuese (ose miks)."
+  },
+  {
+    "id": "licenca-okulistike-orl-064",
+    "question": "Tek nje femije me otit sieromukoz, pergjegjes per hipoakusi te rendesishme dhe te vazhdueshme, qe nuk zgjidhet pas terapise se pershtatshme medikamentoze, termale ose logopedike (riedukimi tubarik), cili eshte indikacion terapeutik kryesor nder mundesite e meposhtme:",
+    "answers": [
+      "adenoidektomia",
+      "tonsilektomia bilaterale",
+      "vendosja e tubit te ventilimit",
+      "adenotonsilektomia",
+      "adenoidektomia dhe vendosja e tubit te ventilimit"
+    ],
+    "correct": 4,
+    "explanation": "Te fëmija me otit seromukoz persistent me hipoakuzi të rëndësishme, rezistent ndaj terapisë, trajtimi kryesor është adenoidektomia (heq shkakun obstruktiv/infektiv tubar) + vendosja e tubave të ventilimit transtimpanik."
+  },
+  {
+    "id": "licenca-okulistike-orl-065",
+    "question": "Otorea, hipoakusia, otalgjia bejne te linde dyshimi per:",
+    "answers": [
+      "otit te mesem akut",
+      "otit kronik kolesteatomatoz",
+      "semundja e Menière",
+      "otoskleroze",
+      "otit kronik timpanosklerotik"
+    ],
+    "correct": 0,
+    "explanation": "Otalgji, hipoakuzi dhe otorre (pas perforimit të membranës, me qetësim të dhimbjes) janë tipike për otitin e mesëm akut purulent."
+  },
+  {
+    "id": "licenca-okulistike-orl-066",
+    "question": "Vertigo “objektive” korrespondon me simptomatologjine e meposhtme:",
+    "answers": [
+      "ndjesi rrotullimi te ambientit perreth subjektit",
+      "ndjesi rrotullimi te subjektit ne ambient",
+      "ndjesi rrezimi",
+      "ndjesi “te renit te te fikeve”",
+      "halucinacione vizive me pamje te “objekteve” qe nuk ekzistojne"
+    ],
+    "correct": 0,
+    "explanation": "Vertigoja \"objektive\" (sipas klasifikimit klasik) = ndjesi se ambienti rrotullohet rreth subjektit; vertigoja \"subjektive\" = ndjesi se subjekti rrotullohet në ambient."
+  },
+  {
+    "id": "licenca-okulistike-orl-067",
+    "question": "Simptoma e pare e nje karcinome fillestare te nje korde vokale eshte:",
+    "answers": [
+      "disfagia",
+      "disfonia",
+      "dispnea",
+      "dhembja lokale",
+      "kolla produktive"
+    ],
+    "correct": 1,
+    "explanation": "Karcinoma fillestare e kordës vokale (glotike) shfaqet herët me disfoni/ngjirje persistente, prandaj diagnostikohet herët dhe ka prognozë të mirë (pak limfatikë)."
+  },
+  {
+    "id": "licenca-okulistike-orl-068",
+    "question": "“Fungus ball” eshte nje:",
+    "answers": [
+      "forme e veçante sinusiti mikotik",
+      "polipoze nazale masive te nje pacient me alergji nga funget",
+      "kist i epiglotisit qe permban hife fungale",
+      "otit ekstern mikotik me obstruksion masiv te kanalit te degjimit",
+      "ezofagit nga kandida, pergjegjes per disfagi te rende"
+    ],
+    "correct": 0,
+    "explanation": "\"Fungus ball\" (micetoma) është formë jo-invazive e sinusitit mikotik: masë hifesh (zakonisht Aspergillus) në një sinus (më shpesh maksilar), te imunokompetentët; trajtohet me heqje endoskopike."
+  },
+  {
+    "id": "licenca-okulistike-orl-069",
+    "question": "Nje traume nazale direkte shkakton pergjithesisht:",
+    "answers": [
+      "frakture te kockave nazale",
+      "frakture te septumit nazal",
+      "frakture te kartilagove alare",
+      "frakture te vomerit",
+      "frakture komplekse qe i perfshin te tera strukturat e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Trauma nazale direkte shkakton më shpesh frakturë të kockave nazale (fraktura më e shpeshtë e masivit facial), shpesh e shoqëruar me dëmtime të septumit."
+  },
+  {
+    "id": "licenca-okulistike-orl-070",
+    "question": "Presbiakusia (degjimi i te moshuarit) shkakton:",
+    "answers": [
+      "hipoakusi per tonet akute",
+      "hipoakusi per tonet e mesme",
+      "anakusi (shurdhesi totale)",
+      "hipoakusi me vertigo objektive",
+      "hipoakusi me vertigo subjektive"
+    ],
+    "correct": 0,
+    "explanation": "Presbiakuzia (hipoakuzi e moshës) është hipoakuzi neurosensoriale bilaterale simetrike që prek fillimisht tonet e larta (akute), me vështirësi në kuptimin e të folurit në zhurmë."
+  },
+  {
+    "id": "licenca-okulistike-orl-071",
+    "question": "Cila prej zonave te meposhtme te formimit te kancerit te laringut ben pergjithesisht te mundur nje diagnoze me te hershme?",
+    "answers": [
+      "epiglotisi",
+      "plani i glotisit",
+      "vestibuli laringeal",
+      "plika ari-epiglotike",
+      "rajoni subglotik"
+    ],
+    "correct": 1,
+    "explanation": "Karcinoma glotike (në kordat vokale) diagnostikohet më herët, sepse shkakton disfoni të hershme; karcinomat supraglotike dhe subglotike janë më të heshtura dhe zbulohen më vonë."
+  },
+  {
+    "id": "licenca-okulistike-orl-072",
+    "question": "Rinorea sieroze, teshtitjet e perseritura, stenoza nazale, lotimi bejne te linde dyshimi per:",
+    "answers": [
+      "rinopati alergjike",
+      "polipoze nazale",
+      "rinit infektiv nga koke Gram+",
+      "sinusit frontal purulent",
+      "trup i huaj ne hunde"
+    ],
+    "correct": 0,
+    "explanation": "Rinorre seroze (e ujshme), teshtima të përsëritura, kongjestion nazal dhe lotim = rinopati alergjike (rinit alergjik), shpesh sezonale."
+  }
+]

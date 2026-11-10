@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "licenca-gastrohepatologji-001",
+    "question": "Cili është funksioni fiziologjik më i rëndësishëm i acideve biliare?",
+    "answers": [
+      "Favorizon eskretimin e substancave toksike",
+      "Favorizon absorbimin e vitaminës B12",
+      "Ruan pH e duhur intestinal",
+      "Favorizon absorbimin e yndyrnave",
+      "Favorizon absorbimin e aminoacideve"
+    ],
+    "correct": 3,
+    "explanation": "Acidet biliare janë molekula amfipatike që emulsionojnë yndyrnat dhe formojnë micela, duke mundësuar tretjen nga lipaza dhe absorbimin e yndyrnave e vitaminave liposolubël (A, D, E, K). B12 absorbohet me faktorin intrinsek në ileum."
+  },
+  {
+    "id": "licenca-gastrohepatologji-002",
+    "question": "Në cilin prej rasteve të mëposhtme është transmural lezioni intestinal?",
+    "answers": [
+      "Koliti ulçeroz",
+      "Celiakia",
+      "Morbus Crohn",
+      "Asnjëra prej këtyre",
+      "Sëmundja e Whipple"
+    ],
+    "correct": 2,
+    "explanation": "Morbus Crohn jep inflamacion transmural (gjithë trashësinë e murit) → fistula, abscese, stenoza. Koliti ulçeroz prek vetëm mukozën/submukozën; celiakia dhe Whipple prekin mukozën e zorrës së hollë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-003",
+    "question": "Një punëtor 35 vjeçar bën një kontroll ambulator për të vlerësuar gjëndjën me diarre dhe rënië në peshë. Nëpërmjet ezofagogastroduodenoskopisë, që u realizua për marrjen e biopsisë në zorrën e hollë, u vu re eritemë e ezofagut, me disa erozione, dy ulçera gastrike si dhe ulçeracione të shumta duodenale. Në biopsi u vu re rrafshim i vileve intestinale. Cili prej ekzaminimeve të mëposhtmë do të kryeje si hapin pas ardhës diagnostikues?",
+    "answers": [
+      "ERCP (Kolangiopankreatolografi retrograde endoskopike)",
+      "Kolonoskopi",
+      "Gastrinemia",
+      "Kërkohen anti-trupat anti-endomisium dhe anti-gliadinë",
+      "Testin e Schilling"
+    ],
+    "correct": 2,
+    "explanation": "Ulçera të shumta (ezofag, stomak, duoden), diarre dhe dëmtim i mukozës nga acidi i tepërt sugjerojnë sindromën Zollinger-Ellison (gastrinoma). Hapi tjetër është matja e gastrinemisë (esëll, pa IPP), pastaj testi me sekretinë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-004",
+    "question": "Kolangjitet shkaktohen më shpesh nga:",
+    "answers": [
+      "Përdorimi i pijeve të ftohta nga pacientë me litiazë multiple të rrugëve biliare",
+      "Bakteret Gram + që vijnë më shpësh nga arteria hepatike",
+      "Efekti detergjent i acideve biliare",
+      "Disfunksioni i sfinterit të Oddit dhe autodigjestioni nga enzimat pankreatike që kanë bërë refluks në rrugët biliare",
+      "Bakteret Gram + dhe Gram – që vijnë nga zorrët"
+    ],
+    "correct": 4,
+    "explanation": "Kolangiti shkaktohet nga obstruksioni biliar (kryesisht gurë) + infeksion ngjitës nga zorra me bakterie Gram-negativë (E. coli, Klebsiella), enterokokë dhe anaerobë. Klinikisht: triada e Charcot (ethe, ikter, dhimbje)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-005",
+    "question": "Të gjitha gjendjet e mëposhtmë janë shkaktare të pseudoobstruksionit intestinal kronik, përveç:",
+    "answers": [
+      "Sklerodermia",
+      "Përdorimi i antidepresivëve triciklikë",
+      "Diabeti melitus",
+      "Hipertiroidizmi",
+      "Amiloidoza"
+    ],
+    "correct": 3,
+    "explanation": "Pseudo-obstruksioni kronik vjen nga dëmtimi i muskulit/nervave të zorrës: sklerodermia, amiloidoza, neuropatia diabetike, barnat antikolinergjike (triciklikët), hipotiroidizmi. Hipertiroidizmi përkundrazi përshpejton motilitetin (diarre)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-006",
+    "question": "Lezionet e Morbusit Celiak hasen në nivelin e:",
+    "answers": [
+      "Stomakut",
+      "Vetëm jejunum",
+      "Duodenit dhe jejunumit",
+      "Ileusit",
+      "Vetëm duodenit"
+    ],
+    "correct": 2,
+    "explanation": "Celiakia prek kryesisht duodenin dhe jejunumin proksimal, ku gluteni arrin në përqendrim më të lartë; biopsitë merren nga duodeni (atrofi vilesh, hiperplazi kriptash, limfocite intraepiteliale)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-007",
+    "question": "Cila prej patologjive mund të shfaqë ascit:",
+    "answers": [
+      "Sindroma nefrozike",
+      "Retokoliti ulçeroz",
+      "Steatoza hepatike",
+      "Defiçiti i disakaridazës",
+      "Tireotosikoza"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma nefrotike jep hipoalbuminemi të rëndë → ulje e presionit onkotik → edema dhe ascit (transudat). Koliti ulçeroz, steatoza, deficiti i disakaridazës nuk japin ascit."
+  },
+  {
+    "id": "licenca-gastrohepatologji-008",
+    "question": "Cilët janë parametrat laboratorikë më të përdorshëm për të monitoruar proçesin inflamator në hapatitin kronik:",
+    "answers": [
+      "Kriprat biliare totale",
+      "Bilirubinemia e fraksionuar",
+      "Transaminazat dhe gamaglobulinat sierike",
+      "Kohën e protrombinës",
+      "Fosfataza alkaline"
+    ],
+    "correct": 2,
+    "explanation": "Aktiviteti inflamator në hepatitin kronik ndiqet me transaminazat (citoliza) dhe gamaglobulinat (sidomos në hepatitin autoimun). PT dhe bilirubina tregojnë funksionin/rëndësinë, fosfataza alkaline kolestazën."
+  },
+  {
+    "id": "licenca-gastrohepatologji-009",
+    "question": "Të gjitha gjendjet e mëposhtme janë faktorë rreziku për kolelitiazën kolesterinike përveç:",
+    "answers": [
+      "Obeziteti",
+      "Terapia me klofibrat",
+      "Terapia me estrogjene",
+      "Rezeksioni kirurgjikal i ileusit",
+      "Retokoliti ulçeroz"
+    ],
+    "correct": 4,
+    "explanation": "Faktorë rreziku për gurët e kolesterolit: obeziteti, estrogjenet/shtatzënia, fibratet (klofibrati), rezeksioni ileal (humbje e acideve biliare), mosha, femrat. Koliti ulçeroz nuk është faktor rreziku (prek kolonin, jo ileumin)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-010",
+    "question": "Simptoma e djegies retrosternale është tregues specifik për:",
+    "answers": [
+      "Ulçer gastrike",
+      "Ulçer duodenale",
+      "Gastriti autoimun",
+      "Refluksi ezofageal",
+      "Gatriti nga Helicobacter pylori"
+    ],
+    "correct": 3,
+    "explanation": "Pirozë (djegia retrosternale që ngjitet lart, sidomos pas ushqimit/shtrirjes) është simptoma tipike e refluksit gastroezofageal. Ulçerat dhe gastritet japin dhimbje epigastrike, jo pirozë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-011",
+    "question": "Një murator 21 vjeçar, ka bilirubineminë totale= 2.3 mg/dl dhe me fraksionin e drejtë= 0.3mg/dl. Nuk ka histori familjare për hepatopati, nga anamneza evidentohet se pi rreth 40 gr alkol në ditë, nuk ka simptoma të tjera ose shenja hepatopatie. Hemokromi, numërimi i retikulociteve, ALT, AST, fosfataza alkaline, dhe GGT janë në normë, sikurse elektroforeza dhe INR. Gjithashtu, rezulton HBsAg negativ, HBsAb pozitiv, HBcAb negativ. Ju do të orientoheshit drejt:",
+    "answers": [
+      "Hepatit B aktiv",
+      "Hepatit B në shërim",
+      "Hepatit C",
+      "Hepatit alkolik",
+      "Sëmundja e Gilbert"
+    ],
+    "correct": 4,
+    "explanation": "Hiperbilirubinemi e lehtë kryesisht indirekte, pa hemolizë (retikulocite normale) dhe me enzima hepatike normale = sindroma Gilbert (deficit i lehtë i UGT1A1). Serologjia HBsAb+ me HBcAb– tregon vaksinim, jo infeksion."
+  },
+  {
+    "id": "licenca-gastrohepatologji-012",
+    "question": "Mund të shfaqet hipoglicemi pas ushqyerjes (postprandiale):",
+    "answers": [
+      "Morbusi Celiak",
+      "Pas gastrorezeksionit subtotal",
+      "Prej një fistule gastro-kolike",
+      "Prej lemzës së vazhdueshme",
+      "Në ulçerën duodenale"
+    ],
+    "correct": 1,
+    "explanation": "Pas gastrorezeksionit, ushqimi kalon shpejt në zorrë → hiperglicemi e shpejtë → sekretim i tepërt i insulinës → hipoglicemi 1–3 orë pas ngrënies (dumping i vonë). Kjo nuk ndodh në celiaki apo ulçerë duodenale."
+  },
+  {
+    "id": "licenca-gastrohepatologji-013",
+    "question": "Cila prej sëmundjeve të mëposhtme mund të jetë shkak i komës hepatike?",
+    "answers": [
+      "Hepatiti kronik aktiv me zhvillim cirrotik",
+      "Ikteri obstruktiv nga kalkuloza cirrotike",
+      "Cirroza hepatike e dekompensuar",
+      "Sëmundja e Gilbert",
+      "Cirroza septale jo e plotë"
+    ],
+    "correct": 2,
+    "explanation": "Koma hepatike (encefalopatia e rëndë) shfaqet kur funksioni hepatik bie ndjeshëm dhe ka shunte portosistemike — tipike për cirrozën e dekompensuar. Gilbert është beninje; hepatiti kronik pa dekompensim zakonisht jo."
+  },
+  {
+    "id": "licenca-gastrohepatologji-014",
+    "question": "Për cilën arsye realizohet testi me ksilozium (xylosio)?",
+    "answers": [
+      "Për verifikimin e funksionalitetit të disakaridazës intestinale",
+      "Për të verifikuar integritetin e sipërfaqes së zorreës së hollë",
+      "Për verifikimin e funksionalitetit të pankreasit",
+      "Për verifikimin e fosforilimit të karbohidrateve në zorrë",
+      "Për vlerësimin e absorbimit të glicideve"
+    ],
+    "correct": 1,
+    "explanation": "D-ksiloza absorbohet pasivisht pa nevojë për enzima pankreatike. Ulja e saj në gjak/urinë tregon dëmtim të mukozës së zorrës së hollë (p.sh. celiaki), ndërsa normaliteti sugjeron shkak pankreatik të malabsorbimit."
+  },
+  {
+    "id": "licenca-gastrohepatologji-015",
+    "question": "Të gjithë medikamentet e mëposhtëm mund të përdoren në trajtimin e ulçerës peptike, përveç:",
+    "answers": [
+      "Salazopirina",
+      "Omeprazol",
+      "Sucralfat",
+      "Ranitidin",
+      "Pirenzepin"
+    ],
+    "correct": 0,
+    "explanation": "Salazopirina (sulfasalazina) përdoret në sëmundjet inflamatore të zorrës dhe artritin reumatoid, jo në ulçerën peptike. Omeprazoli (IPP), sukralfati (mbrojtës), ranitidina (H2), pirenzepina (antimuskarinik) janë antiulçerozë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-016",
+    "question": "Zotëria 52-vjeçar ka rreth 2 vite me diarre dhe rënie të theksuar në peshë. Nuk ka histori për gjakderdhje gastroenterike dhe gjaku ocult në feçe në tre kampionë. Rrëfen se në të kaluarën ka qënë përdorues i rregullt i alkolit, por prej disa vitesh referon se nuk e ka përdorur më. Eshtë diabetik dhe mjekohet me insulinë. Para gjashtë vitesh ka bërë kolecistektomi. Ekzaminimet laboratorike rezultojnë normal, përveç një anemie të lehtë dhe nderkohë ekzaminimi radiologjik i zorrëve të holla e të trasha rezultoi normal. Cfarë do të sugjeronit:",
+    "answers": [
+      "ERCP ( kolanxhopankreatolografia retrograde endoskopike)",
+      "Biopsia e jejunumit",
+      "Dozimi i yndyrnave në feçe",
+      "Testi i frymëmarrjes për disakaride",
+      "Kolonoskopi me biopsi"
+    ],
+    "correct": 2,
+    "explanation": "Ish-alkoolist, me diabet dhe diarre kronike + rënie në peshë → dyshim për pankreatit kronik me insuficiencë ekzokrine. Hapi i parë është konfirmimi i steatorresë me dozimin e yndyrnave në feçe (ose elastaza fekale)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-017",
+    "question": "Sëmundja e Crohn përfshin:",
+    "answers": [
+      "Vetëm ileusin",
+      "Vetëm ileusin dhe kolonin",
+      "Vetëm kolonin",
+      "Ilesusin, kolonin dhe pjesë të tjera të aparatit tretës",
+      "Ileus, kolon dhe rektum"
+    ],
+    "correct": 3,
+    "explanation": "Crohn mund të prekë çdo pjesë të traktit tretës \"nga goja në anus\", në mënyrë segmentare (skip lesions), më shpesh ileumin terminal dhe kolonin. Rektumi shpesh kursehet."
+  },
+  {
+    "id": "licenca-gastrohepatologji-018",
+    "question": "Sindroma e Mallory-Weiss verifikohet në rastin e:",
+    "answers": [
+      "Tumori endokrin i pankreasit",
+      "Diarrea sekretore",
+      "Të vjellat e vazhdueshme",
+      "Tumori hipofizar",
+      "Polipoza xhiovanile"
+    ],
+    "correct": 2,
+    "explanation": "Mallory-Weiss është çarje gjatësore e mukozës në kufirin gastroezofageal nga të vjellat e përsëritura/të fuqishme (shpesh pas alkoolit) → hematemezë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-019",
+    "question": "Në Morbusin Crohn më shpesh litiaza e kolecistës është e lidhur me:",
+    "answers": [
+      "Rritje e absorbimint të kriprave biliare në ileus",
+      "Reduktim i pool-it të kriprave biliare",
+      "Rritja e absorbimit të kolesterolit nga ileusi",
+      "Bashkë shoqërimi me kolecistitin",
+      "Hipovitaminoza"
+    ],
+    "correct": 1,
+    "explanation": "Në Crohn ileal ose pas rezeksionit të ileumit humbet rithithja e acideve biliare → zvogëlohet pool-i i tyre → bilia mbingopet me kolesterol → gurë kolesterini."
+  },
+  {
+    "id": "licenca-gastrohepatologji-020",
+    "question": "Në cilën pjesë të traktit intestinal realizohet absorbimi i hekurit?",
+    "answers": [
+      "Duodeni",
+      "Ileus",
+      "Kolon",
+      "Stomaku",
+      "I gjithë trakti intestinal"
+    ],
+    "correct": 0,
+    "explanation": "Hekuri absorbohet kryesisht në duoden dhe jejunumin proksimal (në formë Fe2+ përmes DMT1). Prandaj celiakia ose by-pass-i duodenal japin anemi sideropenike."
+  },
+  {
+    "id": "licenca-gastrohepatologji-021",
+    "question": "Cili është përbërësi kryesor i kalkujve biliarë radiotrasparentë:",
+    "answers": [
+      "Bilirubina",
+      "Kripra biliare",
+      "Urobilina",
+      "Kolesteroli",
+      "Lecitina"
+    ],
+    "correct": 3,
+    "explanation": "Gurët radiotransparentë janë kryesisht kolesterinikë (kolesteroli nuk thith rrezet X). Gurët pigmentarë me bilirubinat kalciumi janë më shpesh radio-opakë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-022",
+    "question": "Cili është tumori beninj më i shpeshtë i heparit?",
+    "answers": [
+      "Hemangioma kapilare",
+      "Fibroma jaline",
+      "Fibroadenoma",
+      "Neurofibroma",
+      "Adenoma e duktuseve biliare"
+    ],
+    "correct": 0,
+    "explanation": "Hemangioma (zakonisht kavernoze) është tumori beninj më i shpeshtë i mëlçisë, shpesh zbulim rastësor në ekografi; s'ka nevojë për trajtim nëse është asimptomatik."
+  },
+  {
+    "id": "licenca-gastrohepatologji-023",
+    "question": "Peritoniti bakterial spontan përfaqëson një komplikancë të cilës prej patologjive të mëposhtme:",
+    "answers": [
+      "Apendisiti akut",
+      "Divertikuloza e kolonit",
+      "Cirroza hepatike",
+      "Sëmundja e Crohn",
+      "Kolecistiti"
+    ],
+    "correct": 2,
+    "explanation": "Peritoniti bakterial spontan ndodh te cirrotiku me ascit, pa burim kirurgjikal, nga translokacioni bakterial i zorrës. Diagnoza: PMN ≥250/mm³ në likidin ascitik."
+  },
+  {
+    "id": "licenca-gastrohepatologji-024",
+    "question": "Në cilët limfonoduj metastatizon më shpesh karcinoma e junksionit rektosigmoidal?",
+    "answers": [
+      "Hipogastrikë",
+      "Inguinalë",
+      "Mezenterikët e poshtëm",
+      "Mezenterikët e sipërm",
+      "Tripodit celiak"
+    ],
+    "correct": 2,
+    "explanation": "Kolon sigmoid dhe rektumi i sipërm drenohen limfatikisht drejt limfonodujve të arteries mezenterike të poshtme. Rektumi i poshtëm mund të drenojë drejt nyjeve iliake të brendshme; kanali anal drejt inguinalëve."
+  },
+  {
+    "id": "licenca-gastrohepatologji-025",
+    "question": "Të gjithë parametrat e mëposhtëm përdoren për klasifikimin Child-Pugh të cirrozës hepatike, përveç:",
+    "answers": [
+      "Albuminemi",
+      "Asciti",
+      "Bilirubina",
+      "Kolinesteraza",
+      "Encefalopatia"
+    ],
+    "correct": 3,
+    "explanation": "Child-Pugh përdor 5 parametra: bilirubina, albumina, PT/INR, asciti dhe encefalopatia. Kolinesteraza nuk bën pjesë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-026",
+    "question": "Cilat janë karakteristikat e Sindromës Plummer-Vinson?",
+    "answers": [
+      "Eshtë përfshirja e ezofagut (dizfagi) e shoqëruar me anemi mikrocitike dhe glosit (inflamacion i gjuhës)",
+      "Odinofagi me anemi sideropenike",
+      "Dizfagi me glosit e pa alternime hematike",
+      "Dizfagi paradoksale me anemi sideropenike dhe glosit",
+      "Akalazi ezofageale me anemi makrocitike"
+    ],
+    "correct": 0,
+    "explanation": "Plummer-Vinson: disfagi nga membrana (web) ezofageale e sipërme + anemi mikrocitare sideropenike + glosit/keilit. Është gjendje parakanceroze për kancerin skuamoz të ezofagut."
+  },
+  {
+    "id": "licenca-gastrohepatologji-027",
+    "question": "Sindroma e Carolit përkufizohet si:",
+    "answers": [
+      "Patologji e rrugëve biliare intrahepatike, karakterizuar nga zgjerime cistike multiple të duktuseve biliare segmentare",
+      "Patologji biliare post-inflamatore",
+      "Patologji neoplazike të rrugëve biliare intrahepatike",
+      "Litiazë të rrugëve biliare intrahepatike",
+      "Litiazë të rrugës principale biliare"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma Caroli është anomali kongjenitale me dilatime kistike segmentare të duktuseve biliare intrahepatike, që predispozon për gurë, kolangite dhe kolangiokarcinomë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-028",
+    "question": "Sindroma e Reye shoqërohet shpesh me cilën prej gjëndjeve?",
+    "answers": [
+      "Diabeti",
+      "Bruceloza",
+      "Përdorimi i acidit acetilsalicilik",
+      "Hemokromatoza",
+      "Përdorimi i heparinës"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma Reye (encefalopati + steatozë hepatike mikrovezikulare) shoqërohet me përdorimin e aspirinës te fëmijët gjatë infeksioneve virale (grip, varicelë)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-029",
+    "question": "Alternativat rreth sekretimit të acidit nga stomaku në kushtet e ulçerës peptike gastrike janë të gabuara, përveç:",
+    "answers": [
+      "Si në gjendjen normale",
+      "Si në ulçerën duodenale",
+      "Mungon pas stimulimit maksimal",
+      "Më e rritur se normalisht në kushtet e stimulimit bazal",
+      "Më e ulët se në gjendjen normale"
+    ],
+    "correct": 0,
+    "explanation": "Në ulçerën gastrike sekretimi acid është zakonisht normal ose i ulët — problemi kryesor është dobësimi i mbrojtjes së mukozës (H. pylori, FANS). Në ulçerën duodenale sekretimi acid është shpesh i rritur."
+  },
+  {
+    "id": "licenca-gastrohepatologji-030",
+    "question": "Cili prej alternimeve të mëposhtëm është karakteristikë për Sindromën Dubin- Johnson:",
+    "answers": [
+      "Hiperbilirubinemi direkte me kolestazë të rritur",
+      "Hiperbilirubinemi direkte me kolestazë normale",
+      "Hiperbilirubinemi indirekte me rritje të kolestazës",
+      "Hiperbilirubinemi indirekte me shtim të citolizës",
+      "Hiperbilirubinemi direkte me shtim të citolizës dhe kolestazës"
+    ],
+    "correct": 1,
+    "explanation": "Dubin-Johnson: defekt i transportuesit MRP2 → hiperbilirubinemi e konjuguar pa kolestazë biokimike (FA dhe GGT normale) dhe pa citolizë; mëlçia me pigment të zi. Prognozë beninje."
+  },
+  {
+    "id": "licenca-gastrohepatologji-031",
+    "question": "Të gjithë elementët e mëposhtëm janë karakteristikë e kuadrit klinik të Morbusit të Wilson, përveç:",
+    "answers": [
+      "Simptoma dhe shenjat e përfshirjes hepatike",
+      "Unaza e Kayser-Fleischer",
+      "Manifestime neurologjike",
+      "Ngjyra bronx e lëkurës",
+      "Ulje të nivelit sierik të ceruloplazminës"
+    ],
+    "correct": 3,
+    "explanation": "Wilson: akumulim i bakrit → hepatopati, unaza Kayser-Fleischer, simptoma neuro-psikiatrike, ceruloplazminë e ulët. Lëkura bronz është tipike për hemokromatozën (hekur + melaninë)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-032",
+    "question": "Cila prej shenjave ose simptomave të mëposhtme mundësojnë diagnozën diferenciale midis ulçerës duodenale të preforuar dhe pankreatitit kronik:",
+    "answers": [
+      "Dhimbje të forta abdominale",
+      "Shok hipovolemik",
+      "Zhdukja e otuzitetit hepatik",
+      "Masë e palpueshme e mezogastrit",
+      "Të vjella të vazhdueshme"
+    ],
+    "correct": 2,
+    "explanation": "Perforacioni i ulçerës nxjerr ajër në peritoneum (pneumoperitoneum) → zhduket matiteti hepatik në perkusion. Kjo nuk ndodh në pankreatit. Dhimbja dhe të vjellat janë të përbashkëta."
+  },
+  {
+    "id": "licenca-gastrohepatologji-033",
+    "question": "Të gjitha gjendjet e mëposhtme shoqërohen me rritje të incidencës së hepatokarçinomës, përveç:",
+    "answers": [
+      "Infeksioni kronik nga virusi C",
+      "Infeksion kronik nga virusi B",
+      "Hemokromatoza",
+      "Hepatopatia alkolike",
+      "Angioma hepatike"
+    ],
+    "correct": 4,
+    "explanation": "Hepatokarcinoma zhvillohet mbi hepatopati kronike: HBV, HCV, alkooli, hemokromatoza, NASH, aflatoksina. Angioma (hemangioma) hepatike është beninje dhe nuk malinjizohet."
+  },
+  {
+    "id": "licenca-gastrohepatologji-034",
+    "question": "Koloni absorbon në lidhje me masën që i vjen nga ileusi:",
+    "answers": [
+      "Më shumë se 90% të ujit dhe elektrolitëve",
+      "Midis 50% dhe 90% të ujit dhe elektrolitëve",
+      "Më pak se 50% të ujit dhe elektrolitëve",
+      "Më shumë se 90% të ujit dhe 50% të elektrolitëve",
+      "50% të ujit dhe të gjithë elektrolitet"
+    ],
+    "correct": 0,
+    "explanation": "Nga ileumi hyjnë në kolon ~1–1,5 L/ditë; feçet përmbajnë ~100–200 ml ujë. Pra koloni rithith >90% të ujit dhe elektroliteve (sidomos Na+ dhe Cl−)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-035",
+    "question": "Cila prej karakteristikave të mëposhtme përcakton “early gastric cancer”",
+    "answers": [
+      "Prek mukozën ose submukozën gastrike",
+      "Prek tunikën muskulare",
+      "Prek tunikën sieroze",
+      "Prek të gjithë paretin gastrik",
+      "Prek të gjithë stacionet limfonodale satelitare"
+    ],
+    "correct": 0,
+    "explanation": "\"Early gastric cancer\" = karcinoma e kufizuar në mukozë ose submukozë, pavarësisht pranisë së metastazave limfonodale. Prognoza është shumë e mirë pas rezeksionit."
+  },
+  {
+    "id": "licenca-gastrohepatologji-036",
+    "question": "Cila prej gjendjeve shoqërohet me praninë e antitrupave anticitoplazminë të neutrofileve (ANCA)?",
+    "answers": [
+      "Cirroza biliare primare",
+      "Hepatiti autoimun tip I",
+      "Hepatiti autoimun tip II",
+      "Kolangiti sklerozant primitiv",
+      "Hepatokarcinoma"
+    ],
+    "correct": 3,
+    "explanation": "p-ANCA gjenden në ~70–80% të kolangitit sklerozant primar (shpesh me kolit ulçeroz). Cirroza biliare primare ka AMA; hepatiti autoimun tip I ANA/ASMA, tip II anti-LKM1."
+  },
+  {
+    "id": "licenca-gastrohepatologji-037",
+    "question": "Cili prej medikamenteve është i përfshirë në zhvillimin e insufiçencës hepatike akute:",
+    "answers": [
+      "Kontraceptivët oralë",
+      "FANS",
+      "Paracetamoli",
+      "Tetraciklina",
+      "Rifampicina"
+    ],
+    "correct": 2,
+    "explanation": "Mbidozimi i paracetamolit (NAPQI e tepërt kur mbaron glutationi) është shkaku kryesor i insuficiencës hepatike akute në shumë vende. Antidoti: N-acetilcisteina."
+  },
+  {
+    "id": "licenca-gastrohepatologji-038",
+    "question": "Qelizat oxintike (parietale) janë të lokalizuara në mukozën e:",
+    "answers": [
+      "Fundusit dhe antrumit",
+      "Antrumit dhe trupit",
+      "Trupit dhe fundusit",
+      "Antrumit dhe pjesës circumkardiale",
+      "Zona prepilorike"
+    ],
+    "correct": 2,
+    "explanation": "Qelizat parietale (oksintike), që sekretojnë HCl dhe faktorin intrinsek, gjenden në gjëndrat oksintike të trupit dhe fundusit. Antrumi ka qelizat G (gastrina)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-039",
+    "question": "Cila prej alternativave është e vërtetë:",
+    "answers": [
+      "Encefalopatia hepatike është çrregullim cerebral me rritje të komponentit neuroinibitor",
+      "Aminoacidet aromatike janë: triptofani, fenilalanina, tirozina dhe metionina",
+      "Era e një pacienti me cirrozë është sekondare nga hiperamoniemia",
+      "Merkaptanet derivojnë nga metabolizmi intestinal i glutaminës",
+      "Terapia diuretike përmirëson encefalopatinë hepatike"
+    ],
+    "correct": 0,
+    "explanation": "Encefalopatia hepatike lidhet me rritjen e tonusit neuroinhibitor (GABA/benzodiazepina endogjene, amoniaku). Metionina nuk është aminoacid aromatik; fetor hepaticus vjen nga merkaptanet (metabolizmi i metioninës); diuretikët mund ta përkeqësojnë encefalopatinë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-040",
+    "question": "Simptoma kryesore e pankreatitit akut është:",
+    "answers": [
+      "Ikter",
+      "Nauze e të vjella",
+      "Dhimbja",
+      "Diarre",
+      "Temperaturë"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbja epigastrike e fortë, e vazhdueshme, që përhapet në shpinë \"si brez\", është simptoma kryesore e pankreatitit akut (gati 100%). Nauzeja/të vjellat janë shoqëruese."
+  },
+  {
+    "id": "licenca-gastrohepatologji-041",
+    "question": "Pankreatiti akut shkaktohet më shpesh nga:",
+    "answers": [
+      "Litiaza e kolecistës",
+      "Kalkuj intrahepatik",
+      "Hiperlipidemi",
+      "Abuzimi me alkolin",
+      "Litiaza e koledokut"
+    ],
+    "correct": 4,
+    "explanation": "Shkaku më i shpeshtë i pankreatitit akut janë gurët biliarë që migrojnë nga kolecista në koledok dhe bllokojnë ampulën e Vaterit; i dyti është alkooli. Mekanizmi është obstruksioni në nivel të koledokut distal."
+  },
+  {
+    "id": "licenca-gastrohepatologji-042",
+    "question": "Të gjitha janë forma të diarresë sekretore, përveç:",
+    "answers": [
+      "Diarrea nga infeksioni me vibrio cholerae",
+      "Diarrea nga sindromi karcinoid",
+      "Diarrea nga VIPoma",
+      "Diarrea nga defiçiti i disakaridazës",
+      "Diarrea nga infeksioni me Escherichia coli"
+    ],
+    "correct": 3,
+    "explanation": "Deficiti i disakaridazave (p.sh. laktazës) jep diarre osmotike që ndalet me agjërimin. Kolera, E. coli enterotoksigjene, karcinoidi, VIPoma japin diarre sekretore (vazhdon edhe në agjërim)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-043",
+    "question": "Të gjithë këta parametra mund të shprehin një kolestazë, përveç njërit:",
+    "answers": [
+      "Fosfataza alkaline",
+      "5-nukleotidaza",
+      "Diamino-oksidaza",
+      "Gamaglutamiltranspeptidaza",
+      "Bilirubina"
+    ],
+    "correct": 2,
+    "explanation": "Markuesit e kolestazës: fosfataza alkaline, 5'-nukleotidaza, GGT dhe bilirubina e konjuguar. Diaminooksidaza (histaminaza) është enzimë e mukozës intestinale, jo markues i kolestazës."
+  },
+  {
+    "id": "licenca-gastrohepatologji-044",
+    "question": "Cili është faktori etiologjik më i rë ndësishëm i hipertensionit portal nga cirroza hepatike?",
+    "answers": [
+      "Reduktimi i qarkullimit hepatik",
+      "Nekrozë të qelizave hepatike",
+      "Infiltrimi limfocitar",
+      "Septe fibrotike",
+      "Depozitimi biliar"
+    ],
+    "correct": 3,
+    "explanation": "Në cirrozë septet fibrotike dhe nodujt rigjenerues shtypin sinusoidet → rritje e rezistencës intrahepatike = mekanizmi kryesor i hipertensionit portal. Më pas shtohet edhe rritja e fluksit splanknik."
+  },
+  {
+    "id": "licenca-gastrohepatologji-045",
+    "question": "Simptomatologjia e dhimbjeve në ulçerën duodenale përmirësohet nga:",
+    "answers": [
+      "Pas ushqimit",
+      "Jashtëqitja",
+      "Gjumi",
+      "Të rrish shtrirë në anën e majtë",
+      "Aktiviteti fizik"
+    ],
+    "correct": 0,
+    "explanation": "Dhimbja e ulçerës duodenale shfaqet 2–3 orë pas ngrënies ose natën dhe qetësohet me ushqim ose antiacide (ushqimi neutralizon acidin). Në ulçerën gastrike ushqimi shpesh e përkeqëson."
+  },
+  {
+    "id": "licenca-gastrohepatologji-046",
+    "question": "Në insufiçencën hepatike akute të rëndë cili prej ekzaminimeve të mëposhtëm ka rëndësi prognostike?",
+    "answers": [
+      "Transaminazat",
+      "Latikodeidrogjenaza",
+      "Koha e Quick",
+      "Albuminemia",
+      "Fosfataza alkaline"
+    ],
+    "correct": 2,
+    "explanation": "Koha e protrombinës (Quick/INR) pasqyron sintezën e faktorëve të koagulimit me gjysmëjetë të shkurtër, prandaj është treguesi prognostik më i mirë në insuficiencën hepatike akute (pjesë e kritereve King's College). Transaminazat nuk kanë vlerë prognostike."
+  },
+  {
+    "id": "licenca-gastrohepatologji-047",
+    "question": "Kalkujt biliarë prej bilirubinat kalçiumi shfaqen më shpesh tek pacientët e prekur nga:",
+    "answers": [
+      "Morbusi Crohn në ileus",
+      "Rezeksioni ileal",
+      "Anemia hemolitike kronike",
+      "Ulçera peptike",
+      "Retokoliti ulçeroz"
+    ],
+    "correct": 2,
+    "explanation": "Në hemolizën kronike (sferocitoza, drepanocitoza) rritet bilirubina e paconjuguar në bili → precipiton si bilirubinat kalciumi → gurë pigmentarë të zinj."
+  },
+  {
+    "id": "licenca-gastrohepatologji-048",
+    "question": "Një pensionist 72 vjeçar (që ka punuar si marangoz) me kardiopati iskemike dhe SPOK, shtrohet në spital për bronkopneumoni dhe i përgjigjet mjekimit empirik me cefotaxime. Në ditën e gjashtë të shtrimit rishfaqet temperatura dhe nis dhimbja abdominale me diarre të ujshme. C’do të bënit në këto rrethana:",
+    "answers": [
+      "Zëvendësimin e cefotaxime me clindamicine",
+      "Kërkoni ezofagogastroduodenoskopinë me biopsi të jejunumit",
+      "Klizmën e zorrëve të holla",
+      "Test imunologjik duke kërkuar toksinat e clostridium difficile",
+      "Kolonoskopi"
+    ],
+    "correct": 3,
+    "explanation": "Diarre e ujshme me ethe pas antibiotikut (cefalosporinë) te pacienti i shtruar = dyshim për infeksion nga Clostridioides difficile. Hapi i parë: kërkimi i toksinave A/B (ose PCR) në feçe; klindamicina është faktor rreziku, jo terapi."
+  },
+  {
+    "id": "licenca-gastrohepatologji-049",
+    "question": "Asciti i pa komplikuar tek një pacient cirrotik është gjithnjë i karakterizuar nga:",
+    "answers": [
+      "Mungesa totale e qelizave inflamatore",
+      "Albuminemia<3g/dl",
+      "pH<7",
+      "Pamje të turbullt",
+      "250 polimorfonukleatë/cc"
+    ],
+    "correct": 1,
+    "explanation": "Asciti i pakomplikuar cirrotik është transudat me gradient serum-ascit të albuminës ≥1,1 g/dl dhe albuminë/proteina të ulëta në likid (<3 g/dl), i qartë, me PMN <250/mm³. Pamja e turbullt dhe PMN të rritura sugjerojnë infeksion."
+  },
+  {
+    "id": "licenca-gastrohepatologji-050",
+    "question": "Të gjitha sëmundjet e mëposhtme shkaktojnë cirrozë, përveç:",
+    "answers": [
+      "Defiçiti i alfa 1-antitripsinës",
+      "Skistozomiaza",
+      "Sëmundja e Gaucher",
+      "Hepatiti nga virusi C",
+      "Hepatiti nga virusi A"
+    ],
+    "correct": 4,
+    "explanation": "Hepatiti A është vetëm akut, nuk kronicizohet dhe nuk jep cirrozë. Deficiti i alfa1-antitripsinës, skistozomiaza (fibrozë periportale), sëmundja Gaucher dhe HCV mund të çojnë në cirrozë/fibrozë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-051",
+    "question": "Cila prej alternativave të mëposhtme nuk është shenjë e apendisitit akut:",
+    "answers": [
+      "Anoreksi",
+      "Stranguri",
+      "Dhimbje në kuadratin iliak të djathtë",
+      "Të vjella",
+      "Temperaturë"
+    ],
+    "correct": 1,
+    "explanation": "Apendiciti jep anoreksi, dhimbje periumbilikale që migron në FID, të vjella, temperaturë subfebrile. Strangura (urinim i dhimbshëm, pikë-pikë) është simptomë e fshikëzës, jo e apendicitit (mund të shfaqet vetëm në apendicit pelvik)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-052",
+    "question": "Cili prej alternimeve është karakteristike e komës hepatike:",
+    "answers": [
+      "Konfuzioni mental",
+      "Flapping tremor",
+      "Hiperefleksi",
+      "Hiporefleksi",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 1,
+    "explanation": "\"Flapping tremor\" (asteriksis) është shenja karakteristike e encefalopatisë/komës hepatike në fazat fillestare-të mesme. Konfuzioni është jospecifik."
+  },
+  {
+    "id": "licenca-gastrohepatologji-053",
+    "question": "Gastrinemia > 1000pg/ml (norma <100 pg/dl) sugjeron më shumë për:",
+    "answers": [
+      "Sindroma e Zollinger-Ellison",
+      "Sindroma Menetrier",
+      "Sindroma e Mallory-Wiss",
+      "Sindroma e Verner-Morrison",
+      "Sindroma e antriumit të ngecur"
+    ],
+    "correct": 0,
+    "explanation": "Gastrinemia >1000 pg/ml (>10 herë normalja) me sekretim acid të rritur është praktikisht diagnostike për gastrinomën (Zollinger-Ellison). Në gastritin atrofik gastrina rritet, por acidi është i ulët."
+  },
+  {
+    "id": "licenca-gastrohepatologji-054",
+    "question": "Kolestaza prej medikamenteve karakterizohet nga:",
+    "answers": [
+      "Hiperbilirubinemi kryesisht indirekte",
+      "Mungesë të rritjes së gamaGT",
+      "Hiperbilirubinemi direkte që zgjat prej kohësh",
+      "Mungesa e pruritit",
+      "Eozinofili e theksuar (>20%)"
+    ],
+    "correct": 2,
+    "explanation": "Kolestaza nga medikamentet (p.sh. amoksicilinë-klavulanat, estrogjene, klorpromazinë) jep hiperbilirubinemi kryesisht direkte, rritje të FA/GGT dhe prurit; mund të zgjasë javë-muaj pas ndërprerjes së barit."
+  },
+  {
+    "id": "licenca-gastrohepatologji-055",
+    "question": "Të gjitha manifestimet janë pjesë e kuadrit klinik të temperaturës mesdhetare familjare, përveç:",
+    "answers": [
+      "Temperaturës",
+      "Dhimbje abdominale",
+      "Pleuriti",
+      "Ikter",
+      "Artralgji"
+    ],
+    "correct": 3,
+    "explanation": "Ethja mesdhetare familjare jep episode të përsëritura me ethe, serozitet (peritonit → dhimbje abdominale, pleurit), artrit/artralgji dhe eritemë. Ikteri nuk është pjesë e kuadrit; komplikimi kryesor është amiloidoza."
+  },
+  {
+    "id": "licenca-gastrohepatologji-056",
+    "question": "Në rastin e sëmundjes divertikulare të zorrës së trashë, nuk ka asnjëherë lezione të tilla në:",
+    "answers": [
+      "Cekum",
+      "Koloni ashendent",
+      "Flesurën hepatike e të lienit",
+      "Rektum",
+      "Mund të formohen kudo"
+    ],
+    "correct": 3,
+    "explanation": "Divertikujt e kolonit nuk formohen në rektum sepse aty taeniae coli shkrihen në një shtresë muskulore të plotë longitudinale. Më të shpeshtë janë në sigmoid."
+  },
+  {
+    "id": "licenca-gastrohepatologji-057",
+    "question": "Një pacient paraqet rritje të kohës së protrombinës me 6 sek më shumë se normalja dhe trombocitet 45,0000/cc. Cili prej ekzaminimeve është i kundërindikuar?",
+    "answers": [
+      "Paracenteza për diagnostikim",
+      "Biopsi hepatike perkutane",
+      "Pozicionimin e sondës së Sengstaken-Blakemore",
+      "Kolonoskopia",
+      "Gastroskopia"
+    ],
+    "correct": 1,
+    "explanation": "Me PT të zgjatur dhe trombocite <50.000, biopsia hepatike perkutane kundërindikohet për rrezik hemorragjie (mund të bëhet transjugulare). Paracenteza diagnostike dhe endoskopitë mund të kryhen."
+  },
+  {
+    "id": "licenca-gastrohepatologji-058",
+    "question": "Në cilën prej sëmundjeve gjenden më shpesh komplikanca si fistulat (enteroenterike, enterokutan)",
+    "answers": [
+      "Celiakia",
+      "Morbusi Crohn",
+      "Koliti ulçeroz",
+      "Kancer i zorrës së trashë",
+      "Ulçera gastrike"
+    ],
+    "correct": 1,
+    "explanation": "Natyra transmurale e Crohn-it shkakton fistula enteroenterike, enterokutane, enterovezikale dhe perianale. Koliti ulçeroz, si inflamacion mukozal, rrallë jep fistula."
+  },
+  {
+    "id": "licenca-gastrohepatologji-059",
+    "question": "Stimulimi maksimal i sekretimit të acidit gastrik realizohet me anë të:",
+    "answers": [
+      "Pentagastrina",
+      "Glukagone",
+      "Sekretina",
+      "Kolecistokinina",
+      "Vip"
+    ],
+    "correct": 0,
+    "explanation": "Pentagastrina (analog sintetik i gastrinës) jep stimulimin maksimal të sekretimit acid, i përdorur për matjen e kapacitetit sekretor maksimal. Sekretina, glukagoni, VIP e frenojnë sekretimin acid."
+  },
+  {
+    "id": "licenca-gastrohepatologji-060",
+    "question": "Alternativat e mëposhtme për sindromën e Zollinger-Ellison janë të sakta, përveç:",
+    "answers": [
+      "Shoqërohet me ulçerën peptike, që shpesh i përgjigjet shumë pak terapisë",
+      "Shoqërohet me diarre kronike",
+      "Shoqërohet me hipergastrinemi të theksuar",
+      "Ulçerat peptike mund të jenë të shumta",
+      "Shërohet pas zhdukjes së Helicobacter pylori"
+    ],
+    "correct": 4,
+    "explanation": "Zollinger-Ellison shkaktohet nga gastrinoma, jo nga H. pylori; eradikimi i H. pylori nuk e shëron. Trajtimi: IPP në doza të larta dhe rezeksion i tumorit."
+  },
+  {
+    "id": "licenca-gastrohepatologji-061",
+    "question": "Në retokolitin ulçeroz, cila prej gjendjeve rrit rrezikun për kancer të kolonit?",
+    "answers": [
+      "Prania e sëmundjes prej shumë kohësh",
+      "Histori për megakolon toksik",
+      "Prezencë të pseudopolipeve gjatë ekzaminimit endoskopik",
+      "Rezistencë ndaj terapisë steroide",
+      "Zhvillim të ashpër të sëmundjes"
+    ],
+    "correct": 0,
+    "explanation": "Rreziku i kancerit në kolitin ulçeroz rritet me kohëzgjatjen (>8–10 vjet) dhe shtrirjen e sëmundjes (pankolit), si dhe me kolangitin sklerozant. Prandaj bëhet kolonoskopi survejimi."
+  },
+  {
+    "id": "licenca-gastrohepatologji-062",
+    "question": "Nga cila prej gjendjeve të mëposhtme shkaktohet më shpesh obstruksioni i kolonit?",
+    "answers": [
+      "Aderencat",
+      "Volvolusi",
+      "Hernia",
+      "Karcinoma",
+      "Divertikuliti"
+    ],
+    "correct": 3,
+    "explanation": "Te i rrituri, shkaku më i shpeshtë i obstruksionit të kolonit është karcinoma (sidomos e kolonit të majtë), pastaj volvulusi dhe divertikuliti. Aderencat dhe hernia janë shkaqet kryesore në zorrën e hollë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-063",
+    "question": "Cila prej alternativave të mëposhtme rreth sindromës së Gilbert është e saktë?",
+    "answers": [
+      "Ikteri spjegohet pjesërisht nga hemoliza",
+      "Përdorimi i fenobarbitalit shkakton në 4-8 ditë një ulje të dukshme të bilirubinës në gjak",
+      "Përdorimi i kortizonit rrit nivelin e bilirubinës në gjak",
+      "Biopsia tregon për alternime të kanalikulave biliare",
+      "Përdorimi i fenobarbitalit rrit nivelin e bilirubinës"
+    ],
+    "correct": 1,
+    "explanation": "Fenobarbitali indukton glukuroniltransferazën dhe ul bilirubinën në Gilbert brenda pak ditësh. Në Gilbert nuk ka hemolizë dhe biopsia është normale; agjërimi/stresi e rrisin bilirubinën."
+  },
+  {
+    "id": "licenca-gastrohepatologji-064",
+    "question": "Të gjitha alternativat e mëposhtme rreth sëmundjes së Menetrier janë të sakta, përveç:",
+    "answers": [
+      "Eshtë patologji e zorrës së hollë",
+      "Eshtë patologji e stomakut",
+      "Mund të shoqërohet me hipoalbuminemi",
+      "Mund të shkaktoj anemi nga gjakderdhja e fshehur",
+      "Diagnoza bazohet tek ekzaminimi endoskopik ku merret biopsy"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja Menetrier është gastropati hipertrofike (palosje gjigante të mukozës së stomakut), jo e zorrës së hollë; jep humbje proteinash (hipoalbuminemi), hipoklorhidri; diagnoza me endoskopi + biopsi."
+  },
+  {
+    "id": "licenca-gastrohepatologji-065",
+    "question": "Sindroma e Crigler-Najjar karakterizohet kryesisht nga rritja në gjak e:",
+    "answers": [
+      "Bilirubinës direkte",
+      "Bilirubinës indirekte",
+      "Kriprave biliare",
+      "Fosfatazës alkaline",
+      "Gama-GT"
+    ],
+    "correct": 1,
+    "explanation": "Crigler-Najjar = mungesë e plotë (tip I) ose e pjesshme (tip II) e UGT1A1 → hiperbilirubinemi e paconjuguar (indirekte), shpesh e rëndë që në periudhën neonatale (rrezik kernikterus)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-066",
+    "question": "Cili prej parametrave të gjetura në likidin e ascitit është tregues për diagnostikimin e peritonitit bakterial spontan:",
+    "answers": [
+      "Pamja si qumësht",
+      "Prania e 300 granulociteve neutrofile/mm3",
+      "Prania e 300 leukociteve totale/mm3",
+      "Prania e më shumë se 3g% e proteinave",
+      "Pamje hemorragjike"
+    ],
+    "correct": 1,
+    "explanation": "Diagnoza e PBS: ≥250 neutrofile (PMN)/mm³ në likidin ascitik, edhe me kulturë negative. Numri total i leukociteve nuk mjafton; proteinat e ulëta (<1 g/dl) janë faktor rreziku, jo kriter."
+  },
+  {
+    "id": "licenca-gastrohepatologji-067",
+    "question": "Të gjitha alternativat e mëposhtme rreth cirrozës biliare primare janë të sakta, përveç:",
+    "answers": [
+      "Shoqërohet shpesh me prurit",
+      "Një përqindje e lartë e pacientëve rezultojnë pozitivë për antitrupat antimitokondër",
+      "Përdorimi i acideve biliare mund të jetë i dobishëm kontrollin e simptomave",
+      "Eshtë më e shpeshtë tek femrat",
+      "Trajtimi më efikas është ai me D-penicilaminën"
+    ],
+    "correct": 4,
+    "explanation": "Në kolangitin (cirrozën) biliar primar: femra të moshës së mesme, prurit, AMA pozitive në >90%. Trajtimi efikas është acidi ursodeoksikolik; D-penicilamina nuk ka treguar përfitim (përdoret në Wilson)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-068",
+    "question": "Virusi delta është virus difektoz, që për tu replikuar ka nevojë për:",
+    "answers": [
+      "Citomegalovirus",
+      "Virusi i hepatitit B",
+      "Virusi i hepatitit A",
+      "Virusi i Epstein-Barr",
+      "Hepatiti G"
+    ],
+    "correct": 1,
+    "explanation": "Virusi delta (HDV) është virus ARN defektiv që ka nevojë për HBsAg (mbështjellësin e HBV) për replikim. Prandaj infekton vetëm në koinfeksion ose superinfeksion me HBV."
+  },
+  {
+    "id": "licenca-gastrohepatologji-069",
+    "question": "Të gjitha shenjat e mëposhtme gjenden në insufiçencën hepatike si pasojë e hepaitit kronik C, përveç:",
+    "answers": [
+      "Purpura e palpueshme në ekstremitetet e poshtme",
+      "Otuzitet që zhvendoset dhe është dekliv gjatë perkusionit të abdomenit",
+      "Flapping tremor",
+      "Unaza e Kayser-Fleischer",
+      "Nishanet arakniformë"
+    ],
+    "correct": 3,
+    "explanation": "Unaza Kayser-Fleischer është specifike për sëmundjen Wilson (depozitim bakri në Descemet). HCV kronik me insuficiencë hepatike jep ascit (matitet që zhvendoset), asteriksis, spider nevi dhe purpurë nga krioglobulinemia."
+  },
+  {
+    "id": "licenca-gastrohepatologji-070",
+    "question": "Hemorragjia nga variçet ezofageale është komplikancë e:",
+    "answers": [
+      "Hipertensionit arterial",
+      "Hipertensionit portal",
+      "Insufiçencës kardiake të djathtë",
+      "Kakezia nga neoplazia",
+      "Insufiçenca hepatike"
+    ],
+    "correct": 1,
+    "explanation": "Variçet ezofageale janë kolaterale portosistemike që zhvillohen nga hipertensioni portal (kryesisht cirroza); ruptura e tyre jep hemorragji masive të sipërme."
+  },
+  {
+    "id": "licenca-gastrohepatologji-071",
+    "question": "Cili është efekti që jep gastrina gjatë aktivitetit të saj fiziologjik:",
+    "answers": [
+      "Stimulon sekretimin e acidit klorhidrik",
+      "Stimulon rritjen e cck (kolecistokinina)",
+      "Përshpejton zbrazjen gastrike",
+      "Stimulon sekretimin e bikarbonateve",
+      "Stimulon e skretimin e lëngut biliar"
+    ],
+    "correct": 0,
+    "explanation": "Gastrina, e sekretuar nga qelizat G të antrumit, stimulon sekretimin e HCl nga qelizat parietale (drejtpërdrejt dhe përmes histaminës nga qelizat ECL) dhe ka efekt trofik mbi mukozën."
+  },
+  {
+    "id": "licenca-gastrohepatologji-072",
+    "question": "Cili prej alternimeve hematokimike është më i shpeshtë në morbusin Celiak:",
+    "answers": [
+      "Hipokalçemi",
+      "Hipolipemi",
+      "Hipoalbuminemi",
+      "Hiposideremi",
+      "Hipofosforemi"
+    ],
+    "correct": 3,
+    "explanation": "Në celiaki malabsorbimi duodenal i hekurit jep shpesh hiposideremi/anemi sideropenike, që mund të jetë e vetmja shfaqje. Hipokalcemia, hipoalbuminemia janë më pak të shpeshta."
+  },
+  {
+    "id": "licenca-gastrohepatologji-073",
+    "question": "Në kushtet e malabsorbimit të gjeneralizuar, cila është alternativa e saktë?",
+    "answers": [
+      "Në pankreatitin kronik malabsorbimi i gjeneralizuar është paraprakisht prezent",
+      "Jashtëqitja karakterizohet nga vëllim fekal i ulët dhe numër i lartë i herëve të jashtëqitjes",
+      "Steatorrea është gjithnjë prezent",
+      "Steatorrea shoqërohet me steatozë hepatike",
+      "Feçet janë gjithnjë likide"
+    ],
+    "correct": 2,
+    "explanation": "Malabsorbimi i gjeneralizuar përfshin edhe yndyrnat, prandaj steatorrea është gjithmonë e pranishme (feçe voluminoze, të ndritshme, me erë të keqe). Feçet nuk janë domosdoshmërisht likide."
+  },
+  {
+    "id": "licenca-gastrohepatologji-074",
+    "question": "Cila është metodika më e përshtatshme për të diagnostikuar refluksin gastroezofageal acid?",
+    "answers": [
+      "Manometria ezofageale",
+      "pH-metria ezofageale e 24 orëve",
+      "Ekzaminimi radiologjik i ezofagut",
+      "Ezofagogastroduodenoskopia",
+      "Testi i Bernstein"
+    ],
+    "correct": 1,
+    "explanation": "pH-metria 24-orëshe (ose impedanc-pH-metria) është testi standard për të vërtetuar dhe kuantifikuar refluksin acid, sidomos kur endoskopia është normale. Endoskopia tregon komplikacionet (ezofagit, Barrett)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-075",
+    "question": "Të gjitha alternativat e mëposhtme rreth akalazisë janë të sakta, përveç njërës:",
+    "answers": [
+      "Mund të shkaktojë dizfagi, dhimbje toraksi, regurgitim",
+      "Karakterizohet nga alternimet gjatë relaksimit të sfinterit ezofageal të poshtëm",
+      "pH-metria ezofageale është ekzaminimi më i domosdoshëm për ta diagnostikuar",
+      "Nifedipina kontrollon simptomat tek shumë pacientë",
+      "Mund të trajtohet me toksinën e botulinës"
+    ],
+    "correct": 2,
+    "explanation": "Akalazia diagnostikohet me manometri ezofageale (mungesë peristaltike + mosrelaksim i SEP), e mbështetur nga radiografia me barium (\"sqep zogu\") dhe endoskopia. pH-metria nuk është testi diagnostik."
+  },
+  {
+    "id": "licenca-gastrohepatologji-076",
+    "question": "Të gjitha alternativat e mëposhtme janë shkak i malabsorbimit tek një pacient me sëmundjen e Crohn, përveç njërës:",
+    "answers": [
+      "Lokalizimi i gjere në jejunum-ileal",
+      "Sëmundja rekto-sigmoide aktive",
+      "Kontaminimi bakterial i zorrës së hollë",
+      "Fistula jejunum-kolike",
+      "Mbetje nga rezeksioni intestinal i gjerë"
+    ],
+    "correct": 1,
+    "explanation": "Malabsorbimi në Crohn vjen nga prekja e gjerë e zorrës së hollë, mbirritja bakteriale, fistulat entero-kolike dhe sindroma e zorrës së shkurtër pas rezeksioneve. Sëmundja rekto-sigmoide nuk prek sipërfaqen absorbuese."
+  },
+  {
+    "id": "licenca-gastrohepatologji-077",
+    "question": "Sekretimi gastrik i theksuar dhe ulçerat peptike përsëritëse vërehen në:",
+    "answers": [
+      "Hipoparatiroidizëm",
+      "Sindroma e Zollinger-Ellison",
+      "Sindroma e Mallory-Weiss",
+      "Sindroma Dumping",
+      "Sindroma e Verner Morrison"
+    ],
+    "correct": 1,
+    "explanation": "Zollinger-Ellison: gastrinoma → hipersekretim i theksuar acid → ulçera të shumta, rezistente, në vende atipike dhe recidivante, shpesh me diarre."
+  },
+  {
+    "id": "licenca-gastrohepatologji-078",
+    "question": "Litiaza pigmentare e kolecistës ndodh më shpesh në:",
+    "answers": [
+      "Aneminë hemolitike",
+      "Aneminë hipokromike",
+      "Hiperkolesteroleminë",
+      "Ateroskleroza",
+      "Pankretiti kronik"
+    ],
+    "correct": 0,
+    "explanation": "Gurët pigmentarë (të zinj) janë tipikë në hemolizat kronike sepse rritet sasia e bilirubinës që sekretohet në bili. Hiperkolesterolemia lidhet me gurët e kolesterolit."
+  },
+  {
+    "id": "licenca-gastrohepatologji-079",
+    "question": "Cili prej medikamenteve është më i përshtatshmi për trajtimin e kolitit pseudomembranoz?",
+    "answers": [
+      "Ceftazidime",
+      "Vancomicine",
+      "Streptomicine",
+      "Mesalazine",
+      "Lincomicine"
+    ],
+    "correct": 1,
+    "explanation": "Koliti pseudomembranoz nga C. difficile trajtohet me vankomicinë orale (ose fidaksomicinë); metronidazoli është alternativë në format e lehta. Vankomicina IV nuk arrin në lumen."
+  },
+  {
+    "id": "licenca-gastrohepatologji-080",
+    "question": "Në urinë nuk gjendet asnjëherë bilirubina indirekte sepse:",
+    "answers": [
+      "Nuk është hidrosolubil",
+      "Pesha molekulare nuk e lejon filtrimin e saj glomerular",
+      "Absorbohet tërësisht nga tubujt",
+      "Nga kontakti me ajrin oksidohet menjëherë",
+      "Eliminohet nga veshka"
+    ],
+    "correct": 0,
+    "explanation": "Bilirubina indirekte (e pakonjuguar) është liposolubël dhe e lidhur me albuminën, prandaj nuk filtrohet në urinë. Bilirubinuria tregon rritje të bilirubinës direkte (të konjuguar, hidrosolubël)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-081",
+    "question": "Cila prej patologjive komplikohet më shpesh me megakolon toksik?",
+    "answers": [
+      "Polopoza e përhapur e kolonit",
+      "Divertikuliti i kolonit",
+      "Megakoloni kongenital",
+      "Retokoliti ulçeroz",
+      "Koliti granulomatoz"
+    ],
+    "correct": 3,
+    "explanation": "Megakoloni toksik është komplikacion i rëndë i kolitit ulçeroz (edhe i Crohn-it të kolonit dhe kolitit nga C. difficile): dilatim i kolonit >6 cm me toksicitet sistemik, rrezik perforimi."
+  },
+  {
+    "id": "licenca-gastrohepatologji-082",
+    "question": "Nuk shkakton hipertension portal?",
+    "answers": [
+      "Cirroza biliare primitive",
+      "Obstruksioni i fluksit venoz hepatik",
+      "Tromboza e venës splenike",
+      "Cirroza hepatike post-hepatike",
+      "Steatoza hepatike"
+    ],
+    "correct": 4,
+    "explanation": "Steatoza e thjeshtë hepatike nuk shkakton hipertension portal (pa fibrozë). Cirroza (edhe biliare), tromboza e venës lienale (prehepatike) dhe obstruksioni i venave hepatike (posthepatik, Budd-Chiari) e shkaktojnë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-083",
+    "question": "Nuk ka vlerë diagnostikuese realizimi i biopsisë intestinale në cilën prej sëmundjeve?",
+    "answers": [
+      "Defiçiti i folateve",
+      "Sëmundja e Whipple",
+      "Abetalipoproteinemia",
+      "Agamaglobulinemia",
+      "Kompleksi Mycobacterium avium"
+    ],
+    "correct": 0,
+    "explanation": "Biopsia e zorrës ka vlerë diagnostike në Whipple (makrofagë PAS+), abetalipoproteinemi (enterocite me vakuola lipidike), agamaglobulinemi (mungesë plazmocitesh), MAC. Deficiti i folateve nuk jep ndryshime specifike histologjike."
+  },
+  {
+    "id": "licenca-gastrohepatologji-084",
+    "question": "Cili prej komplikacioneve nuk i bashkangjitet sëmundjeve inflamatore intestinale kronike:",
+    "answers": [
+      "Eritema nodoze",
+      "Ragada (fisura) anale",
+      "Uveiti",
+      "Perikolangiti",
+      "Spondiloartroza"
+    ],
+    "correct": 4,
+    "explanation": "Manifestimet ekstraintestinale të IBD: eritema nodoze, uveiti, kolangiti sklerozant/perikolangiti, fisurat anale (Crohn) dhe spondiloartriti (inflamator). Spondiloartroza (degjenerative) nuk lidhet me IBD."
+  },
+  {
+    "id": "licenca-gastrohepatologji-085",
+    "question": "Sa është koha e inkubimit të një toksiinfeksioni ushqimor nga toksina stafilokoksike:",
+    "answers": [
+      "3-6 orë",
+      "1 ditë",
+      "20-30 minuta",
+      "2 ditë",
+      "5-8 ditë"
+    ],
+    "correct": 0,
+    "explanation": "Toksina stafilokoksike është e paraformuar në ushqim, prandaj simptomat (të vjella të forta, dhimbje, pa ethe) shfaqen shpejt: 1–6 orë pas ngrënies, dhe zgjasin <24 orë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-086",
+    "question": "Cili prej alternimeve metabolike favorizon neurotoksicitetin nga amoniaku?",
+    "answers": [
+      "Hipersodiemia",
+      "Hiperglicemia",
+      "Alkaloza",
+      "Acidoza",
+      "Hiperkalçemia"
+    ],
+    "correct": 2,
+    "explanation": "Në alkalozë rritet përqindja e amoniakut të pajonizuar (NH3) që kalon lehtë barrierën hematoencefalike → rritet neurotoksiciteti. Prandaj hipokalemia/alkaloza nga diuretikët përkeqësojnë encefalopatinë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-087",
+    "question": "Cili është komplikacioni më i shpeshtë i morbusit Crohn?",
+    "answers": [
+      "Obstruksioni",
+      "Hemorragjia",
+      "Perforacioni",
+      "Peritoniti",
+      "Dermatiti herpetiform"
+    ],
+    "correct": 0,
+    "explanation": "Komplikacioni më i shpeshtë i Crohn-it është obstruksioni intestinal nga stenoza fibrotike/inflamatore (sidomos në ileumin terminal). Fistulat dhe abscesset janë të dytat."
+  },
+  {
+    "id": "licenca-gastrohepatologji-088",
+    "question": "Në sëmundjen e refluksit gastroezofageal, dizfagia kur është e pranishme mund të jetë:",
+    "answers": [
+      "Vetëm funksionale",
+      "Vetëm organike",
+      "Funksionale dhe organike",
+      "As funksionale dhe as organike, duke qënë se dizfagia nuk është simptomë e kësaj sëmundjeje",
+      "Dizfagia nuk është asnjëherë e pranishme"
+    ],
+    "correct": 2,
+    "explanation": "Në RGE disfagia mund të jetë funksionale (dismotilitet, inflamacion) ose organike (stenozë peptike, adenokarcinomë mbi Barrett). Disfagia është shenjë alarmi që kërkon endoskopi."
+  },
+  {
+    "id": "licenca-gastrohepatologji-089",
+    "question": "Cili prej ekzaminimeve laboratorike është i vlefshëm për vlerësimin e shkallës së aktivitetit inflamator tek hepatiti kronik:",
+    "answers": [
+      "Dozimi i imunoglobulinave në gjak",
+      "Dozimi i albuminemisë",
+      "Dozimi i bilirubinemisë",
+      "Dozimi i fasfatazemisë alkaline",
+      "Gama-GT"
+    ],
+    "correct": 0,
+    "explanation": "Gamaglobulinat/imunoglobulinat e rritura pasqyrojnë aktivitetin inflamator-imun, sidomos në hepatitin autoimun (IgG). Albumina dhe bilirubina pasqyrojnë më shumë funksionin sintetik/ekskretor."
+  },
+  {
+    "id": "licenca-gastrohepatologji-090",
+    "question": "Vitamina B12 orale, absorbohet në:",
+    "answers": [
+      "Stomak",
+      "Jejunum",
+      "Ileus",
+      "Kolon",
+      "Duoden"
+    ],
+    "correct": 2,
+    "explanation": "Vitamina B12, e lidhur me faktorin intrinsek, absorbohet në ileumin terminal. Rezeksioni ileal ose Crohn-i ileal japin deficit të B12 (anemi megaloblastike)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-091",
+    "question": "Cila prej gjendjeve shoqërohet më shpesh me adenokarcinomën e ezofagut?",
+    "answers": [
+      "Akalazia",
+      "Alkolizmi",
+      "Tiloza",
+      "Ezofagu i Barret",
+      "Duhanpirja"
+    ],
+    "correct": 3,
+    "explanation": "Ezofagu i Barrett (metaplazi intestinale nga refluksi kronik) është prekursori kryesor i adenokarcinomës së ezofagut. Duhani dhe alkooli lidhen më shumë me karcinomën skuamoze."
+  },
+  {
+    "id": "licenca-gastrohepatologji-092",
+    "question": "Cila prej alternativave rreth hepatitit kronik autoimun të tipit I nuk është e saktë:",
+    "answers": [
+      "Prek kryesisht të moshuarit",
+      "Eshtë më i shpeshtë tek femrat",
+      "Shoqërohet me praninë e antitrupave antinukël",
+      "Shoqërohet me hipergamaglobulinemi",
+      "Në përgjithësi i përgjigjet terapisë imunosupresive"
+    ],
+    "correct": 0,
+    "explanation": "Hepatiti autoimun tip I prek kryesisht femra të reja dhe të moshës së mesme (shpërndarje bimodale), me ANA/ASMA, hipergamaglobulinemi IgG, dhe i përgjigjet mirë kortikosteroideve ± azatioprinë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-093",
+    "question": "Cfarë do të thotë dizfagi?",
+    "answers": [
+      "Vështirësi në deglutim",
+      "Vështirësi në artikulimin e fjalës",
+      "Pamundësi absolute në kalimin e ushqimit në ezofag",
+      "Dhimbje krampiforme retrosternale pas deglutimit",
+      "Pirrozë"
+    ],
+    "correct": 0,
+    "explanation": "Disfagia = vështirësi në gëlltitje/kalim të ushqimit. Odinofagia = gëlltitje e dhimbshme; afagia = pamundësi e plotë; disartria = vështirësi në artikulim; piroza = djegie retrosternale."
+  },
+  {
+    "id": "licenca-gastrohepatologji-094",
+    "question": "Kuadri i një koleciste të zmadhuar të palpueshme tek një pacient pa ikter, sugjeron për:",
+    "answers": [
+      "Karcinoma e ampulë së Vater",
+      "Karcinoma e pankreasit",
+      "Kalkuli i koledokut",
+      "Kalkul në duktusin cistik",
+      "Kalkulozë e kolecistës"
+    ],
+    "correct": 3,
+    "explanation": "Kolecista e zmadhuar, e palpueshme pa ikter sugjeron obstruksion të duktusit cistik (hidrops i kolecistës), ku bilia nuk bllokohet nga mëlçia në duoden. Tumoret periampulare japin kolecistë të palpueshme ME ikter (shenja Courvoisier)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-095",
+    "question": "Aktualisht cili është ekzaminimi më i dobishëm për diagnostikimin dhe trajtimin e kalkulozës së koledokut?",
+    "answers": [
+      "Kolangio-RMN",
+      "Ecotomografia e abdomenit superior",
+      "Kolangiografia e.v",
+      "TAC",
+      "ERCP (kolangio pankreatografia retrograde endoskopike)"
+    ],
+    "correct": 4,
+    "explanation": "ERCP lejon njëkohësisht diagnozën dhe trajtimin (sfinkterotomi + nxjerrje e gurëve) të koledokolitiazës. Kolangio-RM është diagnostike jo-invazive, por nuk trajton."
+  },
+  {
+    "id": "licenca-gastrohepatologji-096",
+    "question": "Kush nuk e karakterizon sëmundjen e heparit të yndyrosur jo alkolik (NAFLD):",
+    "answers": [
+      "Shoqërimi me obezitet, diabet e hipertrigliceridemi",
+      "Prevalencë e lartë në popullatën në përgjithësi",
+      "Alternime të shpeshta të indekseve të metabolizmit të hekurit",
+      "Parenkima hepatike bëhet hiperecogjene",
+      "Zhvillim sistematik drejt insufiçencës hepatike"
+    ],
+    "correct": 4,
+    "explanation": "NAFLD është shumë e shpeshtë, lidhet me sindromën metabolike, jep mëlçi hiperekogjene dhe shpesh ferritinë të rritur. Vetëm një pjesë evoluon në NASH/cirrozë — nuk ka progresion sistematik drejt insuficiencës hepatike."
+  },
+  {
+    "id": "licenca-gastrohepatologji-097",
+    "question": "Cila prej gjendjeve mund të ndërhyjë duke maskuar rritjen e amilazës në pankretitin akut?",
+    "answers": [
+      "Hipertrigliceridemia",
+      "Hiperglicemia",
+      "Hipokalçemia",
+      "Hiperamoniemia",
+      "Hiperkolesterolemia"
+    ],
+    "correct": 0,
+    "explanation": "Hipertrigliceridemia e rëndë (edhe shkak i pankreatitit) interferon me matjen e amilazës (serumi lipemik), duke dhënë vlera falsisht normale. Prandaj matet lipaza."
+  },
+  {
+    "id": "licenca-gastrohepatologji-098",
+    "question": "Cili prej medikamenteve nuk sugjerohet në zhdukjen e Helicobacter pylori:",
+    "answers": [
+      "Omeprazoli",
+      "Sucralfati",
+      "Amoxicilina",
+      "Claritromicina",
+      "Bismuthi koloidal"
+    ],
+    "correct": 1,
+    "explanation": "Eradikimi i H. pylori bëhet me IPP + antibiotikë (amoksicilinë, klaritromicinë, metronidazol) ± bismut. Sukralfati është mbrojtës mukozal, por nuk ka rol në eradikim."
+  },
+  {
+    "id": "licenca-gastrohepatologji-099",
+    "question": "Cili prej ekzaminimeve është më i pranueshëm për të diferencuar ikterin kolestatik prej obstruksionit të rrugëve biliare ekstra-hepatike nga ikteri kolestatik intrahepatik:",
+    "answers": [
+      "Përcaktimi i bilirubinës direkte",
+      "Përcaktimi i fosfatazës alkaline",
+      "Ecografia hepatike",
+      "Përcaktimi i gama-GT",
+      "Dozimi i acideve biliare"
+    ],
+    "correct": 2,
+    "explanation": "Ekografia dallon kolestazën ekstrahepatike (rrugë biliare të dilatuara) nga ajo intrahepatike (pa dilatim). Testet biokimike (bilirubina, FA, GGT) rriten në të dyja dhe nuk i dallojnë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-100",
+    "question": "Të gjitha sëmundjet shkaktojnë ascit, përveç njërës:",
+    "answers": [
+      "Skompensi me stazë",
+      "Mixedema",
+      "Cirroza hepatike",
+      "Hipertiroidizmi",
+      "Tuberkuloza intestinale"
+    ],
+    "correct": 3,
+    "explanation": "Hipertiroidizmi nuk jep ascit. Ascit japin insuficienca kardiake e dekompensuar me stazë, miksedema (hipotiroidizmi i rëndë), cirroza dhe tuberkuloza peritoneale/intestinale."
+  },
+  {
+    "id": "licenca-gastrohepatologji-101",
+    "question": "Sindroma e Zollinger-Ellison shoqërohet me të gjitha gjendjet e mëposhtme, përveç njërës:",
+    "answers": [
+      "Sëmundja ulçeroze e rëndë",
+      "Diarrea",
+      "Hipersekrecioni acid gastrik, në kushtet bazale",
+      "Reduktimi i gastrinemisë pas stimulimit me sekretinë",
+      "Hipergastrinemi"
+    ],
+    "correct": 3,
+    "explanation": "Në gastrinomë, sekretina paradoksalisht RRIT gastrinën (>120–200 pg/ml) — ky është testi diagnostik. Normalisht sekretina e frenon gastrinën. ZES jep ulçera të rënda, diarre, hipersekretim acid bazal dhe hipergastrinemi."
+  },
+  {
+    "id": "licenca-gastrohepatologji-102",
+    "question": "Kush nuk e shkakton cirrozën hepatike?",
+    "answers": [
+      "Infeksioni nga virusi A",
+      "Infeksioni nga virusi C",
+      "Inflamacioni kronik i rrugëve biliare",
+      "Hemokromatoza",
+      "Infeksioni nga virusi B"
+    ],
+    "correct": 0,
+    "explanation": "HAV nuk kronicizohet dhe nuk jep cirrozë. HBV, HCV, hemokromatoza dhe inflamacioni kronik i rrugëve biliare (kolangiti sklerozant, CBP) shkaktojnë cirrozë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-103",
+    "question": "Anemia makrocitike shpesh shkaktohet nga:",
+    "answers": [
+      "Karcinoma e ezofagut",
+      "Polipi rektal",
+      "Hipertiroidizmi",
+      "Sindroma me humbje të proteinave",
+      "Gastriti atrofik i trupit gastrik"
+    ],
+    "correct": 4,
+    "explanation": "Gastriti atrofik autoimun i trupit shkatërron qelizat parietale → mungesë e faktorit intrinsek → deficit B12 → anemi makrocitare (perniçioze). Polipi rektal/karcinoma japin anemi sideropenike (mikrocitare)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-104",
+    "question": "Tre studentë kanë ngrënë sëbashku dy ditë më parë (supë, mish me zarzavate dhe ëmbëlsirë me krem kanë paraqitur episodin e gastroenteritit febril. Analizat laboratorike tregojnë për hipopotasemi dhe qeliza inflamatore në feçe. Ky kuadër të bën të mendosh për:",
+    "answers": [
+      "Kolera",
+      "Salmoneloza",
+      "Toksiinfeksion nga stafilokoku",
+      "Toksiinfeksion nga clostridium",
+      "Toksiinfeksion nga Bacillus cereus"
+    ],
+    "correct": 1,
+    "explanation": "Inkubacion 12–72 orë, ethe, diarre inflamatore (leukocite në feçe) pas ushqimit me vezë/krem = salmonelozë. Toksinat e stafilokokut/B. cereus japin të vjella pas 1–6 orësh pa ethe; kolera jep diarre jo-inflamatore."
+  },
+  {
+    "id": "licenca-gastrohepatologji-105",
+    "question": "Si konfermohet diagnoza e infeksionit nga HCV?",
+    "answers": [
+      "Prania e HCV-ARN",
+      "Transaminazat rriten të paktën 7 herë më shumë se vlera normale",
+      "Prania e anti-HBc",
+      "Prania e anti-HCV",
+      "Prania e anti-HBs"
+    ],
+    "correct": 0,
+    "explanation": "Anti-HCV tregon kontakt me virusin (infeksion aktual ose i shkuar); konfirmimi i infeksionit aktiv bëhet me HCV-ARN (PCR). Anti-HBc dhe anti-HBs janë markues të HBV."
+  },
+  {
+    "id": "licenca-gastrohepatologji-106",
+    "question": "Si mund të konsiderohet pacienti që paraqet këto vlera të markuesve për hepatitin viral B: HBsAg pozitiv; antiHBs negativ; HBeAg negativ; anti HBe pozitiv; antiHBc pozitiv; HBV ADN (qarkulluese) negativ:",
+    "answers": [
+      "Hepatit akut",
+      "Hepatit kronik aktiv",
+      "Mbartës kronik i HBsAg",
+      "Infeksion i mëparshëm i shëruar",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 2,
+    "explanation": "HBsAg+ prej kohësh, HBeAg–, anti-HBe+, anti-HBc+ dhe HBV-ADN e padetektueshme (me transaminaza normale) = bartës joaktiv kronik i HBsAg. Hepatiti aktiv do të kishte ADN virale të lartë."
+  }
+]

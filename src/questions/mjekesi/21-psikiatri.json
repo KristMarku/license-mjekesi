@@ -1,0 +1,1133 @@
+[
+  {
+    "id": "licenca-psikiatri-001",
+    "question": "Per te mbajtur nje qendrim korrekt perballe pacienteve do te duhet:",
+    "answers": [
+      "te frenohet cdo reaksion emotiv",
+      "te evitohet shprehja e opinioneve personale",
+      "te evitohet ironia, sarkazma dhe jokonformizmi",
+      "te kritohet hapur cdo sjellje",
+      "asnje nga pergjigjet e permendura"
+    ],
+    "correct": 2,
+    "explanation": "Qëndrimi korrekt para pacientit psikiatrik kërkon empati, respekt dhe neutralitet: duhen shmangur ironia, sarkazma dhe sjelljet provokuese/jokonformiste, që e dëmtojnë aleancën terapeutike. Emocionet nuk shtypen plotësisht dhe sjelljet nuk kritikohen hapur."
+  },
+  {
+    "id": "licenca-psikiatri-002",
+    "question": "Per t’u konsideruar i pandehur kerkohet:",
+    "answers": [
+      "aftesia e vullnetshme per te vepruar",
+      "paaftesia per te vepruar dhe gjykuar",
+      "te mos jete nen veprimin e alkoolit",
+      "te kete mbushur moshen 21 vjec",
+      "te mos kete vuajtur nga crregullime psikotike"
+    ],
+    "correct": 0,
+    "explanation": "Për t'u konsideruar i përgjegjshëm penalisht (i pandehur i imputueshëm) kërkohet aftësia për të kuptuar dhe për të dashur (vullnetshmëria e veprimit) në momentin e veprës; mungesa e saj për shkak sëmundjeje mendore përjashton përgjegjësinë."
+  },
+  {
+    "id": "licenca-psikiatri-003",
+    "question": "Bindja qe nje tjeter person mund te lexoje mendimin tone tregon:",
+    "answers": [
+      "deluzion",
+      "obsesion",
+      "idene e referimit",
+      "depersonalizim",
+      "crregullime te kujteses"
+    ],
+    "correct": 0,
+    "explanation": "Bindja e patundur se të tjerët mund të lexojnë mendimet (lexim/transmetim i mendimit) është deluzion (ide delirante), tipik për skizofreninë (simptomë e rangut të parë sipas Schneider)."
+  },
+  {
+    "id": "licenca-psikiatri-004",
+    "question": "Cili nga te meposhtmet nuk paraqet nje mekanizem psikik mbrojtes:",
+    "answers": [
+      "Projeksioni",
+      "Shmangia",
+      "Regresioni",
+      "Mohimi",
+      "Konfabulacioni"
+    ],
+    "correct": 4,
+    "explanation": "Mekanizmat mbrojtës (Freud) përfshijnë projeksionin, mohimin, regresionin, shmangien, represionin, sublimimin. Konfabulacioni (mbushja e boshllëqeve të kujtesës me kujtime të sajuara) është simptomë e çrregullimit të kujtesës (Korsakov), jo mekanizëm mbrojtës."
+  },
+  {
+    "id": "licenca-psikiatri-005",
+    "question": "Perballe nje pacienti anksioz mjeku psikiater nuk duhet:",
+    "answers": [
+      "te shikoje pacientin drejt ne sy, te shkruaje te dhenat, te mate parametrat vitale",
+      "te minimizoje apo banalizoje situaten",
+      "te jete autoritar",
+      "te jete pergjithesues ne vleresime",
+      "te preokupohet per mjedisin qe rrethon pacientin"
+    ],
+    "correct": 1,
+    "explanation": "Para pacientit anksioz mjeku nuk duhet ta minimizojë ose banalizojë shqetësimin e tij; duhet ta dëgjojë me vëmendje, ta qetësojë dhe të shpjegojë qartë."
+  },
+  {
+    "id": "licenca-psikiatri-006",
+    "question": "Diskinezia tardive:",
+    "answers": [
+      "eshte nje sindrom anesor i neuroleptikeve",
+      "eshte nje sinonim i alkoolizmit",
+      "eshte nje sinonim i skizofrenise",
+      "eshte nje sinonim i sifilizit terciar",
+      "eshte nje sinonim i demences"
+    ],
+    "correct": 0,
+    "explanation": "Diskinezia tardive është efekt anësor i vonë i neuroleptikëve (sidomos tipikëve, pas përdorimit të zgjatur): lëvizje të pavullnetshme, stereotipike të gojës, gjuhës dhe fytyrës (mbipërndjeshmëri e receptorëve D2)."
+  },
+  {
+    "id": "licenca-psikiatri-007",
+    "question": "Abuzimi kronik i alkoolit mund te coje ne:",
+    "answers": [
+      "demence",
+      "crregullime te ankthit",
+      "skizofreni",
+      "crregullim personaliteti",
+      "asnje nga pergjigjet"
+    ],
+    "correct": 3,
+    "explanation": "Abuzimi kronik me alkool çon në çrregullim/deteriorim të personalitetit (dhe në demencë alkoolike, Korsakov, depresion, ankth); ndryshimi i personalitetit është pasojë karakteristike."
+  },
+  {
+    "id": "licenca-psikiatri-008",
+    "question": "Sasia e gjumit:",
+    "answers": [
+      "pakesohet me shtimin e moshes",
+      "mbetet e pandryshueshme ne cdo moshe",
+      "pakesohet nga lindja deri ne dhjete vjec dhe pastaj nuk ndryshon",
+      "pakesohet nga lindja deri ne tre vjec dhe pastaj nuk ndryshon",
+      "pakesohet nga lindja deri ne nje vjec dhe pastaj nuk ndryshon"
+    ],
+    "correct": 0,
+    "explanation": "Sasia e gjumit ulet progresivisht me moshën: neonati fle 16–18 orë, fëmija 10–12, i rrituri 7–8, i moshuari më pak (me më pak gjumë të thellë dhe REM)."
+  },
+  {
+    "id": "licenca-psikiatri-009",
+    "question": "DSM-IV eshte nje sistem klasifikimi i crregullimeve psikiatrike:",
+    "answers": [
+      "hierarkik multi-aksial",
+      "dimensional",
+      "kategorial",
+      "hierarkik",
+      "kategorial multiaksial"
+    ],
+    "correct": 4,
+    "explanation": "DSM-IV ishte një sistem klasifikimi kategorial dhe multiaksial (5 akse: I çrregullimet klinike, II personaliteti dhe prapambetja mendore, III gjendjet mjekësore, IV problemet psikosociale, V GAF). DSM-5 e hoqi sistemin multiaksial."
+  },
+  {
+    "id": "licenca-psikiatri-010",
+    "question": "Trajtimi psikiatrik i detyrueshem:",
+    "answers": [
+      "kerkohet dhe realizohet kur te semuret jane te rrezikshem per veten dhe te tjeret",
+      "eshte nje nga menyrat e shtrimit ne sherbimet psikiatrike",
+      "eshte nje trajtim shendetesor i jashtezakonshem per t’u kryer ne te semuret qe nuk kane vetedijen e semundjes dhe qe refuzojne shtrimet e nevojshme",
+      "eshte nje vendim i gjykates",
+      "te gjitha pergjigjet e permendura"
+    ],
+    "correct": 2,
+    "explanation": "Trajtimi psikiatrik i detyrueshëm (pa pëlqim) është masë e jashtëzakonshme për pacientët me çrregullim të rëndë mendor që nuk kanë vetëdije për sëmundjen, refuzojnë trajtimin e nevojshëm dhe/ose përbëjnë rrezik për veten ose të tjerët."
+  },
+  {
+    "id": "licenca-psikiatri-011",
+    "question": "Nje subjekt i prekur nga kleptomania:",
+    "answers": [
+      "zakonisht ka para per te paguar ato qe ai vjedh",
+      "eshte i paafte t’i rezistoje impulsit per te vjedhur objekte te pavlera",
+      "per me teper nuk i perdor objektet qe vjedh",
+      "per me teper nuk ka bashkefajtore",
+      "te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Kleptomania: paaftësi e përsëritur për t'i rezistuar impulsit për të vjedhur objekte që nuk nevojiten për përdorim vetjak apo për vlerën e tyre (personi zakonisht mund t'i paguajë), pa bashkëpunëtorë, me tension para dhe kënaqësi gjatë aktit."
+  },
+  {
+    "id": "licenca-psikiatri-012",
+    "question": "Nga cfare karakterizohet onirizmi?",
+    "answers": [
+      "konfuzioni, hiperaktiviteti, crregullime afektive",
+      "kthjelltesia, hipermnezia, eufori e lehte",
+      "disforia, kompulsioni, crregullime te gjumit",
+      "deliri i madheshtise, insomnia, bulimia, hipermnezia",
+      "amnezia retrograde, racionaliteti, represioni"
+    ],
+    "correct": 0,
+    "explanation": "Onirizmi (delir oniroid, gjendje si ëndërr) është tipik për gjendjet konfuzionale (delirium), p.sh. delirium tremens: konfuzion, halucinacione vizive të gjalla skenike, agjitacion psikomotor dhe çrregullime afektive (frikë, ankth)."
+  },
+  {
+    "id": "licenca-psikiatri-013",
+    "question": "Delirum tremens shoqerohet nder te tjera me me simptomat e meposhtme:",
+    "answers": [
+      "bradikardi",
+      "tremor",
+      "halucinacione te fuqishme vizive",
+      "dizorientim ne kohe e hapesire",
+      "dekurs prej 3-7 ditesh"
+    ],
+    "correct": 1,
+    "explanation": "Delirium tremens (2–4 ditë pas ndërprerjes së alkoolit) shoqërohet me tremor, halucinacione vizive (zoopsi), dezorientim, agjitacion dhe hiperaktivitet autonom (takikardi, ethe, djersitje), zgjat 3–7 ditë. Bradikardia nuk është tipike."
+  },
+  {
+    "id": "licenca-psikiatri-014",
+    "question": "Deluzioni i somatik mund te shfaqet ne tema te ndryshme midis te cilave:",
+    "answers": [
+      "te gjitha te meposhtmet",
+      "bindja e te pasurit lekuren e infektuar nga parazite ose nje parazit i brendshem",
+      "bindja e te pasurit pjese te trupit te deformuara",
+      "bindja e te pasurit te organeve qe nuk funksionojne",
+      "bindja e nxjerrjes se nje ere te keqe nga disa pjese te trupit"
+    ],
+    "correct": 0,
+    "explanation": "Deluzioni somatik ka tema të ndryshme: infestim me parazitë (sindroma Ekbom), deformim i pjesëve të trupit (dismorfofobi delirante), mosfunksionim/mungesë organesh (sindroma Cotard), erë e keqe nga trupi (sindroma e referimit olfaktor)."
+  },
+  {
+    "id": "licenca-psikiatri-015",
+    "question": "Cfare eshte iluzioni?",
+    "answers": [
+      "nje perceptim pa objekt",
+      "nje crregullim i perceptimit",
+      "nje perceptim pa karkter sensorial",
+      "nje anomali i te menduarit",
+      "nje crregullim i inteligjences"
+    ],
+    "correct": 1,
+    "explanation": "Iluzioni është një çrregullim i perceptimit: perceptim i deformuar/i gabuar i një objekti real (p.sh. një hije shihet si person). Halucinacioni është perceptim pa objekt."
+  },
+  {
+    "id": "licenca-psikiatri-016",
+    "question": "Cfare mund te sjellje toksikomania ne kokaine?",
+    "answers": [
+      "tolerance",
+      "vartesi",
+      "neuroze",
+      "psikoze",
+      "abstinence"
+    ],
+    "correct": 3,
+    "explanation": "Përdorimi kronik i kokainës mund të shkaktojë psikozë (paranoide, me halucinacione taktile – \"insektet e kokainës\"), si dhe varësi psikike, tolerancë dhe sindromë abstinence (depresive)."
+  },
+  {
+    "id": "licenca-psikiatri-017",
+    "question": "Ne prapambetjen mendore te rende koeficienti i inteligjences (I.Q) eshte midis:",
+    "answers": [
+      "0 – 20/25",
+      "25 – 40/50",
+      "40/50 – 70",
+      "80/90 – 100",
+      "100 – 110/120"
+    ],
+    "correct": 0,
+    "explanation": "Klasifikimi i prapambetjes mendore sipas IQ: e lehtë 50/55–70, e moderuar 35/40–50/55, e rëndë 20/25–35/40, e thellë <20/25. Intervali 0–20/25 (në fakt i përgjigjet formës së thellë)."
+  },
+  {
+    "id": "licenca-psikiatri-018",
+    "question": "Ne nje pacient dement qe paraqet axhitim psiko-motor eshte i indikuar perdorimi i:",
+    "answers": [
+      "benzodiazepines",
+      "barbiturikeve ne doza te uleta",
+      "substancave placebo",
+      "haloperidoli ne doza te uleta",
+      "chlomipramina"
+    ],
+    "correct": 3,
+    "explanation": "Në agjitacionin psikomotor të pacientit me demencë, kur nevojitet farmakoterapi, preferohen antipsikotikët në doza të ulëta (haloperidol ose atipikë si risperidoni, për kohë të shkurtër); benzodiazepinat dhe barbituratet përkeqësojnë konfuzionin dhe rrezikun e rënieve."
+  },
+  {
+    "id": "licenca-psikiatri-019",
+    "question": "Per te percaktuar nje crregullim depresiv madhor si rekurent nevojitet:",
+    "answers": [
+      "prezenca e te pakten tre episodeve depresive ne tre vite rresht",
+      "shfaqja e dy ose me shume episodeve depresive me interval remisioni prej te pakten 2 muaj rresht",
+      "shfaqja e depresionit ne periudha te percaktuara te vitit, vecanerisht ne pranvere dhe vjeshte",
+      "prezenca e episodeve depresive te alternuara me periudha hypomanie",
+      "asgje nga pergjigjet e mesiperme"
+    ],
+    "correct": 1,
+    "explanation": "Çrregullimi depresiv madhor rekurent kërkon ≥2 episode depresive madhore, të ndara nga një interval prej të paktën 2 muajsh rresht pa kritere për episod depresiv."
+  },
+  {
+    "id": "licenca-psikiatri-020",
+    "question": "Me shendetin mendor nenkuptohet aftesia e individit:",
+    "answers": [
+      "per t’u pershtatur apo gjetur zgjidhje ndaj konflikteve jashtme apo ngjarjeve te jashtme negative",
+      "per te kanalizuar impulset ne produkte sociale",
+      "per te krijuar marredhenie te pershtatshme nderpersonale",
+      "per t’u pershtatur me ambientin",
+      "te gjitha pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Shëndeti mendor (OBSH) është gjendje mirëqenieje në të cilën individi realizon aftësitë e veta, përballon stresin e jetës, punon në mënyrë produktive dhe kontribuon në shoqëri; përfshin përshtatjen me mjedisin, marrëdhëniet ndërpersonale dhe kanalizimin e impulseve."
+  },
+  {
+    "id": "licenca-psikiatri-021",
+    "question": "Prevalenca ne epidemiologji mat:",
+    "answers": [
+      "numrin e rasteve te nje semundjeje qe ekzistojne ne nje moment te caktuar ne nje popullate",
+      "simptomat me te zakonshme te nje semundjeje",
+      "semundje me shpeshtesi te madhe",
+      "etnocentrizmin dhe trajtimin e nje semundjeje te dhene",
+      "grupmoshen me vulnerabilitetin"
+    ],
+    "correct": 0,
+    "explanation": "Prevalenca mat numrin e rasteve (të reja + ekzistuese) të një sëmundjeje në një popullatë në një moment të caktuar (prevalencë pikësore) ose periudhë; incidenca mat rastet e reja në një periudhë kohe."
+  },
+  {
+    "id": "licenca-psikiatri-022",
+    "question": "Me fobi nenkuptohet:",
+    "answers": [
+      "nje crregullim i personalitetit",
+      "nje crregullim i te menduarit",
+      "nje sindrom tipik psikotik",
+      "nje crregullim i perceptimit",
+      "nje simptom i depresionit"
+    ],
+    "correct": 1,
+    "explanation": "Fobia klasifikohet si çrregullim i të menduarit (përmbajtja, ide fobike); në klasifikimet aktuale (DSM-5) fobitë janë çrregullime ankthi: frikë e tepërt dhe irracionale ndaj një objekti/situate specifike, me shmangie."
+  },
+  {
+    "id": "licenca-psikiatri-023",
+    "question": "Ne trajtimin e nje gjendjeje konfuzionale do te nevojitej:",
+    "answers": [
+      "t’i siguronim pacientit nje presence e vazhdueshme",
+      "te mbanim pacientin ne kushte erresire dhe izolimi",
+      "te perdornim sasi te madhe sedativesh",
+      "te perdornim antidepresive triciklike",
+      "te mbanim pacientin zgjuar me cdo menyre"
+    ],
+    "correct": 0,
+    "explanation": "Në gjendjet konfuzionale (delirium) masat joframakologjike janë thelbësore: prani e vazhdueshme e personelit/familjarëve, ambient i qetë dhe i ndriçuar (sidomos natën), riorientim, trajtim i shkakut; sedativët me masë dhe triciklikët (antikolinergjikë) duhen shmangur."
+  },
+  {
+    "id": "licenca-psikiatri-024",
+    "question": "Nje gjendje krepuskulare mund te jete pasoje e:",
+    "answers": [
+      "krize epilepsie temporale",
+      "insomnie persistente",
+      "pakesimit te vizus-it",
+      "reaksionit fobik teper te rende",
+      "dozave te medha te medikamenteve antidepresive"
+    ],
+    "correct": 0,
+    "explanation": "Gjendja krepuskulare (ngushtim i fushës së vetëdijes me sjellje të koordinuara automatike dhe amnezi pasuese) mund të jetë pasojë e epilepsisë, sidomos krizave të lobit temporal (dhe gjendjeve postiktale)."
+  },
+  {
+    "id": "licenca-psikiatri-025",
+    "question": "Me depresion te maskuar nenkuptojme:",
+    "answers": [
+      "nje depression me simptoma kompensatore te kunderta me ato depressive (ilaritet)",
+      "extra-version",
+      "nje depression qe paraqitet me depression te qarte somatic ne mungese te semundjes fizike",
+      "nje depression me component te qarte reactive mbi nje strukture neurotike te personalitetit",
+      "asnje nga pergjigjet e permendura"
+    ],
+    "correct": 2,
+    "explanation": "Depresioni i maskuar (somatik) paraqitet kryesisht me simptoma somatike (dhimbje, lodhje, çrregullime digjestive, gjumi) në mungesë të sëmundjes fizike që i shpjegon, ndërsa humori depresiv është i fshehur."
+  },
+  {
+    "id": "licenca-psikiatri-026",
+    "question": "Cila eshte perqindja e pacienteve onkologjike qe zhvillojne nje episod depresiv?",
+    "answers": [
+      "10%",
+      "25%",
+      "50%",
+      "80%",
+      "100%"
+    ],
+    "correct": 1,
+    "explanation": "Rreth 20–25% e pacientëve onkologjikë zhvillojnë episod depresiv madhor gjatë rrjedhës së sëmundjes."
+  },
+  {
+    "id": "licenca-psikiatri-027",
+    "question": "Cili eshte tipi i pare i imobilizimit qe perdoret ne pacientin maniakal?",
+    "answers": [
+      "kufizim relacional",
+      "farmakologjik",
+      "fizik",
+      "asnje nga pergjigjet e mesiperme",
+      "te gjitha pergjigjet e permendura"
+    ],
+    "correct": 1,
+    "explanation": "Në pacientin maniakal të agjituar forma e parë e \"frenimit\" është ajo relacionale/verbale (de-eskalimi); frenimi farmakologjik (antipsikotikë, benzodiazepina) përdoret përpara frenimit fizik, i cili është masë e fundit."
+  },
+  {
+    "id": "licenca-psikiatri-028",
+    "question": "Ne cilen nga keto disiplina specialistike personeli ndihmes mund te veproje direkt pa nderhyrjen e mjekut te pergjithshem?",
+    "answers": [
+      "higjena",
+      "mjekesi interne",
+      "psikiatri",
+      "dermatologji",
+      "mjekesi ligjore"
+    ],
+    "correct": 2,
+    "explanation": "Në psikiatri personeli ndihmës (psikologë, infermierë, punonjës socialë të ekipit të shëndetit mendor komunitar) mund të veprojë drejtpërdrejt pa ndërhyrjen e mjekut të përgjithshëm (qasje direkte në shërbimet e shëndetit mendor)."
+  },
+  {
+    "id": "licenca-psikiatri-029",
+    "question": "Si quhet nje ankth i forte refraktar dhe i pamotivuar nga rrethanat, veprimet dhe objektet?",
+    "answers": [
+      "frike",
+      "fobi",
+      "obsesion",
+      "pseudo-halucinacion",
+      "delirium"
+    ],
+    "correct": 1,
+    "explanation": "Fobia: ankth/frikë intensive dhe irracionale, joproporcionale me rrezikun real të objektit/situatës, që shkakton shmangie dhe njihet nga vetë pacienti si e tepruar."
+  },
+  {
+    "id": "licenca-psikiatri-030",
+    "question": "Medikamentet antidepresive:",
+    "answers": [
+      "veprojne ne membranen e neuroneve pre- dhe post-sinaptike",
+      "veprojne ne nivel intraqelizor",
+      "lidhen me monoaminat ne hapesiren inter-sinaptike",
+      "veprojne si endorfinat",
+      "asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Antidepresivët veprojnë në nivel të sinapsit: në membranën presinaptike (frenim i rimarrjes së monoaminave – triciklikët, SSRI, SNRI; bllokim i autoreceptorëve alfa2 – mirtazapina) dhe postsinaptike (rregullim i receptorëve), si edhe me frenim të MAO."
+  },
+  {
+    "id": "licenca-psikiatri-031",
+    "question": "Karbonati i litiumit eshte medikamenti i zgjedhur ne trajtimin e:",
+    "answers": [
+      "komes uremike",
+      "atrofise cerbrale",
+      "psikozes maniako-depresive",
+      "amebiazes hepatike",
+      "ulceres duodenale"
+    ],
+    "correct": 2,
+    "explanation": "Karbonati i litiumit është stabilizuesi i humorit i zgjedhur në çrregullimin bipolar (psikoza maniako-depresive): trajtimi i manisë dhe profilaksia e recidivave; ul rrezikun e suicidit. Kërkon monitorim të litiemisë (0,6–1,2 mEq/L), funksionit renal dhe tiroidien."
+  },
+  {
+    "id": "licenca-psikiatri-032",
+    "question": "Ankthi tek femijet mannifestohet:",
+    "answers": [
+      "ne psikoze",
+      "ne neuroze",
+      "ne crregullimet e stresit post-traumatik",
+      "ne mungese te crregullimeve psikiatrike",
+      "ne te gjitha situatat e permendura"
+    ],
+    "correct": 4,
+    "explanation": "Ankthi te fëmijët mund të manifestohet në çrregullime psikotike, neurotike, në PTSD, por edhe në mungesë të çrregullimeve psikiatrike (ankth fiziologjik i zhvillimit, p.sh. ankthi i ndarjes)."
+  },
+  {
+    "id": "licenca-psikiatri-033",
+    "question": "Cili eshte mekanizmi mbrojtes me i shpeshte ne paranoje?",
+    "answers": [
+      "konversioni",
+      "shmangia",
+      "projeksioni",
+      "supresioni",
+      "regresioni"
+    ],
+    "correct": 2,
+    "explanation": "Mekanizmi mbrojtës karakteristik i paranojës është projeksioni: atribuimi te të tjerët i ndjenjave/impulseve të veta të papranueshme (armiqësia), që çon në ide persekutorie."
+  },
+  {
+    "id": "licenca-psikiatri-034",
+    "question": "Me axhitim nenkuptohet:",
+    "answers": [
+      "nje tremor i pakontrollueshem",
+      "nje gjendje e tensionit te forte emocional",
+      "nje gjendje shqetesimi psikologjik dhe motor",
+      "nje gjendje shoqeruese e skizofrenise",
+      "nje gjendje e shkaktuar nga mania"
+    ],
+    "correct": 2,
+    "explanation": "Agjitacioni është një gjendje shqetësimi psikik (ankth, tension, irritabilitet) e shoqëruar me hiperaktivitet motor të paqëllimshëm; mund të shfaqet në shumë çrregullime (mani, skizofreni, demencë, delirium, ankth)."
+  },
+  {
+    "id": "licenca-psikiatri-035",
+    "question": "Disa antidepresive quhen treciklike sepse:",
+    "answers": [
+      "perdoren ne format ciklike",
+      "duhet te administrohen ne tre cikle te njepasnjeshme",
+      "nga karakteristikat e struktures kimike",
+      "i eshte dhene atyre nje emer imagjinar",
+      "jane zbuluar ne ciklin e trete te periudhes psiko-farmakologjike"
+    ],
+    "correct": 2,
+    "explanation": "Antidepresivët triciklikë (imipramina, amitriptilina, klomipramina) quhen kështu për strukturën kimike me tre unaza."
+  },
+  {
+    "id": "licenca-psikiatri-036",
+    "question": "Delirium tremens:",
+    "answers": [
+      "behet fjale per nje manifestim paroksistik te alkoolizmit akut",
+      "shoqerohet me polineuropati ne anesite e poshtme",
+      "shoqerohet me nje encefalopati porta-cava",
+      "behet fjale per nje manifestim paroksistik te alkoolizmit kronik",
+      "behet fjale per nje semundje aktualisht teper te perhapur"
+    ],
+    "correct": 3,
+    "explanation": "Delirium tremens është manifestim akut/paroksistik i alkoolizmit kronik (sindromë e rëndë e abstinencës), me vdekshmëri të konsiderueshme pa trajtim (benzodiazepina, tiaminë, hidratim)."
+  },
+  {
+    "id": "licenca-psikiatri-037",
+    "question": "Deliri eshte:",
+    "answers": [
+      "gjithnje i fragmentuar dhe bizzar",
+      "nje crregullim te formes se mendimit",
+      "nje crregullim i permbajtjes se mendimit",
+      "gjithnje i organizuar dhe i mire-strukturuar",
+      "nje crregullim i perceptimit"
+    ],
+    "correct": 2,
+    "explanation": "Deliri (ideja delirante/deluzioni) është çrregullim i përmbajtjes së mendimit: bindje e gabuar, e patundur, e pakorrigjueshme me argumente dhe e papërshtatshme me kulturën e personit. Çrregullimet e formës janë p.sh. fuga e ideve, inkoherenca."
+  },
+  {
+    "id": "licenca-psikiatri-038",
+    "question": "Ligji i Shendetit Mendor ne Shqiperi eshte miratuar me:",
+    "answers": [
+      "1985",
+      "1996",
+      "2002",
+      "2005",
+      "2010"
+    ],
+    "correct": 1,
+    "explanation": "Ligji i parë për shëndetin mendor në Shqipëri (nr. 8092) u miratua më 1996; u zëvendësua nga ligji nr. 44/2012 \"Për shëndetin mendor\"."
+  },
+  {
+    "id": "licenca-psikiatri-039",
+    "question": "Cili eshte efekti anesor endokrin me i shpeshte i medikamenteve anti-psikotike?",
+    "answers": [
+      "hipertiroidizmi",
+      "dekompensimi i diabetit",
+      "hypogonadotropizmi",
+      "hypopituitarizmi",
+      "hiperprolaktinemia"
+    ],
+    "correct": 4,
+    "explanation": "Efekti anësor endokrin më i shpeshtë i antipsikotikëve (sidomos tipikë dhe risperidoni) është hiperprolaktinemia, nga bllokimi i receptorëve D2 në rrugën tuberoinfundibulare: galaktorre, amenorre, gjinekomasti, mosfunksionim seksual. Atipikët japin edhe sindromë metabolike."
+  },
+  {
+    "id": "licenca-psikiatri-040",
+    "question": "Konfabulacioni eshte nje simptom karakteristik per:",
+    "answers": [
+      "gjendjen maniakale",
+      "sindromin afazik",
+      "sindromin Korsakov",
+      "delirin mistik",
+      "neurozen obsesive"
+    ],
+    "correct": 2,
+    "explanation": "Konfabulacioni është simptomë karakteristike e sindromës Korsakoff (deficit i tiaminës, zakonisht te alkoolistët): amnezi anterograde (dhe retrograde) me konfabulacione dhe dezorientim."
+  },
+  {
+    "id": "licenca-psikiatri-041",
+    "question": "Pavetedija kolektive eshte formuluar nga:",
+    "answers": [
+      "Jung",
+      "Mead",
+      "Freud",
+      "Kardiner",
+      "Ey"
+    ],
+    "correct": 0,
+    "explanation": "Koncepti i \"pavetëdijes kolektive\" (me arketipet e saj) u formulua nga Carl Gustav Jung; Freud formuloi pavetëdijen individuale."
+  },
+  {
+    "id": "licenca-psikiatri-042",
+    "question": "Vuajtja melankolike eshte:",
+    "answers": [
+      "gjithnje e patrajtuar",
+      "me intensive gjate pasdites",
+      "me intensive gjate nates",
+      "ne dite te alternuara",
+      "me intensive gjate mengjesit"
+    ],
+    "correct": 4,
+    "explanation": "Në depresionin melankolik simptomat janë më të rënda në mëngjes (variacion ditor), me zgjim të hershëm në mëngjes, anhedoni, faj të tepruar, ngadalësim psikomotor dhe anoreksi."
+  },
+  {
+    "id": "licenca-psikiatri-043",
+    "question": "Me “kujdestari” nenkuptohet:",
+    "answers": [
+      "marrja ne ngarkim totalisht nga ekipi mjekesor i jetes se pacientit",
+      "marrja ne ngarkim e pergjegjesise se trajtimit dhe perditesimit te strategjise terapeutike",
+      "sherimi i pacientit ne nje strukture te mbrojtur",
+      "marrja ne ngarkim e problemeve familjare",
+      "marrja ne ngarkim e problemeve sociale"
+    ],
+    "correct": 1,
+    "explanation": "Marrja në ngarkim (kujdestaria/\"presa in carico\") nënkupton marrjen e përgjegjësisë për trajtimin e pacientit dhe përditësimin e vazhdueshëm të strategjisë terapeutike nga ekipi i shëndetit mendor."
+  },
+  {
+    "id": "licenca-psikiatri-044",
+    "question": "Heqja e imobilizimit fizik duhet te ndodhe:",
+    "answers": [
+      "ne vijim te nje observacioni infermieristik",
+      "pas nje rekomandimi mjekesor",
+      "nen indikacionin e koordinatorin",
+      "pas nderhyrjes se Drejtorit te Pergjithshem",
+      "pas nderhyrjes se gjykatesit"
+    ],
+    "correct": 1,
+    "explanation": "Frenimi fizik vendoset dhe hiqet vetëm me vendim/rekomandim mjekësor, me rivlerësim të shpeshtë, për kohën më të shkurtër të mundshme."
+  },
+  {
+    "id": "licenca-psikiatri-045",
+    "question": "Nje mimike diskordante me fjalet dhe rrethanen ne te cilen ndodhet nje person eshte karakteristike e:",
+    "answers": [
+      "histerise",
+      "demences",
+      "manise",
+      "skizofrenise",
+      "melankolise"
+    ],
+    "correct": 3,
+    "explanation": "Mospërputhja midis mimikës/afektit dhe përmbajtjes së fjalës/situatës (afekt i papërshtatshëm, \"paratimi\") është karakteristike e skizofrenisë (çrregullim afektiv i Bleuler-it)."
+  },
+  {
+    "id": "licenca-psikiatri-046",
+    "question": "Sjelljet obsesive jane:",
+    "answers": [
+      "qendrime te perseritura per te sulmuar personat perreth",
+      "halucinacione rekurente auditive me aspekt ritual",
+      "stereotipi pa fund",
+      "sjellje anormale, rituale te perseritura ne mbrojtje te obsesionit dhe te ankthit",
+      "rituale te sjelljes seksuale"
+    ],
+    "correct": 3,
+    "explanation": "Sjelljet obsesive (kompulsionet) janë sjellje ose akte mendore të përsëritura, rituale, që personi ndihet i detyruar t'i kryejë për të neutralizuar ankthin e shkaktuar nga obsesionet (p.sh. larje, kontroll)."
+  },
+  {
+    "id": "licenca-psikiatri-047",
+    "question": "Abstinenca eshte:",
+    "answers": [
+      "deshire e pakontrollueshme me deshiren e vetme per te konsumuar alkool",
+      "nevoja per te shtuar perdorimin e alkoolit per te kenaqur deshiren",
+      "shfaqja e tremorit, takikardise, ankthit, djersitjes pas nje periudhe abstinence",
+      "nje manifestim i vartesise fizike",
+      "nje prurit i gjeneralizuar"
+    ],
+    "correct": 2,
+    "explanation": "Abstinenca (sindroma e tërheqjes) është shfaqja e simptomave fizike dhe psikike (tremor, takikardi, ankth, djersitje, nauze, pagjumësi, deri në konvulsione/delirium) pas ndërprerjes ose uljes së substancës te personi me varësi fizike. Dëshira e pakontrollueshme (A) është \"craving\", jo abstinencë — çelësi i PDF-së është i gabuar."
+  },
+  {
+    "id": "licenca-psikiatri-048",
+    "question": "„Fuga ideorum“ eshte tipike e:",
+    "answers": [
+      "gjendjes se eksitimit maniakal",
+      "gjendjes se eksitimit konfuzional",
+      "gjendjes melankolike stuporoze",
+      "histerise",
+      "hemorragjise subaraknoidale"
+    ],
+    "correct": 0,
+    "explanation": "Fuga e ideve (fuga idearum: kalim i shpejtë nga një ide në tjetrën me asociacione sipërfaqësore, tingullore) është tipike për gjendjen maniakale, e shoqëruar me logorre dhe takipsiki."
+  },
+  {
+    "id": "licenca-psikiatri-049",
+    "question": "Mendimi ne konfuzionin mental eshte:",
+    "answers": [
+      "i kthjellet dhe koherent",
+      "inkoherent dhe i fragmentuar",
+      "i pershpejtuar por koherent",
+      "e invaduar nga idete obsesive",
+      "qartesisht delirante"
+    ],
+    "correct": 1,
+    "explanation": "Në konfuzionin mendor (delirium) mendimi është inkoherent dhe i fragmentuar, me vëmendje të çrregulluar dhe dezorientim; ndryshe nga mania, ku mendimi është i përshpejtuar por relativisht koherent."
+  },
+  {
+    "id": "licenca-psikiatri-050",
+    "question": "Halucinacionet ne skizofreni jane me shume:",
+    "answers": [
+      "auditive",
+      "olfaktive",
+      "taktile",
+      "vizive",
+      "cenestezike"
+    ],
+    "correct": 0,
+    "explanation": "Halucinacionet më të shpeshta në skizofreni janë dëgjimore (zëra që komentojnë ose bisedojnë); halucinacionet vizive sugjerojnë shkak organik/toksik (delirium)."
+  },
+  {
+    "id": "licenca-psikiatri-051",
+    "question": "Cila nga keto semundje mund te induktoje klinike te ngjashme me skizofrenine?",
+    "answers": [
+      "te gjitha te meposhtmet",
+      "tumoret cerebrale",
+      "infeksionet cerebrale",
+      "semundjet degjenerative",
+      "epilepsia"
+    ],
+    "correct": 0,
+    "explanation": "Klinikë si skizofrenia (psikozë sekondare) mund të shkaktojnë tumoret cerebrale (sidomos frontale/temporale), infeksionet (encefalit, sifilis, HIV), sëmundjet degjenerative (Huntington, demencat), epilepsia e lobit temporal, substancat dhe sëmundjet endokrine/autoimmune."
+  },
+  {
+    "id": "licenca-psikiatri-052",
+    "question": "Medikamentet psikiatrike mund te japin efekte anesore?",
+    "answers": [
+      "gjithnje, pa marre parasysh tipin dhe dozen",
+      "pothuajse kurre",
+      "jo, por shpesh minimizohen nga pacientet",
+      "po",
+      "jo"
+    ],
+    "correct": 3,
+    "explanation": "Psikofarmakët mund të japin efekte anësore (ekstrapiramidale, metabolike, antikolinergjike, sedacion, mosfunksionim seksual etj.), që varen nga klasa, doza dhe ndjeshmëria individuale; duhen monitoruar dhe diskutuar me pacientin."
+  },
+  {
+    "id": "licenca-psikiatri-053",
+    "question": "Sherbimi i shendetit mendor komunitar:",
+    "answers": [
+      "ka funksionim autonom dhe kontrolli",
+      "nuk ndermerr aktivitet terapeutik",
+      "ndermerr aktivitet ambulator, ne shtepi dhe te urgjences psikiatrike",
+      "merret vetem me aktivitet ambulator",
+      "ndermerr detyren e koordinimit me repartet psikiatrike"
+    ],
+    "correct": 2,
+    "explanation": "Shërbimi komunitar i shëndetit mendor ofron aktivitet ambulator, ndërhyrje në shtëpi (vizita domiciliare), menaxhim të urgjencave psikiatrike dhe rehabilitim, duke u koordinuar me spitalin."
+  },
+  {
+    "id": "licenca-psikiatri-054",
+    "question": "Kujt mund t’i atribuohet shkaku i psikozes konfuzionale?",
+    "answers": [
+      "shkaqeve toksike",
+      "nje aspekti reaksional histerik",
+      "evolucionit te nje forme depresive",
+      "somatizimit te nje gjendjeje te shprehur anksioze",
+      "evolucionit te nje forme skizofrenike kronike"
+    ],
+    "correct": 0,
+    "explanation": "Psikoza konfuzionale (delirium) ka shkak organik: toksik (alkool, droga, barna), metabolik, infektiv, cerebrovaskular etj.; nuk është reaksion psikogjen."
+  },
+  {
+    "id": "licenca-psikiatri-055",
+    "question": "Perdorimi i mjeteve te imobilizimit fizik eshte i pranueshem:",
+    "answers": [
+      "ne te gjitha rastet nen autoritetin e infermiereve",
+      "ne te gjitha rastet nen autoritetin e koordinatorit",
+      "ne te gjitha rastet nen rekomandimin mjekesor",
+      "kurre",
+      "ne asnje nga pergjigjet e permendura"
+    ],
+    "correct": 2,
+    "explanation": "Përdorimi i mjeteve të frenimit fizik pranohet vetëm si masë e fundit, me rekomandim/urdhër mjekësor, për të parandaluar dëmtimin e pacientit ose të të tjerëve, me monitorim të vazhdueshëm dhe dokumentim."
+  },
+  {
+    "id": "licenca-psikiatri-056",
+    "question": "Lezionet meningo-encefalike, te marra si shembull pe te demonstruar se semundjet mendore jane shprehje te semundjeve organike te trurit, jane te shkaktuar nga:",
+    "answers": [
+      "sifilizi",
+      "lia e dhenve",
+      "lepra",
+      "arterioskleroza",
+      "asnje"
+    ],
+    "correct": 0,
+    "explanation": "Paraliza e përgjithshme progresive (neurosifilisi, meningoencefalit sifilitik) ishte shembulli historik që demonstroi se një sëmundje mendore mund të ketë shkak organik cerebral (Noguchi 1913: Treponema në korteks)."
+  },
+  {
+    "id": "licenca-psikiatri-057",
+    "question": "Ne cilin tip personaliteti takohen instabiliteti afektiv, sjellje te shpeshta autolitike, disforia dhe krizat e instabilitetit dhe terbimit?",
+    "answers": [
+      "borderline",
+      "narcistik",
+      "kompulsiv",
+      "paranoiak",
+      "pasiv-agresiv"
+    ],
+    "correct": 0,
+    "explanation": "Çrregullimi borderline i personalitetit: instabilitet afektiv dhe i marrëdhënieve, impulsivitet, sjellje autolezive/suicidare të përsëritura, ndjenjë boshllëku, zemërim intensiv, frikë nga braktisja."
+  },
+  {
+    "id": "licenca-psikiatri-058",
+    "question": "Nje deluzim i mire-organizuar perkufizohet si:",
+    "answers": [
+      "i sistematizuar",
+      "i kthjellet",
+      "paranoid",
+      "sekondar",
+      "asnje nga pergjigjet e permendura"
+    ],
+    "correct": 0,
+    "explanation": "Deluzioni i organizuar mirë, me logjikë të brendshme dhe tema të lidhura (si në çrregullimin delirant/paranojë) quhet i sistematizuar; deliret e skizofrenisë janë shpesh të pasistematizuara/bizare."
+  },
+  {
+    "id": "licenca-psikiatri-059",
+    "question": "Autizmi infantil ben pjese ne crregullimet:",
+    "answers": [
+      "pervasive te zhvillimit",
+      "e ankthit",
+      "te humorit",
+      "psikike",
+      "te personalitetit"
+    ],
+    "correct": 0,
+    "explanation": "Autizmi infantil (sipas DSM-IV dhe ICD-10) bën pjesë në çrregullimet pervazive të zhvillimit; në DSM-5 është \"çrregullim i spektrit autik\", në grupin e çrregullimeve neurozhvillimore."
+  },
+  {
+    "id": "licenca-psikiatri-060",
+    "question": "Cila nga te meposhtmet nuk eshte nje karakteristike e anoreksise nervoze:",
+    "answers": [
+      "histori e meparshme obeziteti",
+      "amenorrea",
+      "menjanim social",
+      "sjellje auto-ndeshkuese",
+      "raport i veshtire me prinderit"
+    ],
+    "correct": 2,
+    "explanation": "Mënjanimi social nuk është karakteristikë tipike e anoreksisë nervore (megjithëse në praktikë izolimi social është i shpeshtë); tipike janë frika e shtimit në peshë, amenorrea, kufizimi ushqimor, shpesh histori familjare konfliktuale/obeziteti."
+  },
+  {
+    "id": "licenca-psikiatri-061",
+    "question": "Cili prej te meposhtmeve eshte tipik per skizofrenise?",
+    "answers": [
+      "perseritja e ideve",
+      "fuga e ideve",
+      "perceptimi delirant",
+      "konfabulacioni",
+      "idea obsesive"
+    ],
+    "correct": 2,
+    "explanation": "Perceptimi delirant (një perceptim normal të cilit i jepet një kuptim delirant vetëreferues) është simptomë e rangut të parë sipas Schneider-it, tipike për skizofreninë."
+  },
+  {
+    "id": "licenca-psikiatri-062",
+    "question": "Perjashtimi i personave me probleme te shendetit mendor neper institucione te vecuara nga shoqeria eshte motivuar ne te shkuaren nga:",
+    "answers": [
+      "probleme shendetesore",
+      "ndjenja humanitare",
+      "problemet sociale",
+      "ndjenja religjioze",
+      "deshira per sherim"
+    ],
+    "correct": 2,
+    "explanation": "Historikisht izolimi i të sëmurëve mendorë në institucione (azile/manikome) ka qenë i motivuar kryesisht nga arsye sociale (mbrojtja e shoqërisë, rendi publik), më shumë se nga qëllime terapeutike."
+  },
+  {
+    "id": "licenca-psikiatri-063",
+    "question": "Venlafaxina i perket ciles klase te antidepresiveve?",
+    "answers": [
+      "SNRI (serotonine-norepinephrin reuptake inhibitor)",
+      "NASSA (noradrenergic and serotoninergic specific antidepresiv)",
+      "Ticiklike",
+      "SSRI (selective serotinine reuptake inhibitor)",
+      "NARI (Noradrenaline reuptake inhibitor)"
+    ],
+    "correct": 0,
+    "explanation": "Venlafaksina (si duloksetina, desvenlafaksina) është frenuese e rimarrjes së serotoninës dhe noradrenalinës (SNRI); në doza të ulëta vepron kryesisht si SSRI."
+  },
+  {
+    "id": "licenca-psikiatri-064",
+    "question": "Tik-u eshte:",
+    "answers": [
+      "nje levizje koreiforme",
+      "nje levizje e pavullnetshme dhe rekurente jo ritmike",
+      "nje levizje distonike",
+      "nje levizje mioklonike",
+      "nje levizje e vullnetshme"
+    ],
+    "correct": 1,
+    "explanation": "Tiku është lëvizje (ose vokalizim) e papritur, e shpejtë, e përsëritur, joritmike dhe e pavullnetshme (pjesërisht e shtypshme me vullnet, me ndjesi paraprake)."
+  },
+  {
+    "id": "licenca-psikiatri-065",
+    "question": "Si perkufizohet nje teresi idesh te gabuara per shkak te nje alterimi te koshiences nga realiteti?",
+    "answers": [
+      "iluzion",
+      "deluzion",
+      "gabime gjykimi",
+      "dobesi mentale",
+      "Mendime te kushtezuara (partikularizem)"
+    ],
+    "correct": 1,
+    "explanation": "Deluzioni (ideja delirante) është një bindje e gabuar, e patundur, e pandikueshme nga argumentet, që buron nga një çrregullim i gjykimit të realitetit."
+  },
+  {
+    "id": "licenca-psikiatri-066",
+    "question": "Si perkufizohet idea qe persiston edhe pse subjekti deshiron ta eleminoje ate?",
+    "answers": [
+      "ide obsesive",
+      "ide prevalente",
+      "ide te vecanta",
+      "ide inkoherente",
+      "ide delirante"
+    ],
+    "correct": 0,
+    "explanation": "Ideja obsesive është mendim i padëshiruar, ndërhyrës dhe i përsëritur, që njihet si i vetin (egodistonik) dhe që subjekti përpiqet ta largojë pa sukses; shkakton ankth."
+  },
+  {
+    "id": "licenca-psikiatri-067",
+    "question": "Ne anoreksine nervore takohet:",
+    "answers": [
+      "Amenorrea",
+      "frika per t’u shendoshur",
+      "te vjella te auto-induktuara",
+      "reduktim i konsumimit te ushqimit",
+      "te gjitha pergjigjet e permendura"
+    ],
+    "correct": 4,
+    "explanation": "Anoreksia nervore: kufizim i marrjes së ushqimit me peshë shumë të ulët, frikë intensive nga shtimi në peshë, perceptim i shtrembëruar i trupit; shpesh amenorre; në formën purgative edhe të vjella të vetëshkaktuara dhe laksativë."
+  },
+  {
+    "id": "licenca-psikiatri-068",
+    "question": "Forma me e shpeshte e “demences” sekondare eshte ajo e induktuar nga:",
+    "answers": [
+      "leukodistrofia cerebrale",
+      "panencefaliti subakut sklerotizant",
+      "reduktimi difuz senil i parenkimes cerebrale",
+      "demtimi encefalik nga arteriopatia kronike",
+      "semundja Wilson"
+    ],
+    "correct": 3,
+    "explanation": "Forma më e shpeshtë e demencës sekondare është demenca vaskulare (nga arteriopatia kronike cerebrale/infarkte të shumëfishta); Alzheimer-i është demenca primare më e shpeshtë."
+  },
+  {
+    "id": "licenca-psikiatri-069",
+    "question": "Cfare nenkupton rehabilitimi psikosocial?",
+    "answers": [
+      "trajnimi per ekzekutimin korrekt te detyrave praktike",
+      "zgjidhja e simptomave produktive",
+      "fitimi i cilesive komportamentale me theks te vecante ndaj aftesive relacionale e te socializimit",
+      "zgjidhja e simptomave negative",
+      "te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Rehabilitimi psikosocial synon rifitimin e aftësive praktike, relacionale dhe sociale, uljen e simptomave (pozitive dhe negative) dhe integrimin e pacientit në shoqëri e punë."
+  },
+  {
+    "id": "licenca-psikiatri-070",
+    "question": "Ne paranoje takohet:",
+    "answers": [
+      "deluzioni i sistematizuar",
+      "asnje deluzion",
+      "nje perzierje e deluzioneve te sistemuar me ato konfuze",
+      "deluzioni i merzitjes",
+      "deluzioni i varferise"
+    ],
+    "correct": 0,
+    "explanation": "Paranoja (çrregullimi delirant kronik) karakterizohet nga një deluzion i sistematizuar, logjik në brendësi (persekutor, xhelozie, erotomanik, madhështie), pa halucinacione të spikatura dhe me personalitet relativisht të ruajtur."
+  },
+  {
+    "id": "licenca-psikiatri-071",
+    "question": "Kufiri i maksimal i pademshem i konsumimit te pijeve alkoolike eshte:",
+    "answers": [
+      "40 gr/dite per meshkujt dhe 20 gr/dite per femrat",
+      "20 gr/dite per meshkujt dhe 10 gr/dite per femrat",
+      "50 gr/dite per meshkujt dhe 30 gr/dite per femrat",
+      "80 gr/dite per meshkujt dhe 60 gr/dite per femrat",
+      "100 gr/dite per meshkujt dhe 80 gr/dite per femrat"
+    ],
+    "correct": 0,
+    "explanation": "Rekomandime të vjetra: kufiri i konsumit \"me rrezik të ulët\" ishte ~40 g/ditë alkool për meshkujt dhe ~20 g/ditë për femrat; udhëzimet aktuale janë më strikte (≤20 g/ditë M, ≤10 g/ditë F, dhe \"asnjë sasi nuk është krejt e sigurt\")."
+  },
+  {
+    "id": "licenca-psikiatri-072",
+    "question": "Per sa kohe mund te qendroje nje pacient i shtruar jashte vullnetit te tij ne nje institucion psikiatrik me vendim vetem te mjekeve:",
+    "answers": [
+      "deri sa te permiresohet dhe te jape miratimin",
+      "24 ore",
+      "72 ore",
+      "aq sa i duhet gjendjes shendetesore",
+      "3 muaj"
+    ],
+    "correct": 3,
+    "explanation": "Shtrimi i pavullnetshëm vendoset nga mjekët për aq kohë sa e kërkon gjendja shëndetësore e pacientit; në legjislacionin shqiptar (ligji 44/2012) shtrimi urgjent pa pëlqim kërkon miratimin e gjykatës brenda pak ditësh dhe rishikim periodik."
+  },
+  {
+    "id": "licenca-psikiatri-073",
+    "question": "Cfare eshte terapia familjare?",
+    "answers": [
+      "eshte nje psikoterapi qe nderhyn ne komunikimin e familjes, e kuptuar si “sistem” qe ka si objektiv ndryshimin e modeleve te komunikimit",
+      "eshte nje terapi qe niset nga presupozimi se pergjegjesia e vuajtjes eshte e familjareve dhe jo e pacienteve",
+      "eshte nje terapi qe propozon, si objektiv integrimin e pacientit ne nje shtepi familjare",
+      "eshte nje tip i terapise psikoanalitike",
+      "eshte nje forme e terapise qe shoqeron terapine relacionale me ate psikoanalitike"
+    ],
+    "correct": 0,
+    "explanation": "Terapia familjare (sistemike) e trajton familjen si sistem dhe ndërhyn në modelet e komunikimit dhe marrëdhëniet ndërmjet anëtarëve për të ndryshuar dinamikat disfunksionale që mbajnë simptomën."
+  },
+  {
+    "id": "licenca-psikiatri-074",
+    "question": "Karakteri i pacientit:",
+    "answers": [
+      "eshte nje parameter i ekzaminimit psikik",
+      "influencon ne vleresimin psikik",
+      "varion sipas klases shoqerore",
+      "eshte i lidhur vetem me te veshurin",
+      "asnje nga pergjigjete e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Karakteri/personaliteti i pacientit është një nga parametrat e ekzaminimit psikik (statusit mendor), së bashku me paraqitjen, vetëdijen, orientimin, humorin, mendimin, perceptimin, kujtesën, inteligjencën dhe gjykimin."
+  },
+  {
+    "id": "licenca-psikiatri-075",
+    "question": "Si do te duhej te ishte permanenca e nje te shtruari ne strukture rezidenciale?",
+    "answers": [
+      "me kohezgjatje te shkurter dhe per te perballuar periudhen e krizes",
+      "me afat te paracaktuar dhe e drejtuar ne realizimin e objektivave te riintegrimit shoqeror",
+      "me afat te pacaktuar me qellim mbrojtjen e pacientit nga presionet e mjedisit",
+      "me afat te pacaktuar per problemet e asistences",
+      "asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 1,
+    "explanation": "Qëndrimi në strukturat rezidenciale psikiatrike duhet të jetë me afat të paracaktuar dhe i orientuar drejt objektivave të rehabilitimit dhe riintegrimit social, jo strehim i pacaktuar."
+  },
+  {
+    "id": "licenca-psikiatri-076",
+    "question": "Nje fobi eshte:",
+    "answers": [
+      "nje simptom ankthi qe manifestohet duke nisur nga adoleshenca",
+      "ankth klinikisht i rendesishem e provokuar nga ekspozimi ndaj nje objekti apo nje rrethane te caktuar",
+      "nje levizje perseritese qe shoqerohet me ankth",
+      "impulsi per te evituar nje objekt qe shkakton ankth",
+      "bindja e pajustifikuar qe eshte kontaminuar nga nje semundje"
+    ],
+    "correct": 1,
+    "explanation": "Fobia është ankth/frikë klinikisht i rëndësishëm, joproporcional, i provokuar nga ekspozimi (ose pritja e tij) ndaj një objekti apo situate specifike, që çon në shmangie."
+  },
+  {
+    "id": "licenca-psikiatri-077",
+    "question": "Impulset patologjike jane:",
+    "answers": [
+      "impulset agresive te drejtuar nga shkaterrimi i te gjitha objekteve rrethuese",
+      "impulset masturbuese",
+      "reaksionet anksioze me tendence shmangien",
+      "impulset e tipit obsesiv kontradiktor",
+      "impulset me sfond mistik te bazuar ne bashkepunimin me hyjnite"
+    ],
+    "correct": 0,
+    "explanation": "Impulset patologjike janë impulse agresive/shkatërruese të pakontrollueshme (si në çrregullimin eksploziv intermitent), që shkarkohen në akte pa kontroll."
+  },
+  {
+    "id": "licenca-psikiatri-078",
+    "question": "Trajtimi shendetesor i detyrueshem eshte nje vendim:",
+    "answers": [
+      "i leshuar nga kryetari i bashkise mbi bazen e certifikimeve medikale",
+      "i leshuar nga nje mjek territori",
+      "i leshuar nga nje mjek territori dhe nga nje mjek tjeter spitalor",
+      "i leshuar nga kryetari i bashkise",
+      "i leshuar nga gjykatesi"
+    ],
+    "correct": 0,
+    "explanation": "Modeli italian i TSO: trajtimi shëndetësor i detyrueshëm urdhërohet nga kryetari i bashkisë (si autoritet shëndetësor lokal) mbi bazën e dy certifikatave mjekësore dhe validohet nga gjyqtari; në Shqipëri vendimi për shtrim pa pëlqim merret nga gjykata."
+  },
+  {
+    "id": "licenca-psikiatri-079",
+    "question": "Gjate nje nje bashkebisedimi me pacientin psikiatrik duhet:",
+    "answers": [
+      "te analizohen pyetjet",
+      "te privilegjohet komunikimi direkt",
+      "te sigurohet gjithnje pacienti",
+      "te mbahet distance",
+      "te gjykohet pacienti"
+    ],
+    "correct": 1,
+    "explanation": "Në bisedën me pacientin psikiatrik duhet të privilegjohet komunikimi i drejtpërdrejtë, i qartë dhe i sinqertë, me empati, pa gjykim dhe pa distancë të tepruar."
+  },
+  {
+    "id": "licenca-psikiatri-080",
+    "question": "Cili nga me poshte eshte efekti anesor me i shpeshte i antidepresive triciklike ?",
+    "answers": [
+      "shtimi ne peshe",
+      "crregullime te ciklit kardiak",
+      "reduktimi i pragut konvulsiv",
+      "efekte muskarinike (tharje mukozale, retension urinar)",
+      "te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 4,
+    "explanation": "Antidepresivët triciklikë japin efekte antikolinergjike/muskarinike (tharje goje, kapsllëk, retension urinar, turbullim pamjeje), hipotension ortostatik, shtim në peshë, ulje të pragut konvulsiv dhe kardiotoksicitet (zgjatje QRS/QT, aritmi — vdekjeprurës në mbidozë)."
+  },
+  {
+    "id": "licenca-psikiatri-081",
+    "question": "Crregullimet e personalitetit:",
+    "answers": [
+      "jane crregullime me alterime te shprehura te sjelljes",
+      "jane te koduar ne aksin II te ICD-10",
+      "jane crregullime te sferes psikotike",
+      "jane gjithnje te shoqeruara nga crregullime te perceptimit",
+      "asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Çrregullimet e personalitetit janë modele të qëndrueshme, të ngurtë dhe maladaptive të sjelljes, perceptimit dhe marrëdhënieve, që devijojnë nga pritshmëritë kulturore; ishin në boshtin II të DSM-IV (jo ICD-10) dhe nuk janë psikotike."
+  },
+  {
+    "id": "licenca-psikiatri-082",
+    "question": "Mania eshte:",
+    "answers": [
+      "crregullim i te menduarit",
+      "nje forme skizofrenie",
+      "nje crregullim i humorit",
+      "nje qendrim provokator i pacientit",
+      "nje crregullim i perceptimit"
+    ],
+    "correct": 2,
+    "explanation": "Mania është një çrregullim i humorit (afektiv): humor i ngritur/ekspansiv ose irritabël, rritje e energjisë, ul nevojën për gjumë, logorre, fugë idesh, madhështi, sjellje impulsive."
+  },
+  {
+    "id": "licenca-psikiatri-083",
+    "question": "Kufizimi Fizik mund te kryhet:",
+    "answers": [
+      "vetem nga policia",
+      "i rekomanduar nga nje mjek ose infermier",
+      "vetem ne kushte spitalore",
+      "nga familjaret",
+      "asnje nga te mesipermet"
+    ],
+    "correct": 4,
+    "explanation": "Asnjë nga opsionet nuk është e saktë: frenimi fizik mund të kryhet vetëm me urdhër mjekësor, nga personeli shëndetësor i trajnuar dhe jo vetëm nga policia apo familjarët (infermieri vetëm në urgjencë, me konfirmim të menjëhershëm të mjekut)."
+  },
+  {
+    "id": "licenca-psikiatri-084",
+    "question": "Vonesa mendore eshte:",
+    "answers": [
+      "nje situate disavantazhi socio-kulturor",
+      "nje dobesim intelektual mbi baze emotive",
+      "nje reduktim i rendesishem i eficiences intelektuale me crregullime te sjelljes adaptive",
+      "nje semundje gjenetike",
+      "nje situate e frenimit intelektual"
+    ],
+    "correct": 2,
+    "explanation": "Prapambetja mendore (aftësi e kufizuar intelektuale) është reduktim i rëndësishëm i funksionimit intelektual (IQ <70) me deficite në sjelljen adaptive, me fillim gjatë periudhës së zhvillimit."
+  },
+  {
+    "id": "licenca-psikiatri-085",
+    "question": "Depresioni eshte:",
+    "answers": [
+      "nje crregullim i humorit",
+      "nje crregullim ekskluziv i natyres psikotike",
+      "nje alterim i gjendjes se koshiences",
+      "nje rritje e tonusit te humorit",
+      "nje crregullim i perceptimit"
+    ],
+    "correct": 0,
+    "explanation": "Depresioni është çrregullim i humorit: humor i ulët dhe/ose humbje interesi/kënaqësie për ≥2 javë, me simptoma somatike dhe kognitive; mund të ketë ose jo tipare psikotike."
+  },
+  {
+    "id": "licenca-psikiatri-086",
+    "question": "Cila nga gjendjet e meposhtme eshte e karakterizuar nga dizorientimi temporo-spaciale?",
+    "answers": [
+      "gjendja krepuskulare",
+      "alienizimi",
+      "crregullimi deluzional",
+      "neuroze obsesive kompulsive",
+      "asnje nga pergjigjet e permendura"
+    ],
+    "correct": 0,
+    "explanation": "Gjendja krepuskulare (ngushtim/turbullim i vetëdijes) karakterizohet nga dezorientim kohor-hapësinor, sjellje automatike dhe amnezi pasuese (si në epilepsi, histeri, intoksikime)."
+  },
+  {
+    "id": "licenca-psikiatri-087",
+    "question": "Cili nga organet e meposhtme rezulton lehtesisht me i prekuri nga proceset psikosomatike?",
+    "answers": [
+      "colon",
+      "veshi i mesem",
+      "veshkat",
+      "hepari",
+      "testikuli ."
+    ],
+    "correct": 0,
+    "explanation": "Kolon-i (trakti gastrointestinal) është organi më i prekur nga proceset psikosomatike (sindroma e zorrës së irrituar, historikisht edhe koliti ulceroz në listën e sëmundjeve psikosomatike klasike)."
+  }
+]

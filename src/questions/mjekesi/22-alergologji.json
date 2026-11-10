@@ -1,0 +1,131 @@
+[
+  {
+    "id": "licenca-alergologji-001",
+    "question": "Të gjitha pohimet e mëposhtme në lidhje me astmen bronkiale janë të vërteta, me përjashtim të:",
+    "answers": [
+      "është një sëmundje që karakterizohet nga inflamacioni i mukozës bronkiale",
+      "është një sëmundje me natyrë kronike me riakutizime të shkaktuar nga faktorë të ndryshëm",
+      "është një sëmundje e karakterizuar nga aksese dispneje dhe ndjesia e shtrëngimit në nivel të toraksit",
+      "është një sëmundje e karakterizuar nga bronkospazma reversibile",
+      "është një sëmundje që në mënyrë të pashmangshme shoqërohet me pamjaftueshmeri të zemrës për të kryer funksionin e saj"
+    ],
+    "correct": 4,
+    "explanation": "Astma është sëmundje inflamatore kronike e rrugëve ajrore, me riakutizime, dispne paroksistike, shtrëngim torakal dhe obstruksion bronkial reversibël. Nuk shoqërohet domosdoshmërisht me insuficiencë kardiake."
+  },
+  {
+    "id": "licenca-alergologji-002",
+    "question": "Nga barnat e poshtëshënuar rretho ato që ka efekt më të fuqishëm bronkodilatator:",
+    "answers": [
+      "kortikosteroidët inhalator",
+      "kortikosteroidët me rrugë orale",
+      "beta 2 mimetikët",
+      "antihistaminikët",
+      "teofilina"
+    ],
+    "correct": 2,
+    "explanation": "Beta2-mimetikët (salbutamol, formoterol) janë bronkodilatatorët më të fuqishëm dhe më të shpejtë; kortikosteroidet janë antiinflamatorë (pa efekt bronkodilatator të drejtpërdrejtë), teofilina është bronkodilatator i dobët."
+  },
+  {
+    "id": "licenca-alergologji-003",
+    "question": "Cili është kuptimi etimologjik i fjalës “ alergji”:",
+    "answers": [
+      "një reaksion i zakonshëm i organizmit",
+      "një reaksion jo normal i organizmit",
+      "një reaksion favorizues i organizmit",
+      "një reaksion specifik i organizmit",
+      "një reaksion i izoluar i organizmit"
+    ],
+    "correct": 1,
+    "explanation": "\"Alergji\" vjen nga greqishtja allos (tjetër, ndryshe) + ergon (veprim): reaksion i ndryshuar, jonormal i organizmit ndaj një substance zakonisht të padëmshme."
+  },
+  {
+    "id": "licenca-alergologji-004",
+    "question": "Polinozat para-pranverore janë pasojë e:",
+    "answers": [
+      "Poleneve të pemëve",
+      "Graminetë",
+      "Shkurret",
+      "Parietaria Judaica",
+      "Dermatofagët"
+    ],
+    "correct": 0,
+    "explanation": "Polinozat e paspranverës/fund-dimrit (shkurt–prill) shkaktohen nga polenet e pemëve (thupra, lajthia, selvia, ulliri); graminet japin polinoza në fund pranverë–verë, Parietaria pranverë-vjeshtë."
+  },
+  {
+    "id": "licenca-alergologji-005",
+    "question": "Polenet janë:",
+    "answers": [
+      "struktura mashkullore riprodhimi të bimës",
+      "struktura femërore riprodhimi të bimës",
+      "struktura femërore dhe mashkullore riprodhimi të bimës",
+      "asnjë nga këto më lart"
+    ],
+    "correct": 0,
+    "explanation": "Polenet janë gametofitët mashkullorë të bimëve (strukturat mashkullore të riprodhimit), që përmbajnë qelizat seksuale mashkullore."
+  },
+  {
+    "id": "licenca-alergologji-006",
+    "question": "Astma bronkiale:",
+    "answers": [
+      "përpara adoleshencës prek kryesisht femrat",
+      "përpara adoleshencës prek kryesisht meshkujt",
+      "përpara adoleshencës prek njëlloj të dy gjinitë",
+      "është më e shpeshtë pas 40 vjeç",
+      "është më e shpeshtë tek duhanpirësit se sa tek joduhanpirësit"
+    ],
+    "correct": 1,
+    "explanation": "Para adoleshencës astma është më e shpeshtë te djemtë (rrugë ajrore relativisht më të ngushta); pas pubertetit dhe në moshën e rritur predominon te femrat."
+  },
+  {
+    "id": "licenca-alergologji-007",
+    "question": "Gjatë krizës të astmatike:",
+    "answers": [
+      "FE është i rritur",
+      "FVC është e rritur",
+      "PEF është i ulur në mënyrë të parikthyeshme",
+      "FE është i ulur",
+      "Raporti FE/FVC është normal ose i rritur"
+    ],
+    "correct": 3,
+    "explanation": "Në krizën astmatike ka obstruksion: FEV1 (VEMS) i ulur, PEF i ulur (në mënyrë reversibile), raporti FEV1/FVC i ulur; FVC mund të ulet nga ngujimi i ajrit."
+  },
+  {
+    "id": "licenca-alergologji-008",
+    "question": "Hipersensibiliteti i vonuar është karakteristik në të gjitha patologjitë e mëposhtme, me përjashtim të:",
+    "answers": [
+      "Dermatiti i kontaktit",
+      "Hipersensibiliteti nga tuberkulina",
+      "Riflakja gjatë transplantit",
+      "Sëmundja graft-versus-host pas transplantit të palcës kockore",
+      "Sëmundja e serumit"
+    ],
+    "correct": 4,
+    "explanation": "Hipersensibiliteti i vonuar (tip IV, qelizor) është bazë e dermatitit të kontaktit, testit të tuberkulinës, rejektimit të transplantit dhe sëmundjes graft-kundër-mikpritësit. Sëmundja e serumit është reaksion i tipit III (imunokomplekse)."
+  },
+  {
+    "id": "licenca-alergologji-009",
+    "question": "Shkaku më i shpeshtë i angioedemës të izoluar që vihet re në të rriturit është:",
+    "answers": [
+      "mungesa e inhibitorit të C1",
+      "mungesa e funksionit fagocitar",
+      "mungesa e IgA",
+      "terapia me ACE-inhibitor",
+      "Terapia me beta-bllokues"
+    ],
+    "correct": 3,
+    "explanation": "Shkaku më i shpeshtë i angioedemës së izoluar (pa urtikarie) te të rriturit, sidomos në urgjencë, janë ACE-frenuesit (akumulim i bradikininës); angioedema trashëgimore nga deficiti i C1-INH është më e rrallë."
+  },
+  {
+    "id": "licenca-alergologji-010",
+    "question": "Rinit alergjik klinikisht karakterizohet nga:",
+    "answers": [
+      "Rrjedhja e sekrecioneve të ujshme nga hundët, dispne ne qetësi, teshtima, bllokim të hundëve",
+      "Kruarje hundëve, dispne ne qetësi, teshtima, bllokim të hundëve",
+      "Rrjedhja e sekrecioneve të ujshme nga hundët, dhimbje gjoksore, dispne ne qetësi, teshtima",
+      "Rrjedhja e sekrecioneve të ujshme nga hundët, teshtima, kruarje të hundëve, bllokim të hundëve",
+      "Kruarje të hundëve, dhimbje koke, teshtima , bllokim të hundëve"
+    ],
+    "correct": 3,
+    "explanation": "Riniti alergjik karakterizohet nga rinorre e ujshme, teshtima në seri, kruarje e hundës (dhe e syve) dhe kongjestion/bllokim nazal; dispnea dhe dhimbja torakale nuk i përkasin rinitit."
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-001",
+    "question": "Cila nga terapitë e më poshtme konsiderohet si mjekim i zgjedhur në trajtimin mbajtës të një pacienti me artrit reumatoid të diagnostikuar për herë të parë?",
+    "answers": [
+      "AIJS",
+      "prednizon 40 mg/ditë",
+      "metotraksat (10 mg/javë) + AIJS + kortikosteroid me doza të ulta",
+      "AIJS + minociklina",
+      "paracetamol sipas nevojës"
+    ],
+    "correct": 2,
+    "explanation": "Në artritin reumatoid të sapodiagnostikuar terapia e zgjedhur (DMARD i linjës së parë) është metotreksati (doza fillestare ~10–15 mg/javë, rritet deri 20–25 mg) + acid folik, me kortikosteroide në doza të ulëta si \"urë\" dhe AINS për simptomat."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-002",
+    "question": "Fenomeni Raynaud mund të shoqërohet me:",
+    "answers": [
+      "erizipelë",
+      "sklerodermi",
+      "dermatit",
+      "tromboflebit",
+      "limfoadenit"
+    ],
+    "correct": 1,
+    "explanation": "Fenomeni Raynaud sekondar shoqërohet me sëmundjet e indit lidhor, sidomos skleroderminë (sklerozë sistemike, >90% e pacientëve), por edhe me LES, dermatomiozit, Sjögren."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-003",
+    "question": "Arteriti Horton mund të ndërlikohet me:",
+    "answers": [
+      "aneurizëm të aortës abdominale",
+      "disekim të harkut të aortës",
+      "bllokim të arteries subklave",
+      "klaudikacio të përtypjes dhe të kafshimit",
+      "të gjitha më lart janë të vërteta"
+    ],
+    "correct": 4,
+    "explanation": "Arteriti Horton (me qeliza gjigante, arteriti temporal) mund të ndërlikohet me klaudikacion të nofullës (përtypjes), verbim (neuropati optike ishemike), stenoza të arteries subklave (klaudikacion i krahut), aneurizma dhe disekim të aortës torakale/abdominale."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-004",
+    "question": "Polimialgjia reumatizmale:",
+    "answers": [
+      "është një sinovit jo eroziv i artikulacionit skapulohumeral dhe strukturave përreth",
+      "prek kryesisht meshkujt < 40 vjeç",
+      "shkaktohet nga infeksione të shpeshta streptokoksise të tonsilave",
+      "shoqërohet me purpurën Schonlein-Henoch",
+      "karkaterizohet nga antikorpi JO1 pozitiv"
+    ],
+    "correct": 0,
+    "explanation": "Polimialgjia reumatike: sinovit/bursit joeroziv i shpatullave (artikulacioni skapulohumeral dhe strukturat periartikulare) dhe ijeve, me dhimbje dhe ngurtësi në mëngjes, ERS/PCR të larta, te të moshuarit >50 vjeç (sidomos gratë); shoqërohet me arteritin Horton."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-005",
+    "question": "Cili nga këto barna përdoret në terapinë e podagrës?",
+    "answers": [
+      "penicilamina",
+      "klofibratet",
+      "kolestiramina",
+      "kortizoni",
+      "alopurinoli"
+    ],
+    "correct": 4,
+    "explanation": "Alopurinoli (frenues i ksantinë-oksidazës) është terapia hipouricemizuese e zgjedhur në podagrën kronike; në atakun akut përdoren kolkicina, AINS, kortikosteroidet."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-006",
+    "question": "Në cilën patologji vihet re kuadri radiologjik i “ shkopit të bambusë”?",
+    "answers": [
+      "Sindroma Reiter",
+      "Artriti Reumatoid",
+      "Spondilit ankilozant",
+      "Enteroartriti",
+      "Sindroma Sjogren"
+    ],
+    "correct": 2,
+    "explanation": "Imazhi \"shkop bambuje\" i kolonës vertebrale (sindesmofite marginale që bashkojnë vertebrat, ankilozë) është tipik për spondilitin ankilozues në fazë të avancuar."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-007",
+    "question": "Në moshat e treta, verbëria mund të jetë pasojë e:",
+    "answers": [
+      "infarktit të miokardit",
+      "arteriopative periferike",
+      "arteritit Horton",
+      "kolitit ulçeroz",
+      "hernies hiatale"
+    ],
+    "correct": 2,
+    "explanation": "Te të moshuarit (>50 vjeç) arteriti Horton mund të shkaktojë verbim të papritur (neuropati optike ishemike anteriore arteritike); prandaj në dyshim fillohen menjëherë kortikosteroidet me doza të larta."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-008",
+    "question": "Në artritin reumatoid nuk preket një nga këto artikulacione:",
+    "answers": [
+      "talokrurali",
+      "radiokarpali",
+      "skapulohumerali",
+      "bërryli",
+      "sakroiliaku"
+    ],
+    "correct": 4,
+    "explanation": "Artriti reumatoid prek artikulacionet sinoviale periferike në mënyrë simetrike (MCP, PIP, kyçin e dorës, bërrylat, shpatullat, gjunjët, kyçet e këmbës) dhe kolonën cervikale (C1–C2); artikulacionet sakroiliake dhe kolona torakolumbare kursehen (ndryshe nga spondiloartritet)."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-009",
+    "question": "Të gjithë faktorët e më poshtëm janë faktor rreziku për të zhvilluar osteoporozë me përjashtim të:",
+    "answers": [
+      "menopauzës të parakohshme kirurgjikale",
+      "duhanpirjes",
+      "terapisë me fenobarbital",
+      "jetës sedentare",
+      "obezitetit"
+    ],
+    "correct": 4,
+    "explanation": "Faktorët e rrezikut për osteoporozë: menopauza e hershme, duhani, alkooli, sedentarizmi, peshë e ulët, kortikosteroidet, antikonvulsivantët (fenobarbital, fenitoinë), hipertiroidizmi. Obeziteti (peshë e lartë) është relativisht mbrojtës për densitetin kockor."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-010",
+    "question": "Në cilën prej patologjive të mëposhtme janë specifik antitrupat anti-CCP?",
+    "answers": [
+      "Spondilit ankilozant",
+      "LES",
+      "Artrit reumatoid",
+      "Sëmundja Behçet",
+      "Artrit psoriatik"
+    ],
+    "correct": 2,
+    "explanation": "Antitrupat anti-CCP (anti-peptid citrulinik ciklik) janë shumë specifikë (~95%) për artritin reumatoid, mund të paraprijnë klinikën dhe kanë vlerë prognostike (sëmundje erozive)."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-011",
+    "question": "Manifestimi kryesor i granulomës së Wegener është:",
+    "answers": [
+      "në mushkri",
+      "në zorrë",
+      "në sy",
+      "në lëkurë",
+      "në vesh"
+    ],
+    "correct": 0,
+    "explanation": "Granulomatoza me poliangit (Wegener): vaskulit i vazave të vogla me c-ANCA (anti-PR3), që prek rrugët ajrore të sipërme (sinusit, hundë \"shalë\"), pulmonin (nodule, kavitete, hemorragji — manifestimi kryesor visceral) dhe veshkat (glomerulonefrit me gjysmëhëna)."
+  },
+  {
+    "id": "licenca-reumatologji-semundje-te-brendshme-012",
+    "question": "Antitrupat anti-SSA dhe anti-SSB takohen më shpesh në:",
+    "answers": [
+      "artritin reumatoid",
+      "polikondrit",
+      "sindromën Sjogren",
+      "artritin psoriatik",
+      "sëmundjen Behçet"
+    ],
+    "correct": 2,
+    "explanation": "Antitrupat anti-SSA (Ro) dhe anti-SSB (La) gjenden më shpesh në sindromën Sjögren (dhe në LES, lupus neonatal me bllok kardiak kongjenital)."
+  }
+]

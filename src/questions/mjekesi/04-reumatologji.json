@@ -1,0 +1,639 @@
+[
+  {
+    "id": "licenca-reumatologji-001",
+    "question": "Artriti tuberkular është tipik:",
+    "answers": [
+      "Poliartikular",
+      "Monoartikular",
+      "Me zhvillim hiperostozues",
+      "Nuk duket radiologjikisht",
+      "Nuk bën abses"
+    ],
+    "correct": 1,
+    "explanation": "Artriti tuberkular është zakonisht monoartikular (ije, gju, kolonë – morbus Pott), me fillim të ngadaltë, osteoporozë periartikulare, destruksion dhe mund të formojë abscese \"të ftohta\". Nuk jep hiperostozë."
+  },
+  {
+    "id": "licenca-reumatologji-002",
+    "question": "Cila prej alternativave nuk është e vërtetë rreth artritit psoriazik:",
+    "answers": [
+      ">70% e pacientëve janë të prekur nga psoriaza e lëkurës shumë vite përpara se të zhvillohet artriti",
+      "Në pak raste prek artikualcionin sakro-iliak",
+      "Kolona vertebrale mund të shfaqë entezit që ngjason me artritin",
+      "Bën pjesë tek Spondiloartropatitë siero-negative",
+      "Terapia me metotresat, drejtuar dëmit artikular, përmirëson gjithnjë dhe lezionet e lëkurës"
+    ],
+    "correct": 4,
+    "explanation": "Metotreksati përmirëson shpesh si artritin ashtu edhe psoriazën, por jo \"gjithmonë\" — përgjigja me fjalën absolute është e gabuara. Psoriaza i paraprin artritit në ~70%, sakroileiti shfaqet në një pakicë, është spondiloartropati seronegative."
+  },
+  {
+    "id": "licenca-reumatologji-003",
+    "question": "Simptoma më karakteristike e sëmundjes së Horton është:",
+    "answers": [
+      "Nuk ndjehet mirë",
+      "Cefale intense, parosistike",
+      "Dhimbje artikulare",
+      "Ambliodipi",
+      "Marrje mendsh"
+    ],
+    "correct": 1,
+    "explanation": "Arteriti me qeliza gjigante (Horton) jep cefale të re, intensive, temporale, me ndjeshmëri të arteries temporale, klaudikacion mandibular dhe rrezik humbjeje të shikimit; prek >50 vjeç, me ERS shumë të lartë."
+  },
+  {
+    "id": "licenca-reumatologji-004",
+    "question": "Në artritin reumatoid cilat janë artikulacionet që preken më shpesh?",
+    "answers": [
+      "Artikulacionet e vogla të duarve",
+      "Tibio-tarsike",
+      "Të baçinit",
+      "Bërrylit",
+      "Temporo-mandibulare"
+    ],
+    "correct": 0,
+    "explanation": "Artriti reumatoid prek simetrikisht kyçet e vogla të duarve (MCF, IFP) dhe të kyçit të dorës, si dhe MTF të këmbëve. IFD kursehen zakonisht (ndryshe nga artroza)."
+  },
+  {
+    "id": "licenca-reumatologji-005",
+    "question": "Mbi bazën e cilëve prej elementëve laboratorik, spondiloartriti konsiderohet sieronegativ?",
+    "answers": [
+      "Faktori reumatoid negativ",
+      "Indekset aspecifike të inflamacionit negativ",
+      "ANCA negativ",
+      "ANA negativ",
+      "Mungesa e faktorit reumatoid dhe ANA negativ"
+    ],
+    "correct": 0,
+    "explanation": "\"Seronegative\" do të thotë që faktori reumatoid është negativ; këto spondiloartropati (spondiliti ankilozant, psoriazik, reaktiv, enteropatik) lidhen me HLA-B27."
+  },
+  {
+    "id": "licenca-reumatologji-006",
+    "question": "Cili prej antitrupave antinukleojanë tipikë për diagnozën e Lupus Eritematoz Sistemik",
+    "answers": [
+      "Antiperinuklearë",
+      "Anti-ADN me dopio helikë",
+      "Anti-ADN me helikë teke",
+      "Anti mukoza gastrike",
+      "Anti RNP"
+    ],
+    "correct": 1,
+    "explanation": "Anti-dsADN (ADN me dy zinxhirë) janë shumë specifikë për LES dhe korrelojnë me aktivitetin e sëmundjes dhe nefritin lupik; edhe anti-Sm janë specifikë. Anti-ssADN janë jospecifikë; anti-RNP janë tipikë të MCTD."
+  },
+  {
+    "id": "licenca-reumatologji-007",
+    "question": "Në artritin reumatoid, përveç artikulacione, cili organ në përgjithësi nuk është i përfshirë?",
+    "answers": [
+      "Lëkura",
+      "Pulmonet",
+      "Zemra",
+      "Sistemi nervor",
+      "Hepari"
+    ],
+    "correct": 4,
+    "explanation": "AR prek jashtë kyçeve lëkurën (nodujt reumatoidë), mushkëritë (fibrozë, nodula, pleurit), zemrën (perikardit), sistemin nervor (neuropati, kompresion cervikal), sytë. Mëlçia rrallë preket klinikisht."
+  },
+  {
+    "id": "licenca-reumatologji-008",
+    "question": "Faktori reumatoid është:",
+    "answers": [
+      "Imunoglobulinë IgM drejtuar drejt porcionit Fc të IgG",
+      "Autoantitrup anti-bërthamë (ANA)",
+      "Enzimë e indit sinovial",
+      "Proteinë e fazës akute",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 0,
+    "explanation": "Faktori reumatoid është autoantitrup (zakonisht IgM) kundër fragmentit Fc të IgG. Është i pranishëm në ~70–80% të AR, por jo specifik (edhe në Sjögren, HCV, endokardit, të moshuarit)."
+  },
+  {
+    "id": "licenca-reumatologji-009",
+    "question": "Cili është kuadri radiologjik tipik i artritit reumatoid?",
+    "answers": [
+      "Erozione të epifizës",
+      "Mikrofraktura iuxtartikulare",
+      "Osteosklerozë subkondriale",
+      "Geoide diafizare",
+      "Osteofite"
+    ],
+    "correct": 0,
+    "explanation": "Radiologjikisht AR jep osteoporozë periartikulare, ngushtim simetrik të hapësirës artikulare dhe erozione marginale të epifizave. Osteofitet dhe skleroza subkondrale janë tipike për artrozën."
+  },
+  {
+    "id": "licenca-reumatologji-010",
+    "question": "Lumbalgjia ose dorsalgjia nokturne, që zgjon personin në orët e vona të natës, të orienton drejt diagnozës së:",
+    "answers": [
+      "Skolioza",
+      "Osteoartroza",
+      "Spondilolisteza",
+      "Spontiliti ankilozant",
+      "Artriti rheumatoid"
+    ],
+    "correct": 3,
+    "explanation": "Dhimbja lumbare inflamatore (natën/orët e para të mëngjesit, ngurtësi >30 min, përmirësohet me lëvizje, <40 vjeç) është tipike për spondilitin ankilozant. Dhimbja mekanike e artrozës përkeqësohet me lëvizje dhe qetësohet me pushim."
+  },
+  {
+    "id": "licenca-reumatologji-011",
+    "question": "Pozitiviteti për ANCA (antitrupa anti-citoplazëm të neutrofileve) është markues diagnostik për:",
+    "answers": [
+      "Sarkoidozë",
+      "Vaskulit sistemik",
+      "Artrit reumatoid",
+      "Sëmundja mikse e indit lidhor (MCTD)",
+      "Lupus Eritemaroz Sistemik"
+    ],
+    "correct": 1,
+    "explanation": "ANCA janë markues të vaskuliteve sistemike të enëve të vogla: c-ANCA/PR3 (granulomatoza me poliangit – Wegener), p-ANCA/MPO (poliangiti mikroskopik, Churg-Strauss)."
+  },
+  {
+    "id": "licenca-reumatologji-012",
+    "question": "Cila prej sëmundjeve artikulare mund të prek traktin cervikal të kolonës vertebrale?",
+    "answers": [
+      "Artriti reumatoid",
+      "Sindroma e Reiter",
+      "Sindroma fibromialgjike",
+      "Osteoporoza",
+      "Polimialgjia reumatike"
+    ],
+    "correct": 0,
+    "explanation": "AR prek shpesh shtyllën cervikale (artikulacioni atlanto-aksial) → subluksacion atlanto-aksial me rrezik kompresioni medular. Duhet kujdes gjatë intubimit."
+  },
+  {
+    "id": "licenca-reumatologji-013",
+    "question": "Antitrupat anti-nukël (ANA) kërkohen kur dyshohet për?",
+    "answers": [
+      "Artrit reumatoid",
+      "Osteoartroza",
+      "Sarkoidoza",
+      "Konektiviti",
+      "Tiroiditi autoimun"
+    ],
+    "correct": 3,
+    "explanation": "ANA kërkohen kur dyshohet për sëmundje të indit lidhor (konektivite): LES, skleroderma, Sjögren, polimiozit, MCTD. Janë test depistues shumë i ndjeshëm (sidomos për LES)."
+  },
+  {
+    "id": "licenca-reumatologji-014",
+    "question": "Cila prej simptomave të sëmundjes reumatike haset më rrallë:",
+    "answers": [
+      "Pleuriti reumatik",
+      "Endokarditi reumatik",
+      "Miokarditi reumatik",
+      "Temperaturë",
+      "Takikardi persistuese"
+    ],
+    "correct": 0,
+    "explanation": "Në ethen reumatike pleuriti është i rrallë. Karditi (endokardit, miokardit), ethja dhe takikardia e vazhdueshme janë shumë më të shpeshta."
+  },
+  {
+    "id": "licenca-reumatologji-015",
+    "question": "Kuadri klinik me dhimbje artikulare, të paktën tre artikulacione të enjtura, ngurtësi në mëngjes >30 min, pozitivitet për faktorin reumatoid ose antitrupat anti-CCP të bën të mendosh për:",
+    "answers": [
+      "Artrit gotoz",
+      "Spondiloartrit",
+      "Artrit reumatoid",
+      "Polimialgji",
+      "Osteoartrozë"
+    ],
+    "correct": 2,
+    "explanation": "Poliartrit simetrik (≥3 kyçe), ngurtësi mëngjesi >30–60 min, RF dhe/ose anti-CCP pozitivë = kritere për artritin reumatoid (ACR/EULAR 2010). Anti-CCP janë shumë specifikë."
+  },
+  {
+    "id": "licenca-reumatologji-016",
+    "question": "Cila nga zonat është tipike që preket nga frakturat e shkaktuara nga osteoporoza e tipit II?",
+    "answers": [
+      "Vertebrat lumbare",
+      "Vertebrat dorsale",
+      "Radiusi",
+      "Vertebrat cervikale",
+      "Qafa e femurit"
+    ],
+    "correct": 4,
+    "explanation": "Osteoporoza tip II (senile, >70 vjeç, të dy sekset) prek kockën kortikale dhe trabekulare — fraktura tipike është ajo e qafës së femurit. Tipi I (postmenopauzal) jep fraktura vertebrale dhe të radiusit distal (Colles)."
+  },
+  {
+    "id": "licenca-reumatologji-017",
+    "question": "Tek Lupus Eritemaroz Sistemik vërehet më shpesh:",
+    "answers": [
+      "Leukocitozë nga rritja e limfociteve qarkulluese (limfocitozë)",
+      "Leukopeni",
+      "Poliglobuli",
+      "Trombocitozë",
+      "Të gjitha përgjigjet"
+    ],
+    "correct": 1,
+    "explanation": "LES shpesh jep citopeni autoimune: leukopeni (<4000), limfopeni, anemi hemolitike, trombocitopeni — janë pjesë e kritereve diagnostike."
+  },
+  {
+    "id": "licenca-reumatologji-018",
+    "question": "Sindroma e Sjogren:",
+    "answers": [
+      "Eshtë më e shpeshtë tek femrat e reja",
+      "Eshtë patlogji pediatrike",
+      "Shfaqet kryesisht tek femrat në moshë të mesme",
+      "Nuk shoqërohet asnjëherë me artritin reumatoid",
+      "Mund të shkaktojë shtim të lotëve"
+    ],
+    "correct": 2,
+    "explanation": "Sjögren prek kryesisht gratë (9:1) në moshë të mesme (40–60 vjeç). Mund të jetë primar ose sekondar (me AR, LES). Jep tharje të syve dhe gojës (jo shtim lotësh)."
+  },
+  {
+    "id": "licenca-reumatologji-019",
+    "question": "Cila prej sëmundjeve mund të konsiderohet si “artrit reaktiv” sieronegativ?",
+    "answers": [
+      "M. Crohn",
+      "Gotta (podagra)",
+      "Diabeti",
+      "Hepatiti viral",
+      "M. Paget"
+    ],
+    "correct": 0,
+    "explanation": "Morbus Crohn (dhe koliti ulçeroz) shoqërohen me artrit enteropatik, i cili bën pjesë në spondiloartropatitë seronegative (RF–), ashtu si artriti reaktiv. Podagra është artrit me kristale."
+  },
+  {
+    "id": "licenca-reumatologji-020",
+    "question": "Tek artriti reumatoid, dëmtimi artikular fillon nga:",
+    "answers": [
+      "Membrana sinovjale",
+      "Kartilagjeni artikular",
+      "Kocka nënkondriale",
+      "Asnjëra prej përgjigjeve",
+      "Kpsula artikulare"
+    ],
+    "correct": 0,
+    "explanation": "Në AR procesi fillon në membranën sinoviale: inflamacion → hiperplazi sinoviale (panus) që pushton e shkatërron kërcin dhe kockën subkondrale."
+  },
+  {
+    "id": "licenca-reumatologji-021",
+    "question": "Cila prej karakteristikave klinike nuk ndodh tek fibromialgjia?",
+    "answers": [
+      "Cefalea e tipit tensiv",
+      "Vaskuliti",
+      "Emikrania",
+      "Vështirësitë konjitive",
+      "Sindroma e kolonit të irrituar"
+    ],
+    "correct": 1,
+    "explanation": "Fibromialgjia jep dhimbje difuze kronike, lodhje, gjumë jo-restorativ, vështirësi konjitive, cefale tensive, migrenë, kolon të irrituar. Nuk ka inflamacion, as vaskulit — analizat janë normale."
+  },
+  {
+    "id": "licenca-reumatologji-022",
+    "question": "Cfarë është piku i masës kockore?",
+    "answers": [
+      "Vlera e densitetit mineral kockor para menopauzës",
+      "Vlera e densitetit mineral kockor e harritur në moshën 25 vjeçare",
+      "Vlera minimale e densitetit mineral kockor e gjetur në rastin e një frakture",
+      "Vlera maksimale e densitetit mineral kockor e gjetur gjatë terapisë për osteoporozën",
+      "Vlera mesatare e densitetit mineral kockor e gjetur gjatë densimetrisë me rreze X"
+    ],
+    "correct": 1,
+    "explanation": "Piku i masës kockore është densiteti maksimal që arrin kocka në moshë të re (rreth 25–30 vjeç). Sa më i lartë, aq më i ulët rreziku i osteoporozës më vonë."
+  },
+  {
+    "id": "licenca-reumatologji-023",
+    "question": "Alternimi karakteristik i ezofagut në prani të sklerozës sistemike, është:",
+    "answers": [
+      "Devijimi i saj në disa drejtime",
+      "Formimi i divertikujve nga tërheqja",
+      "Formimi i divertikujve nga pulsimi",
+      "Hipotoni dhe ngurtësi të pareteve dhe zgjerim të saj",
+      "Zbrazje e vonuar prej spazmave kardiale"
+    ],
+    "correct": 3,
+    "explanation": "Në sklerodermi, fibroza dhe atrofia e muskulit të lëmuar të 2/3 distale të ezofagut japin hipomotilitet/aperistaltikë, ulje të tonusit të SEP, dilatim dhe refluks të rëndë."
+  },
+  {
+    "id": "licenca-reumatologji-024",
+    "question": "Sëmundja reumatike shkaktohet nga:",
+    "answers": [
+      "Streptokoku viridans",
+      "Streptokoku beta-hemolitik i gr A",
+      "Pneumokoku",
+      "Stafilokoku",
+      "Enterokoku"
+    ],
+    "correct": 1,
+    "explanation": "Ethja reumatike është komplikim imunologjik (mimikri molekulare) 2–4 javë pas faringitit nga Streptococcus beta-hemolitik i grupit A."
+  },
+  {
+    "id": "licenca-reumatologji-025",
+    "question": "Cila prej alternativave nuk është karakteristike e spondilitit ankilozant?",
+    "answers": [
+      "Dhimbje të kolonës, që përmirësohen gjatë lëvizjes",
+      "Dhimbje akute të orbitës, unilaterale",
+      "Lezione papulo-skuamoze në pëllëmbën e duarve dhe atë plantare",
+      "Fillim i ngadaltë i simptomave",
+      "Oligoartropati periferike asimetrike"
+    ],
+    "correct": 2,
+    "explanation": "Lezionet papuloskuamoze palmo-plantare (keratoderma blenorrhagica) janë tipike për artritin reaktiv (Reiter), jo për spondilitin ankilozant. SA: dhimbje që përmirësohet me lëvizje, fillim i ngadaltë, uveit anterior akut, oligoartrit periferik asimetrik."
+  },
+  {
+    "id": "licenca-reumatologji-026",
+    "question": "Lezioni inflamator kronik shkatërrues që prek kërcin nazal është tipike e:",
+    "answers": [
+      "M. Wegener",
+      "M. Behget",
+      "Lupus eritematoz sistemik",
+      "Morphea",
+      "Sklerodermi difuze"
+    ],
+    "correct": 0,
+    "explanation": "Granulomatoza me poliangit (Wegener) jep inflamacion granulomatoz nekrotizues të rrugëve të sipërme (sinusit, perforim i septit, deformim \"hundë shalë\"), mushkërive dhe glomerulonefrit; c-ANCA pozitive."
+  },
+  {
+    "id": "licenca-reumatologji-027",
+    "question": "Cila është shfaqje tipike në artritin psoriazik?",
+    "answers": [
+      "Perikarditi",
+      "Luksacioni i radiusit",
+      "Shfaqja e dhimbjes artikulare pas sforcos fizike",
+      "Datiliti",
+      "Fenomeni Raynaud"
+    ],
+    "correct": 3,
+    "explanation": "Daktiliti (\"gishti sallam\", fryrje e gjithë gishtit) është tipik për artritin psoriazik (edhe për artritin reaktiv), së bashku me prekjen e IFD dhe ndryshimet e thonjve."
+  },
+  {
+    "id": "licenca-reumatologji-028",
+    "question": "Cila patologji është përgjegjëse për përfshirjen poliartikulare nga shkaqe inflamatore?",
+    "answers": [
+      "Osteoartroza",
+      "Hemokromatoza",
+      "Amiloidoza",
+      "Ethet reumatike",
+      "Hemofilia"
+    ],
+    "correct": 3,
+    "explanation": "Ethja reumatike jep poliartrit migrues i kyçeve të mëdha, inflamator, që përgjigjet shpejt ndaj aspirinës. Artroza është degjenerative, hemofilia jep hemartroza."
+  },
+  {
+    "id": "licenca-reumatologji-029",
+    "question": "Arteriti me qeliza gjigjante (arteriti temporal ose i Horton) është sëmundje e rëndë pasi:",
+    "answers": [
+      "Provokon lehtësisht fraktura kockore",
+      "Provokon humbje të shikimit në mënyrë të menjëhershme",
+      "Nuk ka mundësi kurimi",
+      "Provokon lehtësisht insufiçencë renale",
+      "Lehtëson zhvillimin e neoplazive"
+    ],
+    "correct": 1,
+    "explanation": "Rreziku më i madh i arteritit të Horton-it është neuropatia optike ishemike → humbje e menjëhershme e pakthyeshme e shikimit. Prandaj në dyshim fillohen menjëherë kortikosteroidet, pa pritur biopsinë."
+  },
+  {
+    "id": "licenca-reumatologji-030",
+    "question": "Antigjeni HL-A B27 është i pranishëm në 85% të pacientëve të prekur nga:",
+    "answers": [
+      "Artriti reumatoid",
+      "Spondiliti ankilozant",
+      "Gotta",
+      "Artriti psoriazik",
+      "Ethet akute reumatike"
+    ],
+    "correct": 1,
+    "explanation": "HLA-B27 gjendet në ~90% të pacientëve me spondilit ankilozant (kundrejt ~8% në popullatë), më rrallë në artritin reaktiv/psoriazik me sakroileit."
+  },
+  {
+    "id": "licenca-reumatologji-031",
+    "question": "Cila prej gjendjeve të mëposhtme shoqërohet me praninë e antitrupave antinukel:",
+    "answers": [
+      "Lupusi sistemik",
+      "Sindroma nga antitrupa antifosfolipide primitive",
+      "Poliarteriti nodoz",
+      "Sindroma nga lodhja kronike",
+      "Fibromialgji"
+    ],
+    "correct": 0,
+    "explanation": "ANA janë pozitivë në >95% të pacientëve me LES (test shumë i ndjeshëm). Poliarteriti nodoz, fibromialgjia dhe sindroma e lodhjes kronike janë ANA-negative."
+  },
+  {
+    "id": "licenca-reumatologji-032",
+    "question": "Cila prej sëmundjeve artikulare nuk është me bazë imunologjike?",
+    "answers": [
+      "Artropatia nga LES",
+      "Artropatia gotoze (podagra)",
+      "Artropatia e S. Së Felty",
+      "Reumatizmi artikular akut",
+      "Artriti rheumatoid"
+    ],
+    "correct": 1,
+    "explanation": "Podagra është artropati metabolike nga depozitimi i kristaleve të uratit të natriumit, jo autoimune. Artropatia lupike, sindroma Felty (AR + splenomegali + neutropeni), ethja reumatike dhe AR janë imunologjike."
+  },
+  {
+    "id": "licenca-reumatologji-033",
+    "question": "Tek artriti reumatoid cili është deformimi karakteristik i gishtave të duarve?",
+    "answers": [
+      "Në ekstension",
+      "Hiperfleksion i gishtittë mesit",
+      "Hiperfleksion i gishtit të vogël",
+      "Devijim në anën radiale",
+      "Devijim në anën ulnare"
+    ],
+    "correct": 4,
+    "explanation": "Deformimi karakteristik i duarve në AR është devijimi ulnar i gishtave në nivelin MCF, bashkë me \"qafë mjellme\" dhe \"boutonnière\"."
+  },
+  {
+    "id": "licenca-reumatologji-034",
+    "question": "Tek artroza nodujt e gjetur janë:",
+    "answers": [
+      "Nodujt e Heberden",
+      "Nodujt Osler",
+      "Nodujt Schmorl",
+      "Nodujt në nënlëkurë",
+      "Nodujt reumatoid"
+    ],
+    "correct": 0,
+    "explanation": "Nodujt e Heberden (në IFD) dhe të Bouchard (në IFP) janë osteofite karakteristike të artrozës së duarve. Nodujt e Osler janë në endokardit, Schmorl janë hernie intrasomatike diskale."
+  },
+  {
+    "id": "licenca-reumatologji-035",
+    "question": "Cila prej patologjive nuk bën pjesë tek spondiloartropatitë:",
+    "answers": [
+      "Artriti psoriazik",
+      "Artriti reaktiv",
+      "Sëmundja e Reiter",
+      "Polimialgjia reumatike",
+      "Spondiliti ankilozant"
+    ],
+    "correct": 3,
+    "explanation": "Polimialgjia reumatike (dhimbje e ngurtësi e brezit të shpatullave dhe legenit te >50 vjeç, ERS e lartë) nuk është spondiloartropati. Spondiloartropatitë: SA, psoriazik, reaktiv/Reiter, enteropatik."
+  },
+  {
+    "id": "licenca-reumatologji-036",
+    "question": "Cila alternativë rreth ostoporozës nuk është e vërtetë:",
+    "answers": [
+      "Frakturat vertebrale mund të jenë asimptomatike",
+      "Frakturat osteoporotike me dhimbje intense dhe të lokalizuar",
+      "Rreziku për fraktura rritet me uljen e densitetit mineral kockor",
+      "Zona e prekur më shumë nga frakturat është artikulacioni tibio-tasik",
+      "Këshillohen ushtrimet fizike për forcimin e kolonës vertebrale"
+    ],
+    "correct": 3,
+    "explanation": "Frakturat osteoporotike tipike janë në vertebra, qafën e femurit dhe radiusin distal, jo në nyjen tibio-tarsale. Frakturat vertebrale shpesh janë asimptomatike; ushtrimet rekomandohen."
+  },
+  {
+    "id": "licenca-reumatologji-037",
+    "question": "Antitrupat anti-ENA:",
+    "answers": [
+      "Janë markues të sëmundjes",
+      "Shfaqen në reumatizmin artikular akut",
+      "Janë gjithnjë të pranishme në nefritin nga lupus",
+      "Gjenden vetëm në raste të rralla të lupusit",
+      "Nuk janë asnjë herë të pranishëm në konektivitin miks"
+    ],
+    "correct": 0,
+    "explanation": "Anti-ENA (anti-Ro, anti-La, anti-Sm, anti-RNP, anti-Scl70, anti-Jo1) janë markues specifikë për sëmundje të caktuara të indit lidhor (p.sh. anti-RNP për MCTD)."
+  },
+  {
+    "id": "licenca-reumatologji-038",
+    "question": "Cila prej alternativave rreth artritit të podagrës (gotta) nuk është e vërtetë:",
+    "answers": [
+      "Fillimi është në përgjithësi monoartikular",
+      "Shfaqjet artikulare radiologjike nuk janë të tipit eroziv",
+      "Shifrat e larta të uricemisë kanë pak vlerë për të vendosur diagnozën",
+      "Terapia hipouricemizante nuk duhet nisur gjatë atakut akut",
+      "Dieta dhe ndryshimi i stilit të jetesës mund të jenë të dobishme për të ulur shpeshtësinë gotoz dhe evitimit të përdorimit të mjekimeve"
+    ],
+    "correct": 1,
+    "explanation": "E gabuar: podagra kronike jep erozione karakteristike \"me shpim\" (punched-out) me buzë të mprehta të varura. Atakët nisin monoartikularë (MTF e parë); uricemia gjatë atakut mund të jetë normale; alopurinoli nuk niset gjatë atakut."
+  },
+  {
+    "id": "licenca-reumatologji-039",
+    "question": "Tek artriti reumatoid në fazë akute nuk është e këshillueshme:",
+    "answers": [
+      "Terapia termale",
+      "Terapia me medikamente biologjike",
+      "Sinoviektomia",
+      "Terapia imunosupresive",
+      "Terapia me FANS"
+    ],
+    "correct": 0,
+    "explanation": "Në fazën akute inflamatore të AR termoterapia (nxehtësia) mund të përkeqësojë inflamacionin; preferohet pushimi dhe aplikime të ftohta. FANS, imunosupresorët dhe biologjikët janë të indikuar."
+  },
+  {
+    "id": "licenca-reumatologji-040",
+    "question": "Cila prej shenjave radiologjike nuk është karakteristike e osteoporozës vertebrale:",
+    "answers": [
+      "Hipertransparencë e trupave vertebralë dhe rritje e kontrastit të kontureve të strukturës",
+      "Pamje konkave e kontureve të strukturës",
+      "Deformim në formën e pykës e trupave vertebralë",
+      "Rritje e spesorit të kortikales",
+      "Rrallim i imazhit trasekular i kockës spongioze"
+    ],
+    "correct": 3,
+    "explanation": "Osteoporoza jep hipertransparencë, rrallim trabekular, theksim të kontureve kortikale (\"kornizë\"), vertebra konkave/në formë pyke. Rritja e trashësisë së kortikales nuk është tipike (përkundrazi kortikalja hollohet)."
+  },
+  {
+    "id": "licenca-reumatologji-041",
+    "question": "Cila prej të dhënave laboratorike është karakteristike për osteomalacinë?",
+    "answers": [
+      "Hiperkalçemi",
+      "Hiperfosforemi",
+      "Hiperkalçiuri",
+      "Hiposforemi",
+      "Rritje të fosfatazës alkaline në gjak"
+    ],
+    "correct": 4,
+    "explanation": "Osteomalacia (deficit i vitaminës D) jep fosfatazë alkaline të rritur, kalcemi normale/të ulët, hipofosforemi, kalciuri të ulët dhe PTH të rritur. Prandaj D (hipofosforemia) është e vërtetë, por FA e rritur është shenja më konstante."
+  },
+  {
+    "id": "licenca-reumatologji-042",
+    "question": "Eritema nodoze është karakteristikë e:",
+    "answers": [
+      "Pneumonia streptokoksike",
+      "Skleroza multiple",
+      "Sarkoidoza",
+      "Sklerodermia",
+      "Fruthi"
+    ],
+    "correct": 2,
+    "explanation": "Eritema nodoze (panikulit me nodula të kuqe të dhimbshme pretibiale) është tipike në sarkoidozë (sindroma Löfgren), por edhe pas infeksioneve streptokoksike, TB, IBD, kontraceptivëve."
+  },
+  {
+    "id": "licenca-reumatologji-043",
+    "question": "Lezioni më karakteristik në kocka shkaktuar nga Lupusi është:",
+    "answers": [
+      "Fraktura spontane",
+      "Osteoporoza në formë pullash",
+      "Osteoskleroza",
+      "Nekroza aseptike",
+      "Osteomieliti akut"
+    ],
+    "correct": 3,
+    "explanation": "Në LES nekroza aseptike (osteonekroza, sidomos e kokës së femurit) është lezioni kockor më karakteristik, nga vaskuliti, antitrupat antifosfolipidikë dhe terapia me kortikosteroide."
+  },
+  {
+    "id": "licenca-reumatologji-044",
+    "question": "Tek polimioziti është e shpeshtë të hasen të gjitha alternimet e mëposhtme, përveç njërës:",
+    "answers": [
+      "Rritja e CK",
+      "Hiposteni/mialgji i muskulaturës së shpatullave",
+      "Rritje e AST dhe LDH",
+      "Hepatiti",
+      "Alternime elektromiografike"
+    ],
+    "correct": 3,
+    "explanation": "Polimioziti jep dobësi simetrike proksimale (shpatulla, ije), rritje të CK, aldolazës, AST, LDH (me origjinë muskulore) dhe EMG miopatike. Hepatiti nuk është pjesë e tablosë (AST e rritur vjen nga muskuli)."
+  },
+  {
+    "id": "licenca-reumatologji-045",
+    "question": "Alternimi okular karakteristik i sindromës së Sjogren është:",
+    "answers": [
+      "Katarrakta",
+      "Rritja e presionit endookular",
+      "Atrofia e nervit optik",
+      "Keratokongiuntiviti i thatë",
+      "Iridocikliti"
+    ],
+    "correct": 3,
+    "explanation": "Infiltrimi limfocitar i gjëndrave lakrimale jep keratokonjunktivit të thatë (xeroftalmi), që vlerësohet me testin Schirmer."
+  },
+  {
+    "id": "licenca-reumatologji-046",
+    "question": "Cili prej alternimeve është tipik për artrozën?",
+    "answers": [
+      "Osteoporoza iuxtaartikulare",
+      "Osteoporoza e përhapur",
+      "Lacerimi i kapsulës",
+      "Hollimi i kartilagjenit (kërcit)",
+      "Hiperplazi e sinoviociteve të tipit A"
+    ],
+    "correct": 3,
+    "explanation": "Artroza është sëmundje degjenerative e kërcit: hollim/fibrilacion i kërcit → ngushtim asimetrik i hapësirës artikulare, sklerozë subkondrale, osteofite. Osteoporoza periartikulare është tipike për artritet inflamatore."
+  },
+  {
+    "id": "licenca-reumatologji-047",
+    "question": "Cila prej formave të artrozës është e trashëgueshme?",
+    "answers": [
+      "Lumboartroza",
+      "Gonartroza",
+      "Artroza e bërrylit",
+      "Artroza e shpatullës",
+      "Artroza nodoze e gishtave"
+    ],
+    "correct": 4,
+    "explanation": "Artroza nodulare e gishtave (nodujt e Heberden) ka predispozitë të fortë familjare, sidomos te gratë (trashëgimi autosomale dominante te femrat)."
+  },
+  {
+    "id": "licenca-reumatologji-048",
+    "question": "Glikozaminoklikanet janë:",
+    "answers": [
+      "Substanca patologjike që gjenden në likidin sinovial kur ka artrit septik",
+      "Përbërës normalë të substancës bazë të kartilagjenit artikular",
+      "Përbërës normalë të membranës sinoviale",
+      "Produkte të degradimit të fibrave të kolagjenit",
+      "Përbërës jo normalë të kartilagjenit tek personat me kodrokalçinozë"
+    ],
+    "correct": 1,
+    "explanation": "Glikozaminoglikanet (kondroitin sulfati, keratan sulfati, acidi hialuronik) janë përbërës normalë të matriksit të kërcit artikular, që i japin elasticitet dhe aftësi për të mbajtur ujin."
+  },
+  {
+    "id": "licenca-reumatologji-049",
+    "question": "Sindroma CREST konsiderohet si variant i sklerozës sistemike (sklerodermisë) dhe akronimi CREST do të thotë:",
+    "answers": [
+      "Kalkulozë renale, Raynaud, endokrinopati, sklerodatili, teleangjektazi",
+      "Kalçinozë e nënlëkurës, Raynaud, ezofagopati, sklerodatili, teleangjektazi",
+      "Kalkulozë reanle, ezofagopati, endometriozë, sklerodatili, tiroidit",
+      "Klaçinozë e nënlëkurës, Raynaud, endometriozë, sklerodatili, timomë,",
+      "Asnjëra prej përgjigjeve"
+    ],
+    "correct": 1,
+    "explanation": "CREST: Kalcinozë subkutane, fenomen Raynaud, dismotilitet Ezofageal, Sklerodaktili, Teleangjektazi — formë e kufizuar e sklerodermisë me anti-centromer pozitivë dhe rrezik hipertensioni pulmonar."
+  }
+]

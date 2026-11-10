@@ -1,0 +1,235 @@
+[
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-001",
+    "question": "Një ikter i lehtë, i cili evidentohet duke parë sklerat e pacientit në dritë natyrale karakterizohet nga cilat vlera të bilirubinës serike:",
+    "answers": [
+      "1.5-2 mg/dl",
+      "3.5-4.5 mg/dl",
+      "2.5-3 mg/dl",
+      "1-1.5 mg/dl",
+      "> 5 mg/dl"
+    ],
+    "correct": 2,
+    "explanation": "Ikteri bëhet i dukshëm klinikisht në sklera kur bilirubina serike kalon ~2,5–3 mg/dl; me 1,5–2 mg/dl ka hiperbilirubinemi subklinike, me >5 mg/dl ikteri është i dukshëm edhe në lëkurë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-002",
+    "question": "Në fazat fillestare të ileusit mekanik të kolonit kuadri klinik karakterizohet nga:",
+    "answers": [
+      "të vjella fekaloide",
+      "krampe abdominale",
+      "mbrojtje muskulare abdominale",
+      "mungesë e peristaltikës",
+      "temperaturë subfebrile"
+    ],
+    "correct": 1,
+    "explanation": "Në fazat fillestare të okluzionit mekanik të kolonit dominojnë dhimbjet kolike (krampe) abdominale me hiperperistaltikë, mosdalje gazrash/feçesh dhe distension progresiv; të vjellat fekaloide, mbrojtja muskulare dhe heshtja peristaltike janë shenja të vona."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-003",
+    "question": "Një pacient paraqitet në shërbimin ambulator me likid të lirë peritoneal, splenomegali, hemorroide, hiperaldosteronizëm, mungesë e faktorëve të koagulimit dhe hipoalbuminemi. Drejt cilës patologji duhet të orjentohemi ne kete rast?",
+    "answers": [
+      "Insuficience kardiake kongenitale",
+      "Neoplazi abdominale",
+      "Sindrome nefritike",
+      "Cirroze hepatike",
+      "Sëmundje limfoproliferative"
+    ],
+    "correct": 3,
+    "explanation": "Ascit, splenomegali, hemorroide (varice rektale), hiperaldosteronizëm sekondar, mungesë e faktorëve të koagulimit dhe hipoalbuminemi = hipertension portal + insuficiencë hepatocelulare = cirrozë hepatike. Çelësi i PDF-së (sëmundje limfoproliferative) nuk shpjegon koagulopatinë dhe hipoalbumineminë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-004",
+    "question": "Cili prej markuesve të mëposhtëm është tipik për periudhën fillestare të hepatitit B?",
+    "answers": [
+      "HbsAg; HbeAg; anti HBc-IgM",
+      "HbsAg; anti HBc-IgG",
+      "HbsAg; HbcAg; anti HBe",
+      "HbsAg; anti HBe",
+      "Anti HBs; anti HBc"
+    ],
+    "correct": 0,
+    "explanation": "Në fazën akute fillestare të hepatitit B gjenden HBsAg, HBeAg (replikim aktiv) dhe anti-HBc IgM (shënuesi i infeksionit akut); anti-HBc IgG dhe anti-HBe shfaqen më vonë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-005",
+    "question": "Janë përgjegjës për defiçitin e vitaminës B12 të gjithë faktorët e mëposhtëm me përjashtim të:",
+    "answers": [
+      "Dieta ushqimore e papërshtatshme (p.sh. dieta vegjetariane)",
+      "Përthithja e pakët",
+      "Eleminimi i shtuar",
+      "Ulçera e ezofagut",
+      "Keqpërdorimi"
+    ],
+    "correct": 3,
+    "explanation": "Deficiti i B12 vjen nga marrja e pakët (dieta vegane), malabsorbimi (anemia pernicioze, gastrektomi, rezeksion i ileumit, Crohn, metformina, IPP), nevoja/humbjet e rritura. Ulçera ezofageale nuk ndikon në përthithjen e B12."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-006",
+    "question": "Metoda më e mirë për të vlerësuar një steatorre është:",
+    "answers": [
+      "Testi me sakarozë",
+      "Testi me ksilozë",
+      "Dozimi i kriprave biliare",
+      "Dozimi i yndyrnave fekale",
+      "Biopsia e intestinit"
+    ],
+    "correct": 3,
+    "explanation": "Metoda më e mirë për vlerësimin e steatorresë është matja sasiore e yndyrnave fekale në 72 orë (>7 g/ditë me dietë 100 g yndyrë); testi i D-ksilozës dallon malabsorbimin mukozal nga ai pankreatik."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-007",
+    "question": "Të gjitha pohime e më poshtme në lidhje me karcnomën e ezfagut janë të vërteta me përjashtim të:",
+    "answers": [
+      "Incidenca është më e madhe në meshkuj ( raporti mashkull/femër 3:1)",
+      "Preket më shpesh segmenti i poshtëm i ezofagut",
+      "Faktor riskant për zhvillimin e karcinomës është padyshim hernia hiatale",
+      "Shpesh herë shoqërohet me fenomene disfagie",
+      "Rreziku i sëmundjes është më i madh në njerëzit që pinë duhan se sa te ata që nuk pinë"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma e ezofagut: më e shpeshtë te meshkujt, lidhet me duhanin dhe alkoolin (skuamoze) dhe me refluksin/Barrett-in (adenokarcinoma e ezofagut distal), shfaqet me disfagi progresive. Hernia hiatale vetë nuk është faktor i vërtetuar rreziku."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-008",
+    "question": "Në urgjencë paraqitet një pacient 35 vjeç, që ka përdorur alkool për një kohë të zgjatur, i cili ankon për një dhimbje të fortë të menjëherëshme në regjionin periumbelikal dhe epigastrik që përhapet në të dy flanket dhe në segmentin e poshtëm torakal të kolonës vertebrale). Cila është diagnoza më e mundshme në këtë rast?",
+    "answers": [
+      "Ulçera gastrike",
+      "Ulçera duodenale",
+      "Sëmundje e kolon trasvers",
+      "Pankreatit akut",
+      "Sëmundje e kolonit zbritës"
+    ],
+    "correct": 3,
+    "explanation": "I ri alkoolist me dhimbje epigastrike/periumbilikale të fortë e të papritur, që përhapet \"në brez\" drejt shpinës dhe flankeve = pankreatit akut (konfirmohet me lipazë/amilazë >3 herë normës)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-009",
+    "question": "Pacientët që vuajnë nga refluksi gastro-ezofageal:",
+    "answers": [
+      "Vetëm shqetësime simptomatike pa sekela të rëndësishme",
+      "Duhet të konsumojë sai të mëdha të karameleve me mente dhe çokollata",
+      "Kanë rrezik për të zhvilluar astëm, SPOK, fibrozë pulmonare",
+      "Nuk kanë rrezik për të zhvilluar neoplazi",
+      "Të hjitha pohimet e mësipërme janë të vërteta"
+    ],
+    "correct": 2,
+    "explanation": "Refluksi gastroezofageal mund të japë komplikacione ekstraezofageale (astmë, kollë kronike, laringit, përkeqësim të SPOK, fibrozë pulmonare nga mikroaspirimet) dhe ezofageale (ezofagit, stenozë, Barrett → adenokarcinomë). Menta dhe çokollata e përkeqësojnë."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-010",
+    "question": "Megakolon toksik paraqitet si ndërlikim i një prej këtyre ssituatave:",
+    "answers": [
+      "Rektokoliti ulçeroz",
+      "Sëmundja Crohn",
+      "Divertikuloza e kolonit",
+      "Enterokliti",
+      "Stenozat neoplastike të kolonit"
+    ],
+    "correct": 0,
+    "explanation": "Megakoloni toksik është komplikacion i rëndë sidomos i kolitit ulceroz (rektokolitit ulceroz) në formë fulminante; më rrallë i Crohn-it të kolonit dhe kolitit nga C. difficile."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-011",
+    "question": "Pankreatiti akut mund të shkaktohet nga të gjitha elementët e poshtëshënuar me përjshtim të:",
+    "answers": [
+      "Kalkulozës biliare",
+      "Abuzimit me alkool",
+      "Ndërhyrjeve kirurgjikale në rrugët biliare ose në stomak",
+      "Toksina",
+      "Hipertrofia e pilorit"
+    ],
+    "correct": 4,
+    "explanation": "Pankreatiti akut shkaktohet nga litiaza biliare dhe alkooli (~80%), ERCP/kirurgjia biliare-gastrike, hipertrigliceridemia, hiperkalcemia, barnat, toksinat, traumat, infeksionet. Hipertrofia e pilorit nuk e shkakton."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-012",
+    "question": "Shkaku më i shpeshtë i kolestazës ekstraheaptike është:",
+    "answers": [
+      "Kalkuloza e koledokut",
+      "Parazitozat",
+      "Ligatura aksidentale e koleokut",
+      "Pankreatiti akut",
+      "Pankreatiti kronik"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i kolestazës ekstrahepatike (ikterit obstruktiv) është litiaza e koledokut; pasojnë neoplazitë (koka e pankreasit, kolangiokarcinoma, ampuloma) dhe stenozat."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-013",
+    "question": "Shkaku i hipertensionit portal presinusoidal ekstrahepatik është:",
+    "answers": [
+      "Parazitozat",
+      "Leuçemia mieloide",
+      "Cirroza heaptike",
+      "Tromboza e venës porta"
+    ],
+    "correct": 3,
+    "explanation": "Hipertensioni portal prehepatik/presinusoidal ekstrahepatik shkaktohet nga tromboza e venës porta (ose lienale); skistozomiaza jep formën presinusoidale intrahepatike, cirroza formën sinusoidale."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-014",
+    "question": "Cili është një funksion i rëndësishëm fiziologjik i acideve biliare?",
+    "answers": [
+      "favorizimi i ekskretimit të substancave toksike",
+      "favorizimi i absorbimit të vitaminës B12",
+      "ruajtja e Ph intestinal në normë",
+      "favorizon përthihtjen e yndyrnave",
+      "favorizon përthithjen e aminoacideve"
+    ],
+    "correct": 3,
+    "explanation": "Acidet biliare emulsifikojnë yndyrnat dhe formojnë micela, duke lehtësuar tretjen dhe përthithjen e yndyrnave dhe vitaminave liposolubile (A, D, E, K)."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-015",
+    "question": "Parametrat laboratorik më të nevojshëm për monitorimin e aktivitetit të një procesi inflamator në hepatitin kronik janë::",
+    "answers": [
+      "kriprat biliare",
+      "bilirubina",
+      "transaminazat dhe gamaglobulinat",
+      "koha e protrombinës",
+      "fosfataza alkaline"
+    ],
+    "correct": 2,
+    "explanation": "Aktiviteti inflamator në hepatitin kronik monitorohet me transaminazat (sidomos ALT) dhe gamaglobulinat (sidomos në hepatitin autoimun); bilirubina dhe PT tregojnë funksionin/rezervën hepatike."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-016",
+    "question": "Simptoma e “pirozës retrosterrnale” është karkateristike për:",
+    "answers": [
+      "ulçerën gastrike",
+      "ulçerën duodenale",
+      "gastritet autoimune",
+      "sëmundjen e refluksit gastro-ezofageal",
+      "gastritin nga Helikobakter pilori"
+    ],
+    "correct": 3,
+    "explanation": "Piroza retrosternale (urthi, djegie që ngjitet nga epigastri pas sternumit), bashkë me regurgitimin, është simptoma karakteristike e sëmundjes së refluksit gastroezofageal."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-017",
+    "question": "Cila nga këto sëmundje mund të jetë shkaktare e komës hepatike?",
+    "answers": [
+      "hepatiti kronik që ka evoluar drejt cirrozës",
+      "ikteri obstruktiv nga kalkuloza",
+      "cirroza hepatike e dekompesuar",
+      "sëmundja Gilbert",
+      "cirroza nga hepatiti B"
+    ],
+    "correct": 2,
+    "explanation": "Koma hepatike (encefalopatia hepatike e rëndë) shfaqet në cirrozën e dekompensuar (dhe në insuficiencën hepatike akute), shpesh e provokuar nga hemorragjia digjestive, infeksionet, kapsllëku, diuretikët, sedativët."
+  },
+  {
+    "id": "licenca-gastrohepatologji-semundje-te-brendshme-018",
+    "question": "Të gjithë barnat e poshtëshënuar përdoren në trajtimin e ulçerës peptidike, me përjashtim të:",
+    "answers": [
+      "salazopirinës",
+      "omeprazolit",
+      "sukralfatit",
+      "ranitidinës",
+      "pirenzepinës"
+    ],
+    "correct": 0,
+    "explanation": "Ulçera peptike trajtohet me IPP (omeprazol), anti-H2 (ranitidinë), sukralfat, antikolinergjikë selektivë (pirenzepinë), misoprostol dhe eradikim të H. pylori. Salazopirina (sulfasalazina) përdoret në sëmundjet inflamatore të zorrëve dhe artrit reumatoid."
+  }
+]

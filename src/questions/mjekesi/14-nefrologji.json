@@ -1,0 +1,1405 @@
+[
+  {
+    "id": "licenca-nefrologji-001",
+    "question": "Ne neoplazite pulmonare, ekstensioni ne nivel te pleksit cervikal mund te shkaktoje dhembje, pareze dhe/ose dobesi te gjymtyres se prekur. Kjo simptomatologji quhet:",
+    "answers": [
+      "Sindroma Bernard Horner",
+      "Sindroma Gaucher",
+      "Sindroma Charcot-Marie-Tooth",
+      "Sindroma Pancoast",
+      "Sindroma De Quervain"
+    ],
+    "correct": 3,
+    "explanation": "Tumori i majës së mushkërisë (sulkusi superior) që infiltron pleksusin brakial (C8–T1) dhe gangliin yjor jep dhimbje supi/krahu, parezë e atrofi të muskujve të dorës dhe sindromë Horner = sindroma Pancoast."
+  },
+  {
+    "id": "licenca-nefrologji-002",
+    "question": "Kur një proteinuri e 24 orëve përcaktohet si nefrotike?",
+    "answers": [
+      "proteinuria >3g",
+      "proteinuria >2g",
+      "proteinuria >1g",
+      "proteinuria > ose e barabartë me 5g",
+      "proteinuria > ose e barabartë me 8g"
+    ],
+    "correct": 0,
+    "explanation": "Proteinuria në rang nefrotik te i rrituri përkufizohet >3–3,5 g/24 orë (te fëmijët >40 mg/m²/orë), e shoqëruar me hipoalbuminemi, edema dhe hiperlipidemi."
+  },
+  {
+    "id": "licenca-nefrologji-003",
+    "question": "Të gjitha nefropatitë e mëposhtme mund të komplikojnë një shtatëzani, me përjashtim të",
+    "answers": [
+      "amiloidoza",
+      "pielonefriti",
+      "nekroza tubulare akute",
+      "nekroza kortikale",
+      "uremia eklamptike"
+    ],
+    "correct": 0,
+    "explanation": "Shtatzënia mund të ndërlikohet me pielonefrit, nekrozë tubulare akute (hemorragji, sepsë), nekrozë kortikale (shkëputje placente) dhe dëmtim renal në preeklampsi/eklampsi. Amiloidoza nuk është ndërlikim i shtatzënisë."
+  },
+  {
+    "id": "licenca-nefrologji-004",
+    "question": "Përcaktuesit e filtracionit glomerular: cili prej këtyre variablave është më i rëndësishmi?",
+    "answers": [
+      "fluksi i gjakut",
+      "koefiçienti i ultrafiltrimit glomerular",
+      "përqëndrimi i proteinave në plazmën e arteries renale",
+      "presioni hidrostatik glomerular",
+      "presioni arterial"
+    ],
+    "correct": 0,
+    "explanation": "Determinanti kryesor i filtrimit glomerular është fluksi plazmatik/gjakor renal (së bashku me presionin hidrostatik glomerular dhe Kf); prandaj hipoperfuzioni renal ul shpejt GFR."
+  },
+  {
+    "id": "licenca-nefrologji-005",
+    "question": "Cili prej këtyre medikamenteve hipotensivë shkakton rritje të aktivitetit plazmatik të reninës?",
+    "answers": [
+      "metildopa",
+      "propanololi",
+      "kaptoprili",
+      "klonidina",
+      "nifedipina"
+    ],
+    "correct": 2,
+    "explanation": "ACE-inhibitorët (kaptopril) ulin angiotensinën II dhe heqin feedback-un negativ mbi qelizat jukstaglomerulare → rritje e aktivitetit plazmatik të reninës. Betabllokuesit, metildopa e klonidina e ulin reninën."
+  },
+  {
+    "id": "licenca-nefrologji-006",
+    "question": "Insufiçienca renale akute:",
+    "answers": [
+      "karakterizohet gjithmonë nga prania e oligo-anurisë",
+      "paraqet një sediment urinar të pasur me qeliza dhe cilindra hialino-granularë dhe/ose qelizorë",
+      "shoqërohet gjithmonë me hipertension arterial",
+      "mund të jetë sekondare nga ekzaminimet imazherike me kontrast",
+      "lidhet gjithmonë me një dëmtim të strukturës renale"
+    ],
+    "correct": 3,
+    "explanation": "IRA mund të jetë oligurike ose jo, nuk ka gjithmonë hipertension ose dëmtim strukturor (forma prerenale), dhe mund të shkaktohet nga kontrasti jodik (nefropati nga kontrasti), sidomos te diabetikët dhe pacientët me IRK."
+  },
+  {
+    "id": "licenca-nefrologji-007",
+    "question": "Cilët prej gurëve të mëposhtëm janë radiotransparentë?",
+    "answers": [
+      "struvitë",
+      "të fosfatit të kalçiumit",
+      "të oksalatit të kalçiumit",
+      "të acidit urik",
+      "të karbonatit të kalçiumit"
+    ],
+    "correct": 3,
+    "explanation": "Gurët e acidit urik janë radiotransparentë (nuk duken në radiografi direkte, duken në CT/ekografi) dhe mund të shpërbëhen me alkalinizim urinar. Gurët e kalciumit dhe struviti janë radio-opakë."
+  },
+  {
+    "id": "licenca-nefrologji-008",
+    "question": "Shkaku më i zakonshëm i sindromit nefrotik tek adultët është:",
+    "answers": [
+      "GN (glomerulonefriti. me lezione minimale",
+      "GN (glomerulonefriti. membrano-proliferativ",
+      "nefroskleroza malinje",
+      "GN membranoz",
+      "nefroskleroza beninje"
+    ],
+    "correct": 3,
+    "explanation": "Te të rriturit, shkaku më i shpeshtë i sindromës nefrotike primare ka qenë klasikisht glomerulonefriti membranoz (anti-PLA2R); sot glomeruloskleroza fokale segmentare është po aq e shpeshtë. Te fëmijët mbizotëron sëmundja me lezione minimale."
+  },
+  {
+    "id": "licenca-nefrologji-009",
+    "question": "Një grua e re paraqiti episodin e parë të një cistiti akut, i cili u trajtua me sukses me anë të antibiotikoterapisë përkatëse. Pacientja ka nevojë për:",
+    "answers": [
+      "profilaksi me antibiotikë për 6 muaj",
+      "analizë urine + urokulturë ç’do muaj për 6 muaj",
+      "cistouretrografi miksionale",
+      "asnjë veprim tjetër diagnostik ose terapeutik",
+      "urografi perfuzional"
+    ],
+    "correct": 3,
+    "explanation": "Episodi i parë i cistitit të pakomplikuar te gruaja e re, i trajtuar me sukses, nuk kërkon ekzaminime apo profilaksi të mëtejshme; ekzaminimet rezervohen për infeksionet recidivante ose të komplikuara."
+  },
+  {
+    "id": "licenca-nefrologji-010",
+    "question": "Sindroma nefrotike:",
+    "answers": [
+      "është një kuadër klinik që karakterizohet nga hipoalbuminemia e rëndë (<3g/dl.",
+      "paraqet një proteinuri më të madhe se 2.5 g/ditë",
+      "prezantohet me insufiçiencë renale me gravitet të ndryshëm",
+      "mund të shoqërohet me kuadër ''hipokoagulabiliteti'' me prirje për hemorragji spontane",
+      "është gjithmonë një sëmundje renale primare"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma nefrotike: proteinuri >3,5 g/ditë, hipoalbuminemi (<3 g/dl), edema, hiperlipidemi dhe lipiduri; shoqërohet me hiperkoagulabilitet (humbje antitrombine III), jo me prirje hemorragjike; mund të jetë primare ose sekondare."
+  },
+  {
+    "id": "licenca-nefrologji-011",
+    "question": "Cili është shkaku më i mundshëm i takikardisë së shoqëruar me komplekse QRS të gjerë, në një pacient që i është nënshtruar më parë një bypass-i aorto-koronar?",
+    "answers": [
+      "flater trial me çrregullim të përçimit",
+      "fibrilacion atrial",
+      "takikardi sinusale me çrregullim të përçimit",
+      "sindromi Wolf-Parkinson-Wite",
+      "takikardi ventrikulare"
+    ],
+    "correct": 4,
+    "explanation": "Te pacienti me kardiopati ishemike (pas by-pass-it koronar), një takikardi me QRS të gjerë duhet konsideruar takikardi ventrikulare deri sa të provohet e kundërta (cikatricet e infarktit janë substrat për rihyrje)."
+  },
+  {
+    "id": "licenca-nefrologji-012",
+    "question": "Cila prej këtyre vlerave paraqet gamën e vlerave normale të kalemisë?",
+    "answers": [
+      "1-3 mEq/l",
+      "3-4,5 mEq/l",
+      "3,5-5 mEq/l",
+      "5-6 mEq/l",
+      "6-7 mEq/l"
+    ],
+    "correct": 2,
+    "explanation": "Kalemia normale është 3,5–5,0 (5,1) mEq/L; <3,5 hipokalemi, >5,5 hiperkalemi."
+  },
+  {
+    "id": "licenca-nefrologji-013",
+    "question": "Në pacientin me anuri rreziku për jetën përfaqësohet nga:",
+    "answers": [
+      "varfërimi sodik",
+      "hiponatremia",
+      "hipoproteinemia",
+      "hiperkalemia",
+      "hipertensioni"
+    ],
+    "correct": 3,
+    "explanation": "Në anuri rreziku kryesor jetësor është hiperkalemia (aritmi fatale, asistoli), pastaj mbingarkesa volumore (edemë pulmonare) dhe acidoza; janë indikacione për dializë urgjente."
+  },
+  {
+    "id": "licenca-nefrologji-014",
+    "question": "Bakteriuria është sinjifikative kur përqëndrimi urinar është:",
+    "answers": [
+      "1.000/ml",
+      "10.000/ml",
+      "100.000/ml",
+      "1.000.000/ml",
+      "5.000.000/ml"
+    ],
+    "correct": 2,
+    "explanation": "Bakteriuria sinjifikative = ≥100.000 (10^5) CFU/ml në urinën e mesit; vlera më të ulëta mund të jenë domethënëse te gratë simptomatike ose në kampionet me kateter/punksion suprapubik."
+  },
+  {
+    "id": "licenca-nefrologji-015",
+    "question": "Një sforcim i madh fizik mund të shkaktojë:",
+    "answers": [
+      "hematuri",
+      "hemoglobinuri",
+      "proteinuri",
+      "cilindra eritrocitarë",
+      "të gjitha përgjigjet e mësipërme"
+    ],
+    "correct": 4,
+    "explanation": "Sforcimi i madh fizik (maratonë, ushtrime ekstreme) mund të japë hematuri, hemoglobinuri (hemoliza \"e marshimit\"), mioglobinuri, proteinuri kalimtare dhe cilindra — që zhduken me pushim."
+  },
+  {
+    "id": "licenca-nefrologji-016",
+    "question": "Një burrë 50 vjec arrin në Shërbimin e Urgjencës më temperaturë të lartë (T=38.8ºC., të dridhura, dhimbje abdominale difuze dhe nauze. Në ekzaminimin objektiv shenja e Giordano-s është prezente. Cilin prej këtyre ekzaminimeve diagnostike të mëposhtme do kërkonit në fillim?",
+    "answers": [
+      "ekografinë e aparatit urinar",
+      "TAK",
+      "Cistografinë retrograde",
+      "RMN",
+      "shintigrafinë renale"
+    ],
+    "correct": 0,
+    "explanation": "Ethe me drithërima, dhimbje abdominale/lumbare dhe Giordano pozitiv = pielonefrit akut; ekzaminimi i parë imazherik është ekografia e aparatit urinar (përjashton obstruksionin, abscesin), krahas urokulturës."
+  },
+  {
+    "id": "licenca-nefrologji-017",
+    "question": "Si manifestohet më shpesh tumori renal?",
+    "answers": [
+      "masë e palpueshme",
+      "hematuri",
+      "kolikë renale",
+      "diagnoza është e rastësishme",
+      "oliguria"
+    ],
+    "correct": 3,
+    "explanation": "Sot karcinoma renale diagnostikohet në shumicën e rasteve rastësisht (incidentaloma) gjatë ekografisë ose CT për arsye të tjera; triada klasike (hematuri, dhimbje në ijë, masë) shfaqet në <10%."
+  },
+  {
+    "id": "licenca-nefrologji-018",
+    "question": "Cila prej këtyre simptomave i paraprin zhvillimit të nefropatisë diabetike:",
+    "answers": [
+      "rritja e natriurisë",
+      "mikrohematuria",
+      "cilindruria",
+      "shtimi i vëllimit renal",
+      "reduktimi i filtracionit glomerular"
+    ],
+    "correct": 3,
+    "explanation": "Në fazat e hershme të nefropatisë diabetike ka hiperfiltrim glomerular dhe hipertrofi renale (rritje e vëllimit të veshkave), që paraprijnë mikroalbuminurinë."
+  },
+  {
+    "id": "licenca-nefrologji-019",
+    "question": "Cili është dekursi i glomerulonefritit akut post-streptokoksik?",
+    "answers": [
+      "evoluon drejt insufiçiencës renale kronike",
+      "shërohet",
+      "evoluon drejt sindromit nefrotik",
+      "proteinuri reziduale",
+      "hipertension arterial"
+    ],
+    "correct": 1,
+    "explanation": "Glomerulonefriti akut post-streptokoksik, sidomos te fëmijët, ka prognozë të mirë: shërim i plotë në >90% të rasteve; një pakicë të rriturish mbeten me proteinuri/hipertension."
+  },
+  {
+    "id": "licenca-nefrologji-020",
+    "question": "Cili prej muskujve të aktivitetit inspirator është më i rëndësishmi?",
+    "answers": [
+      "muskujt interkostalë ekstern",
+      "diafragma",
+      "muskuli rektus abdominal",
+      "muskujt interkostalë intern",
+      "muskuli sternokleidomastoid"
+    ],
+    "correct": 1,
+    "explanation": "Diafragma është muskuli kryesor inspirator (kryen ~70% të punës në frymëmarrjen e qetë); interkostalët e jashtëm dhe muskujt aksesorë ndihmojnë gjatë sforcimit."
+  },
+  {
+    "id": "licenca-nefrologji-021",
+    "question": "Të gjitha pohimet e mëposhtme mbi diuretikët tiazidikë janë të vërteta me përjashtim të:",
+    "answers": [
+      "mund të shkaktojnë hiperuricemi",
+      "përdoren për të nxitur një diurezë të sforcuar në emergjencat toksikologjike",
+      "janë diuretikë të zgjedhjes së parë për trajtimin e hipertensionit arterial",
+      "ndikohen për trajtimin e edemave që shoqërojnë cirrozën hepatike",
+      "inhibojnë transportin e Na+-Cl- në tubulin distal të përdredhur"
+    ],
+    "correct": 1,
+    "explanation": "Diureza e forcuar në toksikologji (p.sh. me alkalinizim) nuk bëhet me tiazide. Tiazidet frenojnë kotransportuesin Na-Cl në tubulin distal, japin hiperuricemi dhe janë barna të linjës së parë për hipertensionin."
+  },
+  {
+    "id": "licenca-nefrologji-022",
+    "question": "Në hemodializë akseset vaskulare të përkohshme mund të përftohen me anë të inserimit të kateterëve me lumen të vetëm ose të dyfishtë në venat:",
+    "answers": [
+      "subklavia",
+      "jugulare interne",
+      "femorale",
+      "të gjitha përgjigjet e mësipërme",
+      "asnjëra prej përgjigjeve të mësipërme"
+    ],
+    "correct": 3,
+    "explanation": "Aksesi vaskular i përkohshëm për hemodializë merret me kateter venoz qendror (me një ose dy lumene) në venën jugulare të brendshme (preferohet), femorale ose subklaviane (shmanget për rrezikun e stenozës)."
+  },
+  {
+    "id": "licenca-nefrologji-023",
+    "question": "Dobësia muskulore në nivel të shpatullave, shoqëruar me rritje të eritrosedimentit gjatë orës së parë, tek një person i moshuar karakterizojnë:",
+    "answers": [
+      "polimiozitin",
+      "polimialgjinë reumatike",
+      "sëmundjen Still",
+      "miopatinë sekondare të hipotiroidizmit",
+      "entesopatinë e rotatorëve"
+    ],
+    "correct": 1,
+    "explanation": "I moshuar me dhimbje/dobësi dhe ngurtësi e brezit të shpatullave (dhe legenit) me ERS shumë të lartë = polimialgji reumatike; përgjigje e shpejtë ndaj prednizonit me doza të ulëta."
+  },
+  {
+    "id": "licenca-nefrologji-024",
+    "question": "Zbulimi i proteinurisë së matshme (>3.5g/ditë. dhe cilindrurisë është patognomonike për një:",
+    "answers": [
+      "sindrom nefritik",
+      "sindrom nefrotik",
+      "hipertension arterial",
+      "insuficiencë renale akute ishemike",
+      "pielonefrit akut"
+    ],
+    "correct": 1,
+    "explanation": "Proteinuria >3,5 g/ditë (me cilindra yndyrorë/lipiduri) është karakteristike për sindromën nefrotike; sindroma nefritike ka hematuri me cilindra eritrocitarë, hipertension dhe proteinuri më të vogël."
+  },
+  {
+    "id": "licenca-nefrologji-025",
+    "question": "Të gjitha pohimet e mëposhtme janë të vërteta me përjashtim të :",
+    "answers": [
+      "angiotenzina II shkakton vazokonstriksion për shkak të efektit të drejtpërdrejtë mbi arteriolat prekapilare",
+      "angiotenzina II antagonizon efektet e aldosteronit",
+      "angiotenzina II shkakton hipertrofi dhe rimodelim të strukturave kardiovaskulare",
+      "receptori AT1 për angiotenzinën II është i atashuar me një proteinë G",
+      "lidhja e angiotenzinës II me receptorin AT2 frenohet në mënyrë specifike nga sartanet"
+    ],
+    "correct": 1,
+    "explanation": "E pavërtetë: angiotensina II stimulon (nuk antagonizon) sekretimin e aldosteronit nga zona glomeruloza. Ajo jep vazokonstriksion, rimodelim kardiovaskular dhe vepron përmes receptorit AT1 (i lidhur me proteinë G); sartanet bllokojnë AT1."
+  },
+  {
+    "id": "licenca-nefrologji-026",
+    "question": "Cila prej alternativave paraqet një komplikacion renal të rëndë në diabetin mellit?",
+    "answers": [
+      "polakiuria me dizuri",
+      "glukozuria persistente",
+      "nefrolitiaza",
+      "cistiti akut hemorragjik",
+      "glomeruloskleroza"
+    ],
+    "correct": 4,
+    "explanation": "Komplikacioni renal i rëndë i diabetit është glomeruloskleroza diabetike (nodulare Kimmelstiel-Wilson/difuze), që çon në proteinuri, sindromë nefrotike dhe insuficiencë renale terminale."
+  },
+  {
+    "id": "licenca-nefrologji-027",
+    "question": "Ekzaminimet e shkallës së parë për diagnostikimin e karcinomës së prostatës janë:",
+    "answers": [
+      "PSA, ekzaminimi rektal, ekografia transrektale + biopsia",
+      "PSA, shintigrafia kockore, TAK abdominal",
+      "PSA, ekzaminimi rektal, TAK abdominal",
+      "PSA, ekzaminimi rektal",
+      "Asnjëra prej përgjigjeve të mësipërme"
+    ],
+    "correct": 3,
+    "explanation": "Ekzaminimet e nivelit të parë për kancerin e prostatës janë PSA dhe tushja rektale; ekografia transrektale me biopsi (ose RM multiparametrike) vjen pas, nëse ka dyshim."
+  },
+  {
+    "id": "licenca-nefrologji-028",
+    "question": "Cila prej glomerulopative të mëposhtme paraqitet me sindrom nefrotik?",
+    "answers": [
+      "post-infektive",
+      "proliferative mezangiale",
+      "proliferative ekstrakapilare",
+      "glomerulopatia diabetike",
+      "glomeruloskleroza"
+    ],
+    "correct": 3,
+    "explanation": "Glomerulopatia diabetike shfaqet tipikisht me proteinuri progresive deri në sindromë nefrotike. Glomerulonefriti post-infektiv jep sindromë nefritike (hematuri, hipertension, edema, oliguri), jo nefrotike. Çelësi (A) duket gabim."
+  },
+  {
+    "id": "licenca-nefrologji-029",
+    "question": "Një obstruksion urinar që shkakton hidronefrozë tek fëmija zakonisht shkaktohet nga:",
+    "answers": [
+      "një keqformim kongjenital i traktit urinar",
+      "vaza jonormale që komprimojnë ureterin",
+      "gurët",
+      "''përdredhja'' e një ureteri në terren të një veshke ptozike",
+      "një fimozë shumë e rëndë"
+    ],
+    "correct": 0,
+    "explanation": "Te fëmija hidronefroza vjen zakonisht nga keqformime kongjenitale të traktit urinar: stenoza e nyjës pielo-ureterale (më e shpeshta), valvulat e uretrës posteriore, ureterocela, refluksi."
+  },
+  {
+    "id": "licenca-nefrologji-030",
+    "question": "Si duken gurët në ekografi:",
+    "answers": [
+      "imazh hipoekogen me hije akustike konike posteriore",
+      "imazh hipoekogen me përforcim posterior",
+      "imazh hiperekogen me hije akustike konike posteriore",
+      "imazh hiperekogen me përforcim posterior",
+      "imazh anekogen"
+    ],
+    "correct": 2,
+    "explanation": "Gurët urinarë në ekografi duken si imazhe hiperekogjene (të ndritshme) me hije akustike posteriore."
+  },
+  {
+    "id": "licenca-nefrologji-031",
+    "question": "Anemia e insufiçiencës renale kronike:",
+    "answers": [
+      "është kryesisht e lidhur me një defiçit në thithjen e hekurit",
+      "është kryesisht e lidhur me një defiçit në prodhimin e eritropoetinës",
+      "trajtohet vetëm me hemotransfuzion",
+      "nuk trajtohet sepse kontribuon në ruajtjen e vlerave të pranueshme të presionit të gjakut",
+      "prek kryesisht gratë në moshën e fertilitetit"
+    ],
+    "correct": 1,
+    "explanation": "Anemia e IRK është kryesisht nga prodhimi i pamjaftueshëm i eritropoietinës nga veshka e dëmtuar (plus deficit hekuri, inflamacion, jetëgjatësi e shkurtuar e eritrociteve); trajtohet me hekur dhe eritropoietinë."
+  },
+  {
+    "id": "licenca-nefrologji-032",
+    "question": "Nga ku e merr më shpesh origjinën karcinoma me qeliza renale?",
+    "answers": [
+      "tubuli proksimal i përdredhur",
+      "ansa Henle",
+      "dukti kolektor",
+      "pieloni renal",
+      "tubuli distal i përdredhur"
+    ],
+    "correct": 0,
+    "explanation": "Karcinoma me qeliza renale (me qeliza të qarta) e merr origjinën nga epiteli i tubulit proksimal; karcinoma e duktuseve kolektore dhe karcinoma uroteliale e pielit janë më të rralla."
+  },
+  {
+    "id": "licenca-nefrologji-033",
+    "question": "Cilin veprim respirator predominues kryejnë muskujt abdominalë?",
+    "answers": [
+      "veprim inspirator në qetësi",
+      "asnjë veprim",
+      "shtim të presionit intrapleural",
+      "veprim ekspirator",
+      "veprim inspirator gjatë sforcimit"
+    ],
+    "correct": 3,
+    "explanation": "Muskujt abdominalë janë muskuj ekspiratorë aktivë: përdoren në ekspirimin e forcuar (kollë, sforcim, ushtrim), duke rritur presionin intraabdominal dhe shtyrë diafragmën lart."
+  },
+  {
+    "id": "licenca-nefrologji-034",
+    "question": "Cila prej këtyre teknikave imazherike diagnostikuese nuk është e dobishme në diagnostikimin e stenozës së arteries renale?",
+    "answers": [
+      "angiografia",
+      "eko-kolor-dopler",
+      "angiografia me rezonancë magnetike",
+      "pielografia retrograde ashendente",
+      "shintigrafia renale"
+    ],
+    "correct": 3,
+    "explanation": "Stenoza e arteries renale studiohet me eko-color-Doppler, angio-RM, angio-CT, shintigrafi renale (me kaptopril) dhe angiografi. Pielografia retrograde studion rrugët urinare, jo enët."
+  },
+  {
+    "id": "licenca-nefrologji-035",
+    "question": "Një pacient paraqet një gur oksalat kalçiumi më pak se 1cm në pielonin renal që shkakton kolika recidivante. Cila është terapia e zgjedhjes së parë?",
+    "answers": [
+      "pielolitotomia kirurgjikale",
+      "ureterorenoskopia",
+      "litotripsia ekstrakorpore",
+      "terapia hidropike",
+      "pielolitotomia perkutane"
+    ],
+    "correct": 2,
+    "explanation": "Guri renal <1–2 cm në pielon që jep kolika të përsëritura trajtohet në radhë të parë me litotripsi me valë goditëse ekstrakorporale (ESWL); ureterorenoskopia dhe nefrolitotomia perkutane për gurë më të mëdhenj/rezistentë."
+  },
+  {
+    "id": "licenca-nefrologji-036",
+    "question": "Shkaku më i shpeshtë i sindromit nefrotik në moshën pediatrike është",
+    "answers": [
+      "glomerulopatia proliferative ekstrakapilare",
+      "glomerulopatia me lezione minimale",
+      "glomerulopatia membranoze",
+      "glomerulopatia proliferative mezangiale",
+      "glomerulopatia post-infektive"
+    ],
+    "correct": 1,
+    "explanation": "Te fëmijët, shkaku më i shpeshtë i sindromës nefrotike (~80–90%) është sëmundja me lezione minimale, që përgjigjet shumë mirë ndaj kortikosteroideve."
+  },
+  {
+    "id": "licenca-nefrologji-037",
+    "question": "Cila prej këtyre simptomave të insufiçiencës renale është më e ndjeshme ndaj korrigjimit të hipokalemisë:",
+    "answers": [
+      "nauzea dhe të vjellat",
+      "astenia muskulore",
+      "diarrea",
+      "pruriti",
+      "cefalea"
+    ],
+    "correct": 1,
+    "explanation": "Hipokalemia jep dobësi/asteni muskulore (deri paralizë) dhe ileus; korrigjimi i kaliumit e përmirëson shpejt astheninë muskulore."
+  },
+  {
+    "id": "licenca-nefrologji-038",
+    "question": "Pielonefriti akut:",
+    "answers": [
+      "është sëmundje karakteristike për seksin mashkull",
+      "prek zakonisht personat në moshë të avancuar",
+      "karakterizohet zakonisht nga prania e temperaturës të tipit septike",
+      "paraqitet me vlera normale të eritrosedimentit dhe proteinës C reaktive",
+      "paraqitet me një neutropeni të shprehur"
+    ],
+    "correct": 2,
+    "explanation": "Pielonefriti akut prek më shpesh gratë e reja, jep ethe të larta tip septik me drithërima, dhimbje lumbare, leukocitozë neutrofile dhe ERS/PCR të rritura."
+  },
+  {
+    "id": "licenca-nefrologji-039",
+    "question": "Në cilin tip të emfizemës hiperinflacioni pulmonar merr një rëndësi më të madhe ?",
+    "answers": [
+      "emfizema panlobulare",
+      "emfizema buloze",
+      "emfizema acinare distale",
+      "emfizema paraseptale",
+      "emfizema cikatriciale"
+    ],
+    "correct": 0,
+    "explanation": "Në emfizemën panlobulare (panacinare), tipike në deficitin e alfa1-antitripsinës dhe në bazat pulmonare, shkatërrimi i gjithë acinusit jep hiperinflacionin më të theksuar."
+  },
+  {
+    "id": "licenca-nefrologji-040",
+    "question": "Në sindromin nefrotik, cila prej këtyre simptomave/shenjave mund të ndeshet?",
+    "answers": [
+      "urina me shkumë",
+      "anoreksia",
+      "shndritja e retinës",
+      "dhimbja abdominale",
+      "të gjitha përgjigjet e mësipërme janë të vërteta"
+    ],
+    "correct": 4,
+    "explanation": "Sindroma nefrotike mund të japë urinë me shkumë (proteinuri), anoreksi (edemë e murit intestinal), dhimbje abdominale (ascit, peritonit spontan, tromboza) dhe shkëlqim retinal (lipemia retinalis në hiperlipidemi të rëndë)."
+  },
+  {
+    "id": "licenca-nefrologji-041",
+    "question": "Me cilat nga këto teknika imazherike nuk mund të vizualizohet ureteri?",
+    "answers": [
+      "urografia",
+      "tomografia e kompjuterizuar",
+      "urografia gjatë rezonancës magnetike",
+      "radiografia direkte e abdomenit",
+      "pielografia transnefrostomike deshendente"
+    ],
+    "correct": 3,
+    "explanation": "Ureteri normal nuk duket në radiografinë direkte të abdomenit (duken vetëm gurët radio-opakë); vizualizohet me urografi, uro-CT, uro-RM dhe pielografi (antegrade/retrograde)."
+  },
+  {
+    "id": "licenca-nefrologji-042",
+    "question": "Cila prej sindromave të mëposhtme karakterizohet nga: humbja renale e K, Na dhe Cl, hipokalemia, hiperaldosteronizmi, hiperreninemia dhe presioni arterial normal?",
+    "answers": [
+      "Sindroma e Liddle",
+      "Sindroma e Laron",
+      "Sindroma e Kawasakit",
+      "Sindroma e Bartter",
+      "Sindroma e Di George"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma Bartter (defekt i transportuesve në ansën e Henle-s së trashë ashendente): humbje renale e Na, K, Cl, hipokalemi, alkalozë metabolike, hiperreninemi dhe hiperaldosteronizëm me presion arterial normal. Liddle jep hipertension me reninë të ulët."
+  },
+  {
+    "id": "licenca-nefrologji-043",
+    "question": "Cilat janë shkaqet më të shpeshta të versamentit pleural?",
+    "answers": [
+      "pneumonia",
+      "fibroza pulmonare",
+      "tuberkulozi",
+      "infeksionet virale",
+      "pneumotoraksi"
+    ],
+    "correct": 0,
+    "explanation": "Pneumonia (efuzioni parapneumonik) është shkaku më i shpeshtë i efuzionit pleural ndër opsionet; në përgjithësi shkaku më i shpeshtë është insuficienca kardiake (transudat)."
+  },
+  {
+    "id": "licenca-nefrologji-044",
+    "question": "Cila prej këtyre shenjave është patognomonike për glomerulonefritin me lezione minimale:",
+    "answers": [
+      "proteinuria selektive",
+      "mikrohematuria",
+      "hiperazotemia",
+      "leukocituria",
+      "cilidruria"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja me lezione minimale karakterizohet nga proteinuri selektive (kryesisht albuminë, pa proteina me peshë të madhe molekulare), pa hematuri, hipertension apo insuficiencë renale."
+  },
+  {
+    "id": "licenca-nefrologji-045",
+    "question": "Patogjeneza e hipernatremisë gjatë ushqyerjes parenterale lidhet me:",
+    "answers": [
+      "shtimin e riabsorbimit proksimal të natriumit",
+      "diurezën osmotike",
+      "reduktimin e sekretimit të hormonit antidiuretik",
+      "sekretimin e shtuar të hormonit aldosteron",
+      "filtrimin e shtuar glomerular"
+    ],
+    "correct": 1,
+    "explanation": "Gjatë ushqyerjes parenterale (solucione hiperosmolare, glukozë), hiperglicemia shkakton diurezë osmotike me humbje uji më shumë se natrium → hipernatremi."
+  },
+  {
+    "id": "licenca-nefrologji-046",
+    "question": "Gjetja e një vlere të rritur të CA-125 shoqërohet në më shumë se 80% të rasteve me diagnozën e:",
+    "answers": [
+      "karcinomës së kolonit",
+      "karcinomës mamare",
+      "karcinomës së ovareve",
+      "seminomës",
+      "karcinomës së qafës së mitrës"
+    ],
+    "correct": 2,
+    "explanation": "CA-125 është i rritur në >80% të karcinomave epiteliale të ovarit të avancuara (por mund të rritet edhe në endometriozë, menstruacione, cirrozë, peritonit) — përdoret kryesisht për ndjekjen."
+  },
+  {
+    "id": "licenca-nefrologji-047",
+    "question": "Hipertensioni nefrovaskular (shkak potencialisht i trajtueshëm i hipertensionit arterial. është vlerësuar në popullatë rreth:",
+    "answers": [
+      "mbi 10%",
+      "5-10%",
+      "1-5%",
+      "<1%",
+      "nuk është kurrë shkak i hipertensionit arterial"
+    ],
+    "correct": 2,
+    "explanation": "Hipertensioni renovaskular përbën rreth 1–5% të të gjithë hipertensionit, por është shkak i rëndësishëm sepse është potencialisht i shërueshëm."
+  },
+  {
+    "id": "licenca-nefrologji-048",
+    "question": "Bakteri më shpesh i përfshirë në infeksionet e pakomplikuara të rrugëve urinare është:",
+    "answers": [
+      "proteus",
+      "stafilokoku",
+      "mykoplazma",
+      "Escherichia Coli",
+      "Streptokoku"
+    ],
+    "correct": 3,
+    "explanation": "Escherichia coli është shkaktari më i shpeshtë i infeksioneve të pakomplikuara të rrugëve urinare (~75–90%); Staphylococcus saprophyticus te gratë e reja."
+  },
+  {
+    "id": "licenca-nefrologji-049",
+    "question": "Të gjitha komplikacionet e mëposhtme klinike ndeshen në IRK terminale me përjashtim të:",
+    "answers": [
+      "neuropatisë periferike",
+      "bronkitit astmatiform",
+      "perikarditit",
+      "anemisë",
+      "osteodistrofisë"
+    ],
+    "correct": 1,
+    "explanation": "IRK terminale (uremia) jep neuropati periferike, perikardit uremik, anemi, osteodistrofi renale, prurit, encefalopati. Bronkiti astmatiform nuk është ndërlikim tipik (edema pulmonare po)."
+  },
+  {
+    "id": "licenca-nefrologji-050",
+    "question": "Diagnoza e hipertensionit esencial:",
+    "answers": [
+      "bëhet me siguri",
+      "bëhet me anë të përjashtimit",
+      "është instrumentale",
+      "është histologjike",
+      "është serologjike"
+    ],
+    "correct": 1,
+    "explanation": "Hipertensioni esencial (primar) diagnostikohet me përjashtim: pasi të jenë përjashtuar shkaqet sekondare (renale, renovaskulare, endokrine, barna); ~90–95% e rasteve."
+  },
+  {
+    "id": "licenca-nefrologji-051",
+    "question": "Në fiankun e djathtë të një neonati ndeshet një masë e palpueshme. Urografia evidenton zhvendosje dhe distorsion të pelvisit dhe kaliceve të veshkës së djathtë. Diagnoza më e mundshme është:",
+    "answers": [
+      "neuroblastoma",
+      "tumori i Wilms",
+      "hidronefroza",
+      "tromboza e venës renale",
+      "veshka polikistike"
+    ],
+    "correct": 1,
+    "explanation": "Masë e palpueshme në ijë me deformim të pielit dhe kaliceve (masë intrarenale) sugjeron tumor Wilms (nefroblastomë). Te i porsalinduri, masat renale më të shpeshta janë hidronefroza dhe veshka multicistike; tumori solid i periudhës neonatale është shpesh nefroma mezoblastike."
+  },
+  {
+    "id": "licenca-nefrologji-052",
+    "question": "Me cilat simptoma shoqërohet më shpesh karcinoma me qeliza renale gjatë diagnostikimit",
+    "answers": [
+      "hematurinë",
+      "hematurinë + dhimbjen në fiank + masë e palpueshme",
+      "asnjë simptomë (diagnozë e rastësishme gjatë një ekzaminimi ekografik.",
+      "hipertensionin",
+      "insufiçiencën renale akute"
+    ],
+    "correct": 2,
+    "explanation": "Shumica e karcinomave renale sot zbulohen rastësisht pa simptoma (ekografi/CT për arsye të tjera); triada hematuri + dhimbje + masë shfaqet rrallë dhe tregon sëmundje të avancuar."
+  },
+  {
+    "id": "licenca-nefrologji-053",
+    "question": "Një grua 30 vjeç shtrohet me sindrom nefrotik. Ekzaminimi i proteinurisë zbulon një humbje të rëndësishme të albuminës dhe mungesë të humbjes urinare të proteinave me peshë molekulare të madhe. Cila prej këtyre situatave është në gjendje të përcaktojë një kuadër të tillë klinik?",
+    "answers": [
+      "nefropatia membranoze",
+      "nefropatia membrano-proliferative",
+      "nefropatia glomerulare me lezione minimale",
+      "glomerulonefriti proliferativ",
+      "glomerulonefriti fokal"
+    ],
+    "correct": 2,
+    "explanation": "Sindromë nefrotike me proteinuri selektive (humbje albumine pa proteina me peshë të madhe molekulare) = nefropati me lezione minimale (podocitopati), edhe te i rrituri."
+  },
+  {
+    "id": "licenca-nefrologji-054",
+    "question": "Dializa peritoneale:",
+    "answers": [
+      "kërkon hospitalizim të detyrueshëm",
+      "preferohet ndaj HD në pacientët me IRK hemodinamikisht të paqëndrueshëm",
+      "lejon një fleksibilitet më të vogël për oraret dhe zhvendosjet, në krahasim me HD",
+      "është një teknikë e vjetër",
+      "të gjitha përgjigjet e mësipërme"
+    ],
+    "correct": 1,
+    "explanation": "Dializa peritoneale është më e butë hemodinamikisht (ultrafiltrim i ngadaltë e i vazhdueshëm), prandaj preferohet te pacientët e paqëndrueshëm/me kardiopati; kryhet në shtëpi dhe jep fleksibilitet më të madh."
+  },
+  {
+    "id": "licenca-nefrologji-055",
+    "question": "Cilat janë vlerat që konsiderohen si shenjë e dëmtimit të veshkave në një pacient hipertensiv të seksit mashkull?",
+    "answers": [
+      "kreatinina plazmatike > 1.5;",
+      "kreatinina plazmatike > 1.0;",
+      "kreatinina plazmatike > 1.3;",
+      "kreatinina plazmatike > 1.6;"
+    ],
+    "correct": 2,
+    "explanation": "Sipas udhëzimeve ESH/ESC të përdorura në bankë, dëmtimi renal te hipertensivi tregohet nga rritja e lehtë e kreatininës plazmatike: 1,3–1,5 mg/dl te meshkujt (1,2–1,4 te femrat), ose GFR e ulët/mikroalbuminuri."
+  },
+  {
+    "id": "licenca-nefrologji-056",
+    "question": "Simptoma fillestare e sindromit nefrotik normalisht është:",
+    "answers": [
+      "edema",
+      "hipertensioni",
+      "hematuria",
+      "stranguria",
+      "oliguria"
+    ],
+    "correct": 0,
+    "explanation": "Simptoma e parë dhe kryesore e sindromës nefrotike është edema (periorbitale në mëngjes, pastaj e gjymtyrëve, deri anasarka), nga hipoalbuminemia dhe mbajtja e Na."
+  },
+  {
+    "id": "licenca-nefrologji-057",
+    "question": "Të gjitha situatat e mëposhtme patologjike mund të çojnë në IRK me përjashtim të:",
+    "answers": [
+      "glomerulonefritit",
+      "pielonefritit",
+      "renit polikistik",
+      "tubulonekrozës akute nga shoku",
+      "nefroangiosklerozës"
+    ],
+    "correct": 3,
+    "explanation": "IRK vjen nga sëmundje progresive: glomerulonefritet, pielonefriti kronik, veshka polikistike, nefroangioskleroza, nefropatia diabetike. Nekroza tubulare akute nga shoku është zakonisht e kthyeshme (IRA)."
+  },
+  {
+    "id": "licenca-nefrologji-058",
+    "question": "Nefropatia më shpesh shkaktare e IRK është:",
+    "answers": [
+      "nefropatia diabetike",
+      "nefropatia intersticiale",
+      "nefropatia glomerulare",
+      "nefropatia vaskulare",
+      "nefropatia tubulare"
+    ],
+    "correct": 0,
+    "explanation": "Shkaku më i shpeshtë i IRK (dhe i dializës) në vendet e zhvilluara është nefropatia diabetike, e ndjekur nga nefroangioskleroza hipertensive dhe glomerulonefritet."
+  },
+  {
+    "id": "licenca-nefrologji-059",
+    "question": "Administrimi i zgjatur i cilit prej këtyre medikamenteve konsiderohet një faktor rreziku për Osteoporozën?",
+    "answers": [
+      "ACE inhibitorët",
+      "Diuretikët tiazidikë",
+      "Kortikosteroidet",
+      "Antagonistët e kalçiumit",
+      "Laksativët"
+    ],
+    "correct": 2,
+    "explanation": "Kortikosteroidet e zgjatura janë shkaku më i shpeshtë i osteoporozës sekondare (frenojnë osteoblastet, ulin absorbimin e Ca). Tiazidet përkundrazi ulin kalciurinë dhe mbrojnë kockën."
+  },
+  {
+    "id": "licenca-nefrologji-060",
+    "question": "Reduktimi i izoluar i koefiçientit të ultrafiltrimit shkakton një nga këto simptoma:",
+    "answers": [
+      "mikrohematuri",
+      "leukocituri",
+      "dislipidemi",
+      "hipertension",
+      "hipoproteinemi"
+    ],
+    "correct": 3,
+    "explanation": "Reduktimi i izoluar i koeficientit të ultrafiltrimit (Kf) ul GFR-në, që çon në mbajtje Na/uji dhe aktivizim të mekanizmave kompensues → hipertension."
+  },
+  {
+    "id": "licenca-nefrologji-061",
+    "question": "Cili prej këtyre medikamenteve indikohet në trajtimin fillestar të pacientit me insufiçiencë kardiake pak simptomatike?",
+    "answers": [
+      "hidroklortiazidi",
+      "ACE inhibitorët",
+      "Digoksina",
+      "Amiodaroni",
+      "Betabllokuesit"
+    ],
+    "correct": 1,
+    "explanation": "Në insuficiencën kardiake me disfunksion sistolik, edhe kur është pak simptomatike (NYHA I–II), terapia fillestare bazë është ACE-inhibitori (ul vdekshmërinë dhe progresionin), së bashku me betabllokuesin; diuretikët vetëm për kongjestionin."
+  },
+  {
+    "id": "licenca-nefrologji-062",
+    "question": "Tregoni cilët ekzaminime laboratorike janë zakonisht të alteruar në hipertensionin esencial pa komplikacione sekondare:",
+    "answers": [
+      "elektrolitet në gjak",
+      "kreatininemia",
+      "asnjëri",
+      "ekzaminimi i urinës",
+      "hormonale"
+    ],
+    "correct": 2,
+    "explanation": "Në hipertensionin esencial të pakomplikuar ekzaminimet laboratorike (elektrolitet, kreatinina, urina, hormonet) janë zakonisht normale; anomalitë sugjerojnë dëmtim organesh ose hipertension sekondar."
+  },
+  {
+    "id": "licenca-nefrologji-063",
+    "question": "Një grua 40 vjeç pa ankesa kryen, në terren të një chek-up, një analizë urine me urokulturë pozitive për E. Coli me ngarkesë >100.000 UFC. Gruaja ka:",
+    "answers": [
+      "IVU të rrugëve të poshtme urinare",
+      "IVU të rrugëve të sipërme urinare",
+      "bakteriuri asimptomatike",
+      "dizuri",
+      "cistit intersticial"
+    ],
+    "correct": 2,
+    "explanation": "Urokulturë ≥100.000 CFU/ml pa simptoma = bakteriuri asimptomatike; te gruaja jo shtatzënë nuk trajtohet (trajtohet vetëm në shtatzëni dhe para procedurave urologjike)."
+  },
+  {
+    "id": "licenca-nefrologji-064",
+    "question": "Cila prej situatave të mëposhtme shoqërohet me incidencën më të lartë të tumorit të testikulit?",
+    "answers": [
+      "varikocela",
+      "trauma e testikulit",
+      "kriptorkidizmi",
+      "hidrocela",
+      "hipogonadizmi"
+    ],
+    "correct": 2,
+    "explanation": "Kriptorkidia është faktori kryesor i rrezikut për tumorin testikular (rrezik 3–10 herë më i lartë, edhe në testikulin kontralateral)."
+  },
+  {
+    "id": "licenca-nefrologji-065",
+    "question": "Në glomerulonefritin membranoz tipik janë të pranishme të gjitha shenjat e mëposhtme, me përjashtim të:",
+    "answers": [
+      "hipertensionit",
+      "proteinurisë",
+      "hipoproteinemisë",
+      "hiperkolesterolemisë",
+      "edemave"
+    ],
+    "correct": 0,
+    "explanation": "Glomerulonefriti membranoz shfaqet tipikisht me sindromë nefrotike të pastër (proteinuri, hipoalbuminemi, hiperkolesterolemi, edema); hipertensioni është zakonisht i munguar në fillim."
+  },
+  {
+    "id": "licenca-nefrologji-066",
+    "question": "Cili është komplikacioni më i frikshëm i sindromit nefrotik?",
+    "answers": [
+      "hipertensioni arterial",
+      "insufiçienca renale",
+      "insufiçienca renale akute",
+      "tromboza e venës renale",
+      "dekompernsimi kardio-cirkulator"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma nefrotike (sidomos membranoze) ka gjendje hiperkoagulabiliteti (humbje antitrombine III, rritje fibrinogjeni) → komplikacioni më i frikshëm është tromboza e venës renale dhe embolizmi pulmonar."
+  },
+  {
+    "id": "licenca-nefrologji-067",
+    "question": "Pielonefriti kronik (nefriti tubulo-intersticial infektiv kronik., shënoni përgjigjen e pasaktë:",
+    "answers": [
+      "shpesh është bilateral",
+      "shkakton atrofi dhe deformim të kaliceve",
+      "nuk lidhet me anomali anatomike",
+      "shpesh lidhet me një refluks veziko ureteral",
+      "asnjëra prej përgjigjeve të mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "E pasaktë: pielonefriti kronik lidhet shpesh me anomali anatomike/funksionale (refluks veziko-ureteral, obstruksione, gurë); jep cikatrice kortikale me deformim të kaliceve, shpesh bilateral."
+  },
+  {
+    "id": "licenca-nefrologji-068",
+    "question": "Nefropatia nga IgA karakterizohet nga:",
+    "answers": [
+      "nga një model histologjik variabël, më shpesh e tipit proliferativ-sklerotik mezangial, me depozitime të IgA",
+      "prania e IgA në arteriola",
+      "prania e IgA në tubula",
+      "prania e IgA në lumenin e kapilarëve",
+      "glomeruloskleroza"
+    ],
+    "correct": 0,
+    "explanation": "Nefropatia me IgA (Berger) ka histologji të ndryshueshme, më shpesh proliferim mezangial (me sklerozë), me depozita dominante IgA në mezangium në imunofluoreshencë."
+  },
+  {
+    "id": "licenca-nefrologji-069",
+    "question": "Cila nga nefropatitë e mëposhtme karakterizohet nga: proteinuria, hematuria e lehtë, hipertensioni, hiperazotemia?",
+    "answers": [
+      "Sëmundja me lezione minimale tek fëmijët",
+      "Glomerulonefriti membranoproliferativ",
+      "Glomeruloskleroza fokale segmentare",
+      "Kalkuloza renale",
+      "Glomerulonefriti mezangioproliferativ"
+    ],
+    "correct": 2,
+    "explanation": "Glomeruloskleroza fokale segmentare shfaqet me proteinuri (shpesh nefrotike, jo-selektive), mikrohematuri, hipertension dhe ulje të funksionit renal (azotemi); përgjigjet më pak ndaj steroideve."
+  },
+  {
+    "id": "licenca-nefrologji-070",
+    "question": "Enureza është:",
+    "answers": [
+      "gjithmonë patologjike",
+      "fiziologjike gjatë 2-3 viteve të para të jetës",
+      "fiziologjike deri në moshën 5 vjeç",
+      "nuk mund të shkaktohet kurrë nga infeksionet",
+      "normale në moshën e avancuar"
+    ],
+    "correct": 2,
+    "explanation": "Enureza (urinimi i pavullnetshëm natën) konsiderohet fiziologjike deri në moshën 5 vjeç; diagnoza e enurezës vendoset pas 5 vjeç. Çelësi (B, 2–3 vjeç) është shumë i ulët."
+  },
+  {
+    "id": "licenca-nefrologji-071",
+    "question": "Komplementemia është e ulur në një nga glomerulopatitë e mëposhtme:",
+    "answers": [
+      "nefropatia diabetike",
+      "glomerulonefriti post-infektiv",
+      "glomerulonefriti membranoz",
+      "nefropatia në terren të amiloidozës",
+      "glomerulonefriti me lezione minimale"
+    ],
+    "correct": 1,
+    "explanation": "Komplementi (C3) është i ulët në glomerulonefritin post-infektiv (post-streptokoksik, normalizohet brenda 8 javësh), si dhe në GN membrano-proliferativ, nefritin lupik dhe krioglobulineminë."
+  },
+  {
+    "id": "licenca-nefrologji-072",
+    "question": "Cila prej këtyre situatave favorizon akumulimin e K+ në organizëm?",
+    "answers": [
+      "diarrea",
+      "të vjellat e vazhdueshme",
+      "acidoza diabetike",
+      "abuzimi me klortiazidikë",
+      "insufiçienca kortikosurenale"
+    ],
+    "correct": 4,
+    "explanation": "Insuficienca kortikosurrenale (mungesë aldosteroni) pengon ekskretimin renal të K+ → hiperkalemi. Diarreja, të vjellat dhe tiazidet japin hipokalemi; acidoza diabetike ka K total të ulët."
+  },
+  {
+    "id": "licenca-nefrologji-073",
+    "question": "Nekroza tubulare akute mund të jetë komplikacion i :",
+    "answers": [
+      "glomerulonefritit akut difuz",
+      "sindromit nefrotik",
+      "litiazës renale",
+      "amiloidozës renale",
+      "sindromës së shtypjes"
+    ],
+    "correct": 4,
+    "explanation": "Nekroza tubulare akute mund të ndërlikojë sindromën e shtypjes (crush — mioglobinuria + hipovolemia), si dhe shokun, sepsën, nefrotoksikët."
+  },
+  {
+    "id": "licenca-nefrologji-074",
+    "question": "Në një pacient, gjatë ecurisë së versamentit pleural masiv, vlerësohen të gjitha shenjat e mëposhtme me përjashtim të :",
+    "answers": [
+      "reduktimit të fremitus vokal taktil",
+      "respiracionit vezikular të reduktuar ose që mungon",
+      "prekjes së nervave",
+      "ekskursionit të reduktuar të hemitoraksit të prekur",
+      "tingullit të qartë pulmonar"
+    ],
+    "correct": 2,
+    "explanation": "Në efuzionin pleural masiv: fremitus vokal i reduktuar/zhdukur, matitet në perkusion (jo tingull i qartë), frymëmarrje vezikulare e dobësuar/e munguar, ekskursion i reduktuar i hemitoraksit. Edhe tingulli i qartë pulmonar mungon (përgjigja E është shenja që nuk pritet)."
+  },
+  {
+    "id": "licenca-nefrologji-075",
+    "question": "Në personat me moshë të re, heqja e njërës veshkë shkakton tek veshka e mbetur:",
+    "answers": [
+      "hipertrofi",
+      "hipertrofi dhe hiperplazi",
+      "hiperplazi",
+      "hipoplazi",
+      "hipoplazi dhe hipotrofi"
+    ],
+    "correct": 1,
+    "explanation": "Pas nefrektomisë te të rinjtë, veshka e mbetur kompenson me hipertrofi dhe hiperplazi (rritje e përmasave të nefroneve dhe e numrit të qelizave tubulare), duke rritur GFR-në e saj."
+  },
+  {
+    "id": "licenca-nefrologji-076",
+    "question": "Testi specifik për vlerësimin e fluksit plazmatik renal është:",
+    "answers": [
+      "klirensi i insulinës",
+      "klirensi i kreatininës",
+      "klirensi i paraaminohipuratit",
+      "klirensi i inulinës",
+      "të gjitha përgjigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Klirensi i para-aminohipuratit (PAH, filtrohet dhe sekretohet pothuajse plotësisht) mat fluksin plazmatik renal efektiv. Klirensi i inulinës mat GFR-në."
+  },
+  {
+    "id": "licenca-nefrologji-077",
+    "question": "Janë shkaktarë të inkontinencës tranzitore faktorët e mëposhtëm me përjashtim të:",
+    "answers": [
+      "infeksionit simptomatik të rrugëve urinare",
+      "konsumimit të alkoolit",
+      "konsumimit të disa substancave mjekësore",
+      "fekalomës",
+      "konsumimit të sasive të tepërta të lëngjeve"
+    ],
+    "correct": 4,
+    "explanation": "Shkaqet e inkontinencës kalimtare (DIAPPERS): delirium, infeksione urinare simptomatike, atrofi vaginale, barna, alkool, çrregullime psikologjike, poliuri (hiperglicemi), lëvizshmëri e kufizuar, fekalomë. Marrja e lëngjeve të tepërta nuk përfshihet si shkak tipik."
+  },
+  {
+    "id": "licenca-nefrologji-078",
+    "question": "Cili prej këtyre medikamenteve përbën terapinë më efikase, për reduktimin e vdekjeve të papritura në pacientë me kardiopati koronare të qëndrueshme me defiçit të funksionit ventrikular?",
+    "answers": [
+      "amlodipina",
+      "betabllokuesit",
+      "nitratet",
+      "diuretikët",
+      "digoksina"
+    ],
+    "correct": 1,
+    "explanation": "Betabllokuesit ulin vdekshmërinë totale dhe vdekjen e papritur te pacientët me kardiopati koronare dhe disfunksion ventrikular (pas infarktit, insuficiencë kardiake)."
+  },
+  {
+    "id": "licenca-nefrologji-079",
+    "question": "Cila prej alternativave të mëposhtme shihet më shpesh në hipokalemi?",
+    "answers": [
+      "kapaciteti i reduktuar për të pëqëndruar urinën",
+      "reduktimi i filtratit glomerular",
+      "humbja e aftësisë së hollimit të urinës",
+      "alterimi i klirensit të ujit të lirë",
+      "reduktimi i klirensit të acidit para-aminohipurik"
+    ],
+    "correct": 0,
+    "explanation": "Hipokalemia kronike dëmton aftësinë e veshkës për të përqendruar urinën (DI nefrogjen: ulje e përgjigjes ndaj ADH) → poliuri dhe polidipsi."
+  },
+  {
+    "id": "licenca-nefrologji-080",
+    "question": "Prania e eritrociteve me morfologji të ruajtur e kufinj të rregullt, dhe veçanërisht, mungesa e plotë e akantociteve në sedimentin urinar, është tregues i fortë i:",
+    "answers": [
+      "pH alkalin të urinës",
+      "hemorragjisë me prejardhje nga rrugët urinare (uretere, vezikë, uretra)",
+      "pranisë së sindromit nefrotik",
+      "dëmtimit glomerular",
+      "nefropatisë intersticiale"
+    ],
+    "correct": 1,
+    "explanation": "Eritrocitet izomorfe (me morfologji të ruajtur, pa akantocite) në sediment tregojnë hematuri jo-glomerulare (nga rrugët urinare: gurë, tumore, infeksion). Eritrocitet dismorfike/akantocitet tregojnë origjinë glomerulare."
+  },
+  {
+    "id": "licenca-nefrologji-081",
+    "question": "Shfaqja e makrohematurisë 15 ditë pas një episodi inflamacioni të rrugëve të sipërme ajrore, për cilën glomerulopati të bën të mendosh:",
+    "answers": [
+      "skleroza fokale dhe segmentare",
+      "proliferative mezangiale me depozitime të IgA",
+      "membrano-proliferative",
+      "membranoze",
+      "post-streptokoksike"
+    ],
+    "correct": 4,
+    "explanation": "Makrohematuri 1–3 javë (këtu 15 ditë) pas infeksionit të rrugëve të sipërme sugjeron glomerulonefrit post-streptokoksik (periudhë latente). Në nefropatinë me IgA hematuria shfaqet njëkohësisht ose 1–2 ditë pas infeksionit."
+  },
+  {
+    "id": "licenca-nefrologji-082",
+    "question": "Cili prej ndryshimeve të mëposhtme të stilit të jetesës ka rezultuar më efikas në reduktimin e presionit arterial?",
+    "answers": [
+      "reduktimi i peshës trupore",
+      "ndërprerja e duhanpirjes",
+      "reduktimi i kripës në dietë",
+      "eliminimi i kafeinës në dietë",
+      "terapia e pushimit"
+    ],
+    "correct": 2,
+    "explanation": "Reduktimi i kripës (dietë hiposodike, DASH) është ndryshimi i stilit të jetesës më efikas në uljen e TA; edhe humbja e peshës ka efekt të madh (~1 mmHg për kg)."
+  },
+  {
+    "id": "licenca-nefrologji-083",
+    "question": "Në pielonefritin akut, faktor favorizues për fillimin e një nekroze papilare është:",
+    "answers": [
+      "bakteriuria",
+      "diabeti mellitus",
+      "hiperdislipidemia",
+      "hipodisproteinemia",
+      "bilirubinuria"
+    ],
+    "correct": 1,
+    "explanation": "Nekroza papilare renale gjatë pielonefritit favorizohet nga diabeti mellitus, obstruksioni urinar, abuzimi me analgjezikë, drepanocitoza."
+  },
+  {
+    "id": "licenca-nefrologji-084",
+    "question": "Të gjitha pohimet e mëposhtme lidhur me IRK janë të sakta, me përjashtim të:",
+    "answers": [
+      "bilancit sodik negativ",
+      "bilancit sodik pozitiv",
+      "bilancit sodik të ekuilibruar",
+      "bilancit negativ të fosfateve",
+      "bilancit pozitiv të joneve hidrogjen"
+    ],
+    "correct": 3,
+    "explanation": "Në IRK ka bilanc pozitiv të fosfateve (hiperfosfatemi, jo negativ) dhe të joneve hidrogjen (acidozë); bilanci i natriumit mund të jetë pozitiv, negativ ose i ekuilibruar sipas fazës dhe nefropatisë."
+  },
+  {
+    "id": "licenca-nefrologji-085",
+    "question": "Si prezantohet më shpesh tumori i vezikës urinare:",
+    "answers": [
+      "si urgjencë miksionale",
+      "si polakiuri",
+      "si makrohematuri",
+      "si stranguri",
+      "si poliuri"
+    ],
+    "correct": 2,
+    "explanation": "Tumori i fshikëzës urinare shfaqet më shpesh me makrohematuri pa dhimbje (totale, intermitente); simptomat irritative (urgjencë, polakiuri) sugjerojnë karcinomë in situ."
+  },
+  {
+    "id": "licenca-nefrologji-086",
+    "question": "Cilën grupmoshë prek më shpesh glomerulonefriti akut post-streptokoksik?",
+    "answers": [
+      "fëmijët",
+      "të rinjtë",
+      "të moshuarit",
+      "adultët",
+      "neonatët"
+    ],
+    "correct": 0,
+    "explanation": "Glomerulonefriti akut post-streptokoksik prek kryesisht fëmijët 2–12 vjeç, pas faringitit (1–3 javë) ose piodermitit (3–6 javë)."
+  },
+  {
+    "id": "licenca-nefrologji-087",
+    "question": "Cili prej infeksioneve virale të mëposhtme shoqërohet më shpesh me shfaqjen e hepatokarcinomës në një pacient pa cirrozë hepatike?",
+    "answers": [
+      "infeksioni me Virusin e Hepatitit A",
+      "infeksioni me Virusin e Hepatitit B",
+      "infeksioni me Virusin e Hepatitit C",
+      "infeksioni me Virusin e Citomegalovirusit",
+      "infeksioni me Virusin Epstein Barr"
+    ],
+    "correct": 1,
+    "explanation": "HBV mund të shkaktojë hepatokarcinomë edhe pa cirrozë (integrimi i ADN-së virale në gjenomin e hepatocitit, proteina X onkogjene). HCV jep HCC zakonisht mbi cirrozë."
+  },
+  {
+    "id": "licenca-nefrologji-088",
+    "question": "Një djalë 16 vjeç prezanton një kuadër klinik të sindromit nefrotik dhe kryen biopsinë renale; kuadri histologjik statistikisht më i mundshëm do të jetë:",
+    "answers": [
+      "glomerulonefriti post-streptokoksik",
+      "glomeruloskleroza segmento-fokale",
+      "lezione glomerulare minimale",
+      "glomerulonefriti membranoz",
+      "nefropatia diabetike"
+    ],
+    "correct": 2,
+    "explanation": "Te adoleshenti me sindromë nefrotike lezionet glomerulare minimale mbeten gjetja histologjike më e mundshme, edhe pse me rritjen e moshës rritet përqindja e glomerulosklerozës fokale segmentare."
+  },
+  {
+    "id": "licenca-nefrologji-089",
+    "question": "Cilat janë shenjat indirekte të një guri urinar në ekografi?",
+    "answers": [
+      "formacion ekogen",
+      "hije konike",
+      "zgjerim i rrugëve urinare mbi pengesë",
+      "radioopacitet",
+      "radiotransparencë"
+    ],
+    "correct": 2,
+    "explanation": "Shenja indirekte e gurit urinar në ekografi është dilatimi i rrugëve urinare mbi pengesë (hidronefroza/hidroureteri). Shenjat direkte janë imazhi hiperekogjen me hije akustike."
+  },
+  {
+    "id": "licenca-nefrologji-090",
+    "question": "Glomerulonefriti që vërehet më shpesh në terren të një neoplazie është:",
+    "answers": [
+      "GN(glomerulonefriti. me lezione minimale",
+      "GN(glomerulonefriti. membrano-proliferativ",
+      "Glomeruloskleroza segmetare fokale",
+      "GN(glomerulonefriti. membranoz",
+      "GN(glomerulonefriti. proliferativ me trombe"
+    ],
+    "correct": 3,
+    "explanation": "Glomerulonefriti membranoz është glomerulopatia më e shpeshtë paraneoplazike (kancer pulmonar, gastrointestinal, gjiri), sidomos te >60 vjeç; Hodgkin shoqërohet më shpesh me sëmundjen me lezione minimale."
+  },
+  {
+    "id": "licenca-nefrologji-091",
+    "question": "Cili prej pohimeve të mëposhtme është i SAKTË?",
+    "answers": [
+      "nivelet në gjak të kreatininës nuk ndryshojnë me moshën dhe seksin",
+      "klirensi i kreatininës nënvlerëson filtracionin real glomerular (i matur me klirensin e inulinës. dhe ky nënvlerësim është më i madh sa më shumë të reduktohet filtracioni",
+      "konsumimi i mishit në dietë nuk ndikon nivelet e kreatininës në gjak",
+      "nivelet e azotemisë nuk ndikohen vetëm nga filtracioni glomerular, por edhe nga diureza dhe marrja e proteinave në dietë",
+      "konsumimi i mishit në dietë nuk ndikon nivelet e azotemisë"
+    ],
+    "correct": 3,
+    "explanation": "Azotemia (uremia) varet jo vetëm nga GFR, por edhe nga marrja e proteinave, katabolizmi, hemorragjitë gastrointestinale dhe diureza/hidratimi. Kreatinina ndryshon me masën muskulore, moshën, seksin, mishin në dietë; klirensi i kreatininës mbivlerëson GFR-në."
+  },
+  {
+    "id": "licenca-nefrologji-092",
+    "question": "Ç’farë duhet bërë kur kemi prani të mikrohematurisë së izoluar në një skiator?",
+    "answers": [
+      "kryerja e biopsisë renale",
+      "moskryerja e biopsisë renale",
+      "përcaktimi i klirensit të kreatininës",
+      "matja e presionit arterial",
+      "kontrollimi i pacientit periodikisht"
+    ],
+    "correct": 4,
+    "explanation": "Mikrohematuria e izoluar pas sportit intensiv (si skiatorët) është shpesh beninje dhe kalimtare; kontrollohet përsëri pas pushimit dhe ndiqet periodikisht pa ekzaminime invazive."
+  },
+  {
+    "id": "licenca-nefrologji-093",
+    "question": "Urinat në glomerulonefrit akut paraqesin të gjitha alterimet e mëposhtme me përjashtim të:",
+    "answers": [
+      "hematuri makroskopike",
+      "cilindra eritrocitarë",
+      "proteinuri",
+      "ngjyrim kafe",
+      "koagula"
+    ],
+    "correct": 4,
+    "explanation": "Urina në glomerulonefritin akut: hematuri (makro, ngjyrë kafe \"si coca-cola\"), cilindra eritrocitarë, proteinuri; nuk ka koagula (mpiksje gjaku), që sugjerojnë hematuri nga rrugët urinare."
+  },
+  {
+    "id": "licenca-nefrologji-094",
+    "question": "Cila prej terapive të mëposhtme përzgjidhet aktualisht në fillim në një pacient me Artrit Reumatoid?",
+    "answers": [
+      "AINS",
+      "Prednizon 40mg/ditë",
+      "Metotreksat (10mg/javë. + AINS + ndoshta kortikosteroidë me dozë të ulët",
+      "AINS + minociklinë (100mg 2 herë në ditë.",
+      "Paracetamol sipas nevojës"
+    ],
+    "correct": 2,
+    "explanation": "Sot artriti reumatoid trajtohet herët me DMARD — metotreksati (bari i ankorimit), + FANS për simptomat ± kortikosteroide me doza të ulëta si urë; biologjikët nëse nuk ka përgjigje."
+  },
+  {
+    "id": "licenca-nefrologji-095",
+    "question": "Cila është patologjia më shumë përgjegjëse për hyrjet e reja në dializë për shkak të uremisë terminale?",
+    "answers": [
+      "glomerulonefriti primar",
+      "sëmundjet renale kongjenitale",
+      "diabeti mellitus",
+      "hipertensioni arterial",
+      "nefropatitë tubulointersticiale"
+    ],
+    "correct": 2,
+    "explanation": "Diabeti mellitus (nefropatia diabetike) është shkaku kryesor i hyrjeve të reja në dializë, pastaj nefroangioskleroza hipertensive dhe glomerulonefritet."
+  },
+  {
+    "id": "licenca-nefrologji-096",
+    "question": "Cili prej çrregullimeve të mëposhtme të gjumit ka prevalencë më të madhe në pacientët e dializuar në krahasim me popullatën e përgjithshme:",
+    "answers": [
+      "Somnambulizmi",
+      "Çrregullim i fazës REM",
+      "Sindromi i këmbëve të shqetësuara",
+      "Kërcitja e dhëmbëve",
+      "Asnjëra nga përgjigjet e mëposhtme"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma e këmbëve të shqetësuara është shumë më e shpeshtë te pacientët në dializë (20–30%), e lidhur me uremin, anemi/mungesë hekuri, hiperfosfateminë."
+  },
+  {
+    "id": "licenca-nefrologji-097",
+    "question": "Të gjitha nefropatitë e mëposhtme recidivojnë në veshkën e transplantuar, përveç:",
+    "answers": [
+      "glomerulosklerozës segmentare fokale",
+      "glomerulonefritit membrano-proliferativ",
+      "glomerulonefritit me antikorpe anti membranë bazale glomerulare",
+      "nefropatia me depozitime mezangiale të IgA",
+      "tubulopatia kongjenitale e Gitelman"
+    ],
+    "correct": 4,
+    "explanation": "Recidivojnë në veshkën e transplantuar: FSGS, GN membrano-proliferativ, nefropatia me IgA, anti-MBG (rrallë), SHU atipik. Tubulopatitë kongjenitale (Gitelman) nuk recidivojnë, sepse defekti është në veshkat native."
+  },
+  {
+    "id": "licenca-nefrologji-098",
+    "question": "Në asnjërën prej situatave të mëposhtme nuk vërehet rritja e gap-it anionik, përveç:",
+    "answers": [
+      "nefropatisë intersticiale",
+      "mosushqyerjes",
+      "ureterosigmoidostomisë",
+      "acidozës tubulare proksimale",
+      "nefropatisë diabetike"
+    ],
+    "correct": 1,
+    "explanation": "Acidoza me gap anionik të rritur vjen nga ketoacidoza (diabetike, alkoolike, nga urija/mosushqyerja), acidoza laktike, uremia, helmimet. Acidozat tubulare, diarreja dhe ureterosigmoidostomia japin acidozë me gap normal (hiperkloremike)."
+  },
+  {
+    "id": "licenca-nefrologji-099",
+    "question": "Ku e merr origjinën më shpesh tumori i prostatës?",
+    "answers": [
+      "nga zona qëndrore",
+      "nga zona periferike",
+      "nga zona e tranzicionit",
+      "nga vezikulat seminale",
+      "nga uretra prostatike"
+    ],
+    "correct": 1,
+    "explanation": "Adenokarcinoma e prostatës lind në ~70% të rasteve në zonën periferike (posteriore, e palpueshme me tushe rektale); hiperplazia beninje lind në zonën tranzicionale."
+  },
+  {
+    "id": "licenca-nefrologji-100",
+    "question": "Vendi më i shpeshtë i metastazave të tumorit të prostatës jashtë limfonodujve është:",
+    "answers": [
+      "kolona lumbo-sakrale",
+      "pulmonet",
+      "mëlçia",
+      "surenalet",
+      "truri"
+    ],
+    "correct": 0,
+    "explanation": "Përtej limfonodujve, kanceri i prostatës metastazon më shpesh në kocka, sidomos kolonën lumbo-sakrale dhe legenin (përmes pleksusit venoz vertebral të Batson-it)."
+  },
+  {
+    "id": "licenca-nefrologji-101",
+    "question": "Cilat janë shkaqet më të zakonshme të dëmtimit të ereksionit me natyrë organike?",
+    "answers": [
+      "vaskulare",
+      "nervore",
+      "jatrogjenike",
+      "hormonale",
+      "patologji të trupave kavernozë"
+    ],
+    "correct": 0,
+    "explanation": "Shkaqet më të shpeshta organike të disfunksionit erektil janë vaskulare (ateroskleroza, disfunksioni endotelial nga diabeti, hipertensioni, duhani, dislipidemia)."
+  },
+  {
+    "id": "licenca-nefrologji-102",
+    "question": "Të gjitha sëmundjet e mëposhtme mund të çojnë në IRK me përjashtim të:",
+    "answers": [
+      "lupusit eritematoz sistemik",
+      "diabetit mellitus",
+      "amiloidozës",
+      "mielosklerozës",
+      "mielomës multiple"
+    ],
+    "correct": 3,
+    "explanation": "LES (nefrit lupik), diabeti, amiloidoza dhe mieloma multiple (nefropatia nga zinxhirët e lehtë) çojnë në IRK. Mieloskleroza (mielofibroza) nuk shkakton zakonisht IRK. Çelësi (C) është i gabuar, sepse amiloidoza renale është shkak klasik i IRK."
+  },
+  {
+    "id": "licenca-nefrologji-103",
+    "question": "Cila prej këtyre simptomave të IRK është më e ndjeshme ndaj korrigjimit të acidozës:",
+    "answers": [
+      "diarrea",
+      "nauzea dhe të vjellat",
+      "astenia muskulore",
+      "anemia",
+      "pruriti"
+    ],
+    "correct": 1,
+    "explanation": "Acidoza metabolike në IRK kontribuon në nauze, të vjella, anoreksi dhe katabolizëm proteinik; korrigjimi me bikarbonat i përmirëson sidomos simptomat gastrointestinale."
+  },
+  {
+    "id": "licenca-nefrologji-104",
+    "question": "Gjatë vlerësimit të funksionit renal, parametrat më të përdorshëm janë Azotemia dhe Kreatininemia; vlerat që konsiderohen normale janë:",
+    "answers": [
+      "Azotemia 2.0-4.0 mg/dl; Kreatininemia 0,4-0,8 mg/dl",
+      "Azotemia 2.0-7.0 mg/dl; Kreatininemia 0,4-1,5 mg/dl",
+      "Azotemia 7.0-20.0 mg/dl; Kreatininemia 0,6-3,5 mg/dl",
+      "Azotemia 20.0-60.0 mg/dl; Kreatininemia 0,7-2,5 mg/dl",
+      "Azotemia 60.0-70.0 mg/dl; Kreatininemia 0,4-1,5 mg/dl"
+    ],
+    "correct": 1,
+    "explanation": "Vlerat e pranuara janë kreatininë 0,4–1,5 mg/dl (në shumicën e laboratorëve 0,6–1,2) dhe azotemi e ulët. Kujdes: azoti ureik (BUN) normal është ~7–20 mg/dl dhe uremia ~15–45 mg/dl, sipas metodës së raportimit."
+  },
+  {
+    "id": "licenca-nefrologji-105",
+    "question": "Në një pacient me dekompensim kardiak nën trajtim me furosemid, cili prej elektroliteve të mëposhtëm duhet monitoruar vazhdimisht?",
+    "answers": [
+      "Natriumi",
+      "Klori",
+      "Kaliumi",
+      "Kalçiumi",
+      "Magnezi"
+    ],
+    "correct": 2,
+    "explanation": "Furosemidi (diuretik i ansës) shkakton humbje urinare të kaliumit (dhe magnezit); te kardiopati (veçanërisht me digoksinë) hipokalemia rrit rrezikun e aritmive, ndaj K monitorohet rregullisht."
+  },
+  {
+    "id": "licenca-nefrologji-106",
+    "question": "Në një pacient me IRK kryerja e një ekzaminimi koronarografik:",
+    "answers": [
+      "duhet kundërindikuar gjithmonë",
+      "duhet kundërindikuar nëse vlerat e kreatininës janë më të larta se norma",
+      "mund të realizohet me përgatitjen e duhur",
+      "nuk ka efekte mbi funksionin renal",
+      "pas një ekzaminimi të tillë kërkohet kryerja e proçedurës së menjëhershme të dializës"
+    ],
+    "correct": 2,
+    "explanation": "Te pacienti me IRK koronarografia mund të bëhet me përgatitje: hidratim IV, kontrast me osmolaritet të ulët/izo-osmolar në sasi minimale, pezullim i nefrotoksikëve dhe monitorim i kreatininës."
+  },
+  {
+    "id": "licenca-nefrologji-107",
+    "question": "Një individ i sëmurë me Tuberkuloz, nëse nuk i nënshtrohet kurave të përshtatshme, mund të infektojë për gjatë një viti:",
+    "answers": [
+      "një mesatare prej 10-15 personash",
+      "20-30",
+      "mbi 40",
+      "mbi 50",
+      "mbi 100"
+    ],
+    "correct": 0,
+    "explanation": "Një pacient me TB pulmonare bacilifere të patrajtuar infekton mesatarisht 10–15 persona në vit (sipas OBSH)."
+  },
+  {
+    "id": "licenca-nefrologji-108",
+    "question": "Për cilën nga manifestimet e mëposhtme të SIDA-s, besohet se luan një rol patogjenetik virusi human herpes tip 8 (HHV-8):",
+    "answers": [
+      "sarkomën Kaposi",
+      "limfadenopatinë e gjeneralizuar persistente",
+      "angiomatozën bacilare",
+      "diarrenë kronike",
+      "leukoplakinë orale viloze"
+    ],
+    "correct": 0,
+    "explanation": "HHV-8 (herpesvirusi i sarkomës Kaposi) është agjenti shkaktar i sarkomës Kaposi, si dhe i limfomës primare me efuzione dhe sëmundjes multicentrike Castleman."
+  }
+]

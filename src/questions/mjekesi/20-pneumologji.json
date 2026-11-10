@@ -1,0 +1,1886 @@
+[
+  {
+    "id": "licenca-pneumologji-001",
+    "question": "Të gjitha shënjat e mëposhtëme janë karakteristikë e cor pulmonare kronik me perjashtim:",
+    "answers": [
+      "turgor i jugulareve",
+      "edema periferike",
+      "hepatomegali",
+      "kolle",
+      "gishta si shkop tamburi"
+    ],
+    "correct": 3,
+    "explanation": "Cor pulmonale kronik (insuficiencë e zemrës së djathtë nga sëmundje pulmonare) jep shenja të kongjestionit venoz sistemik: turgor jugularesh, hepatomegali, edema periferike; gishtat në shkop daulle reflektojnë hipokseminë kronike. Kolla i përket sëmundjes bazë, jo vetë cor pulmonale."
+  },
+  {
+    "id": "licenca-pneumologji-002",
+    "question": "Cilat patologji mund të jenë shkaku i hemoptizisë?",
+    "answers": [
+      "koagulimi intravaskular i diseminuar",
+      "tumore primitiv beninj ose malinj",
+      "patologji granulomatoze aktive",
+      "emboli – infarkt pulmonar",
+      "të gjitha të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Hemoptizia shkaktohet nga: bronkiti dhe bronkoektazitë, tumoret (karcinoma bronkogjene, karcinoidi), TB dhe sëmundjet granulomatoze, emboli/infarkt pulmonar, stenoza mitrale, koagulopatitë (KID), vaskulitet."
+  },
+  {
+    "id": "licenca-pneumologji-003",
+    "question": "Bronkiti infektiv akut ka incidencën maksimale në?",
+    "answers": [
+      "në dimër",
+      "në verë",
+      "në vjeshtë",
+      "në pranverë",
+      "nuk ka diferenca stinore në incidence"
+    ],
+    "correct": 0,
+    "explanation": "Bronkiti akut infektiv (kryesisht viral) ka incidencën maksimale në muajt e ftohtë të dimrit, kur qarkullojnë viruset respiratore (influenza, rinovirus, VRS)."
+  },
+  {
+    "id": "licenca-pneumologji-004",
+    "question": "Cilët janë mekanizmat patogjenetikë të pneumonisë nga hipersensibiliteti?",
+    "answers": [
+      "reaksione të mediatuara nga qelizat",
+      "reaksione të lidhura me mungesën e IgA",
+      "reaksione të lidhura me lëshimin e IgE",
+      "reaksione të lidhura me komplomentin",
+      "reaksione të lidhura me degradimin e fibrinogjenit"
+    ],
+    "correct": 0,
+    "explanation": "Pneumonia nga hipersensibiliteti (alveoliti alergjik ekstrinsek) ndërmjetësohet nga reaksione të tipit III (imunokomplekse, precipitina IgG) dhe sidomos të tipit IV (qelizore, limfocite T, granuloma); nuk është reaksion IgE."
+  },
+  {
+    "id": "licenca-pneumologji-005",
+    "question": "Cilët janë shkaqet më të shpeshta të versamenteve pleurale hemoragjike?",
+    "answers": [
+      "neoplazitë",
+      "pneumonitë",
+      "infeksionet virale",
+      "pneumotoraks",
+      "sarkoidozë"
+    ],
+    "correct": 0,
+    "explanation": "Efuzionet pleurale hemorragjike shkaktohen më shpesh nga neoplazitë (metastaza pleurale, mezotelioma), pastaj nga trauma, embolia pulmonare me infarkt dhe TB."
+  },
+  {
+    "id": "licenca-pneumologji-006",
+    "question": "Të gjitha gjëndjet e mëposhtëme përfaqsojnë një faktor reziku të pranuar për SPOK (sëmundja pulmonare obstruktive kronike) me përjashtim të:",
+    "answers": [
+      "infeksione respiratore rekurente",
+      "tymit të dyhanit",
+      "ndotjes atmosferike",
+      "ndotjes në ambjentin e punës",
+      "alkolizmi kronik"
+    ],
+    "correct": 4,
+    "explanation": "Faktorët e rrezikut për SPOK: duhanpirja (kryesori), ekspozimi profesional ndaj pluhurave/kimikateve, ndotja ajrore (përfshirë djegien e biomasës), infeksionet respiratore të përsëritura në fëmijëri, deficiti i alfa1-antitripsinës. Alkoolizmi nuk është faktor i njohur."
+  },
+  {
+    "id": "licenca-pneumologji-007",
+    "question": "Shkaku më i shpeshtë i atelektazës lobare pulmonare është:",
+    "answers": [
+      "infarkti pulmonar",
+      "pneumoni pneumokoksike",
+      "pneumoni virale",
+      "inhalim i materialeve të traktit tretës",
+      "bronkoektazia"
+    ],
+    "correct": 1,
+    "explanation": "Pneumonia pneumokoksike (me tapa mukopurulente) shkakton atelektazë lobare; në praktikë shkaku më i shpeshtë i atelektazës lobare është obstruksioni endobronkial (tapa mukusi pas operacionit, tumor, trup i huaj)."
+  },
+  {
+    "id": "licenca-pneumologji-008",
+    "question": "Cili është ilaçi që përdoret më shpesh në profilaksinë e tuberkulozit?",
+    "answers": [
+      "rifampicina",
+      "izoniazid",
+      "etambutol",
+      "pirazinamid",
+      "streptomycin"
+    ],
+    "correct": 1,
+    "explanation": "Profilaksia (trajtimi i infeksionit latent) i tuberkulozit bëhet zakonisht me izoniazid për 6–9 muaj (alternativë: rifampicinë 4 muaj ose izoniazid + rifapentinë)."
+  },
+  {
+    "id": "licenca-pneumologji-009",
+    "question": "Në riakutizimet e semundjes pulmonare obstruktive kronike, antibiotiku i zgjedhur duhet të jetë aktiv kundër të gjithë baktereve të mëposhtëme me përjashtim të:",
+    "answers": [
+      "hemofilus influence",
+      "streptokokus pneumonie",
+      "stafilokokus aureus",
+      "moraksela katarralis",
+      "pseudomonas aeruginoza"
+    ],
+    "correct": 2,
+    "explanation": "Në riakutizimet bakteriale të SPOK shkaktarët kryesorë janë H. influenzae, S. pneumoniae, M. catarrhalis dhe (në format e rënda, me bronkoektazi) Pseudomonas aeruginosa; S. aureus nuk është shkaktar tipik."
+  },
+  {
+    "id": "licenca-pneumologji-010",
+    "question": "Terapia e embolisë pulmonare mund të përfshijë të gjithë medikamentet e mëposhtëme me përjashtim të:",
+    "answers": [
+      "sedatimit me barbiturate",
+      "oksigjenoterapi",
+      "stimulant beta adrenergjik",
+      "dopamin",
+      "asnjë nga të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Në embolinë pulmonare të gjitha masat e listuara mund të përdoren si mbështetje (oksigjen, inotropë/vazopresorë si dopamina, sedacion/analgjezi), krahas antikoagulimit dhe trombolizës në rastet me shok."
+  },
+  {
+    "id": "licenca-pneumologji-011",
+    "question": "Në cilat nga gjëndjet e mëposhtëme mund të stabilizohet prezenca e insufiçencës respiratore?",
+    "answers": [
+      "hemogazanaliza: Pa02 70 mmHg, PaCO2 55 mmHg",
+      "hemogazanaliza: PaO2 67 mmHg, PaCO2 38 mmHg",
+      "hemogazanaliza: Pao2 45mmHg, PaCO2 60 mmHg",
+      "hemogazanaliza: PaO2 95 mmHg, PaCO2 41 mmHg",
+      "hemogazanaliza: PaO2 65 mmHg, PaCO2 47 mmHg"
+    ],
+    "correct": 2,
+    "explanation": "Insuficienca respiratore përkufizohet me PaO2 <60 mmHg (në ajër ambienti), me ose pa PaCO2 >45 mmHg. Vetëm C (PaO2 45, PaCO2 60) plotëson kriterin: insuficiencë respiratore hiperkapnike (tip II)."
+  },
+  {
+    "id": "licenca-pneumologji-012",
+    "question": "Si realizohet leximi i testit të tuberkulinik?",
+    "answers": [
+      "duke matur sipërfaqen e skuqur",
+      "duke matur diametrin e skuqjes",
+      "duke matur diametrin e papulës",
+      "duke matur sipërfaqen e papulës",
+      "palpimi i zonës së ngritur në vendin e inokulimit të PPD"
+    ],
+    "correct": 2,
+    "explanation": "Testi i tuberkulinës (Mantoux) lexohet pas 48–72 orëve duke matur diametrin transversal të indurimit (papulës së palpueshme), jo eritemën."
+  },
+  {
+    "id": "licenca-pneumologji-013",
+    "question": "Cfarë nënkuptohet me fibrozë pulmonare idiopatike?",
+    "answers": [
+      "një formë fibroze pulmonare jo evolutive",
+      "një formë fibroze pulmonare me dekurs të papritur",
+      "një formë fibroze pulmonare trashegueshme",
+      "një formë pneumonie intersticiale idiopatike me ecuri klinike progresive",
+      "asnjë nga përgjigjet e indikuara"
+    ],
+    "correct": 3,
+    "explanation": "Fibroza pulmonare idiopatike është forma më e shpeshtë e pneumonisë intersticiale idiopatike, me pamje histologjike/radiologjike UIP (pneumoni intersticiale e zakonshme), ecuri progresive dhe prognozë të keqe (mbijetesë mesatare 3–5 vjet pa terapi antifibrotike)."
+  },
+  {
+    "id": "licenca-pneumologji-014",
+    "question": "Cila metodë ngjyrimi përdoret zakonisht për identifikimin e shpejtë të Mycobacterium Tuberculosis?",
+    "answers": [
+      "gram",
+      "hematoksilinë",
+      "gimsa",
+      "ziehl-nielsen",
+      "papanikolau"
+    ],
+    "correct": 3,
+    "explanation": "Mycobacterium tuberculosis identifikohet shpejt me ngjyrimin Ziehl-Neelsen (bacile acido-alkool-rezistente), ose me auraminë (fluoreshencë)."
+  },
+  {
+    "id": "licenca-pneumologji-015",
+    "question": "Cilët janë komponentët të sistemit mekanik të mbrojtjes pulmonare?",
+    "answers": [
+      "sistemi mukoregulator, nënndarja dikotomike e bronkeve",
+      "arkitektura anatomike dikotomike, hipersekretimi i mukusit, epiteli prizmatik me cilie vibruese",
+      "arkitektura anatomike dikotomike, sistemi mukoregulator, epiteli prizmatik me cilie vibrante",
+      "arkitektura anatomike dikotomike, sistemi mukoregulator, epiteli kubik",
+      "arkitektura anatomike dikotomike, hipersekretimi i mukusit, epitel kubik"
+    ],
+    "correct": 2,
+    "explanation": "Mbrojtja mekanike e pulmonit përbëhet nga arkitektura dikotomike e bronkeve (depozitim i grimcave), sistemi mukociliar (mukusi) dhe epiteli prizmatik/cilindrik me qerpikë vibrues; plus refleksi i kollës."
+  },
+  {
+    "id": "licenca-pneumologji-016",
+    "question": "Kolapsi pulmonar komplet mund të verifikohet në të gjitha gjëndjet e mëposhtëme me përjashtim të:",
+    "answers": [
+      "pneumotoraksit",
+      "plagë pulmonare",
+      "obstruksion i bronkut intermediar",
+      "plagë të paretit torakal nga shtypja",
+      "hemotoraks i djathtë"
+    ],
+    "correct": 2,
+    "explanation": "Kolapsi i plotë i një pulmoni ndodh në pneumotoraks, hemotoraks masiv, plagë torakale të hapura, obstruksion të bronkut kryesor. Obstruksioni i bronkut intermediar shkakton vetëm kolaps të lobit të mesëm dhe të poshtëm të djathtë, jo të gjithë pulmonit."
+  },
+  {
+    "id": "licenca-pneumologji-017",
+    "question": "Cilët nga trajtimet e mëposhtëme është demonstruar e aftë të rrisi mbijetesën në pacientët me SPOK?",
+    "answers": [
+      "bronkodilatator",
+      "oksigjen për kohë të gjatë",
+      "antikolinergjikët",
+      "ventilacion mekanik",
+      "kortikosteroid"
+    ],
+    "correct": 1,
+    "explanation": "Në SPOK vetëm oksigjenoterapia afatgjatë (>15 orë/ditë, në hipokseminë kronike PaO2 ≤55 mmHg) dhe ndërprerja e duhanit kanë treguar rritje të mbijetesës (edhe ventilimi joinvaziv në hiperkapni dhe rehabilitimi)."
+  },
+  {
+    "id": "licenca-pneumologji-018",
+    "question": "Mezotelioma pleuritike mund të manifestohet me karakteristikat e mëposhtëme me përjashtim:",
+    "answers": [
+      "opacifikim difuz i hemitoraksit",
+      "spostim kundralateral i mediastinit",
+      "versament pleural hematik",
+      "prezenca e acidit hialuronik në versamentin pleural",
+      "dhimbje difuze torakale"
+    ],
+    "correct": 1,
+    "explanation": "Mezotelioma pleurale jep efuzion hemorragjik me acid hialuronik, trashje pleurale difuze dhe dhimbje torakale; tumori \"mbërthen\" pulmonin, kështu që mediastini zakonisht nuk zhvendoset kontralateralisht (ndonjëherë tërhiqet homolateralisht) pavarësisht opacitetit masiv."
+  },
+  {
+    "id": "licenca-pneumologji-019",
+    "question": "Cili është elementi që përvç anamnezës është fondametal në diagnozën e pneumokniozave?",
+    "answers": [
+      "shintigrafia pulmonare",
+      "prova funksionale respiratore",
+      "lavazhi bronkoalveolar",
+      "radiografia e toraksit",
+      "hemogaz analiza"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e pneumokoniozave bazohet në anamnezën e ekspozimit profesional dhe radiografinë e toraksit (klasifikimi ILO), përkrah CT me rezolucion të lartë."
+  },
+  {
+    "id": "licenca-pneumologji-020",
+    "question": "Karcinoma bronkogjenike është ( zgjidh përgjigjen e gabuar):",
+    "answers": [
+      "përgjegjës për më shumë se 90% të tumoreve pulmonar",
+      "kanceri i dytë më i shpeshtë në burra",
+      "më i shpeshti në moshën e re",
+      "duhanpirja është shkaku kryesor",
+      "vetëm një prognozë jo të favorshme"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoma bronkogjene është e lidhur kryesisht me duhanin, përbën >90% të tumoreve pulmonare, ka prognozë të keqe dhe prek kryesisht moshën 50–70 vjeç; nuk është më e shpeshtë te të rinjtë."
+  },
+  {
+    "id": "licenca-pneumologji-021",
+    "question": "Cilat nga këto nuk është një indikacion për fibrobronkoskopi?",
+    "answers": [
+      "vlersimi i mukozave bronkiale",
+      "heqja e tapave dens të mukusit",
+      "biopsi e neoplazive endobronkiale",
+      "trajtimi i hematemezës",
+      "diagnoza e neoplazive bronkiale"
+    ],
+    "correct": 3,
+    "explanation": "Fibrobronkoskopia përdoret për inspektimin e mukozës bronkiale, biopsi, diagnozë të neoplazive, heqje të tapave të mukusit/trupave të huaj, BAL. Hematemeza (gjak nga trakti digjestiv) trajtohet me gastroskopi."
+  },
+  {
+    "id": "licenca-pneumologji-022",
+    "question": "Cili është definicioni i empiemës pleuritke?",
+    "answers": [
+      "grumbullim i limfës në hapsirën pleuritike",
+      "grumbullimi i koagulave në hapsirën pleuritike si pasoje e pneumonektomisë",
+      "mbledhja e materialit purulent në hapsirën pleuritike",
+      "mbledhja e ajrit dhe gjakut në hapsirën pleuritike",
+      "mbledhja e likidit në hapsirën pleuritike"
+    ],
+    "correct": 2,
+    "explanation": "Empiema pleurale është grumbullim i materialit purulent (qelb) në hapësirën pleurale, zakonisht si komplikacion i pneumonisë; trajtohet me antibiotikë dhe drenazh."
+  },
+  {
+    "id": "licenca-pneumologji-023",
+    "question": "Cili është gjeni onkosupresor që akuzohet me shumë në gjenezën e tumoreve pulmonare",
+    "answers": [
+      "p47",
+      "p53",
+      "RAS",
+      "Myc",
+      "Fos"
+    ],
+    "correct": 1,
+    "explanation": "p53 (TP53) është gjeni onkosupresor i mutuar më shpesh në karcinomat pulmonare (>50%, sidomos në mikrocitomë dhe karcinomë skuamoze); RAS dhe MYC janë onkogjene."
+  },
+  {
+    "id": "licenca-pneumologji-024",
+    "question": "Në cilat gjëndje fiziologjike predominon kontrolli metabolik i respiracionit:",
+    "answers": [
+      "gjatë ushtrimeve fizike",
+      "gjatë tretjes",
+      "në fazat e agjerimit",
+      "gjatë gjumit",
+      "gjatë pagjumesise"
+    ],
+    "correct": 3,
+    "explanation": "Gjatë gjumit kontrolli i frymëmarrjes është kryesisht metabolik (automatik, kemoreceptorë për CO2/O2), sepse mungon komponenti volitiv/kortikal që predominon në zgjim."
+  },
+  {
+    "id": "licenca-pneumologji-025",
+    "question": "Cfarë mund të tregojë prova funksionale respiratore gjatë astmës bronkiale?",
+    "answers": [
+      "sindrom disventilator i tipit restriktiv",
+      "vlera në limite të normës",
+      "sindrom disventilator i tipit obstruktiv",
+      "reduktim të volumit rezidual",
+      "reduktim i izoluar i kapacitetit funksional residual"
+    ],
+    "correct": 2,
+    "explanation": "Në astmë spirometria tregon sindromë obstruktive (FEV1/FVC i ulur) që është reversibile pas bronkodilatatorit (rritje FEV1 ≥12% dhe ≥200 ml); jashtë krizave mund të jetë normale."
+  },
+  {
+    "id": "licenca-pneumologji-026",
+    "question": "Cilat nga faktorët e mëposhtëm është një faktor shpërthyes i astmës bronkiale?",
+    "answers": [
+      "ushtrimet fizike",
+      "refluksi gastroezofageal",
+      "inhalimi i aeroalergenëve",
+      "infeksione virale të rrugëve primare respiratore",
+      "të gjitha përgjigjet e indikuara"
+    ],
+    "correct": 4,
+    "explanation": "Faktorët shkaktues (trigger) të astmës: aeroalergenët, infeksionet virale respiratore, ushtrimet fizike (sidomos në ajër të ftohtë), refluksi gastroezofageal, irritantët (tymi), aspirina/AINS, stresi."
+  },
+  {
+    "id": "licenca-pneumologji-027",
+    "question": "Në një krizë bronkospastike akute substanca e qetsimit që duhet dhënë është:",
+    "answers": [
+      "neostigmina",
+      "heparina",
+      "adrenalina",
+      "kinidina",
+      "digitali"
+    ],
+    "correct": 2,
+    "explanation": "Në krizën bronkospastike akute të rëndë/anafilaksinë adrenalina (agonist alfa/beta) jep bronkodilatim të shpejtë; sot linja e parë në astmë janë beta2-agonistët inhalatorë. Neostigmina dhe digitali janë të kundërindikuara/të panevojshme."
+  },
+  {
+    "id": "licenca-pneumologji-028",
+    "question": "Cila nga këto sumundje mund të provokojë hipertension pulmonar primar?",
+    "answers": [
+      "sindromi Cushing",
+      "feokromacitoma",
+      "insufiçenca renale kronike",
+      "stenoza e istmusit aortik",
+      "fibroze pulmonare masive nga silikoza"
+    ],
+    "correct": 4,
+    "explanation": "Fibroza pulmonare masive nga silikoza shkakton hipertension pulmonar (në fakt sekondar, nga sëmundje pulmonare dhe hipoksi; jo \"primar\" — termi i përdorur në pyetje është i pasaktë)."
+  },
+  {
+    "id": "licenca-pneumologji-029",
+    "question": "Në bazë të cilave kritere vendoset aktiviteti i tuberkulozit pulmonar?",
+    "answers": [
+      "klinike",
+      "radiologjike",
+      "klinike ,radiologjike, mikrobiologjike",
+      "mikrobiologjike",
+      "klinike dhe mikrobiologjike"
+    ],
+    "correct": 2,
+    "explanation": "Aktiviteti i tuberkulozit pulmonar vlerësohet me kritere klinike (simptoma), radiologjike (infiltrate, kavitete) dhe mikrobiologjike (BAAR në sputum, kulturë, teste molekulare) të kombinuara."
+  },
+  {
+    "id": "licenca-pneumologji-030",
+    "question": "Cili është izotipi më i zakonshëm i tumoreve malinje të trakesë?",
+    "answers": [
+      "karcinoma spinoqelizore",
+      "karcinoma adenoskuamoze",
+      "adenokarcinoma",
+      "karcinoma adenoidocistike (cilindroma)",
+      "karcinoma aplazike"
+    ],
+    "correct": 0,
+    "explanation": "Tumoret malinje primare të trakesë janë të rralla; më të shpeshtat janë karcinoma skuamoze (spinoqelizore, te duhanpirësit) dhe karcinoma adenoido-cistike (cilindroma)."
+  },
+  {
+    "id": "licenca-pneumologji-031",
+    "question": "Cfarë nënkuptohet me stadin zero të sarkoidozës?",
+    "answers": [
+      "prekje pulmonare e izoluar",
+      "prekje okulare e izoluar",
+      "prekje të izoluara kutane",
+      "manifestime extratorakale në mungesë të anomalive torakale të demonstrueshme radiologjikisht",
+      "E asnjë nga përgjigjet e mësipërme"
+    ],
+    "correct": 3,
+    "explanation": "Stadi 0 i sarkoidozës (klasifikimi radiologjik Scadding) = radiografi torakale normale (pa limfadenopati hilare, pa infiltrate), me sëmundje që manifestohet vetëm ekstratorakalisht."
+  },
+  {
+    "id": "licenca-pneumologji-032",
+    "question": "Antileukotrienet aktualisht janë të indikuara në trajtimin e SPOK?",
+    "answers": [
+      "jo",
+      "po në shoqërim me antikolinergjikët",
+      "po në shoqërim me kortikosteroidët inhalator",
+      "po vetëm në prezencë të riakutizimeve të sëmundjes",
+      "po vetëm në fazën stabël të sëmundjes"
+    ],
+    "correct": 0,
+    "explanation": "Antileukotrienet (montelukast) përdoren në astmë (sidomos nga aspirina dhe ushtrimet) dhe rinit alergjik, por nuk indikohen në trajtimin e SPOK."
+  },
+  {
+    "id": "licenca-pneumologji-033",
+    "question": "Të gjithë mekanizmat e mëposhtëm patogjenetik jane te pranishem ne astmën nga ushtrimet fizike me përjashtim:",
+    "answers": [
+      "hiperventilimit",
+      "ftohja e rrugëve ajrore",
+      "dehidrim i rrugëve ajrore",
+      "stimulim nervoz refleksor",
+      "rritjes së presionit sistemik pulmonary"
+    ],
+    "correct": 4,
+    "explanation": "Astma nga ushtrimet shkaktohet nga hiperventilimi me ftohje dhe dehidratim të mukozës së rrugëve ajrore (hiperosmolaritet → çlirim mediatorësh mastocitarë) dhe reflekse vagale; nuk lidhet me rritje të presionit sistemik/pulmonar."
+  },
+  {
+    "id": "licenca-pneumologji-034",
+    "question": "Në diagnozën e embolisë pulmonare arteriografia pulmonare realizohet:",
+    "answers": [
+      "në të gjitha rastet e dyshuara për emboli pulmonare",
+      "vetëm testi i D dimerit rezulton pozitiv",
+      "në rastet kur testi i D dimerit, shintigrafia perfuzionale dhe ekografia venoze nuk kanë arritur të dirimere dyshimin diagnostik",
+      "vetën shintigrafia pulmonare rezulton pozitive",
+      "vetëm prezenca e fibrilacionit atrial"
+    ],
+    "correct": 2,
+    "explanation": "Angiografia pulmonare (standardi historik, sot e zëvendësuar nga angio-CT) rezervohet për rastet kur testet joinvazive (D-dimer, angio-CT/shintigrafi V/Q, ekodopler venoz) nuk e zgjidhin dyshimin diagnostik, ose kur planifikohet trajtim endovaskular."
+  },
+  {
+    "id": "licenca-pneumologji-035",
+    "question": "Cilat nga pohimet e mëposhtëme bën pjesë në fazën diagnostike fillestare të një neoplazie pulmonare hemoragjike?",
+    "answers": [
+      "echografia abdominale",
+      "eko dopler tronchi sovra- aortal",
+      "CT koke",
+      "fibrobronkoskopia",
+      "CT maksikofaciale"
+    ],
+    "correct": 3,
+    "explanation": "Para një neoplazie pulmonare me hemoptizi ekzaminimi fillestar diagnostik (pas radiografisë/CT torakale) është fibrobronkoskopia: lokalizon burimin e gjakderdhjes dhe merr biopsi."
+  },
+  {
+    "id": "licenca-pneumologji-036",
+    "question": "Në cilat forma të hipertensionit pulmonar vërehet një rritje e presionit kapilar pulmonar",
+    "answers": [
+      "hipertension venoz pulmonar nga kardiopati të majta",
+      "hipertension venoz pulmonar nga kardiopati të djathta",
+      "hipertension pulmonar arterioz primitive",
+      "hipertension pulmonar nga hipoksia",
+      "asnjë nga përgjigjet e indikuara"
+    ],
+    "correct": 0,
+    "explanation": "Presioni kapilar pulmonar (wedge) rritet në hipertensionin pulmonar postkapilar (venoz) nga sëmundjet e zemrës së majtë (insuficiencë e VM, stenozë mitrale); në format prekapilare (arteriale, hipoksike, tromboembolike) wedge është normal (≤15 mmHg)."
+  },
+  {
+    "id": "licenca-pneumologji-037",
+    "question": "Cili medikament përdoret për kontrollin e inflamacionit të rrugëve ajrore në një pacient astmatik?",
+    "answers": [
+      "aspirina",
+      "kortikosteroid me rrugë inhalatore",
+      "teofilina",
+      "inhibitor COX-2",
+      "beta 2 agonist"
+    ],
+    "correct": 1,
+    "explanation": "Kortikosteroidet inhalatore janë terapia kryesore antiinflamatore (kontrolluese) në astmë; beta2-agonistët janë bronkodilatatorë, aspirina mund ta keqësojë astmën."
+  },
+  {
+    "id": "licenca-pneumologji-038",
+    "question": "Cila është neoplazia pulmonare më shumë e lidhur me ekspozimin profesional?",
+    "answers": [
+      "adenokarcinoma",
+      "mikrocitoma",
+      "ca spinocelulare",
+      "mezotelioma pleuritike",
+      "karcinoide"
+    ],
+    "correct": 3,
+    "explanation": "Mezotelioma pleurale është neoplazia më specifike e lidhur me ekspozimin profesional (azbest, edhe me ekspozim të ulët, latencë 20–40 vjet)."
+  },
+  {
+    "id": "licenca-pneumologji-039",
+    "question": "Cili është trajtimi më i nevojshëm në obstruksion të rrugëve ajrore të një pacienti të prekur nga fibroza cistike:",
+    "answers": [
+      "drenazhi postural",
+      "antibiotik",
+      "bronkodilatator",
+      "antikolinergjik",
+      "kortikosteroid"
+    ],
+    "correct": 0,
+    "explanation": "Në fibrozën kistike pastrimi i rrugëve ajrore nga sekrecionet e trasha me fizioterapi respiratore (drenazh postural, perkusion) është trajtimi themelor i obstruksionit, krahas mukolitikëve (dornaza alfa, solucion hipertonik) dhe antibiotikëve."
+  },
+  {
+    "id": "licenca-pneumologji-040",
+    "question": "Cili nga të mëposhtëmit është shkaktari më i shpeshtë në pneumoninë në praktikën e mjeksisë së përgjithshme?",
+    "answers": [
+      "mycoplasma pneumonie",
+      "hemofilus influenzae",
+      "legionella pneumophila",
+      "k.pneumonie",
+      "streptococcus pneumonie"
+    ],
+    "correct": 4,
+    "explanation": "Streptococcus pneumoniae është shkaktari më i shpeshtë i pneumonisë komunitare (në çdo moshë të rritur), pastaj patogjenët atipikë (Mycoplasma, Chlamydophila, Legionella), H. influenzae dhe viruset."
+  },
+  {
+    "id": "licenca-pneumologji-041",
+    "question": "Sindromi Claude Bernard – Horner karakterizohet nga:",
+    "answers": [
+      "enoftalmus,ptoze palpebrale,dhe anihdroze unilaterale",
+      "dhimbje në shpinë dhe krahë përgjatë zonës së inervimit të nervit ulnar",
+      "strie rubre në nivelin abdominal, qafa e buallit dhe facies lunare",
+      "edema mantel dhe turgor i jugulareve",
+      "enoftalmi, miozë, ptozë palpebrale dhe anidrozë kontralaterale"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma Claude Bernard-Horner (dëmtim simpatik): ptozë, miozë, enoftalmus (i dukshëm) dhe anhidrozë homolaterale; shkak tipik tumori Pancoast i majës pulmonare."
+  },
+  {
+    "id": "licenca-pneumologji-042",
+    "question": "Cili është testi i funksionalitetit respirator që diferencon astëm bronkiale nga SPOK?",
+    "answers": [
+      "spirometria e thjeshtë",
+      "body pletizmografia",
+      "testi i difuzionit të monoksidit të karbonit",
+      "testi i bronkoreversibilitetit",
+      "testi i sforcos"
+    ],
+    "correct": 3,
+    "explanation": "Testi i bronkoreversibilitetit (spirometri para dhe pas bronkodilatatorit) dallon astmën (obstruksion reversibël) nga SPOK (obstruksion persistent, pjesërisht reversibël)."
+  },
+  {
+    "id": "licenca-pneumologji-043",
+    "question": "Cilat janë format më frekuente të hipertensionit pulmonar?",
+    "answers": [
+      "hipertension pulmonar primitiv",
+      "hipertension pulmonar sekondar nga kardiopati të majta",
+      "hipertension pulmonar nga prezenca e lartësive të mëdha",
+      "sekondar si pasojë e sëmundjeve respiratore kronike",
+      "asnjë nga përgjigjet e indikuara"
+    ],
+    "correct": 1,
+    "explanation": "Sipas klasifikimit OBSH, forma më e shpeshtë e hipertensionit pulmonar është ajo nga sëmundjet e zemrës së majtë (grupi 2), pasuar nga sëmundjet pulmonare/hipoksia (grupi 3). Çelësi i PDF-së (D) përputhet me listat e vjetra; sipas të dhënave aktuale e saktë është B."
+  },
+  {
+    "id": "licenca-pneumologji-044",
+    "question": "Kur dyshohet prezenca e një karcinoidi pulmonar, në mungesë të diagnozës histologjike, cili egzaminim instrumental mund të jetë i nevojshëm të realizohet?",
+    "answers": [
+      "shintigrafia pulmonare perfuzionale",
+      "shintigrafia kockore",
+      "shintigrafia pulmonare me oktreotid të markuar radioaktivisht",
+      "CT e kokës",
+      "shintigrafia pulmonare ventilatore"
+    ],
+    "correct": 2,
+    "explanation": "Karcinoidet shprehin receptorë të somatostatinës; shintigrafia me oktreotid të markuar (Octreoscan) ose PET me 68Ga-DOTATATE identifikon tumorin dhe metastazat."
+  },
+  {
+    "id": "licenca-pneumologji-045",
+    "question": "Nga se influencohet më shumë aktiviteti i qëndrave respiratore?",
+    "answers": [
+      "nga hiperkapnia",
+      "nga hipoksemia",
+      "nga lëvizjet e paretit torakal",
+      "nga alkaloza",
+      "nga kalçemia"
+    ],
+    "correct": 0,
+    "explanation": "Stimulusi kryesor i qendrave respiratore është PaCO2 (hiperkapnia, nëpërmjet pH-së së likuorit dhe kemoreceptorëve qendrorë); hipoksemia stimulon kemoreceptorët periferikë vetëm kur PaO2 <60 mmHg."
+  },
+  {
+    "id": "licenca-pneumologji-046",
+    "question": "Të gjitha simptomat e mëposhtëme janë të lidhura me ekspansionin torakal të kancerit pulmonar me përjashtim:",
+    "answers": [
+      "kollës",
+      "hemoptizia",
+      "dhimbja torakale",
+      "dispnea",
+      "pectus exavatum"
+    ],
+    "correct": 4,
+    "explanation": "Zgjerimi torakal i kancerit pulmonar jep kollë, hemoptizi, dhimbje torakale, dispne, disfoni, sindromë të venës kava superiore, Horner, efuzion pleural. Pectus excavatum është deformim kongjenital i sternumit."
+  },
+  {
+    "id": "licenca-pneumologji-047",
+    "question": "Cili është tumori beninj më i shpeshtë i paretit torakal?",
+    "answers": [
+      "kondroma",
+      "fibrodisplazia kockore",
+      "osteokondroma",
+      "tumor desmoid",
+      "fibroma"
+    ],
+    "correct": 2,
+    "explanation": "Osteokondroma është tumori beninj më i shpeshtë i murit torakal (në brinjë), pastaj kondroma dhe displazia fibroze."
+  },
+  {
+    "id": "licenca-pneumologji-048",
+    "question": "Cilat janë medikamentet kryesore që përdoren në kontrollin e bronkokonstriksionit në pacientët me astëm kronike?",
+    "answers": [
+      "beta 2 agonsitët me veprim të shkurtër",
+      "beta 2 agonistët me veprim të zgjatur",
+      "teofilina",
+      "kortikosteroidët me inhalacion",
+      "kortikosteroidët me rrugë sistemike"
+    ],
+    "correct": 1,
+    "explanation": "Bronkokonstriksioni në astmën kronike kontrollohet me beta2-agonistë me veprim të gjatë (salmeterol, formoterol), gjithmonë në kombinim me kortikosteroide inhalatore (që kontrollojnë inflamacionin); SABA përdoren për krizat."
+  },
+  {
+    "id": "licenca-pneumologji-049",
+    "question": "Cilët nga të mëposhtmet nuk është faktor favorizues i fillimit te pneumonisë postoperatore ose posttraumatike:",
+    "answers": [
+      "hipoventilimi",
+      "eskursion i limituar i hemidiafragmave",
+      "inhibim i refleksit të kollës",
+      "dehidrimi",
+      "fillimi i e aritmive kardiake"
+    ],
+    "correct": 4,
+    "explanation": "Pneumonia postoperatore/posttraumatike favorizohet nga hipoventilimi (dhimbja), ekskursioni i kufizuar diafragmatik, frenimi i kollës (opioide), dehidratimi me sekrecione të trasha, imobilizimi, aspirimi. Aritmitë kardiake nuk janë faktor favorizues."
+  },
+  {
+    "id": "licenca-pneumologji-050",
+    "question": "Ku është e lokalizuar gjeni përgjegjës për fibrozën cistike?",
+    "answers": [
+      "kromozomin 5",
+      "kromozomin 13",
+      "kromozomin 7",
+      "kromozomin 11",
+      "kromozomin 3"
+    ],
+    "correct": 2,
+    "explanation": "Gjeni CFTR (rregullues i përcjellshmërisë transmembranore, kanal kloruri) ndodhet në kromozomin 7 (7q31); mutacioni më i shpeshtë është ΔF508."
+  },
+  {
+    "id": "licenca-pneumologji-051",
+    "question": "Pneumotoraksi masiv si trajtohet:",
+    "answers": [
+      "oksigjenoterapi",
+      "intubim orotrakeal",
+      "drenim torakal në hapsirën e dytë interkostale hemiklavikulare",
+      "drenim torakal në hapsirën e V interksotale aksilare posterior",
+      "drenim umbilikal"
+    ],
+    "correct": 2,
+    "explanation": "Pneumotoraksi masiv/me tension trajtohet me dekompresion urgjent me gjilpërë dhe pastaj drenim torakal; në hapësirën e 2-të ndërbrinjore në linjën mesoklavikulare (sot preferohet hapësira e 4–5-të në linjën aksilare mesatare/anteriore)."
+  },
+  {
+    "id": "licenca-pneumologji-052",
+    "question": "Obstruksioni bronkial për definicion te spok:",
+    "answers": [
+      "është vazhdimisht prezent dhe pse është variabël dhe irreversibël",
+      "nuk është gjithmonë prezente por është irreversibël",
+      "jo domosdoshmërisht është gjithmonë prezente dhe mund të jetë pak a shumë reversible",
+      "është gjithmonë prezente dhe reversible",
+      "asnjë nga përgjigjet e indikuara"
+    ],
+    "correct": 0,
+    "explanation": "Në SPOK obstruksioni bronkial është persistent (gjithmonë i pranishëm), progresiv dhe vetëm pjesërisht reversibël (FEV1/FVC <0,70 pas bronkodilatatorit)."
+  },
+  {
+    "id": "licenca-pneumologji-053",
+    "question": "Cili është kriteri aktual i klasifikimit të SPOK",
+    "answers": [
+      "kliniko – funksional",
+      "radiologjik",
+      "ekskluzivisht funksional",
+      "anatomopatologjik",
+      "radiologjikisht – funksional"
+    ],
+    "correct": 0,
+    "explanation": "Klasifikimi aktual i SPOK (GOLD) është kliniko-funksional: shkalla e obstruksionit spirometrik (GOLD 1–4) + simptomat (mMRC/CAT) dhe historia e riakutizimeve (grupet A, B, E)."
+  },
+  {
+    "id": "licenca-pneumologji-054",
+    "question": "Kundraindikimet absolute të bronkoskopisë janë:",
+    "answers": [
+      "kollë",
+      "dyshimi i fistulave trakeoezofageale",
+      "akses pulmonar refraktar",
+      "status kardiovaskular jo stabël dhe aritmi kardiake",
+      "versament pleural"
+    ],
+    "correct": 3,
+    "explanation": "Kundërindikimet absolute të bronkoskopisë: instabilitet hemodinamik, aritmi të rënda, infarkt miokardi i freskët, hipoksemi e pakorrigjueshme, mungesë bashkëpunimi. Kolla, dyshimi për fistulë trakeoezofageale, absceset dhe efuzionet janë indikacione ose jo kundërindikacione."
+  },
+  {
+    "id": "licenca-pneumologji-055",
+    "question": "Trajtimi imediat i pneumotoraksit të hipertendosur jotraumatik konsiston në:",
+    "answers": [
+      "torakotomi",
+      "intubacion trakeal",
+      "drenazh pleuritik",
+      "antibiotikoterapi",
+      "pushim absolut në shtrat"
+    ],
+    "correct": 2,
+    "explanation": "Pneumotoraksi me tension është urgjencë: dekompresim i menjëhershëm (gjilpërë) dhe drenazh pleural (tub torakal); diagnoza është klinike, pa pritur radiografinë."
+  },
+  {
+    "id": "licenca-pneumologji-056",
+    "question": "Cili është relacioni i polikimioterapisë të mykobakteriozave jo tuberkulare?",
+    "answers": [
+      "përqëndrimi në nivelin e lezionit dhe shmangia e lindjes së rezistencave sekondare",
+      "shoqërimi me medikamente sensibile dhe shmangia e lindjes së rezistencave sekondare",
+      "përqëndrimi në nivel të lezionit dhe shmangia e lindjes së rezistencave të kryqëzuara",
+      "shoqërimi me medikamente sensibile dhe shmangia e lindjes së rezistencave të kryqëzuara",
+      "shoqërimi me medikamente sensibile, shmangia e lindjes së rezistencave të kryqëzuara dhe reduktim i toksicitetit farmakologjik"
+    ],
+    "correct": 1,
+    "explanation": "Polikimioterapia në mikobakteriozat (përfshirë ato jotuberkulare) kombinon barna ndaj të cilave mikroorganizmi është i ndjeshëm, për të rritur efikasitetin dhe për të shmangur zhvillimin e rezistencave sekondare (përzgjedhja e mutantëve rezistentë)."
+  },
+  {
+    "id": "licenca-pneumologji-057",
+    "question": "Pas heparit organi më shumë i prekur nga metastazat e karcinomës pulmonare është:",
+    "answers": [
+      "skeleti",
+      "gjëndra mbiveshkore",
+      "veshkat",
+      "truri",
+      "shpretka"
+    ],
+    "correct": 0,
+    "explanation": "Pas mëlçisë vendi më i shpeshtë i metastazave të karcinomës pulmonare është skeleti (bashkë me trurin dhe gjëndrat mbiveshkore, të cilat janë gjithashtu shumë të shpeshta)."
+  },
+  {
+    "id": "licenca-pneumologji-058",
+    "question": "Janë të kundraindikuara në egzekutimin e agoaspirimit perkutan torakal gjëndjet e mëposhtëme me përjashtim:",
+    "answers": [
+      "instabiliteti kardiovaskular",
+      "pneumonektomia kuntralaterale",
+      "ciste hidatike",
+      "difekte të koagulimit",
+      "sëmundje buloze pulmonare kundralaterale"
+    ],
+    "correct": 4,
+    "explanation": "Kundërindikime për punksion-aspirimin perkutan torakal: instabilitet kardiovaskular, pneumonektomi kontralaterale (rrezik pneumotoraksi në të vetmin pulmon), cista hidatike (rrezik anafilaksie/diseminimi), koagulopati, hipertension pulmonar i rëndë. Sëmundja buloze kontralaterale nuk e kundërindikon."
+  },
+  {
+    "id": "licenca-pneumologji-059",
+    "question": "Cilët janë shkaqet më të shpeshta të stenozës trakeale esktrinseke?",
+    "answers": [
+      "anomali vaskulare",
+      "neoformacione tiroideje",
+      "neoplazi të paretit torakal",
+      "hipertrofi e ventrikulit të majtë",
+      "timoma"
+    ],
+    "correct": 1,
+    "explanation": "Shkaku më i shpeshtë i stenozës trakeale ekstrinseke (kompresion nga jashtë) është gusha tiroidiene, sidomos ajo zhytëse (retrosternale), dhe tumoret tiroidiene; pastaj masat mediastinale dhe anomalitë vaskulare (në fëmijë)."
+  },
+  {
+    "id": "licenca-pneumologji-060",
+    "question": "Cili është komplikacioni më i shpeshtë i azbestozës pulmonare?",
+    "answers": [
+      "pneumotoraksi",
+      "mezotelioma pleuritike",
+      "adenokarcinoma pulmonare",
+      "ca spinoqelizore",
+      "asnjë nga përgjigjet e indikuara"
+    ],
+    "correct": 1,
+    "explanation": "Mezotelioma pleurale është komplikacioni më tipik i azbestozës; karcinoma bronkogjene (sidomos te duhanpirësit, efekt sinergjik) është në fakt numerikisht më e shpeshtë."
+  },
+  {
+    "id": "licenca-pneumologji-061",
+    "question": "Pneumotoraksi spontan shkaktohet më shpesh:",
+    "answers": [
+      "tuberkulozi",
+      "trauma",
+      "emfizema bulloze",
+      "tumore të mediastinit",
+      "pneumonia"
+    ],
+    "correct": 2,
+    "explanation": "Pneumotoraksi spontan sekondar shkaktohet më shpesh nga emfizema buloze (SPOK); forma primare (të rinj të gjatë e të dobët, duhanpirës) vjen nga ruptura e bulave/blebs apikale subpleurale."
+  },
+  {
+    "id": "licenca-pneumologji-062",
+    "question": "Cilat nga substancat e mëposhtëme metobolizohen ne nivel pulmonar?",
+    "answers": [
+      "substanca p",
+      "histamina",
+      "dopamina",
+      "angiotenzina II",
+      "angiotenzina I"
+    ],
+    "correct": 4,
+    "explanation": "Në pulmon (endoteli kapilar) ACE konverton angiotensinën I në angiotensinë II; po aty inaktivizohen bradikinina, serotonina, prostaglandinat. Angiotensina II, histamina dhe substanca P kalojnë kryesisht pa u metabolizuar."
+  },
+  {
+    "id": "licenca-pneumologji-063",
+    "question": "Cilët janë faktorët e riskut përgjegjës për lindjen e pneumonisë nga hipersensibiliteti",
+    "answers": [
+      "inhalimi okazional i pluhrave inorganik",
+      "inhalimi perserites i pluhrave inorganik",
+      "inhalimi te perseritura i plurave organik me dimensione inferiore 5 micron",
+      "inhalimi i plurave organik mbi 5 mikron",
+      "asnjë nga përgjigjet e indikuara"
+    ],
+    "correct": 2,
+    "explanation": "Pneumonia nga hipersensibiliteti shkaktohet nga inhalimi i përsëritur i pluhurave organikë me grimca <5 mikron që arrijnë alveolat (aktinomicetë termofilë – \"pulmoni i fermerit\", proteina zogjsh – \"pulmoni i edukatorit të zogjve\")."
+  },
+  {
+    "id": "licenca-pneumologji-064",
+    "question": "Cilët nga simptomat e mëposhtëme nuk është e lidhur drejtpërsëdrejti me tumoret malinje të trakesë?",
+    "answers": [
+      "hemoptizia",
+      "disfonia",
+      "dispnea",
+      "disfagia",
+      "refluksi gastroezofageal"
+    ],
+    "correct": 4,
+    "explanation": "Tumoret malinje të trakesë japin kollë, hemoptizi, dispne/stridor, wheezing që imiton astmën, disfoni (nervi rekurent), disfagi (infiltrim ezofageal). Refluksi gastroezofageal nuk lidhet me to."
+  },
+  {
+    "id": "licenca-pneumologji-065",
+    "question": "Një versament pleural tuberkular karakterizohet nga:",
+    "answers": [
+      "rritja e neutrofileve",
+      "rritja e makrofagëve",
+      "rritja e limfociteve",
+      "rritja e plazmociteve",
+      "asnjë nga përgjigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Efuzioni pleural tuberkular është eksudat me predominim limfocitar (>50–80%), proteina të larta, glukozë relativisht të ulët, ADA (adenozinë deaminazë) të rritur dhe rrallë mezotelocite; kultura shpesh negative."
+  },
+  {
+    "id": "licenca-pneumologji-066",
+    "question": "Terapia e pneumonise jashtëspitalore:",
+    "answers": [
+      "është pothuajse gjithmonë empirike ose e arsyetuar",
+      "nuk drejtohet asnjëherë nga një diagnozë etiologjike",
+      "është gjithmonë e drejtuar nga një diagnozë eziologjike",
+      "është e udhëhequr nga një radiografi",
+      "konsiston në përdorimin e cefalosporinave me spektër të gjerë veprimi"
+    ],
+    "correct": 0,
+    "explanation": "Terapia e pneumonisë komunitare është pothuajse gjithmonë empirike (e arsyetuar sipas patogjenëve të mundshëm, rëndesës dhe faktorëve të rrezikut), sepse agjenti etiologjik rrallë identifikohet në kohë."
+  },
+  {
+    "id": "licenca-pneumologji-067",
+    "question": "Infeksionet mund të ndikojne në patogjenezën e SPOK?",
+    "answers": [
+      "si efekte në distancë të infeksioneve respiratore të fëmijërisë",
+      "si efekte akute të riakutizimeve",
+      "si efekte kronike të kolonizimit të rrugëve ajrore",
+      "të gjitha përgjigjet e mësipërme",
+      "asnjë nga përgjigjet e mësipërme"
+    ],
+    "correct": 3,
+    "explanation": "Infeksionet kontribuojnë në SPOK: infeksionet respiratore në fëmijëri (rritje e reduktuar e pulmonit), riakutizimet infektive akute (rënie e funksionit), kolonizimi kronik bakterial (inflamacion persistent)."
+  },
+  {
+    "id": "licenca-pneumologji-068",
+    "question": "Hipertrofia e një dore në sindromin Horner mund të indikojë egzistencën e:",
+    "answers": [
+      "sklerozës laterale amiotrofike",
+      "sindromit të tunelit karpal",
+      "tumorit Pancoast",
+      "amiloidozës sistemike",
+      "tuberkulozit limfoglandular"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma Horner me atrofi/dobësi të muskujve të dorës dhe dhimbje në territorin ulnar (pleksusi brakial C8–T1) = tumor Pancoast i majës pulmonare (termi \"hipertrofi\" në pyetje është gabim përkthimi për \"hipotrofi\")."
+  },
+  {
+    "id": "licenca-pneumologji-069",
+    "question": "Cili është testi i duhur për diagnozën etiologjike të versamenteve pleurale?",
+    "answers": [
+      "radiografia e toraksit",
+      "CT e toraksit",
+      "torakocenteza",
+      "bronkoskopia",
+      "ekografia torakale"
+    ],
+    "correct": 2,
+    "explanation": "Torakocenteza (analiza kimike, citologjike dhe mikrobiologjike e lëngut pleural, kriteret e Light-it) është testi kryesor për diagnozën etiologjike të efuzionit pleural."
+  },
+  {
+    "id": "licenca-pneumologji-070",
+    "question": "Kufiri superior i një versamenti pleural tipik vendoset sipas një linje të quajtur nga:",
+    "answers": [
+      "garland",
+      "grocco",
+      "damoiseau – ellis",
+      "koch",
+      "auerbach"
+    ],
+    "correct": 2,
+    "explanation": "Kufiri i sipërm i efuzionit pleural të lirë formon një linjë parabolike me konkavitet nga lart, nga lart lateralisht poshtë medialisht = linja e Damoiseau-Ellis. Trekëndëshi Garland dhe Grocco janë zona të tjera perkutore."
+  },
+  {
+    "id": "licenca-pneumologji-071",
+    "question": "BAL (bronko lavazhi alveolar) i vetëm mund të jetë diagnostik në pneumoninë nga hipersensibiliteti?",
+    "answers": [
+      "po gjithmonë",
+      "jo asnjëherë",
+      "vetëm nëse shoqërohet me shënja klinike, radiologjike dhe funksionale",
+      "po vetëm nëse shoqërohet me shënjat klinike",
+      "po nëse shoqërohet me vetëm me shënjat funksionale"
+    ],
+    "correct": 2,
+    "explanation": "BAL në pneumoninë nga hipersensibiliteti tregon limfocitozë të theksuar (CD8+), por nuk është diagnostik vetëm; diagnoza kërkon integrimin me ekspozimin, klinikën, radiologjinë (HRCT) dhe testet funksionale."
+  },
+  {
+    "id": "licenca-pneumologji-072",
+    "question": "Në trajtimin e një gjëndje astmatike cili është qëllimi kryesor që mjeku duhet të bëjë:",
+    "answers": [
+      "të korigjojë bronkokonstriksionin",
+      "të korigjojë hipokseminë",
+      "të korigjojë statusin e inflamacionit",
+      "të korigjojë hiperinflacionin dinamik të rrugëve ajrore",
+      "të korigjojë alterimet metabolike pasuese"
+    ],
+    "correct": 1,
+    "explanation": "Në gjendjen astmatike (status astmaticus) prioriteti kryesor është korrigjimi i hipoksemisë (oksigjen me SpO2 93–95%), sepse hipoksemia është shkaku i vdekjes; njëkohësisht trajtohet bronkokonstriksioni dhe inflamacioni."
+  },
+  {
+    "id": "licenca-pneumologji-073",
+    "question": "Cila është terapia e zgjedhur në trajtimin e sarkoidozës?",
+    "answers": [
+      "metotraxate",
+      "colchicina",
+      "prednisolone",
+      "aziotioprina",
+      "penicilina"
+    ],
+    "correct": 2,
+    "explanation": "Terapia e zgjedhur e sarkoidozës (kur trajtimi indikohet: prekje pulmonare progresive, kardiake, okulare, neurologjike, hiperkalcemi) janë kortikosteroidet sistemike (prednizon/prednizolon); metotreksati është alternativë kursyese steroidesh."
+  },
+  {
+    "id": "licenca-pneumologji-074",
+    "question": "Në tumoret primitive të trakesë hasen shënjat e mëposhtëme me përjashtim të:",
+    "answers": [
+      "kollës",
+      "hemoptizisë",
+      "dhimbjes torakale",
+      "dispnesë",
+      "disfonisë"
+    ],
+    "correct": 2,
+    "explanation": "Tumoret primare të trakesë japin kollë, hemoptizi, dispne/stridor dhe disfoni; dhimbja torakale nuk është shenjë tipike."
+  },
+  {
+    "id": "licenca-pneumologji-075",
+    "question": "Torakocenteza (zgjidh përgjigjen e gabuar)",
+    "answers": [
+      "përdoret për përcaktimin etiologjikë të versamentit pleural",
+      "mund të egzekutohet për të lehtësuar insufiçencën respiratore shkaktuar nga një versament pleural masiv",
+      "angina jostabile nuk kundraindikon e kryerjen e torakocentezes",
+      "mund të përdoret për të futur agjent sklerozant ose antineoplastik në hapsirën pleuritike",
+      "një koagulopati jo e stabilizuar kundraindikon egzekutimin"
+    ],
+    "correct": 2,
+    "explanation": "Angina e paqëndrueshme (dhe instabiliteti kardiovaskular) është kundërindikacion për torakocentezën elektive, si edhe koagulopatia e pakorrigjuar. Torakocenteza përdoret për diagnozë, evakuim terapeutik dhe pleurodezë/instilim barnash."
+  },
+  {
+    "id": "licenca-pneumologji-076",
+    "question": "Edema mantel dhe turgori i venave jugulare janë shënje karakteristike e:",
+    "answers": [
+      "sindromin Claude – Bernard – Horner",
+      "sindromit të dispnesë",
+      "sindromit të vena cava superior",
+      "sindromit të sekretimit të papërshtatshëm të ADH",
+      "fenomenit Raynaud"
+    ],
+    "correct": 2,
+    "explanation": "Sindroma e venës kava superiore (kompresion nga karcinoma pulmonare, limfoma, masa mediastinale): edemë \"në pelerinë/mantel\" e fytyrës, qafës dhe krahëve, turgor i jugulareve, qarkullim kolateral torakal, cianozë e fytyrës."
+  },
+  {
+    "id": "licenca-pneumologji-077",
+    "question": "Cili nga parametrat e mëposhtëm nuk matet gjatë spirometrisë?",
+    "answers": [
+      "kapaciteti vital të sforcuar",
+      "volumi i rezervës ekspiratore",
+      "volumi i ekspiruar i sforcuar",
+      "kapaciteti inspirator",
+      "volumi residual"
+    ],
+    "correct": 4,
+    "explanation": "Spirometria mat volumet e mobilizueshme (CV, CVF, VEMS/FEV1, VRE, VRI, CI); volumi rezidual (dhe KFR, KPT) nuk mund të matet me spirometri, por me pletizmografi trupore ose dilucion heliumi."
+  },
+  {
+    "id": "licenca-pneumologji-078",
+    "question": "Terapia e një pneumotoraksi të mbyllur është:",
+    "answers": [
+      "drenim perkutan i kavitetit pleuritik",
+      "astinencë terapeutike sepse pulmoni riekspandohet spontanisht",
+      "intervent kirurgjikal",
+      "astinenzë për trë javë me respirator automatik",
+      "aeroterapi"
+    ],
+    "correct": 0,
+    "explanation": "Pneumotoraksi i mbyllur (i rëndësishëm/simptomatik) trajtohet me drenim (aspirim ose tub pleural); pneumotoraksi i vogël primar asimptomatik mund të ndiqet me vëzhgim dhe oksigjen."
+  },
+  {
+    "id": "licenca-pneumologji-079",
+    "question": "Të gjitha të mëposhtëmet mund të jenë shkak i sindromit të vena cava superior me përjashtim të:",
+    "answers": [
+      "karcinomës pulmonare",
+      "limfoma",
+      "tumor i mediastinit",
+      "metastaza intratorakale",
+      "bronkektazia"
+    ],
+    "correct": 4,
+    "explanation": "Sindroma e venës kava superiore shkaktohet në >90% nga malinjitetet: karcinoma pulmonare (sidomos mikrocitoma), limfomat, tumoret mediastinale, metastazat; edhe tromboza nga kateterët. Bronkoektazitë nuk e shkaktojnë."
+  },
+  {
+    "id": "licenca-pneumologji-080",
+    "question": "Cili është bakteri që tenton të kolonizojë rrugët ajrore në pacientët me fibrozë cistike?",
+    "answers": [
+      "streptococcus pneumonie",
+      "hemofilus influence",
+      "moraxella catarrhalis",
+      "pseudomonas aeruginosa",
+      "hemophilus parainfluence"
+    ],
+    "correct": 3,
+    "explanation": "Në fibrozën kistike rrugët ajrore kolonizohen fillimisht nga S. aureus dhe H. influenzae, por patogjeni karakteristik dhe më i rëndësishëm (kolonizim kronik, forma mukoide) është Pseudomonas aeruginosa; edhe Burkholderia cepacia."
+  },
+  {
+    "id": "licenca-pneumologji-081",
+    "question": "Cilët janë indikacionet e trajtimit trombolitik në pacientët me emboli pulmonare?",
+    "answers": [
+      "brenda 2 orëve nga ngjarja",
+      "vetëm në prezencë të shokut kardiogjen dhe hipotensionit",
+      "brenda 6 orëve nga ngjarja",
+      "në prezencë të dhimbjes torakale dhe cianozës persistente",
+      "në prezencë të hemoptizisë massive"
+    ],
+    "correct": 1,
+    "explanation": "Tromboliza sistemike në embolinë pulmonare indikohet në emboli me rrezik të lartë: shok kardiogjen ose hipotension persistent (PAS <90 mmHg); në rrezik të ndërmjetëm-të lartë rezervohet për dekompensim."
+  },
+  {
+    "id": "licenca-pneumologji-082",
+    "question": "Gjatë pneumonisë nga chlamydia pneumonia, antibiotiku i zgjedhur është:",
+    "answers": [
+      "tetraciklina",
+      "beta laktamikët",
+      "penicilina G",
+      "makrolidët",
+      "cefalosporinat"
+    ],
+    "correct": 0,
+    "explanation": "Pneumonia nga Chlamydophila pneumoniae (bakter intraqelizor) trajtohet me tetraciklina (doksiciklinë), makrolidë ose fluorokinolone respiratore; beta-laktamikët janë joefektivë."
+  },
+  {
+    "id": "licenca-pneumologji-083",
+    "question": "Cilat nga karakteristikat e CT orientojnë drejt një lezioni malinj?",
+    "answers": [
+      "Kufij te qarte",
+      "kalcifikimet",
+      "dimension <1 cm",
+      "rritja e vaskularizimit",
+      "densitet homogjen"
+    ],
+    "correct": 3,
+    "explanation": "Në CT shenja malinjiteti të nodulit pulmonar janë: dimensione >8–10 mm, kufij spikularë/të parregullt, rritje në kohë, ngarkim i fortë me kontrast (vaskularizim i shtuar, >15–20 HU), mungesë kalcifikimesh beninje."
+  },
+  {
+    "id": "licenca-pneumologji-084",
+    "question": "Në pneumoninë nga mikoplazma pneumonia si terapi mund të përdoret:",
+    "answers": [
+      "tetraciklin",
+      "eritromycin",
+      "clarithromycin",
+      "azitromicin",
+      "të gjitha të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Mycoplasma pneumoniae (pa mur qelizor) trajtohet me makrolidë (eritromicinë, klaritromicinë, azitromicinë), tetraciklina ose fluorokinolone."
+  },
+  {
+    "id": "licenca-pneumologji-085",
+    "question": "Në një individ 60 vjeç fumator që prezanton hemoptizi diagnoza me probabël është:",
+    "answers": [
+      "tuberkuloz",
+      "tumor i pulmonit",
+      "bronkoektazi",
+      "çarje e variçeve ezofageale",
+      "cist pulmonar nga echinococ"
+    ],
+    "correct": 1,
+    "explanation": "Duhanpirës 60 vjeç me hemoptizi: diagnoza më e mundshme është karcinoma bronkogjene, derisa të përjashtohet me CT dhe bronkoskopi."
+  },
+  {
+    "id": "licenca-pneumologji-086",
+    "question": "Shkaku më i shpështë i hemopnueumotoraksit është:",
+    "answers": [
+      "neoplazia pulmonare",
+      "neoplazi pleuritike",
+      "trauma",
+      "tuberkulozi",
+      "mezotelioma"
+    ],
+    "correct": 2,
+    "explanation": "Hemopneumotoraksi (gjak + ajër në pleurë) shkaktohet më shpesh nga trauma torakale (plagë depërtuese, fraktura brinjësh)."
+  },
+  {
+    "id": "licenca-pneumologji-087",
+    "question": "Janë komplikime të torakocentezës të gjitha të mëposhtëmet me përjashtim:",
+    "answers": [
+      "pneumotoraksi",
+      "sinkop i thjeshtë ose vazovagal",
+      "embola aerik",
+      "infeksioni",
+      "lezione të pleksit brakial"
+    ],
+    "correct": 4,
+    "explanation": "Komplikacionet e torakocentezës: pneumotoraks, reaksion vazovagal/sinkop, hemotoraks, infeksion, embolia ajrore (e rrallë), edema pulmonare e reekspansionit, punksion i mëlçisë/shpretkës. Dëmtimi i pleksusit brakial nuk është komplikacion i saj."
+  },
+  {
+    "id": "licenca-pneumologji-088",
+    "question": "Cila është kohëzgjatja e trajtimit të shkurtër standart të tuberkulozit?",
+    "answers": [
+      "6 muaj",
+      "4 muaj",
+      "9 muaj",
+      "12 muaj",
+      "në relacion me situatën klinike"
+    ],
+    "correct": 0,
+    "explanation": "Trajtimi standard i shkurtër i TB-së së ndjeshme zgjat 6 muaj: 2 muaj fazë intensive (izoniazid, rifampicinë, pirazinamid, etambutol) + 4 muaj fazë vazhduese (izoniazid, rifampicinë)."
+  },
+  {
+    "id": "licenca-pneumologji-089",
+    "question": "Cili është mekanizmi fizpatologjik më i rëndësishëm në gjenezën e alterimeve të shkëmbimeve gazore të emfizemës pulmonare?",
+    "answers": [
+      "vazokonstriksioni arterial hipoksike",
+      "alterim i raportit ventilim-perfuzion",
+      "rritja e kompliancës pulmonare",
+      "rritja e rezistencës së rrugëve ajrore",
+      "reduktim të volumeve pulmonare"
+    ],
+    "correct": 1,
+    "explanation": "Hipoksemia në emfizemë vjen kryesisht nga çrregullimi i raportit ventilim/perfuzion (shkatërrim i mureve alveolare dhe kapilarëve, zona me V/Q të lartë dhe të ulët); edhe ulja e difuzionit (DLCO)."
+  },
+  {
+    "id": "licenca-pneumologji-090",
+    "question": "Sindromi i lobit media mund të shkaktohet nga:",
+    "answers": [
+      "aneurizma e aortës torakale",
+      "adenopati peribronkiale",
+      "bronkoektazi",
+      "stenoz e arteries pulmonare",
+      "emfizema pulmonare"
+    ],
+    "correct": 1,
+    "explanation": "Sindroma e lobit të mesëm (atelektazë/pneumoni recidivuese e lobit të mesëm) shkaktohet shpesh nga kompresioni ekstrinsek i bronkut të lobit të mesëm (i hollë dhe i gjatë) nga limfadenopati peribronkiale (TB, tumore), ose nga obstruksion intrinsek."
+  },
+  {
+    "id": "licenca-pneumologji-091",
+    "question": "Në cilat rrethana aktivizohen muskujt ekspirator?",
+    "answers": [
+      "kur nevojiten flukse ekspiratore më të larta",
+      "kur nevojiten flukse inspiratore më të larta",
+      "kur nevojitet suporti i muskujve ekspirator në inspiracionin pasardhës",
+      "për të patur një volum rrjedhës më të lartë",
+      "për të patur një kapacitet vital më të lartë"
+    ],
+    "correct": 0,
+    "explanation": "Ekspirimi në qetësi është pasiv (rikthimi elastik); muskujt ekspiratorë (abdominalë, ndërbrinjorët e brendshëm) aktivizohen kur kërkohen flukse ekspiratore më të larta (ushtrime, kollë, obstruksion)."
+  },
+  {
+    "id": "licenca-pneumologji-092",
+    "question": "Cfarë indikohet me ‘’N” në stadifikimin TNM të tumorit pulmonar?",
+    "answers": [
+      "dimensioni i tumorit",
+      "lokalizimi i metastazave",
+      "prekja e limfonodulave",
+      "prekja cerebrale",
+      "prekja kockore"
+    ],
+    "correct": 2,
+    "explanation": "Në TNM, N tregon përfshirjen e limfonodujve rajonalë (N0 asnjë, N1 hilarë homolateralë, N2 mediastinalë homolateralë/subkarinalë, N3 kontralateralë/supraklavikularë)."
+  },
+  {
+    "id": "licenca-pneumologji-093",
+    "question": "Cili tip pneumotoraksi specificikisht mbështetet në një mekanizëm valvular?",
+    "answers": [
+      "pneumotoraks spontan",
+      "pneumotoraks iatrogjen",
+      "hemopneumotoraks",
+      "pneumotoraks i mbitendosur",
+      "pneumotoraks sakat"
+    ],
+    "correct": 3,
+    "explanation": "Pneumotoraksi me tension krijohet nga një mekanizëm valvular (ajri hyn në inspirim dhe nuk del në ekspirim), me rritje progresive të presionit intrapleural, kolaps pulmonar, zhvendosje të mediastinit dhe ulje të kthimit venoz."
+  },
+  {
+    "id": "licenca-pneumologji-094",
+    "question": "Konsiderohet gaz irritant, i aftë të shkaktojë irritim dhe si pasojë lezione të aparatit respirator, cili nga agjentët kimikë të mëposhtëm:",
+    "answers": [
+      "klori",
+      "fosfori",
+      "acidi sulfhidrik",
+      "dioksidi i azotit",
+      "të gjitha të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Gazet irritante (klori, amoniaku, fosgjeni/përbërjet e fosforit, H2S, dioksidi i azotit, SO2) dëmtojnë mukozën respiratore: trakeobronkit, bronkiolit obliterant, edemë pulmonare joneuro-kardiogjene."
+  },
+  {
+    "id": "licenca-pneumologji-095",
+    "question": "Në astmën bronkiale nga se varet ulja e flukseve ekspirator maksimal?",
+    "answers": [
+      "rritja e kompliancës",
+      "rritja e konduktancës",
+      "ulja e rezistencave",
+      "rritja e rezistencave",
+      "rritja e elasticitetit të kafazit torakal"
+    ],
+    "correct": 3,
+    "explanation": "Ulja e flukseve ekspiratore maksimale në astmë vjen nga rritja e rezistencës së rrugëve ajrore (bronkospazëm, edemë mukoze, hipersekrecion), me konduktancë të ulur."
+  },
+  {
+    "id": "licenca-pneumologji-096",
+    "question": "Cila është forma më e shpeshtë e pneumomediastinit?",
+    "answers": [
+      "idiopatik",
+      "spontan –patologjik",
+      "esencial",
+      "traumatik",
+      "iatrogjen"
+    ],
+    "correct": 3,
+    "explanation": "Forma më e shpeshtë e pneumomediastinit është ajo traumatike (trauma torakale, iatrogjene/procedurale); pneumomediastini spontan (Valsalva, astmë, të vjella) është i shpeshtë te të rinjtë."
+  },
+  {
+    "id": "licenca-pneumologji-097",
+    "question": "Cilat qeliza përgjegjëse në BAL(lavazhi bronko alveolar) janë indikues të aktivitetit të pneumokoniozës?",
+    "answers": [
+      "limfocite CD4",
+      "limfocite CD8",
+      "makrofag",
+      "neutrofile",
+      "monocite"
+    ],
+    "correct": 3,
+    "explanation": "Në BAL rritja e neutrofileve tregon aktivitet/inflamacion aktiv në pneumokoniozat (dhe fibrozat); limfocitoza është tipike për sarkoidozën (CD4) dhe pneumoninë nga hipersensibiliteti (CD8)."
+  },
+  {
+    "id": "licenca-pneumologji-098",
+    "question": "Agoaspirimi pulmonar është i nevojshëm në diagnozën e:",
+    "answers": [
+      "bronkoektazisë",
+      "emfizemës",
+      "TBC miliar",
+      "kancerit bronkogjen",
+      "fistulave arteriovenoze"
+    ],
+    "correct": 3,
+    "explanation": "Punksion-aspirimi pulmonar transtorakal (nën CT) përdoret për diagnozën citologjike/histologjike të noduleve periferike, kryesisht kancerit bronkogjen, kur bronkoskopia nuk i arrin."
+  },
+  {
+    "id": "licenca-pneumologji-099",
+    "question": "Cilët nga këta faktorë nuk është determinant për të indiktuar tumore bronkopulmonare në fumatorët:",
+    "answers": [
+      "mosha e fillimit të vesit",
+      "kohëzgjatja në vite e vesit",
+      "numri i cigareve të pira në një ditë",
+      "moshe e madhe e pacientit",
+      "grada e inspirimit të tymit të duhanit"
+    ],
+    "correct": 3,
+    "explanation": "Rreziku i kancerit pulmonar te duhanpirësit varet nga sasia kumulative (paketë-vite: numri i cigareve × vitet), mosha e fillimit, thellësia e inhalimit dhe lloji i cigares; mosha e avancuar vetë nuk është përcaktues i ekspozimit."
+  },
+  {
+    "id": "licenca-pneumologji-100",
+    "question": "Cili është shtrirja e rritjes së densitetit pulmonar në pneumoninë pneumokoksike?",
+    "answers": [
+      "panlobulare",
+      "bilaterale",
+      "lobare ose sublobare",
+      "intersticiale",
+      "apikale"
+    ],
+    "correct": 2,
+    "explanation": "Pneumonia pneumokoksike jep tipikisht opacitet alveolar homogjen lobar ose sublobar (segmental) me bronkogramë ajrore (pneumoni lobare)."
+  },
+  {
+    "id": "licenca-pneumologji-101",
+    "question": "Cfarë nënkupotohet me ‘’ kohë dyfishimi”",
+    "answers": [
+      "koha e nevojshme që do një lezion nodular që të dyfishojë volumin e tij",
+      "koha e nevojshme që do një lezion pulmonar që të dyfishojë diametrin e tij",
+      "koha e nevojshme që do një lezion nodular që të dyfishojë volumin dhe diametrin e tij",
+      "koha që i duhet një lezioni nodularpër të dhënë metastaza në distancë",
+      "koha që i duhet një lezioni nodular të dyfishojë cirkumferencën e tij"
+    ],
+    "correct": 0,
+    "explanation": "Koha e dyfishimit është koha që i duhet një noduli për të dyfishuar volumin (që korrespondon me rritje ~26% të diametrit); nodulet malinje kanë zakonisht kohë dyfishimi 20–400 ditë."
+  },
+  {
+    "id": "licenca-pneumologji-102",
+    "question": "Cili nga medikamentet e mëposhtëme nuk përdoret për kontrollin afatgjatë të patologjisë astmatike?",
+    "answers": [
+      "A kromoglikati",
+      "B teofilina",
+      "C kortikosteroid",
+      "D medikamentet aktive mbi leukotrienet",
+      "E të gjitha të mësipërmet janë të vërteta"
+    ],
+    "correct": 1,
+    "explanation": "Për kontrollin afatgjatë të astmës përdoren kortikosteroidet inhalatore, LABA, antileukotrienet, kromonet, biologjikët. Teofilina nuk konsiderohet barnë kontrolli (sot ka rol shumë margjinal për shkak të indeksit terapeutik të ngushtë)."
+  },
+  {
+    "id": "licenca-pneumologji-103",
+    "question": "Cila është rruga kryesore e transmetimit të tuberkulozit?",
+    "answers": [
+      "rruga digjestive",
+      "rruga konjiktivale",
+      "rruga kutane",
+      "rrugë ajrore",
+      "rrugë gjenitale"
+    ],
+    "correct": 3,
+    "explanation": "Tuberkulozi transmetohet kryesisht nëpërmjet rrugës ajrore, me pikëza respiratore (droplet nuclei) nga pacientët me TB pulmonare bacilifere."
+  },
+  {
+    "id": "licenca-pneumologji-104",
+    "question": "Të gjitha pohimet e mëposhtëme relative me kontaktin me një subjekt të prekur nga tuberkulozi janë të gabuara me përjashtim:",
+    "answers": [
+      "përcakton gjithmonë infeksionin nga m.tuberculosis",
+      "nuk përcakton infeksionin nga m.tuberculosis",
+      "përcakton gjithmonë transmetimin e semndjes tuberkulare",
+      "nuk përcakton kurrë transmetimin e sëmundjes tuberkulare",
+      "mund të japë shkas për infeksion nga m.tuberculosis me ose pa shënja klinike të sëmundjes Tuberkulare"
+    ],
+    "correct": 4,
+    "explanation": "Kontakti me një pacient me TB mund të shkaktojë infeksion (latent, me test tuberkulinë/IGRA pozitiv) me ose pa zhvillim të sëmundjes aktive; jo çdo kontakt infektohet dhe vetëm ~5–10% e të infektuarve zhvillojnë sëmundje."
+  },
+  {
+    "id": "licenca-pneumologji-105",
+    "question": "Cila është terapia për pacientët me fibrozë pulmonare idiopatike?",
+    "answers": [
+      "kortizon",
+      "azatioprina",
+      "ciclofosfamid",
+      "ciclosporina a",
+      "metotrexate"
+    ],
+    "correct": 0,
+    "explanation": "Pyetje e vjetër: kortikosteroidet. Sot dihet se në fibrozën pulmonare idiopatike kortikosteroidet dhe imunosupresorët nuk ndihmojnë (madje dëmtojnë); terapia e rekomanduar është antifibrotike (pirfenidon, nintedanib), oksigjen dhe transplant pulmonar."
+  },
+  {
+    "id": "licenca-pneumologji-106",
+    "question": "Shkaku më i shpeshtë i abcesit pulmonar akut është:",
+    "answers": [
+      "tbc",
+      "atelektazi pulmonare kronike",
+      "inhalimi i materialeve ushqimore",
+      "mungesa e përdorimit të antibiotikëve me përdorim profilaktiv",
+      "kirurgjia e toraksit"
+    ],
+    "correct": 2,
+    "explanation": "Absceset pulmonare akute shkaktohen më shpesh nga aspirimi i përmbajtjes orofaringeale/ushqimore (anaerobë) te pacientët me çrregullim të vetëdijes (alkool, anestezi, epilepsi) ose disfagi; lokalizohen në segmentet e varura."
+  },
+  {
+    "id": "licenca-pneumologji-107",
+    "question": "Cilët nga izotipet e mëposhtëme të karcinomës pulmonare është më frekuente?",
+    "answers": [
+      "adenokarcinoma",
+      "karcinoide",
+      "karcinoma bronkoalveolare",
+      "condroma",
+      "adrioblastoma"
+    ],
+    "correct": 0,
+    "explanation": "Adenokarcinoma është tipi histologjik më i shpeshtë i kancerit pulmonar (edhe te jo-duhanpirësit dhe gratë), e lokalizuar zakonisht periferikisht."
+  },
+  {
+    "id": "licenca-pneumologji-108",
+    "question": "Cili është parametri serologjik që përdoret për monitorimin efikas të terapisë heparinike?",
+    "answers": [
+      "aPPT",
+      "PT",
+      "INR",
+      "fibrinogjeni",
+      "kalçemia"
+    ],
+    "correct": 0,
+    "explanation": "Terapia me heparinë jofraksionuar monitorohet me aPTT (vlera 1,5–2,5 herë kontrollin); PT/INR përdoret për antagonistët e vitaminës K."
+  },
+  {
+    "id": "licenca-pneumologji-109",
+    "question": "Të gjitha simptomat/shënjat e mëposhtëme janë të shpeshta në ecurinë e hipertensionit pulmonar primar me përjashtim:",
+    "answers": [
+      "dispnea nga sforcoja",
+      "Dhimbje prekordiale",
+      "lipotimia",
+      "edema deklive",
+      "reduktim i sjelljes kardiake"
+    ],
+    "correct": 3,
+    "explanation": "Në hipertensionin arterial pulmonar idiopatik simptomat e shpeshta janë dispnea e sforcimit, lodhja, dhimbja prekordiale, sinkopi/lipotimia (nga debiti kardiak i ulur); edemat periferike shfaqen vonë, me insuficiencën e zemrës së djathtë."
+  },
+  {
+    "id": "licenca-pneumologji-110",
+    "question": "Në çarë konsiston roli i mushkërive në modulimin e ekulibrit acido-bazik?",
+    "answers": [
+      "modulimi me ventilim absorbimin e O2",
+      "duke modeluar me ane te ventilimit eleminimin e CO2",
+      "duke modeluar me ane te ventilimit eleminimin e O2",
+      "duke modeluar funksionin eliminues të pulmonit",
+      "duke modeluar funksionin filtrues metabolik të pulmonit"
+    ],
+    "correct": 1,
+    "explanation": "Pulmoni rregullon ekuilibrin acido-bazik duke moduluar me ventilim eliminimin e CO2 (pCO2): hiperventilimi ul CO2 (kompenson acidozën metabolike), hipoventilimi e rrit."
+  },
+  {
+    "id": "licenca-pneumologji-111",
+    "question": "Diagnoza citologjike e kancerit të pulmonit mund të arrihet me studimet e mëposhtëme me përjashtim:",
+    "answers": [
+      "agoaspirimi",
+      "studim i ekspektoratit",
+      "bronkografia",
+      "bronkoskopia",
+      "mediastinoskopia"
+    ],
+    "correct": 2,
+    "explanation": "Diagnoza citologjike e kancerit pulmonar arrihet me citologji të sputumit, bronkoskopi (larje, furçim, biopsi), punksion-aspirim transtorakal, EBUS/mediastinoskopi dhe torakocentezë. Bronkografia është metodë radiologjike me kontrast, e vjetruar, pa material citologjik."
+  },
+  {
+    "id": "licenca-pneumologji-112",
+    "question": "Në një pacient me hipertension pulmonar sekondar nga sëmundje respiratore kronike, cila nga terapitë e mëposhtëme mund të përdoret më shpesh:",
+    "answers": [
+      "oksigjenoterapi e vazhdueshme",
+      "digital",
+      "antagonistët e kalçumit",
+      "diuretikët",
+      "teofilina"
+    ],
+    "correct": 0,
+    "explanation": "Në hipertensionin pulmonar nga sëmundjet respiratore kronike (hipoksia) trajtimi kryesor është oksigjenoterapia afatgjatë, që ul vazokonstriksionin hipoksik dhe përmirëson mbijetesën; diuretikët për edemat."
+  },
+  {
+    "id": "licenca-pneumologji-113",
+    "question": "Cilët janë faktorët etiopatogjenetikë që përfshihen në zhvillimin e astmës bronkiale?",
+    "answers": [
+      "aktiviteti i sistemit nervor autonom në rrugët ajrore",
+      "inflamacion i rrugeve ajrore",
+      "rimodelim i rrugëve ajrore",
+      "lëshimi i mediatorëve me veprim bronkokonstriktiv",
+      "të gjitha të mësipërmet"
+    ],
+    "correct": 4,
+    "explanation": "Patogjeneza e astmës përfshin inflamacionin kronik të rrugëve ajrore (eozinofile, mastocite, Th2), çlirimin e mediatorëve bronkokonstriktorë (histaminë, leukotriene), hiperreaktivitetin bronkial me çrregullim të kontrollit autonom dhe rimodelimin e rrugëve ajrore."
+  },
+  {
+    "id": "licenca-pneumologji-114",
+    "question": "Cili është materiali biologjik më i domosdoshëm për diagnostikimin mikrobiologjik të tuberkulozit?",
+    "answers": [
+      "saliva",
+      "material i marrë me agobiopsi",
+      "gjaku",
+      "ekspektorati",
+      "tumore me metastaza cerebrale të vetme"
+    ],
+    "correct": 3,
+    "explanation": "Materiali kryesor për diagnozën mikrobiologjike të TB-së pulmonare është sputumi (ekspektorati), të paktën 2–3 mostra mëngjesi (mikroskopi, kulturë, test molekular Xpert); nëse mungon, sputum i induktuar ose BAL."
+  },
+  {
+    "id": "licenca-pneumologji-115",
+    "question": "Në rastin e acidozës metabolike mushkria kompeson nëpërmjet:",
+    "answers": [
+      "rritjes së frekuencës respiratore",
+      "reduktimit të frekuencës respiratore",
+      "ulje të thellsisë së respirimit",
+      "rritje e thellsisë së respirimit",
+      "reduktim të eleminimit të CO2"
+    ],
+    "correct": 0,
+    "explanation": "Në acidozën metabolike kompensimi respirator bëhet me hiperventilim (rritje e frekuencës dhe thellësisë — frymëmarrja Kussmaul) për të eliminuar CO2."
+  },
+  {
+    "id": "licenca-pneumologji-116",
+    "question": "Cilët janë qelizat që implikohen në patogjenezën e astmës bronkiale?",
+    "answers": [
+      "neutrofile",
+      "limfocite",
+      "eozinofile",
+      "bazofile",
+      "plazmocite"
+    ],
+    "correct": 2,
+    "explanation": "Eozinofilet janë qelizat karakteristike të inflamacionit astmatik (alergjik), krahas mastociteve dhe limfociteve Th2; eozinofilia në sputum/gjak udhëheq terapinë biologjike."
+  },
+  {
+    "id": "licenca-pneumologji-117",
+    "question": "Cilat lezione imediate mund të provokojë intubimi trakeal në rastin e manovrave reanimatore?",
+    "answers": [
+      "stenoza trakeale",
+      "trakeomalacia",
+      "lezione trakeale penetrante",
+      "hemoragji tiroidiene",
+      "paralize e nrvit laringeus rrekurent"
+    ],
+    "correct": 2,
+    "explanation": "Lezionet imediate nga intubimi urgjent: traumë/lacerim i laringut dhe trakesë (lezione penetrante, perforim), dëmtim i dhëmbëve, intubim ezofageal; stenoza trakeale dhe trakeomalacia janë komplikacione të vona të intubimit të zgjatur."
+  },
+  {
+    "id": "licenca-pneumologji-118",
+    "question": "Simptomat dhe shënjat principale të mykobakteriozes jo tuberkulare të diseminuara janë:",
+    "answers": [
+      "temperaturë, rënje në peshë, limfoadenopati, hepatosplenomegali, dhimbje abdominale, diarre, djersitje profuze, insufiçnsë respiratore",
+      "kollë me ekspektorat mukopurulent persistent",
+      "febricola serotina, calo ponderale, kollë, ekspektorim mukopurulent, hemoptozi",
+      "febricola serotina, kollë, hemoptizi, dispne",
+      "febbricola serotina, kollë me ekspektorat hemoptoik e mukopurulent, dispne"
+    ],
+    "correct": 0,
+    "explanation": "Mikobakterioza jotuberkulare e diseminuar (MAC, te HIV me CD4 <50) jep ethe, rënie në peshë, djersitje, limfadenopati, hepatosplenomegali, dhimbje abdominale, diarre, anemi; forma pulmonare lokalizuar jep kollë produktive."
+  },
+  {
+    "id": "licenca-pneumologji-119",
+    "question": "Cila nga të mëposhtëmet është indikacion për mediastinoskopi?",
+    "answers": [
+      "biopsi trakeale",
+      "biopsi tiroide",
+      "biopsi e limfonodulave pretrakeal",
+      "biopsi e paretit torakal"
+    ],
+    "correct": 2,
+    "explanation": "Mediastinoskopia (cervikale) përdoret për biopsinë e limfonodujve mediastinalë paratrakealë, pretrakealë dhe subkarinalë anterior, për stadifikimin e kancerit pulmonar dhe diagnozën e limfomave/sarkoidozës."
+  },
+  {
+    "id": "licenca-pneumologji-120",
+    "question": "Në cilën pjesë të pemës bronkiale predominojnë mekanizma imunologjik mbrojtës?",
+    "answers": [
+      "në të gjithë sistëmin bronkial",
+      "në zonat pertej bronkiolit tërminal",
+      "në zonën trakeale",
+      "në zonat posht bronkiolit terminal",
+      "në nivel të trakesë e bronkeve të mëdha"
+    ],
+    "correct": 3,
+    "explanation": "Në zonat distale të bronkiolit terminal (alveolat) predominojnë mekanizmat imunologjikë të mbrojtjes (makrofagë alveolarë, imunoglobulina, komplement), ndërsa në rrugët ajrore proksimale predominojnë mekanizmat mekanikë (mukociliarë, kollë)."
+  },
+  {
+    "id": "licenca-pneumologji-121",
+    "question": "Në sindromën restriktive ka zakonisht një frekuencë respiratore të lartë si pasojë e:",
+    "answers": [
+      "rezistencat e rrugëve ajrore janë të reduktuara",
+      "kushtojn sforcimet e vogla per te lëvizur një volum të ulët për ço akt respirimi",
+      "rezistenca e rrugëve ajrore nuk rritet me frekuencën e respirimit",
+      "tensioni superficial i alveolave mbetet e ulët në volume të ulta",
+      "në inspiracione të thella presioni intrapleuritik ka negativitet normal"
+    ],
+    "correct": 1,
+    "explanation": "Në sindromat restriktive (pulmoni rigid, komplianca e ulur) frymëmarrja me volume të vogla dhe frekuencë të lartë kërkon më pak punë elastike; është strategjia që minimizon sforcimin respirator."
+  },
+  {
+    "id": "licenca-pneumologji-122",
+    "question": "Cfarë nënkuptohet me stad të pare të sarkoidozës?",
+    "answers": [
+      "Prekje parenkimale e izoluar",
+      "prekje e strukturave limfoglandulare hiliare bilaterale në mungesë të interesimit parenkimal",
+      "prekje kutane e izoluar",
+      "prekje kardiake e izoluar",
+      "prekje artikulare e izoluar"
+    ],
+    "correct": 1,
+    "explanation": "Stadi I i sarkoidozës (Scadding) = limfadenopati hilare bilaterale pa prekje parenkimale; stadi II limfadenopati + infiltrate; stadi III vetëm infiltrate; stadi IV fibrozë."
+  },
+  {
+    "id": "licenca-pneumologji-123",
+    "question": "Cili është tipi histologjik i tumorit pulmonar më të shpeshtë në pacientët me moshë mbi 65 vjeç:",
+    "answers": [
+      "skuamocelular",
+      "adenokarcinoma",
+      "karcinoid",
+      "karcinoma bronkoalveolare",
+      "karcinom e padiferencuar"
+    ],
+    "correct": 0,
+    "explanation": "Te pacientët mbi 65 vjeç (kryesisht duhanpirës të vjetër) predominon karcinoma skuamoze; në përgjithësi sot adenokarcinoma është më e shpeshta në të gjitha moshat."
+  },
+  {
+    "id": "licenca-pneumologji-124",
+    "question": "Cila është triada simptomatologjike karakteristike e embolisë pulmonare?",
+    "answers": [
+      "dhimbje torakale, cianozë, ritëm galopi",
+      "dhimbje torakale, dispne, hemoptizi",
+      "takikardi, hipertension arterial, djersitje",
+      "dhimbje shpuese si thike, bradikardia, djersitje",
+      "palpitacione, hipotension, ikter"
+    ],
+    "correct": 1,
+    "explanation": "Triada klasike (megjithëse e pranishme vetëm në pak raste) e embolisë pulmonare me infarkt: dispne e papritur, dhimbje torakale pleuritike dhe hemoptizi; shenjat më të shpeshta janë dispnea dhe takipnea."
+  },
+  {
+    "id": "licenca-pneumologji-125",
+    "question": "Cili është indikacioni më i shpeshtë në moshë pediatrike për fibrobronkoskopi?",
+    "answers": [
+      "biopsi endobronkiale",
+      "obstruksion bronkial nga trupa të huaj",
+      "lavazh bronkial për kulturë",
+      "vlersim intraoperator",
+      "neoplazi bronkiale"
+    ],
+    "correct": 1,
+    "explanation": "Te fëmijët indikacioni më i shpeshtë për bronkoskopi është dyshimi për trup të huaj në rrugët ajrore (aspirim), që zakonisht hiqet me bronkoskop rigjid."
+  },
+  {
+    "id": "licenca-pneumologji-126",
+    "question": "Dhimbje shpuese si thike e papritur e lokalizuar në një hemitoraks dhe dispne në një të ri deri më parë asimptomatik janë sugjestive për diagnozat e mëposhtëme:",
+    "answers": [
+      "pneumoni lobare",
+      "pneumotoraks spontan",
+      "infarkt miokardi",
+      "emboli pulmonare",
+      "aneurizëm disekante"
+    ],
+    "correct": 1,
+    "explanation": "I ri, i shëndetshëm (shpesh i gjatë, i dobët, duhanpirës) me dhimbje të papritur pleuritike \"si thikë\" në një hemitoraks dhe dispne = pneumotoraks spontan primar."
+  },
+  {
+    "id": "licenca-pneumologji-127",
+    "question": "Në cilët volum pulmonar distentimi pulmonar është minimal?",
+    "answers": [
+      "në korespondim me kapacitetin pulmonar total",
+      "në korespondencë me volumin rezidual",
+      "në korespondencë me volumin e rezervës inspiratore",
+      "në korespondencë me volumin e rezevës ekspiratore",
+      "në korespondencë me kapacitetin vital të sforcuar"
+    ],
+    "correct": 0,
+    "explanation": "Distensibiliteti (komplianca) i pulmonit është minimal në volume të larta pulmonare, pranë kapacitetit pulmonar total, ku kurba presion-volum rrafshohet (pulmoni është pothuajse plotësisht i shtrirë)."
+  },
+  {
+    "id": "licenca-pneumologji-128",
+    "question": "Absesi pulmonar fillimisht duhet të trajtohet me:",
+    "answers": [
+      "terapi farmakologjike",
+      "aspiracion transparietal",
+      "pneumotomia",
+      "lobektomia",
+      "drenazh bronkoskopik"
+    ],
+    "correct": 0,
+    "explanation": "Abscesi pulmonar trajtohet fillimisht me terapi medikamentoze: antibiotikë që mbulojnë anaerobët (amoksicilinë-klavulanat, klindamicinë) për 4–6 javë + fizioterapi/drenazh postural; drenazhi perkutan/kirurgjia vetëm në dështim."
+  },
+  {
+    "id": "licenca-pneumologji-129",
+    "question": "Si quhet grumbullimi i likidt limfatik në hapsirën pleuritike?",
+    "answers": [
+      "hidropneumotoraks",
+      "kilotoraks",
+      "hemotoraks",
+      "empiema",
+      "hidrotoraks"
+    ],
+    "correct": 1,
+    "explanation": "Kilotoraksi është grumbullimi i limfës (kilusit) në hapësirën pleurale, nga dëmtimi/obstruksioni i duktusit torakal (trauma, kirurgji, limfoma); lëng qumështor me trigliceride >110 mg/dl."
+  },
+  {
+    "id": "licenca-pneumologji-130",
+    "question": "Në klasifikimin TNM të tumoreve pulmonar M indikon:",
+    "answers": [
+      "metastaza kockore",
+      "mungesa e metastazave",
+      "prezenca joprobable e metastazave në distancë",
+      "metastaza jo të vlersueshme",
+      "metastaza në limfonoduj"
+    ],
+    "correct": 3,
+    "explanation": "Në TNM, M tregon metastazat në distancë (M0 mungojnë, M1 të pranishme, MX nuk mund të vlerësohen); ndër opsionet, MX (\"metastaza jo të vlerësueshme\") është i vetmi term i klasifikimit M."
+  },
+  {
+    "id": "licenca-pneumologji-131",
+    "question": "Të gjithë organet/aparatet e mëposhtëme preken në fibrozën cistike me përjashtim:",
+    "answers": [
+      "pulmoni",
+      "intestini",
+      "pankreasi",
+      "gjëndrat salivare",
+      "renet"
+    ],
+    "correct": 4,
+    "explanation": "Fibroza kistike prek gjëndrat ekzokrine: pulmonin (bronkoektazi), pankreasin (insuficiencë, diabet), intestinin (ileus mekonial, sindroma DIOS), mëlçinë/rrugët biliare, gjëndrat e djersës dhe salivare, traktin gjenital (azoospermi). Veshkat nuk preken drejtpërdrejt."
+  },
+  {
+    "id": "licenca-pneumologji-132",
+    "question": "Sarkoidoza është një sëmundje e karakterizuar nga:",
+    "answers": [
+      "një histori natyrale e karakterizuar nga periudha aktive dhe qetësie",
+      "është një sëmundje me progresion gjithmonë fatal",
+      "është një sëmundje që prezantohet mbi të gjitha në moshë të avancuar",
+      "është një sëmundje me interesim ekskluzivisht pulmonar",
+      "është një sëmundje që intereson ekskluzivisht limfonodujt"
+    ],
+    "correct": 0,
+    "explanation": "Sarkoidoza (sëmundje granulomatoze multisistemike, kryesisht 20–40 vjeç) ka ecuri me periudha aktiviteti dhe remisioni; shumë raste shërohen spontanisht, vetëm pakica bëhet progresive/fibrotike."
+  },
+  {
+    "id": "licenca-pneumologji-133",
+    "question": "Cilat janë mekanizmat patogjenetikë kryesor në hipertensionin pulmonar sekondar nga sëmundje kronike respiratore?",
+    "answers": [
+      "mbingarkesë ventrikulare e majtë",
+      "mbingarkesë ventrikulare e djathtë",
+      "vozokonstriksion pulmonar hipoksike",
+      "stazë pulmonare",
+      "asnjë nga përgjigjet e mësipërme"
+    ],
+    "correct": 2,
+    "explanation": "Mekanizmi kryesor i hipertensionit pulmonar në sëmundjet kronike respiratore është vazokonstriksioni pulmonar hipoksik (dhe rimodelimi vaskular), plus humbja e shtratit kapilar dhe policitemia."
+  },
+  {
+    "id": "licenca-pneumologji-134",
+    "question": "Të gjitha trajtimet e mëposhtëme përdoren në trajtimin e fibrozës cistike me përjashtim të:",
+    "answers": [
+      "mukolitikëve",
+      "enzimave proteolitike",
+      "drenazhit postural",
+      "antibiotikëve",
+      "asnjë të mësipërmve"
+    ],
+    "correct": 4,
+    "explanation": "Në fibrozën kistike përdoren të gjitha: mukolitikë (dornaza alfa — enzimë që shpërbën ADN-në, solucion hipertonik), fizioterapi/drenazh postural, antibiotikë (edhe inhalatorë), enzima pankreatike, modulatorë CFTR."
+  },
+  {
+    "id": "licenca-pneumologji-135",
+    "question": "Cila është terapia më e përshtatshme për profilaksi korrekte të embolisë pulmonare në pacientët me risk të mesëm?",
+    "answers": [
+      "aspirina",
+      "dikumarol",
+      "heparin me peshë të ulët molekulare",
+      "glukokortikoid",
+      "indometacin"
+    ],
+    "correct": 2,
+    "explanation": "Profilaksia e tromboembolizmit venoz te pacientët me rrezik të mesëm (kirurgji e madhe e përgjithshme, pacientë mjekësorë të imobilizuar) bëhet me heparinë me peshë të ulët molekulare (ose fondaparinuks) + mjete mekanike."
+  },
+  {
+    "id": "licenca-pneumologji-136",
+    "question": "Cila është procedura që lejon një diagnozë preçze të lezioneve neoplazike trakeale?",
+    "answers": [
+      "CT torako –mediastinale",
+      "fibrobronkoskopia",
+      "ekografia trakeale",
+      "radiografia e toraxit",
+      "rezonancë magnetike trakeale"
+    ],
+    "correct": 1,
+    "explanation": "Fibrobronkoskopia lejon vizualizimin e drejtpërdrejtë dhe biopsinë e lezioneve trakeale, pra diagnozën e saktë histologjike; CT vlerëson shtrirjen."
+  },
+  {
+    "id": "licenca-pneumologji-137",
+    "question": "Cili tip histologjik nga karcinomat jo me qelizave të vogla shoqërohet më lehtë me versamente pleurale?",
+    "answers": [
+      "karcinoma jo e diferencuar",
+      "adenokarcinoma",
+      "karcinoma spinoqelizore",
+      "karcinoma me qeliza të mëdha",
+      "karcinoide"
+    ],
+    "correct": 1,
+    "explanation": "Adenokarcinoma (periferike, pranë pleurës) shoqërohet më shpesh me efuzion pleural malinj, ndër karcinomat jo me qeliza të vogla."
+  },
+  {
+    "id": "licenca-pneumologji-138",
+    "question": "Cila është masa e menjëhershme në një pneumotoraks hipertensiv:",
+    "answers": [
+      "pushim shtrati",
+      "drenazh",
+      "torakotomi",
+      "sonda nazo gastrike",
+      "bronkoskpia"
+    ],
+    "correct": 1,
+    "explanation": "Pneumotoraksi me tension kërkon dekompresion të menjëhershëm (gjilpërë dhe pastaj drenazh pleural), pa pritur imazherinë."
+  },
+  {
+    "id": "licenca-pneumologji-139",
+    "question": "Cili është rezultati kreysor që përfitohet nga përdorimi i antileukotrienëve?",
+    "answers": [
+      "kontrollojnë të vetëm astmën bronkiale",
+      "eleminojnë inflamacionin bronkial",
+      "lejojnë një reduktim te dozës së steroidëve inhalator",
+      "reduktojnë sekrecionet bronkiale",
+      "reduktojnë përgjigjen imunitare"
+    ],
+    "correct": 2,
+    "explanation": "Antileukotrienet (montelukast) në astmë kanë efekt kursyes steroidesh: lejojnë uljen e dozës së kortikosteroideve inhalatore; janë efektive sidomos në astmën nga aspirina, ushtrimet dhe me rinit alergjik."
+  },
+  {
+    "id": "licenca-pneumologji-140",
+    "question": "Mbi çarë bazohet diagnoza e mykobakteriozës?",
+    "answers": [
+      "egzaminime laboratorike",
+      "kërkimi i antikorpeve, egzaminimi radiologjik",
+      "egzaminimi radiologjik dhe klinik",
+      "izolimi i patogjenit",
+      "egzaminime laboratorike dhe radiologjike"
+    ],
+    "correct": 3,
+    "explanation": "Diagnoza e mikobakteriozës (jotuberkulare) kërkon izolimin e patogjenit në kulturë (në ≥2 mostra sputumi ose 1 BAL/biopsi), përveç kritereve klinike dhe radiologjike (kriteret ATS/IDSA), për të përjashtuar kontaminimin."
+  },
+  {
+    "id": "licenca-pneumologji-141",
+    "question": "Cili nga të mëposhtëmet është faktor risku më i rëndësishëm për tuberkulozin?",
+    "answers": [
+      "infeksioni me HIV",
+      "infeksioni me hapatit viral B",
+      "infeksioni me hapatit viral C",
+      "hepatopatit në përgjithësi",
+      "çfaredo infeksioni viral"
+    ],
+    "correct": 0,
+    "explanation": "Infeksioni HIV (imunodepresioni qelizor T CD4) është faktori më i fuqishëm i rrezikut për zhvillimin e TB aktive (riaktivizim dhe infeksion progresiv primar), me rrezik 20–30 herë më të lartë."
+  },
+  {
+    "id": "licenca-pneumologji-142",
+    "question": "Cila është shënja më e shpeshtë që shoqërohet me diagnozën e bronkitit kronik?",
+    "answers": [
+      "kollë e thatë",
+      "dispne eforti",
+      "kollë produktive",
+      "dispne qetsie",
+      "stridor laringeal"
+    ],
+    "correct": 2,
+    "explanation": "Bronkiti kronik përkufizohet klinikisht nga kolla produktive (me ekspektorat) për ≥3 muaj në vit për ≥2 vite radhazi."
+  },
+  {
+    "id": "licenca-pneumologji-143",
+    "question": "Prezenca e kalçfikimeve si levozhga e vezës ne limfonodujt hiliar është tipike për kë pneumokoniozë?",
+    "answers": [
+      "azbesotz",
+      "berilioz",
+      "silikoz",
+      "talkoza",
+      "stanoza"
+    ],
+    "correct": 2,
+    "explanation": "Kalcifikimet \"në lëvozhgë veze\" (eggshell) në limfonodujt hilarë janë tipike për silikozën (edhe sarkoidozën); azbestoza jep pllaka pleurale të kalcifikuara."
+  },
+  {
+    "id": "licenca-pneumologji-144",
+    "question": "Mikrocitoma pulmonare është një tumor me origjinë:",
+    "answers": [
+      "ind endotelial",
+      "ind neuroendokrin",
+      "in epiteliar",
+      "fibroblastet",
+      "ind limfoid"
+    ],
+    "correct": 1,
+    "explanation": "Mikrocitoma (karcinoma pulmonare me qeliza të vogla) e ka origjinën në qelizat neuroendokrine (Kulchitsky) të epitelit bronkial; prodhon hormone ektopike (ADH, ACTH) dhe sindroma paraneoplastike (Lambert-Eaton)."
+  },
+  {
+    "id": "licenca-pneumologji-145",
+    "question": "Me perjashtim te ekspozimit ndaj azbestit, cili nga te meposhtemet mund te konsiderohen faktor te mundeshem per lindjen e mezoteliomes:",
+    "answers": [
+      "pleuriti kronik fibroplazik",
+      "trauma",
+      "tymi i duhanit",
+      "rezatimet jonizuese",
+      "te gjitha te mesipermet"
+    ],
+    "correct": 4,
+    "explanation": "Përveç azbestit, faktorë të mundshëm për mezoteliomën janë: fibra të tjera minerale (erioniti), rrezatimi jonizues, pleuriti kronik/fibroza, virusi SV40 (i diskutueshëm); edhe trauma dhe tymi i duhanit (rol i paqartë)."
+  }
+]

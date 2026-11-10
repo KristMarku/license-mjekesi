@@ -1,0 +1,912 @@
+[
+  {
+    "id": "licenca-ortopedi-001",
+    "question": "Karakteristika dalluese midis skoliozes dhe qendrimit skoliotik eshte :",
+    "answers": [
+      "Lokalizimi i deformimit",
+      "Rotacioni vertebral",
+      "Mosha e shfaqjes",
+      "Dhimbja",
+      "Heterometria e anesive te poshtme"
+    ],
+    "correct": 1,
+    "explanation": "Skolioza strukturale ka rrotullim të vertebrave (gungë brinjore në testin Adams me përkulje përpara); qëndrimi skoliotik (funksional) nuk ka rrotullim dhe korrigjohet me përkulje ose shtrirje."
+  },
+  {
+    "id": "licenca-ortopedi-002",
+    "question": "Cfare kuptohet me semundjen e De Quervain?",
+    "answers": [
+      "Tenosinovit kronik stenozant i vagines se perbashket te muskujve ekstensor i shkurter dhe abduktor i gjate i gishtit te madh",
+      "Tenosinovite reumatike tranzitore te vagines te tendineve te muskujve fleksore dhe ekstensore te gishtave te dores",
+      "Nekroze aseptike e kockes skafoide",
+      "Flegmone e thelle sub-aponeurotike e vagines se tendineve te muskujve fleksore te gishtave",
+      "Sinostoze e lindur ndermjet kockave te rreshtit te pare te karpeve"
+    ],
+    "correct": 0,
+    "explanation": "Sëmundja De Quervain është tenosinovit stenozant i ndarjes së parë dorsale (abduktori i gjatë dhe ekstensori i shkurtër i gishtit të madh) mbi stiloidin radial; testi Finkelstein pozitiv."
+  },
+  {
+    "id": "licenca-ortopedi-003",
+    "question": "Embolia gazoze eshte nje nderlikim i rende i :",
+    "answers": [
+      "Traumave te renda me fraktura multiple",
+      "Frakturave te qafes se femurit",
+      "Luksacionit traumatik te artikulacionit kokso-femoral",
+      "Frakturave te kolones vertebrale",
+      "Frakturave te ekstremitetit proksimal te humerusit"
+    ],
+    "correct": 0,
+    "explanation": "Embolia (në tekst \"gazoze\", ka shumë gjasa \"yndyrore\") është ndërlikim i rëndë i traumave të rënda me fraktura të shumëfishta të kockave të gjata/legenit: dispne, hipoksemi, petekie, konfuzion 24–72 orë pas traumës."
+  },
+  {
+    "id": "licenca-ortopedi-004",
+    "question": "Rakitizmi shkaktohet :",
+    "answers": [
+      "Nga mungesa e vitamines D",
+      "Nga mungesa e vitamines E",
+      "Nga mungesa e kalcitonines",
+      "Nga mungesa e vitamines A",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Rakitizmi (te fëmijët) shkaktohet nga mungesa e vitaminës D (ose metabolizmi i saj) → mineralizim i dobët i kërcit të rritjes dhe kockës: deformime, rruzare rakitike, vonesë në mbylljen e fontanelës."
+  },
+  {
+    "id": "licenca-ortopedi-005",
+    "question": "Luksacioni i vjeter i artikulacionit koksofemoral eshte :",
+    "answers": [
+      "Nje proces inflamator i luksacionit",
+      "Nje luksacion i patrajtuar",
+      "Nje frakture e femurit shoqeruar me luksacion",
+      "Asnje nga pergjigjet e mesiperme",
+      "Te tri pergjigjet e mesiperme"
+    ],
+    "correct": 1,
+    "explanation": "Luksacioni i vjetër (i \"neglizhuar\") është luksacion që nuk është reduktuar në kohë (javë-muaj); bëhet i pareduktueshëm me manovra të mbyllura për retraksion të indeve dhe kërkon kirurgji."
+  },
+  {
+    "id": "licenca-ortopedi-006",
+    "question": "Me termin luksacion kuptohet :",
+    "answers": [
+      "Nje lacerim i plote i ligamentit",
+      "Nje humbje e perkohshme e raporteve artikulare",
+      "Nje frakture artikulare",
+      "Nje humbje e perhershme e raporteve artikulare",
+      "Nje frakture artikulare e shoqeruar me lezione kapsulo-ligamentoze"
+    ],
+    "correct": 3,
+    "explanation": "Luksacioni = humbje e plotë dhe e përhershme (deri në reduktim) e kontaktit midis sipërfaqeve artikulare. Humbja e pjesshme/kalimtare quhet subluksacion ose distorsion."
+  },
+  {
+    "id": "licenca-ortopedi-007",
+    "question": "Me termin spondilolisteze kuptohet :",
+    "answers": [
+      "Nje nderprerje e procesit spinoz",
+      "Nje rreshqitje perpara e vertebres",
+      "Nje nderprerje e istmusit vertebral",
+      "Nje nderprerje e trupit te vertebres",
+      "Nje artroze vertebrale"
+    ],
+    "correct": 1,
+    "explanation": "Spondilolisteza = rrëshqitje anteriore e një vertebre mbi atë poshtë saj; ndërprerja e istmusit (pars interarticularis) quhet spondilolizë dhe është shkaku i shpeshtë i saj."
+  },
+  {
+    "id": "licenca-ortopedi-008",
+    "question": "Miorelaksantet japin pergjumje :",
+    "answers": [
+      "Ne 5% te rasteve",
+      "Ne 10% te rasteve",
+      "Ne 20% te rasteve",
+      "Ne 30% te rasteve",
+      "Asnjehere"
+    ],
+    "correct": 3,
+    "explanation": "Miorelaksantët (me veprim qendror) shkaktojnë përgjumje në rreth 30% të pacientëve — efekti anësor më i shpeshtë, që kufizon përdorimin në lumbalgji."
+  },
+  {
+    "id": "licenca-ortopedi-009",
+    "question": "Shenja e Trendelenburg eshte pozitive :",
+    "answers": [
+      "Ne displazine e lindur te artikulacionit kokso-femoral",
+      "Ne kemben e shtrember te lindur",
+      "Ne skoliozen lumbare",
+      "Ne skoliozen dorso-lumbare",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 0,
+    "explanation": "Shenja Trendelenburg (rënie e legenit nga ana e kundërt kur pacienti qëndron në një këmbë) tregon dobësi të muskujve abduktorë të ijes — pozitive në displazinë kongjenitale/luksacionin e ijes."
+  },
+  {
+    "id": "licenca-ortopedi-010",
+    "question": "Cili eshte vendi me i shpeshte i hernies diskale?",
+    "answers": [
+      "Lumbare",
+      "Dorsale",
+      "Cervikale",
+      "Cervikale e dorsale",
+      "Dorsale e lumbare"
+    ],
+    "correct": 0,
+    "explanation": "Hernia diskale më e shpeshtë është lumbare (L4-L5 dhe L5-S1, ~95% e herniove lumbare), pastaj cervikale (C5-C6, C6-C7); torakale e rrallë."
+  },
+  {
+    "id": "licenca-ortopedi-011",
+    "question": "Osteosarkoma :",
+    "answers": [
+      "Eshte transformimi malinj i ekzostozes solitare",
+      "Prek subjektet me moshe 60 – 70 vjec",
+      "Prek ekskluzivisht metafizat distale te femurit dhe proksimale te tibias dhe humerusit",
+      "Perbehet nga qeliza gjigande polinukleare",
+      "Perbehet nga qeliza mezenkimale qe prodhojne matriks osteoid dhe ind kockor te pamaturuar"
+    ],
+    "correct": 4,
+    "explanation": "Osteosarkoma është tumor malinj mezenkimal ku qelizat prodhojnë drejtpërdrejt osteoid/kockë të papjekur; prek adoleshentët (dhe të moshuarit me Paget), metafizat rreth gjurit. Qelizat gjigante janë të tumorit me qeliza gjigante."
+  },
+  {
+    "id": "licenca-ortopedi-012",
+    "question": "Fraktura e Colles-it eshte me e shpeshte :",
+    "answers": [
+      "Tek femijet",
+      "Tek te rinjte",
+      "Ne meshkujt e moshuar",
+      "Ne femrat e moshuara",
+      "Ne gravidance"
+    ],
+    "correct": 3,
+    "explanation": "Fraktura Colles (radius distal me zhvendosje dorsale, \"pirun\") është më e shpeshtë te gratë e moshuara me osteoporozë, pas rënies mbi dorë të shtrirë."
+  },
+  {
+    "id": "licenca-ortopedi-013",
+    "question": "Nje frakture patologjike diafizare e femurit tek nje subjekt adult eshte me shpesh pasoje e :",
+    "answers": [
+      "Tumorit kockor paresor",
+      "Osteomielitit kronik",
+      "Lezionit metastatik",
+      "Osteogjenezes imperfekte",
+      "Te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 2,
+    "explanation": "Te i rrituri, fraktura patologjike diafizare e femurit është më shpesh nga metastaza kockore (gji, mushkëri, prostatë, veshkë, tiroide) ose mielomë; tumoret primare janë të rralla."
+  },
+  {
+    "id": "licenca-ortopedi-014",
+    "question": "Gjate osteoporozes si pasoje e perdorimit te preparateve kortikosteroide :",
+    "answers": [
+      "Ndodhin shpesh fraktura multiple vertebrale",
+      "Frakturat jane te rralla",
+      "Nuk verifikohen kurre fraktura patologjike",
+      "Frakturat ndodhin vetem per doza me te medha se 30 mg ne dite prednisolon",
+      "Incidenca e frakturave eshte e pavarur nga doza"
+    ],
+    "correct": 0,
+    "explanation": "Osteoporoza nga kortikosteroidet prek kryesisht kockën trabekulare → fraktura të shpeshta vertebrale (shpesh të shumëfishta), edhe me doza të ulëta (≥5–7,5 mg/ditë prednizon për >3 muaj) dhe me densitet relativisht të ruajtur."
+  },
+  {
+    "id": "licenca-ortopedi-015",
+    "question": "Nje ekzaminim i rendesishem instrumental per diagnozen e sindromes se tunelit karpal eshte:",
+    "answers": [
+      "Rezonanca magnetike",
+      "CT-skaneri",
+      "Radiografia direkte",
+      "Elektromiografia",
+      "Shintigrafia kockore"
+    ],
+    "correct": 3,
+    "explanation": "Elektromiografia/elektroneurografia (shpejtësia e përçimit të nervit median) konfirmon diagnozën e tunelit karpal dhe vlerëson rëndesën; ekografia është ndihmëse."
+  },
+  {
+    "id": "licenca-ortopedi-016",
+    "question": "Nervi qe demtohet me shpesh ne luksacionin e artikulacionit skapulo-humeral eshte:",
+    "answers": [
+      "Aksilar",
+      "Ulnar",
+      "Median",
+      "Radial",
+      "Muskulokutaneus"
+    ],
+    "correct": 0,
+    "explanation": "Në luksacionin anterior të shpatullës, nervi aksilar (cirkumfleks) dëmtohet më shpesh: hipoestezi në pjesën laterale të shpatullës (\"pulla e regjimentit\") dhe dobësi e deltoidit."
+  },
+  {
+    "id": "licenca-ortopedi-017",
+    "question": "Cila nga kockat e karpeve frakturohet me shpesh ?",
+    "answers": [
+      "Semilunare",
+      "Piramidale",
+      "Trapezius",
+      "Kapitatum",
+      "Skafoide"
+    ],
+    "correct": 4,
+    "explanation": "Skafoidi është kocka karpale që frakturohet më shpesh (rënie mbi dorë të shtrirë, dhimbje në tabakierën anatomike); rrezik pseudoartroze dhe nekroze avaskulare nga vaskularizimi retrograd."
+  },
+  {
+    "id": "licenca-ortopedi-018",
+    "question": "Osteofitoza marginale eshte nje karakteristike radiologjike e shpeshte ne :",
+    "answers": [
+      "Artroze",
+      "Artrit reumatoid",
+      "Meniskopati",
+      "Osteoartrit",
+      "Neoplazi kockore"
+    ],
+    "correct": 0,
+    "explanation": "Osteofitet margjinale janë shenjë radiologjike tipike e artrozës (osteoartrozës), krahas ngushtimit asimetrik të hapësirës, sklerozës subkondrale dhe gjeodeve."
+  },
+  {
+    "id": "licenca-ortopedi-019",
+    "question": "Osteoporoza :",
+    "answers": [
+      "Karakterizohet nga dekalcifikimi i indit kockor",
+      "Shfaqet vetem ne moshe te thyer",
+      "Rendohet nga ngarkesa",
+      "Karakterizohet nga reduktimi i te gjithe mases kockore",
+      "Rralle prek kolonen vertebrale"
+    ],
+    "correct": 3,
+    "explanation": "Osteoporoza karakterizohet nga reduktimi i masës kockore totale (matriks + mineral në proporcion normal) dhe dëmtim i mikroarkitekturës; prek shpesh vertebrat. Dekalcifikimi me matriks të ruajtur është osteomalaci."
+  },
+  {
+    "id": "licenca-ortopedi-020",
+    "question": "Metastazat kockore me perqendrim te larte indi kockor jane kryesisht me origjine :",
+    "answers": [
+      "Pulmonare",
+      "Tiroide",
+      "Mammare",
+      "Prostatike",
+      "Intestinale"
+    ],
+    "correct": 3,
+    "explanation": "Metastazat osteoblastike (osteokondensuese, me kockë të shtuar) janë kryesisht nga kanceri i prostatës (edhe gjiri ndonjëherë); mushkëria, tiroidja, veshka japin metastaza osteolitike."
+  },
+  {
+    "id": "licenca-ortopedi-021",
+    "question": "Cfare eshte artrodeza :",
+    "answers": [
+      "Nje ankiloze kirurgjike",
+      "Nje frakture e pakonsoliduar",
+      "Dekursi i nje artriti specifik",
+      "Dekursi i nje koksiti",
+      "Dekursi i Morbus Perthes"
+    ],
+    "correct": 0,
+    "explanation": "Artrodeza = ankilozë kirurgjikale: fiksim i qëllimshëm i një artikulacioni (shkrirje kockore) për të eliminuar dhimbjen/instabilitetin (p.sh. në artrozë të rëndë të kyçit të këmbës)."
+  },
+  {
+    "id": "licenca-ortopedi-022",
+    "question": "Frakturat e „shkopit te gjelber“ jane :",
+    "answers": [
+      "Te gjitha frakturat e moshes pediatrike",
+      "Te gjitha frakturat diafizare transversale",
+      "Te gjitha shkeputjet (distakot) epifizare",
+      "Frakturat jo te plota te moshes pediatrike",
+      "Asnje nga pergjigjet e mesiperme"
+    ],
+    "correct": 3,
+    "explanation": "Frakturat \"në degë të gjelbër\" janë fraktura jo të plota të fëmijëve: korteksi thyhet në anën e konveksitetit dhe përkulet në anën tjetër, me periost të ruajtur."
+  },
+  {
+    "id": "licenca-ortopedi-023",
+    "question": "Cilin nga barnat e meposhtem do te zgjidhnit per trajtimin e nje lumbalgjie akute?",
+    "answers": [
+      "Antiinflamatore jo-steroide",
+      "Triacinoloni",
+      "Miorelaksantet",
+      "Kodeina",
+      "Paracetamoli"
+    ],
+    "correct": 0,
+    "explanation": "Për lumbalgjinë akute zgjidhja e parë farmakologjike janë FANS (ose paracetamoli), me këshillë për të qëndruar aktiv; miorelaksantët për periudha të shkurtra; kortikosteroidet dhe opioidët nuk janë linjë e parë."
+  },
+  {
+    "id": "licenca-ortopedi-024",
+    "question": "Fraktura e Colles-it kerkon gjithnje ne rradhe te pare :",
+    "answers": [
+      "Reponim me manovra te jashtme dhe imobilizim me gips",
+      "Stabilizim me fiksator ekstern",
+      "Reponim kirurgjik dhe osteosinteze interne",
+      "Manipulime",
+      "Bandazh elastik"
+    ],
+    "correct": 0,
+    "explanation": "Fraktura Colles trajtohet në radhë të parë me reduktim të mbyllur me manovra të jashtme dhe imobilizim me gips (antebrakio-palmar); kirurgjia kur ka paqëndrueshmëri ose dështim të reduktimit."
+  },
+  {
+    "id": "licenca-ortopedi-025",
+    "question": "Ne nje pacient qe vuan nga hernia diskale L3-L4 ne te djathte, shenjat Lasegue dhe Wassermann jane:",
+    "answers": [
+      "te dy negative",
+      "te dy pozitive",
+      "Lasegue pozitiv dhe Wassermann negativ",
+      "Wassermann pozitiv dhe Lasegue negativ",
+      "Lasegue dhe Wassermann lehtesisht pozitive"
+    ],
+    "correct": 3,
+    "explanation": "Hernia L3-L4 dëmton rrënjën L4 (nervi femoral): shenja Wassermann (shtrirja e femoralit, pacienti me bark poshtë) pozitive, ndërsa Lasègue (iskiatik, L5-S1) zakonisht negativ."
+  },
+  {
+    "id": "licenca-ortopedi-026",
+    "question": "Fraktura bimaleolare e pastabilizuar kerkon :",
+    "answers": [
+      "Bandazh funksional",
+      "Stabilizim kirirgjik",
+      "Longete gipsi",
+      "Gips kofshe-kembe",
+      "Manipulime"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura bimaleolare e paqëndrueshme kërkon reduktim të hapur dhe fiksim të brendshëm (osteosintezë), për të rivendosur kongruencën e mortezës tibio-talare dhe shmangur artrozën."
+  },
+  {
+    "id": "licenca-ortopedi-027",
+    "question": "Nderlikime te vonshme te fraktures se berrylit jane :",
+    "answers": [
+      "Kalcifikime me rigiditet artikular",
+      "Pseudoartroza",
+      "Artroza post-traumatike",
+      "Insuficienca muskulare",
+      "Ankiloza kockore"
+    ],
+    "correct": 0,
+    "explanation": "Ndërlikimet e vonshme tipike pas frakturave të bërrylit janë kalcifikimet periartikulare (osifikimi heterotopik/miozit osifikant) me ngurtësi artikulare; bërryli rigjidizohet lehtë."
+  },
+  {
+    "id": "licenca-ortopedi-028",
+    "question": "Distorsioni i gjurit me hemartroze dhe instabilitet ligamentoz, pa demtime kockore, kerkon:",
+    "answers": [
+      "Mobilizim te shpejte",
+      "Artroskopi diagnostike dhe rindertim ligamentar te menjehershem",
+      "Artrocenteze, imobilizim dhe thellim te diagnozes instrumentale",
+      "Gips pelvik-podalik",
+      "Fiziokineziterapi"
+    ],
+    "correct": 2,
+    "explanation": "Distorsioni i gjurit me hemartrozë dhe instabilitet pa frakturë: artrocentezë (evakuim i hemartrozës), imobilizim i përkohshëm dhe thellim i diagnozës (RM) për dëmtimet ligamentare/meniskale, pastaj trajtim i planifikuar."
+  },
+  {
+    "id": "licenca-ortopedi-029",
+    "question": "Pacienti artrozik ankon :",
+    "answers": [
+      "Dhimbje, vecanerisht gjate levizjes",
+      "Dhimbje, vecanerisht ne qetesi",
+      "Dhimbje te vazhdueshme",
+      "Dhimbje nokturne",
+      "Asnje dhimbje"
+    ],
+    "correct": 0,
+    "explanation": "Dhimbja artrozike është mekanike: shfaqet me lëvizje dhe ngarkesë, qetësohet me pushim, me ngurtësi të shkurtër (<30 min) pas pushimit (\"start-up pain\")."
+  },
+  {
+    "id": "licenca-ortopedi-030",
+    "question": "Kirurgjia moderne e menisqeve te gjurit perdor :",
+    "answers": [
+      "Artrotomi",
+      "Lazer",
+      "Osteosinteze",
+      "Artroskopi",
+      "Te gjitha pergjigjet e mesiperme"
+    ],
+    "correct": 3,
+    "explanation": "Kirurgjia moderne e meniskeve bëhet me artroskopi (meniskektomi parciale ose suturë meniskale), me invazivitet minimal dhe rikuperim të shpejtë."
+  },
+  {
+    "id": "licenca-ortopedi-031",
+    "question": "Shkaktari etiologjik me i shpeshte i osteomielitit akut eshte :",
+    "answers": [
+      "Haemophilus influenzae",
+      "Klebsiella",
+      "Pseudomonas aeruginosa",
+      "Streptococcus",
+      "Staphilococcus aureus"
+    ],
+    "correct": 4,
+    "explanation": "Shkaktari më i shpeshtë i osteomielitit akut (hematogjen dhe posttraumatik) është Staphylococcus aureus në të gjitha moshat."
+  },
+  {
+    "id": "licenca-ortopedi-032",
+    "question": "Fraktura e Colles-it eshte nje frakture qe ndodh ne :",
+    "answers": [
+      "Ekstremiteti distal i tibias",
+      "Metafiza radiale distale",
+      "Caput radii",
+      "Olekrani",
+      "Koka e humerusit"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura Colles është frakturë e metafizës distale të radiusit (~2–3 cm nga sipërfaqja artikulare) me zhvendosje dorsale të fragmentit distal."
+  },
+  {
+    "id": "licenca-ortopedi-033",
+    "question": "Artroza eshte nje semundje qe karakterizohet nga :",
+    "answers": [
+      "Humbja e mases kockore",
+      "Crregullime paresore te trofizmit muskular",
+      "Ecuri migrante dhe zevendesuese",
+      "Gerryerje e kartilagut artikular",
+      "Infeksione artikulare recidivante"
+    ],
+    "correct": 3,
+    "explanation": "Artroza është sëmundje degjenerative e kërcit artikular (gërryerje, fibrilacion, humbje e kërcit) me reaksion të kockës subkondrale (sklerozë, osteofite)."
+  },
+  {
+    "id": "licenca-ortopedi-034",
+    "question": "Osteoporoza eshte nje faktor risku per :",
+    "answers": [
+      "Artrozen",
+      "Infeksionet",
+      "Tumoret e kockes",
+      "Frakturat",
+      "Insuficiencen renale"
+    ],
+    "correct": 3,
+    "explanation": "Osteoporoza është faktori kryesor i rrezikut për frakturat nga brishtësia (vertebrale, femur proksimal, radius distal)."
+  },
+  {
+    "id": "licenca-ortopedi-035",
+    "question": "Artikulacioni qe peson me shpesh luksacion eshte :",
+    "answers": [
+      "Kokso-femoral",
+      "Gjuri",
+      "Talo-krural",
+      "Skapulo-humeral",
+      "Radio-ulnar"
+    ],
+    "correct": 3,
+    "explanation": "Artikulacioni skapulo-humeral (shpatulla) luksohet më shpesh se çdo artikulacion tjetër (~50% e luksacioneve), për shkak të lëvizshmërisë së madhe dhe kongruencës së vogël."
+  },
+  {
+    "id": "licenca-ortopedi-036",
+    "question": "Fraktura e hapur eshte :",
+    "answers": [
+      "Nje frakture e pakonsoliduar",
+      "Nje frakture me zhvendosje te madhe te fragmenteve",
+      "Nje frakture kominuitive",
+      "Nje frakture e shoqeruar me demtim te indeve te buta dhe komunikim te vatres se fraktures me mjedisin e jashtem",
+      "Nje frakture e operuar"
+    ],
+    "correct": 3,
+    "explanation": "Fraktura e hapur = frakturë ku vatra komunikon me mjedisin e jashtëm përmes plagës së indeve të buta (klasifikimi Gustilo-Anderson); rrezik i lartë infeksioni, kërkon antibiotikë dhe debridim urgjent."
+  },
+  {
+    "id": "licenca-ortopedi-037",
+    "question": "Lokalizi me i shpeshte i bacilit te Koch-ut ne aparatin ostoartikular eshte :",
+    "answers": [
+      "Femuri",
+      "Kolona vertebrale",
+      "Gjuri",
+      "Shpatulla",
+      "Humerusi"
+    ],
+    "correct": 1,
+    "explanation": "Tuberkulozi osteoartikular prek më shpesh kolonën vertebrale (spondilodiskit tuberkular – morbus Pott, sidomos torako-lumbare), pastaj ijën dhe gjurin."
+  },
+  {
+    "id": "licenca-ortopedi-038",
+    "question": "Morfometria vertebrale sasiore eshte nje teknike qe :",
+    "answers": [
+      "Diagnostikon frakturat vertebrale",
+      "Diagnostikon deformimet vertebrale",
+      "Mat densitetin kockor te trupt te vertebrave",
+      "Diagnostikon frakturat dhe deformimet vertebrale",
+      "Mat sasine e kalciumit"
+    ],
+    "correct": 1,
+    "explanation": "Morfometria vertebrale kuantitative mat lartësitë e trupave vertebralë (anteriore, mesatare, posteriore) për të identifikuar dhe klasifikuar deformimet vertebrale (sipas Genant), pra frakturat osteoporotike morfometrike."
+  },
+  {
+    "id": "licenca-ortopedi-039",
+    "question": "Cila eshte shenja patognomonike e demtimeve te ligamenteve kruciate te gjurit ?",
+    "answers": [
+      "Shenja e sirtarit",
+      "Grinding test",
+      "Shenja e Oudard",
+      "Manovra e Lasegue",
+      "Manovra e Ferrero"
+    ],
+    "correct": 0,
+    "explanation": "Shenja e sirtarit (anterior dhe posterior), si dhe testi Lachman, janë shenjat kryesore të dëmtimit të ligamenteve kryqëzuese të gjurit."
+  },
+  {
+    "id": "licenca-ortopedi-040",
+    "question": "Ne osteoporoze kuadri radiologjik tregon :",
+    "answers": [
+      "Opacitet te shtuar te kockes",
+      "Opacitet te ulur te kockes",
+      "Aspekt te pandryshuar te kockes",
+      "Zona osteolize multiple",
+      "Skleroze kortikale"
+    ],
+    "correct": 1,
+    "explanation": "Në osteoporozë radiografia tregon opacitet të ulët kockor (hipertransparencë), kortikale të hollë, trabekulim të rrallë — e dukshme vetëm pas humbjes së 30–40% të masës."
+  },
+  {
+    "id": "licenca-ortopedi-041",
+    "question": "Cilat nga frakturat e qafes se femurit paraqesin rrezikun me te madh te nekrozes avaskulare?",
+    "answers": [
+      "Frakturat ekstrakapsulare",
+      "Frakturat mediale",
+      "Frakturat e bazes se qafes",
+      "Frakturat meta-diafizare",
+      "Frakturat ndertrokanterike"
+    ],
+    "correct": 1,
+    "explanation": "Frakturat mediale (subkapitale/intrakapsulare) të qafës së femurit kanë rrezikun më të madh të nekrozës avaskulare (ndërprerje e arterieve retinakulare), ndryshe nga frakturat ekstrakapsulare/pertrokanterike."
+  },
+  {
+    "id": "licenca-ortopedi-042",
+    "question": "Distorsioni eshte :",
+    "answers": [
+      "Humbje jo e plote e raporteve artikulare normale",
+      "Humbje e plote dhe kalimtare e raporteve normale artikulare",
+      "Humbje jo e plote dhe kalimtare e raporteve normale artikulare",
+      "Prania e formacioneve artikulare",
+      "Frakture e pjesshme"
+    ],
+    "correct": 2,
+    "explanation": "Distorsioni (ndrydhja) = humbje jo e plotë dhe kalimtare e raporteve artikulare, me dëmtim të kapsulës/ligamenteve, ku sipërfaqet rikthehen vetë në vend."
+  },
+  {
+    "id": "licenca-ortopedi-043",
+    "question": "Nervi ulnar ne berryl kalon :",
+    "answers": [
+      "Ne sulkusin epitroklear-olekranien",
+      "Mes dy kokeve te muskulit pronator teres",
+      "Mes muskulit biceps dhe brakioradial",
+      "Brenda muskulit biceps",
+      "Mes muskulit supinator brevis dhe brakioradial"
+    ],
+    "correct": 0,
+    "explanation": "Në bërryl nervi ulnar kalon pas epikondilit medial (epitrokleës), në sulkusin epitrokleo-olekranian (kanali kubital), ku është shumë sipërfaqësor dhe i ekspozuar."
+  },
+  {
+    "id": "licenca-ortopedi-044",
+    "question": "Osteosinteza eshte :",
+    "answers": [
+      "Nje teknike kirurgjike",
+      "Nje crregullim i ontogjenezes skeletike",
+      "Nje semundje e trasheguar",
+      "Nje nderlikim i frakturave",
+      "Nje semundje metabolike e kockes"
+    ],
+    "correct": 0,
+    "explanation": "Osteosinteza është teknikë kirurgjikale e stabilizimit të fragmenteve kockore me mjete metalike (pllaka, vida, gozhdë, fiksatorë)."
+  },
+  {
+    "id": "licenca-ortopedi-045",
+    "question": "Epikondiliti eshte :",
+    "answers": [
+      "Nje tendinopati insercionale e muskujve fleksore te parakrahut",
+      "Nje nderlikim i frakturave te berrylit",
+      "Prek me shpesh femrat",
+      "Rralle shoqerohet me tendinopati te shumefishta",
+      "Eshte tendinopatia me e zakonshme e berrylit"
+    ],
+    "correct": 4,
+    "explanation": "Epikondiliti lateral (\"bërryli i tenistit\") është tendinopatia më e shpeshtë e bërrylit: tendinopati insercionale e muskujve ekstensorë (sidomos ekstensori i shkurtër radial i karpit), jo fleksorë."
+  },
+  {
+    "id": "licenca-ortopedi-046",
+    "question": "Ne kemben e shtrember te lindur lloji me i shpeshte eshte :",
+    "answers": [
+      "Talus-valgus- i pronuar",
+      "Metatarso-varus",
+      "Ekuino-varus-i supinuar",
+      "Konkav-reflektor",
+      "Kemba e sheshte"
+    ],
+    "correct": 2,
+    "explanation": "Këmba e shtrembër kongjenitale më e shpeshtë është këmba ekuino-varo-supinuar (talipes equinovarus, \"clubfoot\"); trajtohet me metodën Ponseti (gipse seriale)."
+  },
+  {
+    "id": "licenca-ortopedi-047",
+    "question": "Njesite e Rimodelimit Kockor jane :",
+    "answers": [
+      "Grupe qelizash osteoklazike ne faze qetesie",
+      "Grupe qelizash osteoklastike qe prodhojme matriks osteoid",
+      "Osteoblaste te pjekur qe transformohen ne osteocite",
+      "Njesi funksionale autonome te indit kockor qe pesojne ne menyre ciklike nje faze te riabsorbimit osteoklazik te ndjekur gjithmone nga nje faze te neoformacionit osteoblastik",
+      "Njesi qelizore dinamike te rimodelimit kockor qe aktivizohen vetem gjate osteoporozes postmenopauzale ose senili"
+    ],
+    "correct": 3,
+    "explanation": "Njësitë e rimodelimit kockor (BMU) janë njësi funksionale autonome ku osteoklastet resorbojnë kockën dhe pastaj osteoblastet formojnë kockë të re në të njëjtin vend, në cikle të rregullta gjatë gjithë jetës."
+  },
+  {
+    "id": "licenca-ortopedi-048",
+    "question": "Kavizmi eshte nje deformim qe ka lidhje me :",
+    "answers": [
+      "Kemben",
+      "Shpinen",
+      "Doren",
+      "Asnje nga pergjigjet e mesiperme",
+      "Te gjitha pergjigjet e indikuara"
+    ],
+    "correct": 0,
+    "explanation": "Kavizmi (pes cavus) është deformim i këmbës me hark plantar të theksuar (shpesh me origjinë neurologjike: Charcot-Marie-Tooth, Friedreich)."
+  },
+  {
+    "id": "licenca-ortopedi-049",
+    "question": "Pse nuk riparohen vetvetiu lezionet e meniskut?",
+    "answers": [
+      "Nga prania e likidit sinovial",
+      "Nga mungesa e imobilizimit",
+      "Sepse menisku nuk eshte i vaskularizuar",
+      "Nga levizjet e vazhdueshme te gjurit",
+      "Nga levizjet e meniskut"
+    ],
+    "correct": 2,
+    "explanation": "Menisku është kryesisht avaskular (vetëm 1/3 periferike, \"zona e kuqe\", ka gjak); prandaj lezionet në zonat qendrore nuk shërohen vetë."
+  },
+  {
+    "id": "licenca-ortopedi-050",
+    "question": "Ne frakturat e 1/3 se mesme te humerusit nervi qe demtohete me shpesh eshte :",
+    "answers": [
+      "Radial",
+      "Median",
+      "Ulnar",
+      "Aksilar",
+      "Muskulokutaneus"
+    ],
+    "correct": 0,
+    "explanation": "Në frakturat e 1/3 së mesme të diafizës së humerusit dëmtohet më shpesh nervi radial (kalon në sulkusin spiral) → \"dorë e rënë\"."
+  },
+  {
+    "id": "licenca-ortopedi-051",
+    "question": "Luksacioni habitual i artikulacionit skapulo-humeral eshte :",
+    "answers": [
+      "Nje semundje e lindur",
+      "Nje nderlikim i frakturave te ekstremitetit proksimal te humerusit",
+      "Nje nderlikim i luksacionit te artikulacionit skapulo-humeral",
+      "Nje nderlikim i fraktures-luksacion te artikulacionit skapulo-humeral",
+      "Nje nderlikim i distorsionit te artikulacionit skapulo-humeral"
+    ],
+    "correct": 2,
+    "explanation": "Luksacioni habitual (recidivues) i shpatullës është ndërlikim i një luksacioni të parë traumatik (lezioni Bankart, Hill-Sachs), sidomos te të rinjtë."
+  },
+  {
+    "id": "licenca-ortopedi-052",
+    "question": "TENS (Trans Electric Neuro Stimulation) eshte :",
+    "answers": [
+      "Nje termoterapi",
+      "Nje aparat me energji ultratingulli",
+      "Nje aparat per terapine antalgjike",
+      "Nje teknike diagnostike",
+      "Nje teknike e vleresimit elektrofiziologjik"
+    ],
+    "correct": 2,
+    "explanation": "TENS (stimulim elektrik nervor transkutan) është aparat për terapi antalgjike (kontroll i dhimbjes sipas teorisë së \"portës\" dhe çlirimit të endorfinave)."
+  },
+  {
+    "id": "licenca-ortopedi-053",
+    "question": "Per te vendosur diagnozen e “minimally conscious state” duhet te jene te pranishme dhe te riprodhueshme vazhdimisht :",
+    "answers": [
+      "Ekzekutimi i komandave te thjeshta",
+      "Pergjigje verbale ose me gjeste “po/jo”",
+      "Te folur i kuptueshem",
+      "Levizje te stereotipuara me natyre jo-reflektore",
+      "Te gjitha pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Gjendja e vetëdijes minimale kërkon shenja të riprodhueshme të vetëdijes: zbatim komandash të thjeshta, përgjigje po/jo (verbale ose me gjeste), verbalizim i kuptueshëm, sjellje të qëllimshme jo-refleksore."
+  },
+  {
+    "id": "licenca-ortopedi-054",
+    "question": "Ne prognoze rehabilituese mbas kalimit te iktusit cerebral jane te rendesishme te gjitha kushtet e maposhtme, me perjashtim te :",
+    "answers": [
+      "Mungesa e deficiteve konjitive",
+      "Stabilizimi i shpejte klinik",
+      "Nje kujdes infermieror rehabilitues ne fazen akute",
+      "Vendi dhe shtrirja e lezionit",
+      "Mungesa e parestezise ne anesite e poshtme"
+    ],
+    "correct": 4,
+    "explanation": "Prognoza rehabilituese pas iktusit varet nga mungesa e deficiteve konjitive, stabilizimi i shpejtë, kujdesi rehabilitues i hershëm, vendi dhe shtrirja e lezionit. Mungesa e paresterzive në këmbë nuk ka rëndësi prognostike."
+  },
+  {
+    "id": "licenca-ortopedi-055",
+    "question": "Cilat jane mekanizmat mbi te cilet mbeshtetet riaftesimi biologjik mba kalimit te iktusit cerebral?",
+    "answers": [
+      "Veprimi plotesues i strukturave te mbijetuara",
+      "Veprimi zevendesues i strukturave me aftesi latente",
+      "Sprouting dhe plasticiteti neuronal",
+      "Zona e gjysme-hijes iskemike",
+      "Te gjitha pergjigjet e mesiperme jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Rikuperimi pas iktusit mbështetet në: veprimin plotësues të strukturave të mbijetuara, zëvendësimin nga struktura me aftësi latente, sprouting-un dhe plasticitetin neuronal, dhe rikuperimin e zonës së penumbrës ishemike."
+  },
+  {
+    "id": "licenca-ortopedi-056",
+    "question": "Constant Murley eshte nje shkalle per vleresimin e :",
+    "answers": [
+      "Shpatulles",
+      "Gjurit",
+      "Artikulacionit kokso-femoral",
+      "Tonusit muskular",
+      "Dhimbjes"
+    ],
+    "correct": 0,
+    "explanation": "Shkalla Constant-Murley vlerëson funksionin e shpatullës (dhimbje, aktivitete të jetës, lëvizshmëri, forcë), me pikë deri në 100."
+  },
+  {
+    "id": "licenca-ortopedi-057",
+    "question": "Cila nga gjendjet e meposhtme eshte thelbesore ne rehabilitimin geriatrik?",
+    "answers": [
+      "Mungesa e crregullimeve konjitive",
+      "Parandalimi i renies se organizmit",
+      "Perdorimi i farmakoterapise neurotrofike",
+      "Ushtrimet me biciklete",
+      "Perdorimi i barnave hipokolesterolemike"
+    ],
+    "correct": 1,
+    "explanation": "Në rehabilitimin geriatrik objektivi thelbësor është parandalimi i rënieve (dhe i frakturave që pasojnë), duke ruajtur autonominë funksionale."
+  },
+  {
+    "id": "licenca-ortopedi-058",
+    "question": "Te ecurit eshte nje aktivitet :",
+    "answers": [
+      "Shkaktohet nga reflekset spinale te nxitura nga stimujt periferike",
+      "Gjenerohet nga nje rrjet interneuronesh spinale",
+      "Gjenerohet nga korteksi motorik",
+      "Gjenerohet nga aktiviteti i vermisit cerebelar",
+      "Gjenerohet nga substantia nigra dhe nucleus ruber"
+    ],
+    "correct": 1,
+    "explanation": "Ecja gjenerohet nga rrjete interneuronesh spinale (\"gjeneratorët qendrorë të ritmit\"), të modulara nga korteksi, truncu cerebral, cerebelumi dhe inputet periferike."
+  },
+  {
+    "id": "licenca-ortopedi-059",
+    "question": "Ne fazen e kontaktit te thembres se kembes me token gjate ecjes gjuri eshte i :",
+    "answers": [
+      "Flektuar deri ne 20º",
+      "Ekstenduar",
+      "Flektuar deri 45º",
+      "Hiperekstenduar",
+      "Flektuar deri 35º"
+    ],
+    "correct": 0,
+    "explanation": "Në fazën e kontaktit të thembrës (fillimi i fazës së mbështetjes) gjuri është pak i flektuar (deri ~20° gjatë absorbimit të ngarkesës), jo plotësisht i shtrirë."
+  },
+  {
+    "id": "licenca-ortopedi-060",
+    "question": "Ne cilin nga pozicionet e meposhtme presioni interdiskal L3-L4 arrin vlerat me te larta?",
+    "answers": [
+      "Shtrire",
+      "Ndenjur",
+      "Ne kembe",
+      "Ndenjur me kolonen te perkulur perpara",
+      "Ne kembe me kolonen te perkulur perpara"
+    ],
+    "correct": 3,
+    "explanation": "Presioni intradiskal lumbar (studimet e Nachemson) është më i ulët në shtrirje dhe më i larti ulur me trungun të përkulur përpara (sidomos duke mbajtur peshë)."
+  },
+  {
+    "id": "licenca-ortopedi-061",
+    "question": "Projektet rehabilituese ne osteoporoze mund te perfshijne te gjitha metodikat e meposhtme, me perjashtim te :",
+    "answers": [
+      "Edukimi ergonomik",
+      "Kineziterapia regionale",
+      "Caktimi i asistenteve",
+      "Riedukimi postural",
+      "Balneoterapia"
+    ],
+    "correct": 4,
+    "explanation": "Rehabilitimi në osteoporozë përfshin edukim ergonomik, kinezioterapi, riedukim postural, ndihmesa/asistentë për parandalimin e rënieve. Balneoterapia nuk përfshihet."
+  },
+  {
+    "id": "licenca-ortopedi-062",
+    "question": "Me qellim rehabilitues dhe parandalues, te gjitha trajtimet e maposhtme jane te vlefshme per artrozat, me perjashtim te :",
+    "answers": [
+      "Ushtrimete fizike te pershtatshme",
+      "Aktivitet fizik ne uje",
+      "Terapia termale",
+      "Termoterapia",
+      "Dhenia e bifosfonateve"
+    ],
+    "correct": 4,
+    "explanation": "Për artrozën janë të dobishme ushtrimet e përshtatshme, aktiviteti në ujë, terapitë termale dhe termoterapia. Bisfosfonatet janë terapi e osteoporozës, jo e artrozës."
+  },
+  {
+    "id": "licenca-ortopedi-063",
+    "question": "Ne nivel te cilit artikulasion te kembes realizohen levizjet e inversionit dhe eversionit?",
+    "answers": [
+      "Tibio-talar",
+      "Talo-kalkanear",
+      "Subtalar",
+      "Metatarso-falangeal",
+      "Tibio-peroneo-talar"
+    ],
+    "correct": 2,
+    "explanation": "Inversioni dhe eversioni i këmbës ndodhin kryesisht në artikulacionin subtalar (talo-kalkanear) dhe në artikulacionet mesotarsale (Chopart). Artikulacioni tibio-talar bën fleksion dorsal/plantar."
+  },
+  {
+    "id": "licenca-ortopedi-064",
+    "question": "Nje paciente me cerebrolezion te djathte mund te paraqese kuadrin e meposhtem konjitiv-motor:",
+    "answers": [
+      "Mungese vemendje dhe deficit senso-motorik te anes se majte te trupit",
+      "Afazi jo fluente, apraksi konstruktive, humbje te kujteses",
+      "Humbje te kujteses, anozognozi, depresion",
+      "Afazi fluente, deficit sensitiv te gjysmes se majte te trupit",
+      "Alterime te koordinimit motor, humbje te kujteses, afazi jo fluente"
+    ],
+    "correct": 0,
+    "explanation": "Lezioni i hemisferës së djathtë jep deficit sensitivo-motor në anën e majtë dhe çrregullime të vëmendjes hapësinore (neglizhim i hemihapësirës së majtë), anozognozi. Afazitë lidhen me hemisferën e majtë."
+  },
+  {
+    "id": "licenca-ortopedi-065",
+    "question": "Cilet nga faktoret e meposhtem nuk favorizojne fillimin e osteoporozes?",
+    "answers": [
+      "Jeta sedentare",
+      "Sasi e paket e kalciumit ne diete",
+      "Mbipesha",
+      "Trashegimia",
+      "Duhani"
+    ],
+    "correct": 2,
+    "explanation": "Mbipesha është faktor mbrojtës për osteoporozën (ngarkesë mekanike, estrogjene nga indi dhjamor). Faktorë rreziku: sedentarizmi, kalciumi i pakët, trashëgimia, duhani, alkooli, kortikosteroidet."
+  },
+  {
+    "id": "licenca-ortopedi-066",
+    "question": "Ne djegiet, vleresimi i shpejte i siperfaqes te trupit te interesuar behet nepermjet :",
+    "answers": [
+      "Rregulles se 4",
+      "Rregulles se 3x6",
+      "Asnje rregull",
+      "Regulla e 9",
+      "Teknika centimetrike"
+    ],
+    "correct": 3,
+    "explanation": "Sipërfaqja e djegur vlerësohet shpejt me rregullin e 9-ave (Wallace): koka 9%, çdo krah 9%, çdo këmbë 18%, trungu para 18% dhe pas 18%, perineumi 1%; te fëmijët përdoret tabela Lund-Browder."
+  },
+  {
+    "id": "licenca-ortopedi-067",
+    "question": "Faza e maturimit te cikatrices i pergjigjet klinikisht :",
+    "answers": [
+      "Mbylljes se lembove",
+      "Proliferimit qelizor",
+      "Detersionit",
+      "Rimodelimit",
+      "Mbylljes se lembove dhe proliferimit pasues"
+    ],
+    "correct": 3,
+    "explanation": "Faza e maturimit të plagës (nga java 3 deri në 1–2 vjet) korrespondon me rimodelimin: kolageni III zëvendësohet me kolagen I, cikatrica bëhet më e fortë dhe më e zbehtë."
+  },
+  {
+    "id": "licenca-ortopedi-068",
+    "question": "Fazat e cikatrizimit ndodhin sipas rradhes se meposhtme :",
+    "answers": [
+      "Detersioni, proliferimi, inflamacioni",
+      "Inflamacioni, detersioni, proliferimi",
+      "Proliferimi, detersioni, maturimi",
+      "Proliferimi, inflamacioni, maturimi",
+      "Inflamacioni, proliferimi, maturimi"
+    ],
+    "correct": 4,
+    "explanation": "Fazat e cikatrizimit: inflamacioni (hemostazë + inflamacion, ditët 0–4), proliferimi (granulim, epitelizim, ditët 4–21) dhe maturimi/rimodelimi (javë-muaj)."
+  },
+  {
+    "id": "licenca-ortopedi-069",
+    "question": "Ulcerat trofike te anesive te poshtme jane me shpesh me origjine :",
+    "answers": [
+      "Venoze",
+      "Arteriale",
+      "Neuro-metabolike",
+      "Neoplazike",
+      "Infektive"
+    ],
+    "correct": 0,
+    "explanation": "Ulçerat trofike të gjymtyrëve të poshtme janë në ~70% venoze (insuficiencë venoze kronike, maleoli medial); pastaj arteriale, neuropatike (diabetike), të përziera."
+  },
+  {
+    "id": "licenca-ortopedi-070",
+    "question": "Nje formacion cikatricial hipertrofik dhe i remifikuar quhet :",
+    "answers": [
+      "Aderence",
+      "Keloid",
+      "Granulome",
+      "Granulim i cikatrices",
+      "Keratoze cikatriciale"
+    ],
+    "correct": 1,
+    "explanation": "Keloidi është cikatricë hipertrofike që kalon kufijtë e plagës fillestare, me zgjatime (\"degëzime\"), e prirur për recidivë pas heqjes (predispozitë individuale/racore)."
+  }
+]

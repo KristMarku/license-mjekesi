@@ -1,0 +1,2425 @@
+[
+  {
+    "id": "licenca-mjekesi-e-familjes-001",
+    "question": "Mashkull 40 vjec, ka dhimbje të forta të kockave të këmbëve, zverdhje të syve, urinim me ngjyrë të errët dhe anemi. Lieni nuk preket. Në serinë e kuqe ka qeliza target dhe në formë drapëri, si dhe retikulocite të larta. Diagnoza e mundëshme:",
+    "answers": [
+      "Hepatit viral akut",
+      "Leukemi akute",
+      "Thalasemi major",
+      "Drepanocitosis"
+    ],
+    "correct": 3,
+    "explanation": "Krizat dhimbjeje kockore (vazo-okluzive), ikter, urinë e errët (hemolizë), retikulocitozë dhe eritrocite në formë drapëri e \"target\" = drepanocitozë (anemia drapërqelizore). Te i rrituri shpretka nuk preket (autosplenektomi nga infarktet)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-002",
+    "question": "Femër 35 vjece, ka anemi, thonjë të thyeshëm, glosit atrofik. Gjaku periferik: hipokromi, mikrocitozë e eritrociteve. Diagnoza e mundëshme",
+    "answers": [
+      "Anemi nga mungesae vit.B12",
+      "Anemi hemolitike",
+      "Anemi nga mungesa e acidit folik",
+      "Anemi nga mungesa e hekurit"
+    ],
+    "correct": 3,
+    "explanation": "Anemi hipokrome mikrocitare me thonj të thyeshëm (koilonikie) dhe glosit atrofik te gruaja e re = anemi nga mungesa e hekurit (shpesh nga menorragjia). Mungesa e B12/folateve jep makrocitozë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-003",
+    "question": "Burrë 75 vjec, ka gjendrra të rritura në të gjitha regionet. Shpretka 4 cm, hepari 4cm. Gjaku periferik: er 4000000, HB 12 gr/dl, Tb 230.000 mm³, leukocite 100.000 mm³, Formula: Limfocite 97%, segmente 3%. Diagnoza e mundëshme",
+    "answers": [
+      "Leukemi limfoblastike akute",
+      "Mononukleozë infektivi",
+      "Leukemi limfoide kronike",
+      "Leukemi mieloblastike akute"
+    ],
+    "correct": 2,
+    "explanation": "I moshuar me limfadenopati të gjeneralizuar, hepatosplenomegali dhe leukocitozë e lartë (100.000) me 97% limfocite mature = leukemi limfoide kronike."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-004",
+    "question": "Grua 50 vjece, pas një udhëtimi vjen në urgjencë me dhimbje të fortë gjoksi, dispne, hemoptizi. Ekzaminimi radiologjik normal. ECG takikardi sinusale. Diagnoza e mundëshme:",
+    "answers": [
+      "Pneumotoraks spontan",
+      "Infarkt akut i miokardit",
+      "Trombemboli pulmonare",
+      "Mediastinit"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbje torakale e papritur, dispne dhe hemoptizi pas udhëtimit të gjatë (imobilizim → TVT), me radiografi normale dhe takikardi sinusale = tromboembolizëm pulmonar."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-005",
+    "question": "Burrë 50 vjec, duke vrapuar i filloi një dhimbje e fortë gjoksi që u shoqërua edhe me marrje fryme. Pacienti ndaloj vrapin dhe dhimbja u qetësua. ECG në qetësi normal, TA 130/80mmHg. Diagnoza e mundëshme:",
+    "answers": [
+      "Refluks gastro-esofagal",
+      "Angina pectoris",
+      "Pleurizi",
+      "Kostokondritis"
+    ],
+    "correct": 1,
+    "explanation": "Dhimbje torakale me dispne gjatë vrapimit që qetësohet me pushim, me EKG normale në qetësi = anginë pectoris e qëndrueshme (nga sforcimi); konfirmohet me test ushtrimi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-006",
+    "question": "Mashkull 60 vjec, alkolist, paraqitet me hematemezë masive dhe gjendje shoku. Ka ascit dhe yje vaskulare. Shkaku i hematemezës:",
+    "answers": [
+      "Ulcer peptike kronike",
+      "Varicet e esofagut",
+      "Cancer i stomakut",
+      "Sindroma Mallory- Ëeiss"
+    ],
+    "correct": 1,
+    "explanation": "Alkoolist me ascit, spider nevi (cirrozë) dhe hematemezë masive me shok = gjakderdhje nga variçet ezofageale (hipertensioni portal)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-007",
+    "question": "Mashkull 40 vjec, paraqitet me melenë, nuk ka dhimbje barku, nuk ka rënë në peshë. Në ekzaminim anusi dhe rektumi janë normal. Është alkolist dhe pi duhan. Shkaku i melenës:",
+    "answers": [
+      "Carcinoma e rektumit",
+      "Ulcera peptike",
+      "Hemorhoidet",
+      "Sëmundja divertikulare"
+    ],
+    "correct": 1,
+    "explanation": "Melena (gjakderdhje e traktit të sipërm) te i riu alkoolist e duhanpirës, pa rënie në peshë e me ekzaminim anorektal normal = ulçerë peptike (gjakderdhja ulçeroze mund të jetë pa dhimbje)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-008",
+    "question": "Pacient 34 vjec, hera e katërt që vjen me kolika biliare si pasojë e kalkulozës së kolecistës. Cili është mjekimi i zgjedhur për të sëmurin:",
+    "answers": [
+      "Përdorimi i spazmolitikëve",
+      "Përdorimi i gurë shkrirësve",
+      "Përdorimi i analgjezikëve",
+      "Kolecistectomia"
+    ],
+    "correct": 3,
+    "explanation": "Kolikat biliare të përsëritura nga kolelitiaza simptomatike janë indikacion për kolecistektomi (laparoskopike); spazmolitikët/analgjezikët japin vetëm qetësim, ndërsa gurëshkrirësit kanë efikasitet të ulët dhe recidiva."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-009",
+    "question": "Femër 60 vjece, ka dhimbje koke bitemporale, turbullim të shikimit në një sy, dhimbje të kokës kur kreh flokët. Eritrosedimenti është i lartë. Shkaku i dhimbjes së kokës:",
+    "answers": [
+      "Meningitis",
+      "Arterit me qeliza gjigante",
+      "Hemoragji suaraknoidale",
+      "Spondilozë cervikale"
+    ],
+    "correct": 1,
+    "explanation": "E moshuar me cefale bitemporale, ndjeshmëri të skalpit (dhimbje kur kreh flokët), turbullim të shikimit dhe ERS të lartë = arterit me qeliza gjigante (Horton) — kortikosteroide menjëherë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-010",
+    "question": "Grua multipare, paraqitet me hemoragji uterine në javën e 9 të shtatzanisë. Ostiumi intern nuk është i dilatuar. Cerviksi është normal. Diagnoza e mundëshme",
+    "answers": [
+      "Missed abortion",
+      "Rrezik aborti",
+      "Abort inkomplet",
+      "Abort habitual"
+    ],
+    "correct": 1,
+    "explanation": "Gjakderdhje në shtatzëninë e hershme me qafë të mbyllur (ostiumi intern i padilatuar) = kërcënim aborti (abort i kërcënuar); në abortin inkomplet qafa është e hapur dhe ka dalë pjesë e indit."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-011",
+    "question": "Gravide 30 javë, ka disuri, temperaturë 38, dhimbje mesi. Analiza e urinës, leukocite me shumicë si dhe bakterie. Urokultura jep antibiotikët sensibël si më poshtë. Zgjidh mjekimin e përshtatshëm",
+    "answers": [
+      "Chloramphenicol",
+      "Doksacillini",
+      "Rifampicine",
+      "Ceporine"
+    ],
+    "correct": 3,
+    "explanation": "Pielonefrit në shtatzëni (ethe, dhimbje lumbare, piuri) trajtohet me beta-laktamikë të sigurt — cefalosporina (cefalexina/Ceporin). Kloramfenikoli (sindroma gri), tetraciklinat (doksiciklina) dhe rifampicina shmangen."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-012",
+    "question": "Grua hipertonike, është shtatzanë. Zgjith mjekimin më të përshtatshëm për hipertoninë.",
+    "answers": [
+      "aldomet",
+      "Adalat",
+      "Enalapril",
+      "Lasix"
+    ],
+    "correct": 0,
+    "explanation": "Për hipertensionin kronik në shtatzëni zgjidhja klasike është metildopa (Aldomet); alternativa labetalol, nifedipinë. ACE-inhibitorët (enalapril) kundërindikohen, diuretikët (Lasix) shmangen."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-013",
+    "question": "Nulipare në javën e 20 të shtatzanisë, ka dhimbje koke, dhe dhimbje epigastrike. Tensioni arterial është159/100 dhe ka tendencë të rritet. Diagnoza e mundëshme",
+    "answers": [
+      "Shkolitje placente",
+      "Pre-ecalampsi fulminante",
+      "Pyelonefrit",
+      "Hydramnios"
+    ],
+    "correct": 1,
+    "explanation": "Hipertension i rëndë me cefale dhe dhimbje epigastrike (shenja të rëndesës) në shtatzëni = preeklampsi e rëndë; kur shfaqet kaq herët (java e 20) duhet të mendohet edhe për molë hidatiforme."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-014",
+    "question": "Diabetike 40 vjecare. Gravide në muajin e 7 të shtatzanisë. Zgjidh mjekimin për diabetin.",
+    "answers": [
+      "Metforminë +dietë",
+      "Daonil+dietë",
+      "Metforminë +daonil",
+      "Insulinë+ dietë"
+    ],
+    "correct": 3,
+    "explanation": "Në shtatzëni diabeti trajtohet me dietë + insulinë (nuk kalon placentën); sulfanilurete (Daonil) kundërindikohen. (Metformina përdoret në disa vende, por nuk është zgjedhja e parë klasike.)"
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-015",
+    "question": "Femër 35 vjec, ka kollë, temperaturë, faringitis. Radiografi pulmoni (Ro):zona të përhapura konsolidimi bilaterale, në trajtë njollash. Testi për aglutinina të ftohta+. Diagnoza e mundëshme",
+    "answers": [
+      "Grip",
+      "pneumonia atipike",
+      "mykoplazma pneumonie",
+      "metastaza karcinomatoze"
+    ],
+    "correct": 2,
+    "explanation": "Pneumoni me fillim gradual, faringit, kollë, infiltrate bilaterale në njolla dhe aglutinina të ftohta pozitive = pneumoni nga Mycoplasma pneumoniae (formë e pneumonisë atipike)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-016",
+    "question": "Mashkull 65 vjec, me kollë kronike produktive, vjen në urgjencë me dispne, dhe i përgjumur. Pulmone me rale bronkiale, sibilanca, ulje e lëvizshmërisë së pulmoneve. Diagnoza e mundëshme",
+    "answers": [
+      "astma bronkiale",
+      "acarim i bronkitit kronik",
+      "edemë pulmonare akute",
+      "pneumonia atipike"
+    ],
+    "correct": 1,
+    "explanation": "Pacient me kollë kronike produktive (bronkit kronik/SPOK) që vjen me dispne, sibilanca dhe përgjumje (hiperkapni, narkozë nga CO2) = acutizim i bronkitit kronik me insuficiencë respiratore."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-017",
+    "question": "Mashkull 55 vjec, zgjohet me dispne, kollë me pështymë me shkumë, ka kaluar infarkt akut të miokardit 3 javë më parë. Ka takipne, cianotik, rale krepitante në pulmone. Diagnoza e mundëshme",
+    "answers": [
+      "astma bronkiale",
+      "edema pulmonare akute",
+      "embolia pulmonare",
+      "acarim i bronkitit kronik"
+    ],
+    "correct": 1,
+    "explanation": "Pas infarktit të miokardit, dispne nokturne me sputum të shkumëzuar (rozë), takipne, cianozë dhe rale krepitante bilaterale = edemë pulmonare akute (insuficiencë akute e VM)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-018",
+    "question": "Fëmijë 1.5 vjec që shkon në cerdhe, ka kollë, wheezing. Ai ka lëvizje të flegrave të hundës dhe sibilanca bilaterale në auskultim. Diagnozat e mundëshme",
+    "answers": [
+      "astma bronkiale",
+      "bronkiolitis",
+      "pneumoni atipike",
+      "pneumoni bakteriale"
+    ],
+    "correct": 1,
+    "explanation": "Foshnjë <2 vjeç (në çerdhe) me kollë, wheezing, rrahje të flegrave të hundës dhe sibilanca bilaterale = bronkiolit akut (zakonisht RSV)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-019",
+    "question": "Djalë 10 vjec, vjen në ambulancë sepse në fiskulturë pati gjenddje “të fikti” me dridhje. Në eksaminim ka zhurmë të lartë sistolike të ejeksionit që shoqërohet me trill (dridhje). Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Ethe rheumatizmale akute",
+      "Stenozë e aortës",
+      "myokardit",
+      "Insuficienca kardiake kongestive"
+    ],
+    "correct": 1,
+    "explanation": "Sinkopë gjatë ushtrimit dhe zhurmë sistolike ejeksioni e fortë me \"thrill\" te fëmija = stenozë aortale (valvulare/subvalvulare). Edhe kardiomiopatia hipertrofike duhet të përjashtohet."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-020",
+    "question": "Cila nga karakteristikat e poshtë shënuara nuk u përket konvulsioneve febrile të thjeshta:",
+    "answers": [
+      "Shfaqen në temperaturën >38 gradë celsius",
+      "Janë toniko klonike",
+      "Nuk lënë deficite neurologjike",
+      "Shfaqen në moshën mbi 6 vjec"
+    ],
+    "correct": 3,
+    "explanation": "Konvulsionet febrile të thjeshta shfaqen te fëmijët 6 muaj–5 vjeç, me ethe >38°C, janë toniko-klonike të gjeneralizuara, <15 min, nuk përsëriten brenda 24 orëve dhe nuk lënë deficite. Mbi 6 vjeç nuk konsiderohen febrile të thjeshta."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-021",
+    "question": "Cili nga antibiotikët e poshtëshënuar është zgjedhja e parë për mjekimin e anginave streptokoksike, në se pacienti ka alergji nga antibiotikët betalaktamidë:",
+    "answers": [
+      "ampicilina",
+      "gentamicina",
+      "amikacina",
+      "eritromicina"
+    ],
+    "correct": 3,
+    "explanation": "Në faringitin streptokoksik te pacienti alergjik ndaj beta-laktamikëve përdoret makrolid (eritromicina, klaritromicina, azitromicina) ose klindamicina. Aminoglikozidet nuk janë efektive."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-022",
+    "question": "Cili nga ushqimet e mëposhtme nuk absorbohet në sëmundjen celiake:",
+    "answers": [
+      "Kosi",
+      "Mishi",
+      "Orizi",
+      "Buka e grurit"
+    ],
+    "correct": 3,
+    "explanation": "Në celiaki pacienti nuk toleron glutenin (gruri, elbi, thekra); buka e grurit dëmton mukozën dhe pengon absorbimin. Orizi, mishi, kosi janë pa gluten."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-023",
+    "question": "Sëmundja reumatike shfaqet në përgjithësi :",
+    "answers": [
+      "Pas nje infeksioni stafilokoksik",
+      "Pas nje infeksioni nga fruthi",
+      "Menjëherë pas difterisë",
+      "Disa jave pas një infeksioni streptokoksik"
+    ],
+    "correct": 3,
+    "explanation": "Ethja reumatike shfaqet 2–4 javë pas një faringotonsiliti nga Streptococcus beta-hemolitik i grupit A (mekanizëm autoimun nga mimikria molekulare)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-024",
+    "question": "Gjetja e uremisë së lartë, por e kreatininës normale tek një i sëmurë flet për:",
+    "answers": [
+      "isuficiencë renale obstruktive",
+      "isuficiencë renale organike",
+      "isuficiencë pre renale",
+      "asnjë nga keto"
+    ],
+    "correct": 2,
+    "explanation": "Ure e rritur me kreatininë normale (raport ure/kreatininë i lartë) flet për azotemi prerenale (dehidratim, hipovolemi) ose rritje të katabolizmit proteinik/gjakderdhje gastrointestinale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-025",
+    "question": "Në qoftë se glicemia përcaktohet në gjakun e plotë venoz do kemi prishje të tolerancës ndaj glukozës kur:",
+    "answers": [
+      "glicemia esëll ≥ 126 mg/dl dhe/ ose 2 orë pas ngarkesës ≥ 180mg/dl ose të dyja",
+      "glicemia esëll< 110 mg/dl dhe 2 orë pas ngarkeseë ≥ 140mg/dl por < 180",
+      "glicemia eseël≥ 100 mg/dl dhe <110mg dhe 2 orë pas ngarkeses <140mg",
+      "asnjëra"
+    ],
+    "correct": 1,
+    "explanation": "Toleranca e dëmtuar ndaj glukozës (në gjak venoz): glicemi esëll <110 (<126) dhe 2 orë pas ngarkesës 140–199 mg/dl (sipas kritereve të vjetra për gjak të plotë 120–180). Glicemia esëll ≥126 ose ≥200 pas 2 orësh = diabet."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-026",
+    "question": "HTA në radhë të parë dëmton:",
+    "answers": [
+      "arteriet veshkore",
+      "arteriet koronare",
+      "arteriet cerbrale",
+      "arteriet periferike"
+    ],
+    "correct": 2,
+    "explanation": "Hipertensioni dëmton në radhë të parë arteriet cerebrale (iktusi është ndërlikimi më i lidhur me hipertensionin); dëmton gjithashtu zemrën, veshkat dhe retinën."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-027",
+    "question": "Kush nuk është ndërlikim madhor i HTA?",
+    "answers": [
+      "infarkti I miokardit",
+      "insulti cerebral",
+      "insuficienca kardiake",
+      "tromboembolizmi sistemik"
+    ],
+    "correct": 3,
+    "explanation": "Ndërlikimet madhore të hipertensionit: infarkti i miokardit, iktusi cerebral, insuficienca kardiake, nefroskleroza/insuficienca renale, disekimi i aortës. Tromboembolizmi sistemik nuk është ndërlikim tipik i drejtpërdrejtë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-028",
+    "question": "Në astmën bronkiale të formës së mesme nuk nevojitet për mjekim:",
+    "answers": [
+      "B2 mimetikë inhalatorë",
+      "Korticosteroidë parenteral",
+      "Kromoloine",
+      "Ksantina"
+    ],
+    "correct": 1,
+    "explanation": "Astma e moderuar (persistente) trajtohet me kortikosteroide inhalatore + beta2-agonistë (me veprim të gjatë/të shkurtër sipas nevojës), kromone, teofilinë. Kortikosteroidet parenterale rezervohen për krizat e rënda."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-029",
+    "question": "Cili nga medikamentet e më poshtëme antihipertensive jep me shpesh konstipacion:",
+    "answers": [
+      "propanololi",
+      "lasiksi",
+      "izoptina",
+      "aldometi"
+    ],
+    "correct": 2,
+    "explanation": "Verapamili (Izoptina) është antihipertensivi që shkakton më shpesh kapsllëk (frenon kontraksionin e muskulit të lëmuar intestinal)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-030",
+    "question": "Femër 30 vjece, paraqitet me dhimbje shpine, në regjionin gluteal dhe në anesinë e poshtme. Ajo ishte duke ngritur objekte të rënda në shtëpi. Ajo qëndron e përkulur në njërën anë dhe ngritja e këmbës së shtrirë është e kufizuar dhe e dhimbëshme. Diagnoza e mundshme është:",
+    "answers": [
+      "Mialgji",
+      "Prolaps i diskut lumbar",
+      "Stenozë spinale",
+      "Spondilozë lumbare"
+    ],
+    "correct": 1,
+    "explanation": "Dhimbje lumbare me rrezatim në gluteus dhe gjymtyrë pas ngritjes së peshave, me qëndrim antalgjik të përkulur anash dhe Lasègue pozitiv = prolaps/hernie e diskut lumbar me radikulopati."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-031",
+    "question": "Mashkull 20 vjec, paraqitet me dhimbje kolike periumbelikale, që zhvendosen drejt fosës iliake të djathtë, temperaturë, humbje oreksi. Diagnoza e mundshme është :",
+    "answers": [
+      "Kolecistit akut",
+      "Divertikulit akut",
+      "Appendicitis akut",
+      "Ulcer peptike e perforuar ."
+    ],
+    "correct": 2,
+    "explanation": "I ri me dhimbje periumbilikale që migron në fosën iliake të djathtë, ethe dhe anoreksi = apendicit akut (sekuenca klasike e Murphy)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-032",
+    "question": "Grua 47 vjece, astmatike dhe hipertonike për të cilin merr methyldopa, ankon për anoreksi, dhimbje barku dhe ikter që po theksohet. Diagnoza e mundshme është:",
+    "answers": [
+      "Pankreatit akut",
+      "Kolecistit akut",
+      "Hepatit kronik aktiv",
+      "Hepatit viral akut"
+    ],
+    "correct": 2,
+    "explanation": "Metildopa mund të shkaktojë hepatit iatrogjen (akut ose kronik aktiv, me mekanizëm autoimun) dhe anemi hemolitike me Coombs pozitiv; pacientja me ikter progresiv nën metildopë duhet të ndërpresë barin."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-033",
+    "question": "Grua 78 vjece me me anginë të qëndrueshme, 10 ditë pas një operacioni për frakturë të qafës së femorit ankon për distension masiv të barkut. Diagnoza e mundshm është:",
+    "answers": [
+      "Aneurisma e aortës abdominale",
+      "Ulcer peptike e perforuar",
+      "Kolit ulceros",
+      "Pseudo- obstruksion"
+    ],
+    "correct": 3,
+    "explanation": "E moshuar pas operacionit ortopedik, me distension masiv abdominal pa obstruksion mekanik = pseudo-obstruksion akut i kolonit (sindroma Ogilvie); rrezik perforimi të cekumit."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-034",
+    "question": "Burrë 60 vjec, kohët e fundit është trajtuar për tuberkuloz të veshkës, paraqet rënie në peshë, diarhe, anoreksi, hypotension. Ai paraqet hiperpigmentim të mukozës së gojës dhe vijave të pëllëmbëve të duarve. Cilin eksaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "ACTH dhe kortizolin plazmatik",
+      "Glicemi",
+      "ECHO abdominale",
+      "Testet e funksionit te tyroides"
+    ],
+    "correct": 0,
+    "explanation": "Pas TB renale (mund të prekë surrenalet), rënie në peshë, diarre, hipotension dhe hiperpigmentim i mukozave dhe palosjeve palmare = insuficiencë surrenale primare (Addison). Diagnozë: kortizol plazmatik i ulët me ACTH të lartë (± test stimulimi)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-035",
+    "question": "Grua 50 vjece, ankon për rënie në peshë, oreks të shtuar, djersitje, palpitacione, preferencë për mot të ftohtë, ka vapë, duar të djersira si dhe tremor. Cilin ekzaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "ACTH dhe kortizolin plazmatik",
+      "Hemokulturë",
+      "ECHO abdominale",
+      "Testet e funksionit të tyroides"
+    ],
+    "correct": 3,
+    "explanation": "Rënie në peshë me oreks të shtuar, intolerancë ndaj të nxehtit, djersitje, palpitacione, tremor = hipertiroidizëm; diagnoza me testet e funksionit tiroidien (TSH e ulët, FT4/FT3 të rritura)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-036",
+    "question": "Burrë 65 vjec, ka fillim të menjëhershëm të diabetit, anoreksi, rënie në peshë, dhimbje epigastrike dhe shpine. Cilin eksaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "Gjak komplet",
+      "Glicemi",
+      "ECHO abdominale",
+      "Testet e funksionit të tyroides"
+    ],
+    "correct": 2,
+    "explanation": "Diabet me fillim të papritur te i moshuari, me rënie në peshë dhe dhimbje epigastrike që rrezaton në shpinë sugjeron kancer pankreatik; ekzaminimi i parë është ekografia abdominale (pastaj CT)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-037",
+    "question": "Grua 70 vjece, ankon për rënie në peshë, disfagi progresive, dhe ndjenjën se ushqimet i ngecin në fyt. Cilin ekzaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "Gjak komplet",
+      "Skopi me barium",
+      "ECHO abdominale",
+      "Testet e funksionit të tyroides"
+    ],
+    "correct": 1,
+    "explanation": "Disfagi progresive me rënie në peshë te e moshuara sugjeron kancer ezofageal ose stenozë; ekzaminim i parë i dobishëm është radiografia me barium, e ndjekur nga endoskopia me biopsi për diagnozën përfundimtare."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-038",
+    "question": "Djalë 17 vjec, ankon për temperaturë të lartë që dy javë, dhimbje fyti, zmadhim të gjëndrave në qafë. Në ekzaminim objektiv ka ndjeshmëri në kuadratin e sipërm abdominal të djathtë, subikter në sklera, SGOT dhe SGPT, lehtësisht të rritura. Cilin ekzaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "Hemokulturë",
+      "Mantuox",
+      "ECHO abdominale",
+      "Monospot (gjak për MI)"
+    ],
+    "correct": 3,
+    "explanation": "Adoleshent me ethe të zgjatur, faringit, limfadenopati cervikale, hepatit i lehtë (subikter, transaminaza të rritura) = mononukleozë infektive; diagnozë me Monospot (antitrupa heterofilë) ose anti-VCA IgM."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-039",
+    "question": "Burrë 54 vjec, ka 2 muaj që ka zmadhim të tonsilës së majtë, temperaturë fluktuante, kryesisht mbas dite ,si dhe zmadhim të limfonodujve në qafë. Cilin ekzaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "Gjak komplet",
+      "Mantuox",
+      "Biopsi e limfonodulit",
+      "CT toraksi"
+    ],
+    "correct": 2,
+    "explanation": "Zmadhim njëanshëm i tonsilës + limfadenopati cervikale + ethe për 2 muaj te 54-vjeçari sugjeron limfomë ose karcinomë; diagnoza bëhet me biopsi të limfonodulit (histologji)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-040",
+    "question": "Femër 25 vjece, ndihet sëmurë, ka ethe, poliartralgji, eritemë nodoze. Radiografia e thoraxit tregon lymphadenopathy mediastinale hilare. Cilin ekzaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "Mantuox",
+      "Monospot",
+      "HIV 1+2",
+      "Testi Kvein"
+    ],
+    "correct": 3,
+    "explanation": "E re me ethe, poliartralgji, eritemë nodoze dhe limfadenopati hilare bilaterale = sindroma Löfgren (sarkoidozë akute). Testi Kveim (historik) konfirmon sarkoidozën; sot diagnoza bëhet klinikisht ose me biopsi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-041",
+    "question": "Mashkull 29 vjec, përdorues droge iv, paraqet temperaturë, adenopati cervikale që rrjedh një substancë të bardhë si gjizë. Cilin eksaminim do të kërkoni për vendosjen e diagnozës:",
+    "answers": [
+      "Mantuox",
+      "Monospot",
+      "HIV 1+2",
+      "Testi Kvein"
+    ],
+    "correct": 0,
+    "explanation": "Përdorues droge IV me ethe dhe limfadenopati cervikale që fistulizon me material të bardhë \"si gjizë\" (nekrozë kazeoze) = limfadenit tuberkular (skrofula); fillimisht testi Mantoux (dhe kultura/biopsia, testimi HIV)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-042",
+    "question": "M 35 vjec, ka kollë, hemoptizi. Ro: masë në hilusin dex. dhe një zonë konsolidimi në lobin superior të djathtë, lateralisht. Diagnoza e mundëshme:",
+    "answers": [
+      "Tbc",
+      "Sarkoidozë",
+      "Metastazë karcinomatoze",
+      "Granuloma e Wegener"
+    ],
+    "correct": 2,
+    "explanation": "Masa hilare me zonë konsolidimi periferike dhe hemoptizi sugjeron proces neoplazik (karcinomë/metastazë). Te 35-vjeçari duhet përjashtuar edhe TB; diagnoza me bronkoskopi/biopsi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-043",
+    "question": "M 65 vjec, ka kollë, dispne. Pulmone me reale bronkiale, subkrepitante, sibilanca. Ro: fibrozë pulmonare difuze, trashje dhe kalcifikime pleurale bilaterale. Diagnoza e mundëshme:",
+    "answers": [
+      "Bronshit kronik",
+      "Ca bronkial",
+      "Pneumokoniozë",
+      "Astmë bronkiale"
+    ],
+    "correct": 2,
+    "explanation": "I moshuar me dispne, fibrozë pulmonare difuze dhe trashje/kalcifikime pleurale bilaterale (pllaka pleurale) = pneumokoniozë (asbestozë); kërkohet anamneza profesionale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-044",
+    "question": "M 14 vjec, ka kollë dhe infeksione të përsëritura pulmonare, gishta tamburi, rënie në peshë, steatorhe. Rodiografi : trashje të mureve bronkiale, hije në formë rrethi të bronkektazisë si dhe hije të shpërndara në pulmone. Diagnoza e mundëshme:",
+    "answers": [
+      "Bronshit kronik",
+      "Pneumoni atipike",
+      "Fibroza kistike",
+      "Astmë bronkiale"
+    ],
+    "correct": 2,
+    "explanation": "Adoleshent me infeksione pulmonare të përsëritura, bronkiektazi, gishta tamburi, rënie në peshë dhe steatorre (insuficiencë pankreatike) = fibrozë kistike; diagnozë me testin e djersës."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-045",
+    "question": "Stjuardesë 34 vjece, ka 7 ditë me temperaturë, kollë të thatë , dispne, takipne. Në auskultim respiracion i pastër. Diagnoza e mundëshme:",
+    "answers": [
+      "grip",
+      "Pneumoni atipike",
+      "Mykoplazma pneumonie",
+      "Astme bronkiale"
+    ],
+    "correct": 1,
+    "explanation": "Ethe, kollë e thatë, dispne me auskultim pothuajse normal (disociim klinik-radiologjik) = pneumoni atipike (Mycoplasma, Chlamydia, Legionella — kjo e fundit e lidhur me udhëtimet/ajrin e kondicionuar)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-046",
+    "question": "M 65 vjec me kollë kronike produktive, vjen në urgjencë me dispne, dhe i përgjumur. Pulmone me rale bronkiale, sibilanca, ulje e lëvizshmërisë së pulmoneve. Diagnoza e mundëshme:",
+    "answers": [
+      "Bronshit kronik",
+      "Ca bronkial",
+      "Pneumokoniozë",
+      "Astme bronkiale"
+    ],
+    "correct": 0,
+    "explanation": "Pacient me kollë kronike produktive (bronkit kronik/SPOK) me acutizim: dispne, sibilanca, përgjumje (hiperkapni). Diagnoza bazë është bronkiti kronik në fazë acutizimi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-047",
+    "question": "M 55 vjec zgjohet me dispne, kollë me pështymë me shkumë, ka kaluar IAM 2 javë më parë. Ka takipne, cianotik, rale krepitante në pulmone. Diagnoza e mundëshme:",
+    "answers": [
+      "Edemë pulmonare akute",
+      "Trombemboli pulmonare",
+      "Pneumoni atipike",
+      "Astme bronkiale"
+    ],
+    "correct": 0,
+    "explanation": "Pas infarktit, dispne nokturne me sputum të shkumëzuar, cianozë dhe rale krepitante = edemë pulmonare akute kardiogjene."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-048",
+    "question": "F 25 vjec, ka adenopati në qafë, temperaturë, djersë natën, rënie në peshë. Biopsia e limfonodulit : ka qeliza të mëdha me dy bërthama, imazhi i pasqyrës, qelizat e Reed- Sternberg. Diagnoza e mundëshme",
+    "answers": [
+      "Mononukleoza infektive",
+      "Leukemi akute",
+      "Morbus Hodgkin",
+      "Sarkoidoze"
+    ],
+    "correct": 2,
+    "explanation": "E re me adenopati cervikale, ethe, djersitje natën dhe rënie në peshë (simptoma B) dhe qeliza Reed-Sternberg (\"sy bufi\") në biopsi = limfomë Hodgkin."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-049",
+    "question": "M 70 vjec, përdor omnik për adenomën e prostatës. Ka dhimbje mesi dhe kockash, anemi, insuficiencë renale. Mielograma ka qeliza plazmatike 38 %. Diagnoza e mundëshme",
+    "answers": [
+      "Metastaza kockore nga ca prostate",
+      "Leukemi akute",
+      "Mielome multiple",
+      "Leukemi mieloide kronike"
+    ],
+    "correct": 2,
+    "explanation": "I moshuar me dhimbje kockore, anemi, insuficiencë renale dhe 38% plazmocite në mielogramë (>10%) = mielomë multiple (kriteret CRAB)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-050",
+    "question": "M 18 vjec, ka dobësi, zbehje, zverdhje të syve, urinim me ngjyrë të errët dhe anemi. Lieni preket 10cm. Gjaku periferik ,Hb 7 gr/dl. Në serinë e kuqe: hypykromi dhe mikrocitozë e shprehur, ka qeliza target, anizocitosis dhe poikilocitosis të shprehur si dhe retikulocite të larta. Diagnoza e mundëshme:",
+    "answers": [
+      "Hepatit viral akut",
+      "Leukemi akute",
+      "Thalasemi major",
+      "Drepanocitosis"
+    ],
+    "correct": 2,
+    "explanation": "I ri me anemi të rëndë hipokrome mikrocitare, qeliza target, anizopoikilocitozë, hemolizë (ikter, urinë e errët), retikulocitozë dhe splenomegali masive = beta-talasemi major (ose intermedia)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-051",
+    "question": "F 35 vjece, ka anemi, rënie të flokëve, ragade në këndet e buzëve. Gjaku periferik: hipokromi, mikrocitozë e eritrociteve. Diagnoza e mundëshme",
+    "answers": [
+      "Anemi nga mungesa e hekurit",
+      "Anemi nga mungesae vit.B12",
+      "Anemi hemolitike",
+      "Anemi nga mungesa e acidit folik"
+    ],
+    "correct": 0,
+    "explanation": "Anemi hipokrome mikrocitare me rënie flokësh dhe keilit angular te gruaja e re = anemi nga mungesa e hekurit."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-052",
+    "question": "Burrë 75 vjec, ka dhibje kockash. Preken, Shpretka 14 cm, hepari 7cm. Gjaku periferik: er 4000000, HB 13 gr/dl, Tb 730.000 mm³, leukocite 300.000 mm³, Formula: ( bl 3%, PM 10%, MC 17%, MM 20/, SH 10%, Seg 20%, eo7%, Ba 3%, Limfocite 10%. Diagnoza e mundshme",
+    "answers": [
+      "Leukemi limfoblastike akute",
+      "Mononukleoze infektivi",
+      "Leukemi mieloide kronike",
+      "Leukemi mieloblastike akute"
+    ],
+    "correct": 2,
+    "explanation": "Leukocitozë shumë e lartë (300.000) me të gjitha stadet e maturimit granulocitar (mielocite, metamielocite, pak blaste), bazofili, eozinofili, trombocitozë dhe splenomegali masive = leukemi mieloide kronike."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-053",
+    "question": "Mashkull 23 vjec, ankon për temperaturë 38 gradë, dhimbje kockash, vështirësi në gëlltitje. Ka anginë ulcero-nekrotike, lieni 4 cm. Gjaku periferik anemi, trombocitopeni, leukociti 26.000, ka 34% blaste. Në disa blaste ka trupza Auer. Diagnoza e mundshme:",
+    "answers": [
+      "Leukemi limfoblastike akute",
+      "Leukemi myeloide kronike",
+      "Mononukleoze infektive",
+      "Leukemi myeloblastike akute"
+    ],
+    "correct": 3,
+    "explanation": "I ri me angina ulcero-nekrotike, ethe, anemi, trombocitopeni dhe 34% blaste me trupa Auer = leukemi mieloblastike akute (LMA)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-054",
+    "question": "M 55 vjec, ka dhimbje të fortë në sternum dhe marrje fryme. Frekuenca kardiake 40/ min., ECG: dhëmbë Q dhe rritje të ST në D III, DII, AVF. Mjekimi i mundshëm:",
+    "answers": [
+      "Adalat",
+      "Atropine",
+      "Lanatosid c",
+      "Atenolol"
+    ],
+    "correct": 1,
+    "explanation": "Infarkt inferior (Q dhe ST në DII, DIII, aVF) me bradikardi 40/min (vagale ose nga blloku AV) → atropinë IV; betabllokuesit kundërindikohen në bradikardi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-055",
+    "question": "M 20 vjec, këthehet nga udhëtimi jashtë shtetit. Ka dispne dhe shqetësim në gjoks në anën e majtë. Radiografia : ka një zonë të vogël në apexin e pulmonit të majtë pa ind pulmonar. Diagnoza e mundëshme",
+    "answers": [
+      "Aneurizëm disecante e aortës",
+      "Emboli pulmonare",
+      "Pneumotoraks nga tensionimi",
+      "Tbc"
+    ],
+    "correct": 2,
+    "explanation": "I ri pas udhëtimit me dispne dhe dhimbje torakale majtas, me zonë apikale pa vizatim pulmonar = pneumotoraks (spontan; në tension). Trajtim sipas madhësisë: aspirim/dren."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-056",
+    "question": "Grua 60 vjece ,pasi ngrihet nga banja pati marrje fryme shumë të theksuar, dhimbje të fortë gjoksi, hemoptizi. ECG takikardi sinusale. Diagnoza e mundëshme:",
+    "answers": [
+      "Pneumotoraks spontan",
+      "Infarkt akut i miokardit",
+      "Trombemboli pulmonare",
+      "Mediastinit"
+    ],
+    "correct": 2,
+    "explanation": "Dispne e theksuar, dhimbje torakale dhe hemoptizi të papritura pas ngritjes nga banjoja (mobilizim i trombit, Valsalva) me takikardi sinusale = tromboembolizëm pulmonar."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-057",
+    "question": "Grua 60 vjece me artrit rheumatoid ka splenomegali. Në gjakun periferik leukociti 1500 mm3. Diagnoza e mundëshme:",
+    "answers": [
+      "Lymphomë malinje",
+      "LMC",
+      "Sindroma Felty",
+      "Cirozë e heparit"
+    ],
+    "correct": 2,
+    "explanation": "Artrit reumatoid + splenomegali + leukopeni/neutropeni = sindroma Felty."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-058",
+    "question": "M 60 vjec. Para 15 vitesh ka kaluar hepatit viral B. Paraqitet me hematemezë masive dhe gjendje shoku. Ka ascit. Shkaku i hematemezes:",
+    "answers": [
+      "Ulcer peptike kronike",
+      "Varicet e esofagut",
+      "Cancer i stomakut",
+      "Sindroma Mallory- Weiss"
+    ],
+    "correct": 1,
+    "explanation": "Pacient me hepatit B kronik në të kaluarën (→ cirrozë), me ascit dhe hematemezë masive me shok = gjakderdhje nga variçet ezofageale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-059",
+    "question": "Diabetik 60 vjecar , trajtohet me insulinë, paraqitet me kruarje, të përziera, të vjella. Ai ka edema periferike dhe anemi normokrome. Cilin eksaminim do të kryeni për diagnozë:",
+    "answers": [
+      "Azotemi, kreatinine, elektolitë",
+      "Glicemi",
+      "Calcemi",
+      "ECHO abdominale"
+    ],
+    "correct": 0,
+    "explanation": "Diabetik i vjetër me prurit, nauze, të vjella, edema dhe anemi normokrome = insuficiencë renale kronike nga nefropatia diabetike (uremi); kontrollo azoteminë, kreatininën dhe elektrolitet."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-060",
+    "question": "Grua 50 vjece, njihet se vuan nga karcinoma e gjirit. Ajo paraqet të përziera dhe të vjella akute, polidipsi, konfusion, përgjumësi. Cilin është eksaminimi më dallues për diagnozë:",
+    "answers": [
+      "Azotemi, kreatinine, elektolitë",
+      "Glicemi",
+      "Calcemi",
+      "Testet e tyroides"
+    ],
+    "correct": 2,
+    "explanation": "Pacient me kancer gjiri dhe nauze, të vjella, polidipsi, konfuzion e përgjumje = hiperkalcemi malinje (metastaza kockore/PTHrP); ekzaminimi dallues është kalcemia."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-061",
+    "question": "Grua 30 vjece me Morbus Hodgkin, paraqet dobësi me fillim të pa qartë, rënie në peshë, të përziera, të vjella. Ajo ka hiperpigmentim të vijave të duarve. Cili është eksaminimi më dallues për diagnozë:",
+    "answers": [
+      "Azotemi, kreatinine, elektolitë",
+      "T3+T4+TSH",
+      "Calcemi",
+      "Niveli i kortizolit plazmatik"
+    ],
+    "correct": 3,
+    "explanation": "Pacient me Hodgkin (infiltrim/hemorragji surrenale ose pas steroideve) me dobësi, rënie në peshë, nauze, të vjella dhe hiperpigmentim të palosjeve palmare = insuficiencë surrenale; ekzaminimi dallues është kortizoli plazmatik (± ACTH)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-062",
+    "question": "Mashkull 30 vjec, ka vite që në pranverë dhe vjeshtë ka dhimbje barku sidomos nga mesi i natës që e zgjojnë nga gjumi. Aktualisht ka dhimbje epigastrike shumë të fortë, të menjëhershme, dhimbje në shpatullën e majtë dhe të vjella. Nuk dëgjohen zhurma perisaltike. Cili është ekzamini më dallues për diagnozë :",
+    "answers": [
+      "Azotemi, kreatinine, elektolitë",
+      "Eksaminim radiologjik i toraksi në pozicion vertikal",
+      "ECHO abdominale",
+      "Gjak komplet"
+    ],
+    "correct": 1,
+    "explanation": "Histori ulçerë duodenale (dhimbje nokturne sezonale) me dhimbje epigastrike të menjëhershme \"si thikë\", dhimbje në shpatull dhe mungesë peristaltike = perforacion; radiografia e toraksit në këmbë tregon ajrin nën diafragmë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-063",
+    "question": "Mashkull 30 vjec, ankon për hemoragji rektale të përzier me mukus, e pa dhimbëshme. Ai ka në anamnezë diarhe kronike intermitente. Në eksaminim nuk ka të dhëna për sëmundje perianale. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Koliti ulceros",
+      "Sëmundja divertikulare",
+      "Hemorhoidet",
+      "Fistula ne sëmundjen e Chron´s"
+    ],
+    "correct": 0,
+    "explanation": "I ri me rektoragji me mukus, pa dhimbje, me histori diarreje kronike intermitente dhe pa patologji perianale = kolit ulçeroz."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-064",
+    "question": "Burrë 40 vjec, ankon për melena të pa dhimbëshme. Anusi dhe rektumi janë normal në ekzaminim.Pacienti nuk ka rënë në peshë. Ai është fumator dhe alkolist. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Karcinoma e kolonit",
+      "Sëmundja divertikulare",
+      "Hemorhoidet",
+      "Ulcera peptike"
+    ],
+    "correct": 3,
+    "explanation": "Melena pa dhimbje te i rrituri duhanpirës e alkoolist, pa rënie në peshë, me ekzaminim anorektal normal → burim i sipërm, më shpesh ulçerë peptike."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-065",
+    "question": "Djalë 25 vjec, ankon për dhimbje anale, shkarkime me gjak dhe mukus. Në eksaminimin objektiv ka cikatrice të shumta punktiforme rreth anusit. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Koliti ulceros",
+      "Fisura në anus",
+      "Fistula në sëmunddjen e Chron´s",
+      "Karcinoma e rektumit"
+    ],
+    "correct": 2,
+    "explanation": "I ri me dhimbje anale, sekrecione me gjak e mukus dhe vrima të shumta fistuloze/cikatrice perianale = sëmundje perianale e Crohn-it (fistula)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-066",
+    "question": "Burrë 50 vjec, nxjerr 500 ml gjak të freskët nga rektumi. Ai pati ndjenjën e defekimit, por në vend të feceve nxori gjak. Pacienti ka një dikomfort kronik në anën e majtë të abdomenit. Nuk ka rënë në peshë, nuk palpohet masë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Karcinoma e cekumit",
+      "Sëmundja divertikulare",
+      "Hemorhoidet",
+      "Ulcera peptike"
+    ],
+    "correct": 1,
+    "explanation": "Rektoragji masive me gjak të freskët te 50-vjeçari me shqetësim kronik në fosën iliake të majtë, pa rënie në peshë = gjakderdhje nga divertikuloza e kolonit (shkak i shpeshtë i hemorragjisë masive të poshtme)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-067",
+    "question": "Burrë 70 vjec, paraqet hemoragji rektale të pa dhimbëshme. Gjaku është në formën e rremave në fece. Ai ankon për tënesma. Në tushe rektale palpohet një masë e butë, e fiksuar, e pa dhimbëshme. Nuk preken limfonoduj inguinalë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Karcinoma e kolonit",
+      "Karcinoma e anusit",
+      "Hemorhoidet",
+      "Karcinoma e rektumit"
+    ],
+    "correct": 3,
+    "explanation": "I moshuar me gjak të përzier me feçet, tenezëm dhe masë e fortë/e fiksuar në tushe rektale = karcinomë e rektumit; konfirmohet me rektoskopi dhe biopsi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-068",
+    "question": "Burrë 75 vjec, ankon për dhimbje epigastrike dhe defekim me ngjyrë të zezë (melenë) me fece pothuajse të formuara, ka rënë në peshë. Ka një lifonodul të zmadhuar në regionin supraklavikular të majtë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Karcinoma e stomakut",
+      "Ulcer e stomakut",
+      "Ulcer e duodenit",
+      "Karcinoma e kolonit"
+    ],
+    "correct": 0,
+    "explanation": "I moshuar me dhimbje epigastrike, melena, rënie në peshë dhe limfonod supraklavikular majtas (nyja Virchow, shenja Troisier) = karcinomë e stomakut."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-069",
+    "question": "Femër 30 vjece, ankon për dhimbje shumë të fortë të menjëherëshme të shpinës. Ajo udhëton me skoliozë kompesatore. Në eksaminim, ajo ka dhimbje nga gluteusi tek kyci i këmbës, humbje të ndjeshmërisë së shputës , dhe pulpës së këmbës së majtë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Mieloma multiple",
+      "Stenoza spinale",
+      "Prolaps lumbar dhe sciatica",
+      "Spondilolistesis"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbje akute lumbare me skoliozë antalgjike, dhimbje radikulare nga gluteusi deri te kyçi dhe humbje ndjeshmërie në shputë/pulpë (dermatomi S1) = prolaps diskal lumbar me iskialgji."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-070",
+    "question": "Burrë 50 vjec, ankon për dhimbje të shpinës që përhapet drejt të dy anësive. Dhimbja përkeqësohet nga ecja dhe qetësohet nga pushimi dhe përkulja përpara. Në eksaminim, ai ka kufizim të ngritjes lart të këmbës së shtrirë dhe mungesë të reflekseve të kyceve të këmbës. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Osteoartrit",
+      "Stenoza spinale",
+      "Prolaps lumbar dhe sciatica",
+      "Spondiliti ankilozant"
+    ],
+    "correct": 1,
+    "explanation": "Dhimbje lumbare që rrezaton në të dyja gjymtyrët, përkeqësohet me ecje dhe qetësohet me pushim e përkulje përpara (klaudikacion neurogjen), me reflekse të kyçit të munguara = stenozë spinale lumbare."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-071",
+    "question": "Grua 50 vjece, ankon për dhimbje shpine. Ajo ka anemi normokrome, normocitare me sediment shumë të lartë. Proteina totale 11 gr/dl. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Mieloma multiple",
+      "Stenoza spinale",
+      "Prolaps lumbar dhe sciatica",
+      "Spondiloarthrosis"
+    ],
+    "correct": 0,
+    "explanation": "Dhimbje shpine, anemi normokrome normocitare, ERS shumë e lartë dhe proteinemi totale e rritur (11 g/dl, nga komponenti monoklonal) = mielomë multiple; konfirmohet me elektroforezë proteinash dhe mielogramë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-072",
+    "question": "Burrë 67 vjec, ka dhimbje mesi sidomos gjatë ecjes. Është i zbehtë, ka azotemi të lartë. Proteinuria Bence -Jonce pozitiv. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Mieloma multiple",
+      "Stenoza spinale",
+      "Prolaps lumbar dhe sciatica",
+      "Metastaza kockore"
+    ],
+    "correct": 0,
+    "explanation": "I moshuar me dhimbje kockore, zbehje (anemi), insuficiencë renale dhe proteinuri Bence-Jones (zinxhirë të lehtë) = mielomë multiple."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-073",
+    "question": "M 60 vjec, ankon për dhimbje të kockave, të shpinës në regionin lumbar dhe në kofshët e tij. Fosfataza alkaline serike 1000 u/L. Calciumi dhe phosphori janë normal. Pacienti ka vështirësi me dëgjimin. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Mieloma multiple",
+      "Stenoza spinale",
+      "Prolaps lumbar dhe sciatica",
+      "Sëmundja e Paget"
+    ],
+    "correct": 3,
+    "explanation": "I moshuar me dhimbje kockore, fosfatazë alkaline shumë të lartë me kalcium e fosfor normal dhe hipoakuzi (prekje e kafkës/kockave të veshit) = sëmundja Paget e kockave."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-074",
+    "question": "M 50 vjec, ankon për dhimbje të forta të kockave sidomos të shpinës që e zgjojnë nga gjumi. Ka të përziera, të vjella. Objektivisht, në palpim epigastri duket i zënë. Në eksaminimin radiologjik duke dëmtime osteolitike të vertebrave. Fosfataza alkaline dhe Eritrosedimenti janë i lartë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Mieloma Multiple",
+      "Stenoza spinale",
+      "Metastaza në kocka",
+      "Spondilolistesis"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbje kockore nokturne, lezione osteolitike vertebrale, FA dhe ERS të larta, me masë epigastrike dhe simptoma gastrike = metastaza kockore (p.sh. nga kancer gastrik). Kjo është diagnoza; mieloma nuk jep zakonisht FA të lartë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-075",
+    "question": "M 68 vjec, ankon për dhimbje shpine dhe kockash. Ka djegie gjatë urinimit dhe vështirësi në urinim. Urina komplet nuk ka shenja të infeksionit. Fosfataza alkaline e lartë. PSA e rritur. Gjaku komplet: leuko-erithroblastik, seddiment i lartë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Metastaza kockore nga ca prostate",
+      "Mielomë multiple",
+      "Prolaps lumbar dhe sciatica",
+      "Sëmundja e Paget"
+    ],
+    "correct": 0,
+    "explanation": "I moshuar me simptoma prostatike, dhimbje kockore, FA e lartë, PSA e rritur dhe tablo leuko-eritroblastike (infiltrim i palcës) = metastaza kockore osteoblastike nga karcinoma e prostatës."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-076",
+    "question": "F 50 vjece, ankon për episode të përsëritura të dobësisë së papritur në anësitë e poshtëmë që shoqërohet më rrëzim, por nuk e humbet koshiencën. Zgjidh eksaminimin më dallues për diagnozë:",
+    "answers": [
+      "glicemi",
+      "ECG me 12 lidhje",
+      "Elektrolitët në gjak",
+      "CT e kokës"
+    ],
+    "correct": 3,
+    "explanation": "Episode të përsëritura dobësie të papritur të këmbëve me rënie pa humbje vetëdijeje (\"drop attacks\") sugjerojnë insuficiencë vertebro-bazilare; ekzaminimi dallues është CT e kokës (ose imazheri vaskulare)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-077",
+    "question": "Burrë 60 vjec, paraqet tremor, djersë, dhe gjendje të fikti në mëngjes. Zgjidh eksaminimin më dallues për diagnozë:",
+    "answers": [
+      "glicemi",
+      "ECG me 12 lidhje",
+      "Tensioni arterial",
+      "CT e kokës"
+    ],
+    "correct": 0,
+    "explanation": "Tremor, djersitje dhe gjendje të fikti në mëngjes (agjërim) sugjerojnë hipoglicemi (p.sh. insulinomë ose terapi hipoglicemiante); ekzaminimi i parë dhe dallues është glicemia."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-078",
+    "question": "F 65 vjec, me insuficiencë renale kronike, paraqet kriza tetanie dhe të fikët. Ajo ankon për krampe në anësi dhe mpirje rreth gojës. Zgjidh eksaminimin më dallues për diagnozë:",
+    "answers": [
+      "glicemi",
+      "kalcemi",
+      "gjak komplet",
+      "urinë komplet"
+    ],
+    "correct": 1,
+    "explanation": "Pacient me IRK me tetani, kramp në gjymtyrë dhe parestezi periorale = hipokalcemi (nga mungesa e kalcitriolit/hiperfosfatemia); ekzaminimi dallues është kalcemia."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-079",
+    "question": "F 65 vjec, paraqet marrje mendsh dhe errësim të pamjes. Pulsi 50/1min. Zgjidh eksaminimin më dallues për diagnozë:",
+    "answers": [
+      "Glicemi",
+      "ECG me 12 lidhje",
+      "Elektrolitët në gjak",
+      "CT e kokës"
+    ],
+    "correct": 1,
+    "explanation": "Marrje mendsh, turbullim i shikimit dhe bradikardi 50/min sugjerojnë bradiaritmi (bllok AV, sinus i sëmurë); ekzaminimi dallues është EKG me 12 derivacione (± Holter)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-080",
+    "question": "F 70 vjece, mjekohet me levodopa për Parkinson, ankon për gjendje të fikti kur ngrihet natën. Zgjidh eksaminimin më dallues për diagnozë:",
+    "answers": [
+      "glicemi",
+      "hemokulturë",
+      "tensioni arterial",
+      "elektrolitët në gjak"
+    ],
+    "correct": 2,
+    "explanation": "Pacient me Parkinson në levodopë (hipotension ortostatik si nga sëmundja ashtu edhe nga bari) që bie të fikët kur ngrihet natën → matja e presionit arterial shtrirë dhe në këmbë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-081",
+    "question": "F 40 vjece, ka fibromë të ovarit, hidrotoraks të djathtë dhe ascites. Cila është diagnoza më e mundshme:",
+    "answers": [
+      "Sindromi Budd-Chiari",
+      "Sindromi Meig´s",
+      "Pseudomiksoma peritoneale",
+      "Peritonit tuberkular"
+    ],
+    "correct": 1,
+    "explanation": "Fibroma e ovarit + ascit + hidrotoraks (zakonisht djathtas) = sindroma Meigs; efuzionet zhduken pas heqjes së tumorit."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-082",
+    "question": "F 25 vjece, ka të përziera, të vjella, dhimbje abdominale. Objektivisht ka hepatomegali të dhimbëshme dhe ascit. Kohët e fundit ajo ka filluar përdorimin e kontraceptivëve oralë. Cila është diagnoza më e mundshëme:",
+    "answers": [
+      "Sindromi Budd-Chiari",
+      "Sindromi Meig´s",
+      "Trombozë e venës porta",
+      "Peritonit tuberkular"
+    ],
+    "correct": 0,
+    "explanation": "E re me kontraceptivë oralë (trombofili) me dhimbje abdominale, hepatomegali të dhimbshme dhe ascit = sindroma Budd-Chiari (trombozë e venave hepatike); diagnozë me eko-Doppler."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-083",
+    "question": "M 30 vjec, zhvillon ascites dhe dhimbje kolike në kuadratin e djathtë të poshtëm. Likidi ascitik ka natyrë viskoze dhe mukoide. Cila është diagnoza më e mundshëme:",
+    "answers": [
+      "Pamjaftushmëri e zemrës së djathtë",
+      "Shtypja e venës porta nga limfonodujt",
+      "Pseudomiksoma peritoneale",
+      "Peritonit tuberkular"
+    ],
+    "correct": 2,
+    "explanation": "Ascit viskoz, mukoid (\"bark me pelte\"), me dhimbje në kuadrantin e poshtëm djathtas (origjinë apendikulare) = pseudomiksoma peritonei (nga tumor mucinoz i apendiksit/ovarit)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-084",
+    "question": "F 40vjece, ka ascit. Në anamnezë, ka kaluar ethe rheumatizmale. Në auskultim, ka një ton të dytë pulmonar të lartë. Volumi i pulsit në arteriet periferike i ulët. Cila është diagnoza më e mundshëme:",
+    "answers": [
+      "Pamjaftushmëri e zemrës së djathtë si pasojë e stenozës mitrale",
+      "Shtypja e venës porta nga limfonodujt",
+      "Cirrhosis",
+      "Peritonit tuberkular"
+    ],
+    "correct": 0,
+    "explanation": "Histori ethe reumatike (stenozë mitrale), P2 i theksuar (hipertension pulmonar), puls me volum të ulët dhe ascit = insuficiencë e zemrës së djathtë sekondare ndaj stenozës mitrale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-085",
+    "question": "F 50 vjece, ka ascites, dobësi. Ajo ka puls të crregullt, të shpejtë, me volum të vogël. Eksaminimi radiologjik tregon zemër të vogël me kalcifikime që duken në projeksionin lateral. ECG demonstron QRS me voltazh të ulët dhe valë T të invertuara. Cila është diagnoza më e mundshëme:",
+    "answers": [
+      "Pamjaftushmëri e zemrës së djathtë si pasojë e stenozës mitrale",
+      "Perikarditi constriktiv",
+      "Cirrhosis",
+      "Peritonit tuberkular"
+    ],
+    "correct": 1,
+    "explanation": "Ascit, puls i vogël, zemër e vogël me kalcifikime perikardiale dhe EKG me voltazh të ulët e T të invertuara = perikardit konstriktiv (TB, pas kirurgjisë/radioterapisë); edhe shenja Kussmaul."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-086",
+    "question": "F 40 vjece, pas lëvizjes së një tavoline të rëndë ka dhimbje të shpinës; ajo nuk ka shenja të prekjes së rrënjës nervore. Cili është trajtimi më i përshtatshëm:",
+    "answers": [
+      "Referim urgjent te ortopedi/ neurukirurgu",
+      "Radiografi toraksi",
+      "Regjim shtrati për dy javë",
+      "Dy ditë pushim + analgjezikë"
+    ],
+    "correct": 3,
+    "explanation": "Lumbalgji mekanike akute pas sforcimit, pa shenja radikulare ose \"red flags\": pushim i shkurtër (1–2 ditë), analgjezikë/FANS dhe rikthim i hershëm në aktivitet. Pushimi i gjatë në shtrat e përkeqëson."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-087",
+    "question": "F 50 vjece, ankon për dhimbje shpine që 2 muaj, që përkeqësohen natën. Radiografia tregon frakturë kompresive të dy vertebrave pa shkak traumatik. Cila është trajtimi më i përshtatshëm:",
+    "answers": [
+      "Referim urgjent te ortopedi për dekomrimim nervi",
+      "Eksaminime të mëtejshme për tumor apo pathologji të tjera kockore",
+      "Regjim shtrati për dy javë",
+      "Fizioterapi"
+    ],
+    "correct": 1,
+    "explanation": "Fraktura kompresive vertebrale jotraumatike me dhimbje nokturne te 50-vjeçarja janë \"red flags\": duhen ekzaminime për tumor/metastaza, mielomë ose osteoporozë të rëndë (osteoporozë sekondare)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-088",
+    "question": "M 60 vjec, ka dhimbje shpine që përhapet poshtë të dy gjunjëve bilateralisht. Në eksaminim, ka anestesi të “shalës”, inkontinencë urine dhe humbje të tonusit anal. Cili është trajtimi më i përshtatshëm:",
+    "answers": [
+      "Referim urgjent tek neurokirurgu për dekomprinim kirurgjikal urgjent",
+      "Eksaminime të mëtejshme për tumor apo pathologji të tjera kockore",
+      "Referim rutinë te neurokirurgu/ ortopedi",
+      "ECHO abdominale"
+    ],
+    "correct": 0,
+    "explanation": "Dhimbje bilaterale, anestezi \"në shalë\", inkontinencë urinare dhe humbje e tonusit anal = sindroma e kaudës ekuina; urgjencë neurokirurgjikale për dekompresion brenda 24–48 orëve."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-089",
+    "question": "F 50 vjece, ankon për dhimbje kronike mesi që përhapen drejt gluteuseve.Vjen shpesh në ambulancë për dhimjen e mesit. Nuk ka prekje të rrënjës nervore. Cila është trajtimi më i përshtatshëm:",
+    "answers": [
+      "Referim urgjent tek neurokirurgu",
+      "Eksaminime të mëtejshme për tumor apo pathologji të tjera kockore",
+      "Referim rutinë te neurokirurgu/ ortopedi",
+      "Fizioterapi"
+    ],
+    "correct": 3,
+    "explanation": "Lumbalgji kronike pa prekje radikulare dhe pa shenja alarmi trajtohet me program aktiv: fizioterapi/ushtrime, edukim, analgjezikë sipas nevojës; jo referim urgjent."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-090",
+    "question": "M 30 vec, ankon për dhimbje shpine që përhapet poshtë gjurit. Në eksaminim ka humbje të ndjeshmërisë lateralisht pulpës së djathtë dhe medialisht këmbës së djathtë. Nuk bën dot dorsifleksionin e gishtit të madh. Ai ka qëndruar regjim shtrati për 6 javë. Cila është trajtimi më i përshtatshëm:",
+    "answers": [
+      "Referim urgjent tek neurokirurgu",
+      "Eksaminime të mëtejshme për tumor apo pathologji të tjera kockore",
+      "Referim rutinë te neurokirurgu/ ortopedi",
+      "Fizioterapi"
+    ],
+    "correct": 2,
+    "explanation": "Radikulopati L5 (hipoestezi lateral të kërcirit/dorsumit të këmbës, dobësi e ekstensorit të gishtit të madh) që nuk përmirësohet pas 6 javësh trajtim konservativ → referim rutinë te neurokirurgu/ortopedi (RM, vlerësim kirurgjikal). Urgjente vetëm me deficit progresiv ose kaudë ekuina."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-091",
+    "question": "M 26 vjec, ka një fryrje (xhungë) të pa dhimbëshme që 6 javë në testin e majtë.Nuk ka adenopathi inguinale. Alfa fetoproteina është e lartë. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Torsion i testit",
+      "Hydrocele",
+      "Tumor i testit",
+      "Epididimo-orkit akut"
+    ],
+    "correct": 2,
+    "explanation": "Masë testikulare pa dhimbje te i riu me alfa-fetoproteinë të rritur = tumor testikular germinal jo-seminomatoz; ekografi dhe orkiektomi inguinale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-092",
+    "question": "Fëmijë 6 vjec, ka hematuri të padhimbëshme, afebril, dhe edemë skrotale që 2 ditë. Porcioni i mesit të urinës ka mbetje granulare. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Isuficiencë renale kronike",
+      "Pielonefrit akut",
+      "Nekrozë tubulare akute",
+      "Epididimo-orkit akut"
+    ],
+    "correct": 2,
+    "explanation": "Hematuri pa dhimbje, pa ethe, me edemë dhe cilindra granulare në urinë sugjerojnë dëmtim tubular akut (nekrozë tubulare akute). Te fëmija duhet të mendohet edhe për glomerulonefrit akut post-streptokoksik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-093",
+    "question": "M 70 vjec, ka pakësim të urinimit, urinim natën, është i zbehtë, ka edema në anesi, ascit, TA 170/100 mmHg. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Isuficiencë renale kronike",
+      "Karcinomë e prostatës",
+      "Nekrozë tubulare akute",
+      "Karcinomë e veshkës"
+    ],
+    "correct": 0,
+    "explanation": "I moshuar me oliguri, nikturi, zbehje (anemi), edema, ascit dhe hipertension = insuficiencë renale kronike."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-094",
+    "question": "M 75 vjec, ankon për urinim të shpeshtë natën, dhimbje shpine. Preket glob vezikal, dhe në tushe rektale prostatë e zmadhuar. Fosfataza alkaline dhe acide në serum janë të rritura. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Insuficiencë renale kronike",
+      "Karcinome e vezikes",
+      "Karcinomë e veshkës",
+      "Karcinomë e prostatës"
+    ],
+    "correct": 3,
+    "explanation": "I moshuar me nikturi, retension (glob vezikal), prostatë e zmadhuar dhe dhimbje shpine me fosfatazë acide dhe alkaline të rritura (metastaza kockore) = karcinomë e prostatës."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-095",
+    "question": "Fëmijë 12 vjec paraqet ënjtje, skuqje, dhimbje të skrotumit. Porcioni i mesit të urinës është normal. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Torsion i testit",
+      "Hydrocele",
+      "Tumor i testit",
+      "Epididimo-orkit akut"
+    ],
+    "correct": 2,
+    "explanation": "Kjo është torsion i testikulit: fëmijë 12 vjeç me skrotum të fryrë, të skuqur e të dhimbshëm dhe urinë normale (në orkiepididimit urina shpesh ka piuri). Torsioni është urgjencë kirurgjikale (<6 orë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-096",
+    "question": "Femijë 10 vjec, ka stridor. Ai ka histori të ënjtjes së duarve dhe këmbëve si dhe diarhe. Të njëjtën histori e ka edhe e motra. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Ethe rheumatizmale akute",
+      "Sindrom nefrotik kongenital",
+      "Angioedema hereditare",
+      "Insuficienca kardiake kongestive"
+    ],
+    "correct": 2,
+    "explanation": "Stridor (edemë laringeale) me episode edemash të duarve/këmbëve, dhimbje abdominale/diarre dhe histori familjare = angioedemë hereditare (deficit i C1-esterazë inhibitorit), pa urtikarie."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-097",
+    "question": "Vajzë 6 vjece, ka temperaturë që ngrihet e ulet (temp. me majë), enjtje të artikulacioneve të gishtave. Gishtat e fryrë kanë marrë formë boshti. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Ethe rheumatizmale akute",
+      "Sinovit toksik",
+      "Angioedema hereditare",
+      "Artrit rheumatoid juvenil"
+    ],
+    "correct": 3,
+    "explanation": "Vajzë me ethe me maja (kotidiane), artrit i kyçeve të gishtave me gishta në formë boshti = artrit idiopatik juvenil (forma sistemike/poliartikulare — sëmundja Still)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-098",
+    "question": "Djalë 12 vjec, paraqet poliartrit dhe dhimbje abdominale. Ai kishte bajamet e sëmura rreth 2 javë para. Në buzën e anës së majtë të sternumit dëgjohet zhurmë e hershme diastoloke shfryrëse. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Ethe rheumatizmale akute",
+      "Sindrom nefrotik kongenital",
+      "Arthrit rheumatoid forma juvenilde",
+      "Insuficienca kardiake kongestive"
+    ],
+    "correct": 0,
+    "explanation": "Fëmijë me poliartrit migrues 2 javë pas tonsilitit dhe zhurmë diastolike e hershme në buzën e majtë të sternumit (insuficiencë aortale nga karditi) = ethe reumatike akute (kriteret Jones)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-099",
+    "question": "Vajzë 12 vjece, ka zbehje, dispne, puls 190/1´. Ajo ka hepatomegali dhe cardiomegali, edema në anësi. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Perikardit",
+      "Sindrom nefrotik kongenital",
+      "Myokardit",
+      "Insuficienca kardiake kongestive"
+    ],
+    "correct": 3,
+    "explanation": "Vajzë me zbehje, dispne, takikardi 190/min, hepatomegali, kardiomegali dhe edema = insuficiencë kardiake kongjestive (mund të jetë nga miokardit ose takiaritmi)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-100",
+    "question": "Femër 18 vjece, nulipare, 12 javëshe; do të përfundojë shtatzaninë. Zgjidh trajtimin më të mirë:",
+    "answers": [
+      "histerectomi e thjeshtë",
+      "Kolposkopi",
+      "Dilatacion dhe kyretazh",
+      "Antibiotikë iv"
+    ],
+    "correct": 2,
+    "explanation": "Ndërprerja vullnetare e shtatzënisë në 12 javë bëhet me dilatacion dhe kyretazh/aspirim vakuum (ose me metodë medikamentoze në javët e para); histerektomia nuk ka vend."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-101",
+    "question": "Plakë 70 vjece, ka 3 muaj me hemoragji vaginale. Histeroskopia dhe biopsia e endometrit konfirmojnë adenokarcinomë . Zgjidh trajtimin më të mirë:",
+    "answers": [
+      "histerectomi e thjeshtë",
+      "Kolposkopi",
+      "Dilatacion dhe kyretazh",
+      "Histerektomi totale abdominale, salpingo- oophoroectomy bilaterale"
+    ],
+    "correct": 3,
+    "explanation": "Adenokarcinoma e endometrit trajtohet me histerektomi totale abdominale + salpingo-ooforektomi bilaterale (± limfadenektomi), e ndjekur nga radioterapi sipas stadit."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-102",
+    "question": "Grua 30 vjece, vjen në ambulancë më dhimbje të fortë në anën e majtë të barkut dhe shpatullës së majtë. Para dy muajsh ka ndaluar kontraceptivët dhe ka dy muaj pa cikël menstrual. TA 90/50 mmHg, pulsi 120/1´. Zgjidh trajtimin më të mirë:",
+    "answers": [
+      "histerectomi e thjeshtë",
+      "Reanimim urgjent dhe loparatomi.",
+      "Dilatacion dhe kyretazh",
+      "Histerektomi totale abdominale, salpingo- oophoroectomy bilaterale."
+    ],
+    "correct": 1,
+    "explanation": "Dhimbje abdominale e fortë me dhimbje të referuar në shpatull (hemoperitoneum), amenorre 2 muaj dhe shok (TA 90/50, puls 120) = shtatzëni ektopike e rupturuar; reanimim urgjent dhe laparotomi/laparoskopi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-103",
+    "question": "Grua 30 vjece, nulipare, ankon për infertilitet. Ajo ka perioda të rregullta, zgjatin 8 ditë e me sasi të shtuar. Ajo dhe bashkëshorti kanë një vit që tentojnë për shtatëzani. Burri ka bërë vizitë te urologu dhe nuk ka probleme dhe ajo kërkon të dijë në se defekti është te ajo. ECHO tregon fibrinoidë uterinë subserozë. Zgjidh trajtimin më të mirë:",
+    "answers": [
+      "Laparaskopi",
+      "Reanimim urgjent dhe loparatomi.",
+      "Dilatacion dhe kyretazh",
+      "Testi Papanicolou"
+    ],
+    "correct": 0,
+    "explanation": "Infertiliteti me fibroma subseroze dhe menorragji: laparoskopia vlerëson pelvisin (kalueshmërinë tubare, endometriozën, aderencat, miomat) dhe lejon trajtimin."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-104",
+    "question": "Grua 28 vjece, ka eksaminim jo normal të qafës së mitrës. Ajo ka condilomë dhe displazi të moderuar. Zgjidh trajtimin më të mirë:",
+    "answers": [
+      "Colposkopi e ndjekur nga krem 5- Fluouroucil apo excizion me diatermi",
+      "Antibiotikë iv+ flagyl ovul",
+      "Dilatacion dhe kyretazh",
+      "Cone biopsi"
+    ],
+    "correct": 2,
+    "explanation": "Kjo është trajtimi i duhur: Pap jonormal me kondiloma dhe displazi të moderuar (CIN2) kërkon kolposkopi me biopsi dhe trajtim ablativ/ekscizional. Sot preferohet ekscizioni me lak diatermik (LEEP)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-105",
+    "question": "Fëmijë dy vjec, ka anemi, dhimbje barku. Nëna thotë se e ka parë të gërvishtë muret dhe ka frikë se ha gelqere nga suvaja. Diagnoza më e mundëshme",
+    "answers": [
+      "Skizofreni",
+      "Delirium",
+      "Fuga",
+      "Pica"
+    ],
+    "correct": 0,
+    "explanation": "Pica = ngrënia e substancave jo-ushqimore (gëlqere, dhe, suva) te fëmija; rrezik helmimi me plumb (anemi, dhimbje abdominale) dhe shoqërim me sideropeni. (Çelësi i PDF-së tregon D, pra \"Pica\".)"
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-106",
+    "question": "Grua 23 vjece, ka frikë të lërë shtëpinë e vet. Ajo funksionon (sillet) normalisht vec mos daljes jashtë shtëpisë së saj. Diagnoza më e mundëshme",
+    "answers": [
+      "Skizofreni",
+      "Agaraphobia",
+      "Delirium",
+      "Algophobia"
+    ],
+    "correct": 1,
+    "explanation": "Frika e daljes nga shtëpia (vendet ku largimi është i vështirë), me funksionim normal ndryshe = agorafobi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-107",
+    "question": "M 18 vjec, ka diarhe, djersitje, të përziera, pupila të zgjeruara, ngritje të TA. Ai ka qënë përdorues dhe ka pasur vartësi nga drogat. Diagnoza më e mundëshme",
+    "answers": [
+      "Intoksikim nga cocaina",
+      "Delirium",
+      "Lënia e opoidëve (krizë abstinence)",
+      "Intoksikim nga drogat"
+    ],
+    "correct": 2,
+    "explanation": "Diarre, djersitje, nauze, midriazë, rritje e TA te i varur nga drogat = sindroma e abstinencës nga opioidet (intoksikimi me opioidë jep mioze, depresion respirator)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-108",
+    "question": "F 30 vjece, është gjetur në një gjendje amnesie. Burri i saj referon se ka disa ditë që ka humbur, që kur mori letrën e divorcit. Diagnoza më e mundëshme",
+    "answers": [
+      "Skizofreni",
+      "Fuga",
+      "Delirium",
+      "Intoksikim nga alkoli"
+    ],
+    "correct": 1,
+    "explanation": "Amnezi me largim nga shtëpia/udhëtim i papritur pas një ngjarjeje stresuese (letra e divorcit) = fuga disociative."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-109",
+    "question": "M 30 vjec, me crregullime bipolare nën mjekim me litium. Kohët e fundit mjeku i familjes i ka nisur hydrochlorthiasid për një tension arterial të moderuar. Aktualisht ai është konfus, me ataxi, mjegullim të pamjes, tremor jo fin. Diagnoza më e mundëshme",
+    "answers": [
+      "Intoksikacion nga cocaina",
+      "Lënia e alkolit",
+      "Perdorim opiatesh",
+      "Intoksikacion medikamentos"
+    ],
+    "correct": 3,
+    "explanation": "Tiazidet ulin klirensin renal të litiumit → intoksikim me litium: konfuzion, ataksi, tremor i trashë, turbullim i shikimit, disartri. Duhet matur litemia dhe ndërprerë bari."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-110",
+    "question": "F 28 vjece, ankon për dhimbje të fundit të barkut. Objektivisht ka shumë cikatrikse kirurgjikale në abdomen. Objektivisht, abdomeni dhe pelvisi normal. Ajo këmbëngul se ka nevojë për laparaskopi. Diagnoza më e mundëshme",
+    "answers": [
+      "Skizofreni",
+      "Sindromi Munchausen",
+      "Delirium",
+      "Neurozë histerike"
+    ],
+    "correct": 1,
+    "explanation": "Paciente me shumë cikatrice kirurgjikale, ekzaminim normal dhe që këmbëngul për ndërhyrje = sindroma Munchausen (çrregullim faktiv: simulon sëmundje për të marrë rolin e të sëmurit, pa përfitim material)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-111",
+    "question": "M 54 vjec, skizofrenik, ka nisur haloperidol. Një muaj pas fillimit ai ka jargë, ecën duke hequr këmbët zvarrë. Ai vuan gjithashtu nga lëvizje përtypëse të pa vullnetshme. Diagnoza më e mundshme",
+    "answers": [
+      "Efekte anësore autonomike të medikamentit",
+      "Efekte anësore antikolonergjike të med.",
+      "Efekte extrapiramidale të meddikamentit",
+      "Neurosis"
+    ],
+    "correct": 2,
+    "explanation": "Pas fillimit të haloperidolit: hipersalivacion, ecje me hapa të vegjël (parkinsonizëm) dhe lëvizje përtypëse të pavullnetshme = efekte ekstrapiramidale (parkinsonizëm, diskinezi) nga bllokimi D2."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-112",
+    "question": "F 40 vjece, ankon për tharje të gojës, turbullime të pamjes, konstipacion. Objektivisht ka zgjerim të pupilave. Ajo ka nisur amitiptilinë për depresion madhor. Diagnoza më e mundëshme",
+    "answers": [
+      "Efekte anësore autonomike të medikamentit",
+      "Efekte anësore antikolonergjike të med.",
+      "Efekte extrapiramidale të meddikamentit",
+      "Neurosis"
+    ],
+    "correct": 1,
+    "explanation": "Gojë e thatë, turbullim i shikimit, kapsllëk dhe midriazë pas amitriptilinës = efekte anësore antikolinergjike (antimuskarinike) të triciklikëve."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-113",
+    "question": "M 45 vjec, ka dhimbje koke, etje të theksuar, urinim të shpeshtë. Ai ka pucrra (akne të theksuara), lëkurë të ashpër, strumë. Diagnoza më e mundëshme",
+    "answers": [
+      "Hypothyroidism",
+      "Sindrom Cushing",
+      "Akromegali",
+      "Neurosis"
+    ],
+    "correct": 2,
+    "explanation": "Cefale, poliuri/polidipsi (diabet sekondar), lëkurë e trashë me akne/sebore, strumë dhe tipare të ashpra = akromegali (GH e tepërt)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-114",
+    "question": "M 30 vjec, paraqitet tek mjeku i familjes se ka nxjerrë shpatullën. Në eksaminim, shpatulla është në rregull. Nuk ka dislokacion të saj, por pacienti këmbëngul se e ka të nxjerrë. Diagnoza më e mundëshme",
+    "answers": [
+      "Depresion",
+      "Simulant",
+      "Skizofreni",
+      "Neurosis"
+    ],
+    "correct": 1,
+    "explanation": "Pacienti këmbëngul për një dëmtim që nuk ekziston objektivisht (dhe ka përfitim të mundshëm) = simulim. Ndryshon nga Munchausen (pa përfitim të jashtëm) dhe nga çrregullimet somatoforme (jo të qëllimshme)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-115",
+    "question": "M 25 vjec, ka 5 ditë me temperaturë të lartë, dhimbje koke sidomos në regionet temporale, diarhe, njolla rozë në trunk. Ju dyshoni për tifo. Cilin eksaminim do të kërkoni për diagnozë:",
+    "answers": [
+      "Widal",
+      "ELISA",
+      "Weil-Felix",
+      "Paul Bunnell"
+    ],
+    "correct": 0,
+    "explanation": "Ethe të larta, cefale, diarre dhe rozeola në trung (javën e parë) = dyshim për ethe tifoide; testi serologjik klasik është reaksioni Widal (por diagnoza e sigurt bëhet me hemokulturë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-116",
+    "question": "Blegtor nga Saranda, ka 12 ditë me temperaturë ondulante, djersë të shtuara, me erë të rëndë, dhimbje kockash. Lieni 2 cm , hepari 2 cm. Gjaku periferik leukocite 3800 mm3 , deviacion i majtë, lifo- monocitosis relative. Cilin eksaminim do të kërkoni për diagnozë:",
+    "answers": [
+      "Widal",
+      "Wright",
+      "Weil-Felix",
+      "Paul Bunnell"
+    ],
+    "correct": 1,
+    "explanation": "Blegtor me ethe ondulante, djersitje me erë, dhimbje kockore, hepatosplenomegali dhe leukopeni me limfomonocitozë = brucelozë; testi serologjik është Wright (seroaglutinim)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-117",
+    "question": "M 23 vjec, paraqet rash makulopapular në shputat e këmbëve dhe papula anale. Cilin eksaminim do të kërkoni për diagnozë:",
+    "answers": [
+      "Widal",
+      "Wright",
+      "VDRL (Slide test i laboratorit të sëmundjeve veneriane",
+      "Paul Bunnell"
+    ],
+    "correct": 2,
+    "explanation": "Rash makulopapular palmo-plantar dhe papula anale (kondiloma lata) = sifilis sekondar; diagnozë me VDRL/RPR (konfirmim me test treponemal)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-118",
+    "question": "M 30 vjec, ankon për ethe, zverdhje, dhimbje të pulpave. Ai është i apasionuar pas notit. Ju dyshoni për sëmundjen e Weil. Cilin eksaminim do të kërkoni për diagnozë:",
+    "answers": [
+      "Widal",
+      "Wright",
+      "Testi i aglutinimit Schuffner",
+      "ASO"
+    ],
+    "correct": 2,
+    "explanation": "Ethe, ikter dhe mialgji të pulpave pas notit në ujëra të ndotura (urina e minjve) = leptospirozë (sëmundja Weil); diagnozë serologjike me testin e mikroaglutinimit (Schüffner/MAT)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-119",
+    "question": "F 20 vjec, ankon për dhimbje fyti, temperaturë, adenopati në qafë, petikie në palatum. Cilin eksaminim do të kërkoni për diagnozë:",
+    "answers": [
+      "Widal",
+      "Wright",
+      "Weil-Felix",
+      "Paul Bunnell"
+    ],
+    "correct": 3,
+    "explanation": "E re me faringit, ethe, limfadenopati cervikale dhe petekie palatale = mononukleozë infektive; testi Paul-Bunnell (antitrupa heterofilë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-120",
+    "question": "M 60 vjec, ka dhimbje gjoksi, dispne. ECG: bradikardi sinusale, 45 rrahje/1min. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë iv",
+      "Pacemaker extern",
+      "Pacemaker transvenos",
+      "Oksigjeno terapi"
+    ],
+    "correct": 0,
+    "explanation": "Bradikardi sinusale simptomatike (dhimbje gjoksi, dispne) → atropinë IV 0,5–1 mg si hap i parë; pacing nëse nuk përgjigjet."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-121",
+    "question": "M 60 vjec, pëson kolaps në rrugë. Nuk e ka parë njeri si ndodhi. Aktualisht ai nuk ka puls. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë iv",
+      "CRP (Ringjallje zemër- mushkëri), adrenalinë iv 1:1000 push",
+      "CRP (Ringjallje zemër- mushkëri) derisa të jetë gati defribilatori.",
+      "Oksigjeno terapi"
+    ],
+    "correct": 2,
+    "explanation": "Arrest kardiak i padëshmuar pa puls → RKP e menjëhershme (30:2) derisa të vijë dhe të aplikohet defibrilatori, që analizon ritmin."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-122",
+    "question": "F 55 vjece, ka ritëm të ngadaltë, por është asimptomatike. ECG tregon mos përputhje midis ritmit atrial dhe ventrikular. Ritmi ventrikular është 40 rrahje/ min. Komplekset QRS janë të zgjeruara. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë iv",
+      "Godditje me grusht në sternum",
+      "Pacemaker transvenos",
+      "Defibilim me 200 Joules"
+    ],
+    "correct": 2,
+    "explanation": "Bllok AV i shkallës III me ritëm zëvendësues ventrikular 40/min dhe QRS të gjerë (ritëm i paqëndrueshëm) kërkon pacing transvenoz (pastaj pacemaker definitiv), edhe nëse aktualisht asimptomatik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-123",
+    "question": "M 30 vjec që praktikon numra shpejtësie, është gjetur pa koshiencë në skenë. Në ambulancë ai bën frymëmarrje në mënyrë spontane. Monitori ECG tregon ritëm të crregullt ku nuk dallohen valët P,QRS, ST, T. Ritmi është i shpejtë. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë 1mg iv push",
+      "CRP (Ringjallje zemër- mushkëri), adrenalinë iv 1:1000 push",
+      "CRP (Ringjallje zemër- mushkëri) derisa të jetë gati defribilatori.",
+      "Oksigjeno terapi"
+    ],
+    "correct": 2,
+    "explanation": "Ritmi i çrregullt i shpejtë pa valë të dallueshme (fibrilacion ventrikular) kërkon RKP derisa të jetë gati defibrilatori dhe defibrilim sa më shpejt."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-124",
+    "question": "M 53 vjec, vjen në ambulancë me dhimbje shumë të fortë gjoksi. Ai ka pasur histori të anginës. Dhimbja nuk qetësohet nga trinitrina. TA 120/70mmHg, ritmi 100 rrahje 1/min. ECG: ritëm sinusal. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë 1mg iv bolus",
+      "Morfinë im + Oksigjeno terapi 4 LPM",
+      "CRP (Ringjallje zemër- mushkëri), adrenalinë iv 1:1000 push",
+      "Lignocaine iv"
+    ],
+    "correct": 1,
+    "explanation": "Dhimbje torakale e fortë që nuk qetësohet me nitroglicerinë te pacient me anginë = dyshim për infarkt akut: analgjezi me morfinë (mundësisht IV), O2 (nëse SatO2 <90%), aspirinë, EKG/troponina dhe transferim."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-125",
+    "question": "M 50 vjec, vjen në ambulancë se ka infarkt akut të miokardit. Pa pritur, TA bie 70/45mmHg. Në të dy bazat pulmonare dëgjohen rale. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë 1mg iv bolus",
+      "Morfinë im + Oksigjeno terapi 4 LPM",
+      "CRP (Ringjallje zemër- mushkëri), adrenalinë iv 1:1000 push",
+      "Infuzion Dopaminë"
+    ],
+    "correct": 3,
+    "explanation": "Infarkt i komplikuar me hipotension (70/45) dhe rale bilaterale = shok kardiogjen; kërkon inotropë/vazopresorë (dopaminë/dobutaminë, noradrenalinë) dhe revaskularizim urgjent."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-126",
+    "question": "M 50 vjec, në ECG (monitor)ka takikardi paroksismale supraventrikulare. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Lignocainë",
+      "Masazh i sinusit carotid",
+      "Trinitrinë",
+      "Addrenalinë"
+    ],
+    "correct": 1,
+    "explanation": "Takikardia paroksistike supraventrikulare me pacient të qëndrueshëm trajtohet fillimisht me manovra vagale (masazh i sinusit karotid, Valsalva); pastaj adenozinë IV."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-127",
+    "question": "M 50 vjec, vjen me dispne.Pulsi është i crregullt në frekuencë dhe ritëm. Skopia tregon cardiomegali dhe zmadhim të atriumit të majtë. ECG: fibrilacion atrial me frekuencë 180/min. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Antikoagulim + digitalizim",
+      "propranolol",
+      "Atropine",
+      "Lignocaine iv"
+    ],
+    "correct": 0,
+    "explanation": "Fibrilacion atrial me përgjigje ventrikulare të shpejtë dhe kardiomegali/dilatim atrial të majtë (rrezik embolik): kontroll i frekuencës (digitalizim, betabllokues sipas rastit) + antikoagulim."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-128",
+    "question": "M 75 vjec, humb pa pritur koshiencën në ambulancë. ECG tregon takikardi ventrikulare. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Atropinë 1mg iv bolus",
+      "Morfinë im + Oksigjeno terapi 4 LPM",
+      "Zgjidh trajtimin më të përshtatshëm:",
+      "Convertim cardiak me Defibrilator me 200 joules"
+    ],
+    "correct": 3,
+    "explanation": "Takikardia ventrikulare me humbje të vetëdijes (pa puls ose e paqëndrueshme) kërkon defibrilim/kardioversion elektrik të menjëhershëm (200 J bifazik)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-129",
+    "question": "F 20 vjece, ka diare rekurente me gjak dhe krampe abdominale. Sigmoidoskopia dhe biopsia konfirmojnë diagnozën: kolit ulceros. Zgjidh mjekimin më specifik",
+    "answers": [
+      "Mesalazinë",
+      "likide iv, antibiotikë iv dhe analgjezikë",
+      "Panproctocolectomy",
+      "Subtotal colectomy, fistul mukozale dhe ileostomi permanente"
+    ],
+    "correct": 0,
+    "explanation": "Koliti ulçeroz i lehtë-mesatar trajtohet me aminosalicilatë (mesalazinë oral dhe/ose rektal) për induksion dhe mirëmbajtje; kortikosteroidet në format më të rënda."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-130",
+    "question": "M 25 vjec, gjatë bërjes të një numri shpejtësie ka pësuar një traumë të topitur në pjesën e sipërme të abdomenit. Ai ka dhimbje në shpatullën e majtë dhe dhjimbje abdominale difuze. Ai paraqet takikardi në rritje, hypotension dhe shfaqen shenja peritoneale. Zgjidh mjekimin më specifik",
+    "answers": [
+      "Laparatomi",
+      "Likide iv, antibiotikë iv dhe analgjezikë",
+      "Panproctocolectomy",
+      "Cholecystectomy me laparoskop"
+    ],
+    "correct": 0,
+    "explanation": "Traumë abdominale e topitur me dhimbje në shpatullën e majtë (shenja Kehr — ruptura e shpretkës), takikardi në rritje, hipotension dhe shenja peritoneale = hemoperitoneum me paqëndrueshmëri → laparotomi urgjente."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-131",
+    "question": "F 40 vjece, obeze ankon për dhimbje në kuadratin e sipërm të djathtë, temperaturë të lartë. Leukocite 14 000mm3 me deviacion të majtë e neutrofilozë. Eksaminimi radiologjik i pulmonit dhe abdomenit është negativ. Zgjidh mjekimin më specifik",
+    "answers": [
+      "Laparatomi",
+      "Likide iv, antibiotikë iv dhe analgjezikë",
+      "Panproctocolectomy",
+      "Cholecystectomy me laparoskop"
+    ],
+    "correct": 1,
+    "explanation": "Kolecistit akut (dhimbje në kuadrantin e sipërm djathtas, ethe, leukocitozë te gruaja obeze): trajtimi fillestar me hidratim IV, antibiotikë IV dhe analgjezikë, pastaj kolecistektomi (e hershme laparoskopike)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-132",
+    "question": "F 50 vjece, ka ethe, dhimbje në kuadratin e sipërm të djathtë të abdomenit, ikter. ECHO: dilatacion i duktusit biliar komun. Zgjidh mjekimin më specifik",
+    "answers": [
+      "ERCP dhe sfinkterotomi endoskopike",
+      "Likide iv, antibiotikë iv dhe analgjezikë",
+      "Panproctocolectomy",
+      "Cholecystectomy me laparoskop"
+    ],
+    "correct": 0,
+    "explanation": "Ethe, dhimbje në hipokondrin djathtas dhe ikter (triada Charcot) me koledok të dilatuar = kolangit akut nga koledokolitiaza → ERCP me sfinkterotomi endoskopike dhe heqje të gurëve (+ antibiotikë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-133",
+    "question": "M 30 vjec, ka dhimbje shumë të forta abdominale të pa dominuara. Ai ka temperaturë, takikardi dhe distension të shprehur të barkut. Në eksaminimin radiologjik koloni transvers ka diametër 7 cm. (Megakolon toksik). Zgjidh mjekimin më specifik",
+    "answers": [
+      "Mesalazinë",
+      "likide iv, antibiotikë iv dhe analgjezikë",
+      "Panproctocolectomy",
+      "Subtotal colonectomy, fistul mukozale dhe ileostomi permanente"
+    ],
+    "correct": 3,
+    "explanation": "Megakoloni toksik që nuk përmirësohet (dhimbje të forta, ethe, takikardi, kolon 7 cm) kërkon kolektomi subtotale me ileostomi terminale (dhe fistul mukoze), duke lënë rektumin për rindërtim të mëvonshëm."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-134",
+    "question": "M 40 vjec, ankon për dhimbje të penisit. Objektivisht, lafsha është e tërhequr pas glans penis dhe ka enjtje glandulare. Diagnoza më e mundëshme:",
+    "answers": [
+      "Sëmundja Peroni ( Peyronie´s)",
+      "Paraphimosis",
+      "Kondiloma",
+      "Priapism"
+    ],
+    "correct": 1,
+    "explanation": "Prepuciumi i tërhequr pas glandit, që nuk kthehet, me edemë të glandit = parafimozë; urgjencë urologjike (reduktim manual ose incizion dorsal)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-135",
+    "question": "Fëmijë 12 vjec, me histori të infeksioneve urinare të përsëritura, aktualisht ka vështirësi në urinim. Objektivisht, hapja e lafshës është e ngushtë dhe e skuqur. Diagnoza më e mundshme:",
+    "answers": [
+      "Sëmundja Peroni ( Peyronie´s)",
+      "Phimosis",
+      "Kondiloma",
+      "Priapism"
+    ],
+    "correct": 1,
+    "explanation": "Hapje e ngushtë dhe e skuqur e prepuciumit që pengon urinimin dhe tërheqjen, me infeksione urinare të përsëritura = fimozë (patologjike); trajtim me kortikosteroid topik ose cirkumcizion."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-136",
+    "question": "M 50 vjec me insuficiencë renale kronike, trajtohet me dializë; vjen tek mjeku i familjes se ka dhimbje të penisit. Objektivisht penisi është në ereksion: trupat kavernozë janë erektë, corpus spongios është i flashkët. Diagnoza më e munddëshme:",
+    "answers": [
+      "Sëmundja Peroni ( Peyronie´s)",
+      "Paraphimosis",
+      "Balanitis xerotica obliterans",
+      "Priapism"
+    ],
+    "correct": 3,
+    "explanation": "Ereksion i zgjatur, i dhimbshëm, me korpuse kavernoze të ngurtë dhe korpus spongioz të butë = priapizëm (iskemik); te dializuarit mund të shkaktohet nga heparina/hiperviskoziteti. Urgjencë urologjike."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-137",
+    "question": "M 40 vjec, me tyroidit Reidel, ankon se kontakti seksual është i dhimbshëm.Ai ka sjellë një foto ku duket curvatura e penisit në ereksion. Diagnoza më e munddëshme:",
+    "answers": [
+      "Sëmundja Peroni ( Peyronie´s)",
+      "Paraphimosis",
+      "Kondiloma",
+      "Priapism"
+    ],
+    "correct": 0,
+    "explanation": "Kurbatura e penisit gjatë ereksionit me marrëdhënie të dhimbshme (pllakë fibroze e tunikës albuginea) = sëmundja Peyronie; shoqërohet me fibromatoza të tjera (Dupuytren, Riedel)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-138",
+    "question": "M 52 vjec, vjen tek mjeku sepse nuk arrin dot ereksion. Kohët e fundit ai ka bërë prostat ectomi totale. Diagnoza më e munddëshme:",
+    "answers": [
+      "Sëmundja Peroni ( Peyronie´s)",
+      "Paraphimosis",
+      "Impotencë",
+      "Priapism"
+    ],
+    "correct": 2,
+    "explanation": "Pas prostatektomisë radikale, dëmtimi i tufave neurovaskulare kavernoze shkakton disfunksion erektil (impotencë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-139",
+    "question": "F 30 vjece, paraqet një masë 3 cm, të fortë, të lëmuar, të pa adderuar me lëkurën.Citologjia realizuar me citopunksion të drejtuar nuk ka qeliza malinje. Diagnoza më e mundëshme",
+    "answers": [
+      "Abces i gjirit",
+      "Fibroadenoma",
+      "Displazia mamare beninje",
+      "Dukt ektasia"
+    ],
+    "correct": 1,
+    "explanation": "E re me masë të fortë, të lëmuar, të lëvizshme (pa ngjitje me lëkurën), 3 cm, me citologji pa qeliza malinje = fibroadenomë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-140",
+    "question": "F 20 vjece, ankon se para ciklit ka gjëndra në gjinj dhe ka dhimbje të gjoksit. Në eksaminim gjokset janë të ndjeshëm në kuadratet e jashtëme me disa nodularitete. Citologjia me punksion të drejtuar tregoi fibrosis, adenosis dhe ndryshime cistike. Diagnoza më e mundëshme",
+    "answers": [
+      "Sëmundja cistike",
+      "Fibroadenoma",
+      "Displazia mamare beninje",
+      "Dukt ektasia"
+    ],
+    "correct": 2,
+    "explanation": "Dhimbje dhe nodularitete premenstruale në kuadrantet e jashtme me citologji që tregon fibrozë, adenozë dhe ndryshime kistike = displazi mamare beninje (sëmundje fibrokistike)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-141",
+    "question": "F 50 vjece, paraqet nodozitete të vogla të lëmuara diskrete të gjirit. Në aspirim doli lëng i verdhë. Citologjia nga Citopunksioni i drejtuarnuk ka qeliza malinje. Diagnoza më e mundshme",
+    "answers": [
+      "Sëmundja cistike",
+      "Fibroadenoma",
+      "Displazia mamare beninje",
+      "Duktektasia"
+    ],
+    "correct": 0,
+    "explanation": "Noduse të vogla, të lëmuara, diskrete te gruaja 50 vjeç, nga të cilat aspirohet lëng i verdhë (seroz) me citologji negative = sëmundje kistike e gjirit (kiste të thjeshta); aspirimi është edhe diagnostik edhe terapeutik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-142",
+    "question": "F 50 vjece, ankon për rrjedhje të vazhdueshme si gjizë nga thithi. Ajo ka vënë re tërheqje të thithit por nuk ka kokërr. Mamografia tregon ntrashje të duktusit. Diagnoza më e mundëshme",
+    "answers": [
+      "Sëmundja cistike",
+      "Fibroadenoma",
+      "Displazia mamare beninje",
+      "Dukt ektasia"
+    ],
+    "correct": 3,
+    "explanation": "Sekrecion i trashë \"si gjizë\" nga thithka, retraksion i thithkës pa masë dhe duktuse të zgjeruara/trashura në mamografi te gruaja perimenopauzale = ektazi duktale (mastit periduktal). Duhet përjashtuar karcinoma."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-143",
+    "question": "F 65 vjece, ka karcinomë të gjirit; herë mbas here ka dhimbje barku. Ajo eleminon sasi të mëdha urine dhe pi ujë më shumë se zakonisht. Diagnoza më e mundëshme:",
+    "answers": [
+      "Hypercalcemi",
+      "Diabetes mellitus",
+      "Ankth",
+      "Fibrozë post raddioterapie"
+    ],
+    "correct": 0,
+    "explanation": "Paciente me kancer gjiri (metastaza kockore/PTHrP) me poliuri, polidipsi dhe dhimbje abdominale = hiperkalcemi malinje."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-144",
+    "question": "M 26 vjec, vjen në urgjencë me dhimbje shumë të forta në ije që kanë 3 orë. Eksaminimi i urinës tregon hematuri. Diagnoza më e mundëshme:",
+    "answers": [
+      "Hypercalcemi",
+      "cistitis",
+      "Pielonefrit",
+      "Kolikë renale"
+    ],
+    "correct": 3,
+    "explanation": "I ri me dhimbje shumë të forta në ijë (kolike, me fillim të papritur) dhe hematuri = kolikë renale nga gur ureteral."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-145",
+    "question": "F 33 vjece, kërkon vizitë shtëpie. Ajo flet për disuri për disa ditë, kurse tani ka ethe, dhimbje në ijen e djathtë. Diagnoza më e mundëshme:",
+    "answers": [
+      "Hypercalcemi",
+      "cistitis",
+      "Pielonefrit",
+      "Kolikë renale"
+    ],
+    "correct": 2,
+    "explanation": "Disuri për disa ditë (cistit) e ndjekur nga ethe dhe dhimbje lumbare/në ijë = pielonefrit akut (infeksion ngjitës); kërkohet urokulturë dhe antibiotik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-146",
+    "question": "M 38 vjec, vjen për kontroll të zakonshëm. Ai ndihet mirë. BMI e tij është 24. TA 124/80 mmHg. Ai përmend se nëna e tij u diagnostikua si diabetike kur ishte 76 vjec. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Të fillojë Metforminë",
+      "Të fillojë hydrochlorthiasid",
+      "Të fillojë prep. të sulphanyluresë",
+      "Këshillim dietetik"
+    ],
+    "correct": 3,
+    "explanation": "Burrë asimptomatik me BMI normale dhe TA normale, me nënë diabetike (të diagnostikuar në moshë të thyer): nuk ka indikacion për barna; këshillim për stil jetese (dietë, aktivitet) dhe depistim periodik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-147",
+    "question": "M 60 vjec, vjen se ka një glicemi të rastësishme 170mg/ dl dhe është i shqetësuar nëse është apo jo diabetik. Zgjidh trajtimin opsionin më të përshtatshëm:",
+    "answers": [
+      "Testi i tolerancës së glukozës.",
+      "Të fillojë hydrochlorthiasid",
+      "Të fillojë sulphanylurenë",
+      "Këshillim djetetik"
+    ],
+    "correct": 0,
+    "explanation": "Glicemia rastësore 170 mg/dl pa simptoma nuk mjafton për diagnozë (kërkohet ≥200 me simptoma); duhet konfirmuar me glicemi esëll, HbA1c ose testin e tolerancës orale ndaj glukozës (OGTT)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-148",
+    "question": "Diabetik 60 vjec; mer metformine 3x 0.5 në ditë.HbA1c vjetore është 8.8 dhe ju vini re se vitin e kaluar, në kohën kur nisi metforminën, ajo ishte 8.5. Pacienti referon se zakonisht nuk harron të marrë mjekimin. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Të fillojë insulinën",
+      "Të fillojë hydrochlorthiasidin",
+      "Të fillojë prep. të sulphanyluresë (daonil)",
+      "Këshillim djetetik"
+    ],
+    "correct": 2,
+    "explanation": "HbA1c 8,8% pavarësisht metforminës me komplijancë të mirë → intensifikim: shtohet bar i dytë oral (sulfanilure, p.sh. glibenklamid/Daonil; sot edhe SGLT2i/GLP-1 RA/DPP4i)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-149",
+    "question": "Diabetik 58 vjec. Ai e ka diabetin nën kontroll me djetë. Aktualisht paraqet TA 155/94 mmHg. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Të fillojë Metforminë",
+      "Të fillojë hydrochlorthiasid",
+      "Të fillojë preparate të sulphanyluresë",
+      "Të fillojë glitazon"
+    ],
+    "correct": 1,
+    "explanation": "Diabetik me TA 155/94 kërkon terapi antihipertensive; fillohet me tiazid (hidroklortiazid). Sot te diabetiku preferohet ACE-inhibitor/sartan (nefroprotektiv), shpesh në kombinim."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-150",
+    "question": "M 56 vjec jo insulinovartës, trajtohet me glibenclamid. Ai ka rritje të moderuar të transaminazave si pasojë e përdorimit kronik abuziv të alkoolit, por aktualisht e ka lënë dhe hepari është stabël. HbA1c është duke u ngritur lart, (9,2) megjithëse merr dozën maksimale të glibenclamidit. Zgjidh trajtimin më të përshtatshëm:",
+    "answers": [
+      "Të fillojë insulinën",
+      "Të fillojë hydrochlorthiasidit",
+      "Të fillojë sulphanylurenë (daonil)",
+      "Këshillim djetetik"
+    ],
+    "correct": 0,
+    "explanation": "DM tip 2 me HbA1c 9,2% pavarësisht dozës maksimale të sulfanilures dhe me hepatopati alkoolike (metformina me kujdes, rrezik acidoze laktike) → fillohet insulina."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-151",
+    "question": "Vajzë astmatike 5 vjece ,ndihet mirë duke përdorur 100µg beclomethason bd dhe salbutamol. Ajo ka një infeksion të sipërm respirator, por rrjedha kulmore e ajrit të saj( peak floë) vazhdon të jetë 80% e normales. Zgjidh trajtimin më të përshtatshëm",
+    "answers": [
+      "Të vazhdojë të njëjtin trajtim",
+      "Të fillojë β2- agonistët me veprim të zgjatur",
+      "Kërkohet të fillojë β2- agonistët",
+      "Të fillojë steroidët oralë"
+    ],
+    "correct": 0,
+    "explanation": "Fëmijë me astmë të kontrolluar me kortikosteroid inhalator dhe salbutamol sipas nevojës; gjatë infeksionit të sipërm me PEF 80% vazhdohet i njëjti trajtim (me salbutamol sipas nevojës), pa eskalim."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-152",
+    "question": "M 25 vjec, përdor 200µg beclomethason bd dhe salbutamol sipas nevojës për të kontrolluar astmën. Muajt e fundit ai e ka përdorur salbutamolin ditën dhe natën e ka zgjuar nga gjumi kolla e thatë. Zgjidh trajtimin më të përshtatshëm",
+    "answers": [
+      "Të vazhdojë të njëjtin trajtim",
+      "Të fillojë β2- agonistët me veprim të zgjatur",
+      "Kërkohet të fillojë β2- agonistët sipas nevojës",
+      "Të fillojë steroidët oralë"
+    ],
+    "correct": 1,
+    "explanation": "Astmë jo e kontrolluar (simptoma ditore dhe nokturne, përdorim i shpeshtë i salbutamolit) pavarësisht dozës mesatare të kortikosteroidit inhalator → hapi tjetër: shtim i beta2-agonistit me veprim të gjatë (LABA, p.sh. salmeterol/formoterol)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-153",
+    "question": "Vajzë 15 vjece, është trajtuar për astmën e provokuar nga ushtrimet me terbutalinë sipas nevojës. Ajo e përdor atë mesatarisht 4 herë në javë. Zgjidh trajtimin më të përshtatshëm",
+    "answers": [
+      "Të vazhdojë të njëjtin trajtim",
+      "Të fillojë β2- agonistët me veprim të zgjatur",
+      "Kërkohet të fillojë β2- agonistët",
+      "Të fillojë steroidët oralë"
+    ],
+    "correct": 0,
+    "explanation": "Astma nga ushtrimet e kontrolluar me beta2-agonist me veprim të shkurtër para/gjatë sportit — vazhdohet i njëjti trajtim. (Nëse përdorimi bëhet i shpeshtë, shtohet kortikosteroid inhalator.)"
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-154",
+    "question": "M 51 vjec, përdor 800µg beclomethason dita dhe eformoterol bd ai vjen te mjeku sepse ka kollë produktive me sputum mukopurulent, për të cilën ka nisur antibiotikë, si dhe dispne në sforcim të vogël.Rrjedha kulmore e ajrit ( peak floë i tij) është 50% e vlerës së preddikuar. Zgjidh trajtimin më të përshtatshëm",
+    "answers": [
+      "Të vazhdojë të njëjtin trajtim",
+      "Të fillojë β2- agonistët me veprim të zgjatur",
+      "Kërkohet të fillojë β2- agonistët",
+      "Të fillojë steroidët oralë"
+    ],
+    "correct": 3,
+    "explanation": "Acutizim i rëndë (PEF 50%, dispne në sforcime të vogla, sputum mukopurulent) pavarësisht ICS dozë të lartë + LABA → kortikosteroide orale (prednizolon 5–7 ditë) krahas bronkodilatatorëve dhe antibiotikut."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-155",
+    "question": "Djalë 14 vjec, ka filluar të ketë pak “Weezing”(frymëmarrje me fishkëllima) kur ai merr pjesë në gara sportive. Ai ka kollë të zgjatur pas virozave në dimër, por sidoqoftë ai ndihet mirë. Zgjidh trajtimin më të përshtatshëm",
+    "answers": [
+      "Të vazhdojë të njëjtin trajtim",
+      "Të fillojë β2- agonistët me veprim të zgjatur",
+      "Kërkohet të fillojë të përdorë β2- agonistët sipas nevojës",
+      "Të fillojë steroidët oralë"
+    ],
+    "correct": 2,
+    "explanation": "Adoleshent me wheezing të lehtë vetëm gjatë sportit dhe kollë pas virozave (astmë e lehtë intermitente/nga ushtrimet) → beta2-agonist me veprim të shkurtër sipas nevojës (para ushtrimit)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-156",
+    "question": "Fëmijë 3 vjec, vetëm nga njëra vrimë e hundës ka rrjedhje me erë të keqe e të gjakosura. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Trup i huaj",
+      "Rinit alergjik",
+      "Hematomë septale",
+      "Rinit medikamentos"
+    ],
+    "correct": 0,
+    "explanation": "Fëmijë i vogël me rrjedhje njëanshme nga hunda, me erë të keqe dhe gjak = trup i huaj intranazal (deri sa të provohet e kundërta)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-157",
+    "question": "M 19 vjec, është goditur në hunddë duke lozur si portier. Ai i ka të dy hundët e bllokuara. Në eksaminim ka një fryrje të kuqe të celur në linjën mediane që dallohet nga të dy vrimat e hundës. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Trup i huaj",
+      "Rinit alergjik",
+      "Hematomë septale",
+      "Rinit medikamentos"
+    ],
+    "correct": 2,
+    "explanation": "Pas traume të hundës, bllokim bilateral me fryrje të kuqe në vijën mesore në të dy vrimat = hematomë e septumit; kërkon drenim urgjent (rrezik abscesi dhe nekroze kërcore → hundë \"shalë\")."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-158",
+    "question": "M 43 vjec ,vuan nga bllokimi kronik i hudëve dhe rrjedhje. Ai ka përdorur shumë medikamente spray për muaj të tërë, por sheh që gjëndja është duke u përkeqësuar. Cila është diagnoza më e mundshme",
+    "answers": [
+      "Trup i huaj",
+      "Rinit alergjik",
+      "Hematomë septale",
+      "Rinit medikamentos"
+    ],
+    "correct": 3,
+    "explanation": "Përdorimi i zgjatur i spërkatësve dekongjestionues nazalë (vazokonstriktorë) shkakton kongjestion rikthimi dhe rinit medikamentoz; trajtimi është ndërprerja e tyre."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-159",
+    "question": "M 78 vjec, ka disa muaj me bllokim vetëm të anës së djathtë të hundës të shoqëruar me rrjedhje të gjakosura. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Trup i huaj",
+      "Rinit alergjik",
+      "Hematomë septale",
+      "Carcinoma"
+    ],
+    "correct": 3,
+    "explanation": "I moshuar me bllokim njëanshëm progresiv të hundës dhe rrjedhje me gjak për disa muaj = dyshim për tumor malinj sinonazal (karcinomë); kërkon endoskopi dhe biopsi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-160",
+    "question": "M 21 vjec, ankon se cdo vit, në të njëjtën periudhë të vitit ka bllokim të hundëve shoqëruar me rrjedhje të ujshme të shumta. Cila është diagnoza më e mundëshme",
+    "answers": [
+      "Rinit vazomotor",
+      "Rinit alergjik",
+      "Hematomë septale",
+      "Rinit medikamentos"
+    ],
+    "correct": 1,
+    "explanation": "Bllokim i hundës dhe rinorre e ujshme e bollshme çdo vit në të njëjtin sezon = rinit alergjik sezonal (polene)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-161",
+    "question": "F 30 vjece, ankon për lodhje që ka ardhur duke u shtuar. Ajo ka 6 muaj me menstruacione të shtuara që kur lindi fëmijën e dytë. Cili është shkaku më i mundshëm",
+    "answers": [
+      "Anemia",
+      "Pamjaftueshmëria e zemrës",
+      "Dobësia akute post virale",
+      "Malinjitet"
+    ],
+    "correct": 0,
+    "explanation": "Lodhje progresive te gruaja me menorragji prej 6 muajsh (pas lindjes) = anemi nga mungesa e hekurit."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-162",
+    "question": "Grua 82 vjece, ka 6 javë me dobësi, rënie në peshë, diarhe. Cili është shkaku më i mundshëm",
+    "answers": [
+      "Hypotyroidism",
+      "Pamjaftueshmëria e zemrës",
+      "Dobësia akute post virale",
+      "Malinjitet"
+    ],
+    "correct": 3,
+    "explanation": "E moshuar me dobësi, rënie në peshë dhe diarre për 6 javë → në radhë të parë duhet përjashtuar malinjiteti (p.sh. kancer kolorektal)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-163",
+    "question": "Studente 19 vjece, ka lodhje të theksuar dhe vështirësi përqëndrimi që nga koha kur kaloi një infeksion në fyt, 2 muaj më parë. Cili është shkaku më i mundshëm",
+    "answers": [
+      "Hipertyrosis",
+      "Pamjaftueshmëria e zemrës",
+      "Dobësia akute post virale",
+      "Malinjitet"
+    ],
+    "correct": 2,
+    "explanation": "E re me lodhje dhe vështirësi përqendrimi që nga një infeksion i fytit 2 muaj më parë (p.sh. mononukleozë) = lodhje/astheni post-virale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-164",
+    "question": "F 73 vjece, obeze, ka 2-3 muaj me loddhje, marrje fryme në sforcim. Ajo ka edema të lehta rreth kyceve të këmbëve si dhe rale inspiratore krepitante në të dy bazat e pulmonit. Cili është shkaku më i mundshëm",
+    "answers": [
+      "Isuficienca renale",
+      "Pamjaftueshmëria e zemrës",
+      "Cirozë hepatike",
+      "Miksedema"
+    ],
+    "correct": 1,
+    "explanation": "E moshuar obeze me dispne në sforcim, edema të kyçeve dhe rale krepitante bibazale = insuficiencë kardiake kongjestive."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-165",
+    "question": "F 23 vjece, ankon për fryrjë barku dhe dhimbje që qetësohen pas defekimit. Pacientja defekon vetëm ditën. Nuk ka rënë në peshë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Sëmundja inflamatore e zorrës",
+      "Sindromi i zorrës së irritushme",
+      "Hiperthroidizmi",
+      "Sëmundja e Celiakisë"
+    ],
+    "correct": 1,
+    "explanation": "E re me fryrje dhe dhimbje abdominale që qetësohen me defekim, pa simptoma nokturne dhe pa rënie në peshë = sindroma e zorrës së irrituar (kriteret Roma)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-166",
+    "question": "F 25 vjece, ankon për diarhe që 4 muaj, ka rënë në pëshë, ndjen vapë, ka pagjumësi, tremor. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Sëmundja inflamatore e zorrës",
+      "Sindromi i zorrës së irritushme",
+      "Hiperthroidizmi",
+      "Sëmundja e Celiakisë"
+    ],
+    "correct": 2,
+    "explanation": "E re me diarre, rënie në peshë, intolerancë ndaj të nxehtit, pagjumësi dhe tremor = hipertiroidizëm."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-167",
+    "question": "F 23 vjece, ka dirhe, rënie në peshë për pak muaj. Ajo ka një rash pruriginoz në të dy bërrylat. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Malinjitet colo-rectal",
+      "Sindromi i zorrës së irritushme",
+      "Hiperthroidizmi",
+      "Sëmundja e Celiakisë"
+    ],
+    "correct": 3,
+    "explanation": "E re me diarre, rënie në peshë dhe rash pruriginoz vezikular në bërryla (dermatit herpetiform) = sëmundje celiake."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-168",
+    "question": "M 80 vjec, ka një javë me diarhe dhe krampe abdominale. Të njëjtën histori pati dhe gruaja, por asaj shqetësimet i zgjatën vetëm 2 ditë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Sëmundja inflamatore e zorrës",
+      "Sindromi i zorrës së irritushme",
+      "Hiperthroidizmi",
+      "Gastrenterit infeksioz"
+    ],
+    "correct": 3,
+    "explanation": "Diarre akute me krampe te të dy bashkëshortët (burim i përbashkët), vetëkufizuese = gastroenterit infektiv."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-169",
+    "question": "M 67 vjec, paraqet letargji të përgjithëshme, rënie në peshë, shpeshtim të defekimit që 4 muaj. Ka erithrosediment të lartë. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Malinjitet kolorectal",
+      "Sindromi i zorrës së irritushme",
+      "Hiperthroidizmi",
+      "Sëmundja e Celiakisë"
+    ],
+    "correct": 0,
+    "explanation": "I moshuar me letargji, rënie në peshë, ndryshim të zakoneve të defekimit dhe ERS të lartë → dyshim për kancer kolorektal (shenja alarmi); kolonoskopi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-170",
+    "question": "M 67 vjec, ka 2 muaj që është kaps, megjithëse përdor ushqime me fibra. Ka rënë në peshë.Nuk përdor medikamente që bëjnë kaps. Fece për gjak ocult rezultoj pozitiv. Cila është diagnoza më e mundëshme:",
+    "answers": [
+      "Malinjitet colo-rectal",
+      "Sindromi i zorrës së irritushme",
+      "Hiperthroidizmi",
+      "Sëmundja e Celiakisë"
+    ],
+    "correct": 0,
+    "explanation": "Kapsllëk i ri te 67-vjeçari, rënie në peshë dhe gjak okult pozitiv në feçe = dyshim i fortë për kancer kolorektal; kolonoskopi."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-171",
+    "question": "Cili mund të jetë efekti anësor fatal nga mbidoza e ferri sulphatit:",
+    "answers": [
+      "Aritmi",
+      "Konvulsione",
+      "Insuficiencë respiratore",
+      "Insuficiencë hepatike"
+    ],
+    "correct": 3,
+    "explanation": "Mbidozimi me sulfat hekuri: fillimisht gastroenterit hemorragjik, pastaj shok, acidozë metabolike dhe nekrozë hepatike (insuficiencë hepatike) pas 2–3 ditësh; antidoti është deferoksamina."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-172",
+    "question": "Cili mund të jetë efekti anësor fatal nga mbidoza e paracetamolit",
+    "answers": [
+      "Aritmi",
+      "Insuficiencë kardiake",
+      "Insuficiencë respiratore",
+      "Insuficiencë hepatike"
+    ],
+    "correct": 3,
+    "explanation": "Mbidozimi i paracetamolit shkakton nekrozë hepatike centrolobulare (NAPQI) → insuficiencë hepatike fulminante pas 2–4 ditësh; antidoti N-acetilcisteina (sa më herët)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-173",
+    "question": "Cili mund të jetë efekti anësor fatal nga mbidoza e Diamorfinës",
+    "answers": [
+      "Aritmi",
+      "Konvulsione",
+      "Insuficiencë respiratore",
+      "Insuficiencë hepatike"
+    ],
+    "correct": 2,
+    "explanation": "Diamorfina (heroina) në mbidozë shkakton depresion respirator (shkaku i vdekjes), mioze dhe komë; antidoti naloksoni."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-174",
+    "question": "Cili mund të jetë efekti anësor fatal nga mbidoza e acidit mefenamic (ponstanit):",
+    "answers": [
+      "Aritmi",
+      "Konvulsione",
+      "Insuficiencë respiratore",
+      "Insuficiencë hepatike"
+    ],
+    "correct": 1,
+    "explanation": "Mbidozimi i acidit mefenamik (FANS) shkakton tipikisht konvulsione, ndryshe nga FANS të tjerë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-175",
+    "question": "Cila është diagnoza më e mundëshme në qoftë se pacienti ka këto analiza: Biluribinë(N: <0.9) 5mg/dl ALT ( N: 5-35) 1250 U/L FAL(fosfataza alkaline) (N: 30-300u/L) 500 U/L Albumina g/l : normal HB: normal Retikulociti: normal",
+    "answers": [
+      "Hepatit viral akut",
+      "Ikter kolestatik",
+      "Sëmundje kronikë e mëlcisë nga alkoli",
+      "Anemia hemolitike autoimune"
+    ],
+    "correct": 2,
+    "explanation": "Përgjigjja është A (hepatit viral akut): ALT shumë e lartë (1250, >30 herë) me rritje të moderuar të bilirubinës dhe FA dhe albuminë normale = dëmtim hepatocelular akut, tipik i hepatitit viral akut."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-176",
+    "question": "Cila është diagnoza më e mundëshme në qoftë se pacienti ka këto analiza: Biluribinë(N: <0.9) 10 mg/dl ALT ( N: 5-35) 195 U/L FAL(fosfataza alkaline) (N: 30-300u/L) 900 U/L Albumina g/l : normal HB: normal Retikulociti: normal",
+    "answers": [
+      "Hepatit viral akut",
+      "Ikter kolestatik",
+      "Sëmundje kronikë e mëlcisë nga alkoli",
+      "Anemia hemolitike autoimune"
+    ],
+    "correct": 1,
+    "explanation": "Bilirubinë e lartë (10) me fosfatazë alkaline shumë të rritur (900) dhe ALT pak të rritur = ikter kolestatik (obstruktiv)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-177",
+    "question": "Cila është diagnoza më e mundëshme në qoftë se pacienti ka këto analiza: Biluribinë(N: <0.9) 4.5mg/dl ALT ( N: 5-35) 50 U/L FAL(fosfataza alkaline) (N: 30-300u/L) 200 U/L Albumina g/l: normal HB (N 12-17 gr/dl): 8 gr/dl Retikulociti( N: 8-20%o) 100%o",
+    "answers": [
+      "Hepatit viral akut",
+      "Ikter kolestatik",
+      "Sëmundje kronikë e mëlcisë nga alkoli",
+      "Anemia hemolitike autoimune"
+    ],
+    "correct": 3,
+    "explanation": "Bilirubinë e rritur (kryesisht indirekte) me enzima hepatike pothuajse normale, anemi (Hb 8) dhe retikulocitozë të lartë = hemolizë (anemi hemolitike autoimune)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-178",
+    "question": "Cila është diagnoza më e mundëshme në qoftë se pacienti ka këto analiza: Biluribinë(N: <0.9) 1.5mg/dl ALT ( N: 5-35) 80 U/L FAL(fosfataza alkaline) (N: 30-300u/L) 400 U/L Albumina( 35-50 g/l) 28g/l HB (12-17gr/dl) 10.5 gr/dl Retikulociti: normal",
+    "answers": [
+      "Hepatit viral akut",
+      "Ikter kolestatik",
+      "Dëmtim kronik i mëlcisë nga alkoli",
+      "Anemia hemolitike autoimune"
+    ],
+    "correct": 2,
+    "explanation": "Albuminë e ulët (sintezë e dëmtuar), FA dhe ALT pak të rritura, bilirubinë pak e rritur dhe anemi = dëmtim kronik i mëlçisë (cirrozë/hepatopati alkoolike)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-179",
+    "question": "Sa është mesatarish sasia më minimale e gjakut të humbur në hemoragjitë e sipërme GI që të ngjyroset fecja në të zi, pra të shfaqet melena:",
+    "answers": [
+      "50 ml",
+      "30ml",
+      "70 ml",
+      "100 ml"
+    ],
+    "correct": 3,
+    "explanation": "Për të dhënë melenë nevojiten të paktën ~50–100 ml gjak në traktin e sipërm gastrointestinal (100 ml); gjakderdhjet më të vogla japin vetëm gjak okult."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-180",
+    "question": "Vetëm një nga kushtet e më poshtëme nuk ndikon për bërjen korekte të eksaminimit të feceve për gjak ocult:",
+    "answers": [
+      "Dietë pa mish 3 ditë rresht",
+      "Të përzihet fecja para marrjes së mostërs",
+      "Fecja të merret 3 ditë rresht kur eksamini pararendës është neg.",
+      "Ndalimi i terapisë me preparate Hekuri"
+    ],
+    "correct": 3,
+    "explanation": "Për testin guajak të gjakut okult: dietë pa mish të kuq për 3 ditë, mostra nga pjesë të ndryshme të feçeve në 3 ditë radhazi. Hekuri nuk ndikon në rezultat (mund t'i nxijë feçet, por nuk jep reaksion pozitiv të vërtetë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-181",
+    "question": "Mbas një hemoragjie të vetme gastro- intestinale dhe për sa ditë fecja do të jetë e errët :",
+    "answers": [
+      "Deri 1 ditë",
+      "Deri 2 ditë",
+      "Deri 3 ditë",
+      "Deri 7 ditë"
+    ],
+    "correct": 2,
+    "explanation": "Pas një gjakderdhjeje të vetme të sipërme gastrointestinale, feçet mbeten të zeza (melenë) për rreth 3 ditë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-182",
+    "question": "Mbas një hemoragjie të vetme gastro- intestinale dhe për sa ditë fece për gjak ocult do të jetë pozitive :",
+    "answers": [
+      "Deri 1 ditë",
+      "Deri 2 ditë",
+      "Deri 3 ditë",
+      "Deri 7 ditë"
+    ],
+    "correct": 3,
+    "explanation": "Gjaku okult mund të mbetet pozitiv në feçe deri në ~1 javë (7 ditë) pas një gjakderdhjeje të vetme të sipërme."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-183",
+    "question": "Ekzaminimi fece për gjak ocult mund të rezultojë falls pozitiv nga:",
+    "answers": [
+      "Marrja e hekurit",
+      "Marrja e bismuthit",
+      "Konsumi i mishit",
+      "Konsumi i spinaqit"
+    ],
+    "correct": 2,
+    "explanation": "Testi guajak për gjak okult mund të japë fals pozitiv nga mishi i kuq (hemoglobina/mioglobina shtazore) dhe perime me peroksidazë; vitamina C jep fals negativ. Hekuri dhe bismuti nxijnë feçet pa dhënë reaksion pozitiv."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-184",
+    "question": "Vendi i gjakrrjedhjes në melena mund të jetë në:",
+    "answers": [
+      "Sigmë",
+      "Proksimalisht colon transvers",
+      "Ampula rectale",
+      "Coloni zbritës"
+    ],
+    "correct": 1,
+    "explanation": "Melena (feçe të zeza) vjen nga gjakderdhje proksimale ndaj ligamentit Treitz ose deri në kolonin proksimal (cekum/ashendent/transvers proksimal) kur tranziti është i ngadaltë; burimet distale japin gjak të kuq."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-185",
+    "question": "Kur kundërindikohet sildenafil (grup me viagrën):",
+    "answers": [
+      "Pacienti merr nitrate",
+      "Pacienti ka histori të sëmundjes ishemike të zemrës",
+      "Personi ka deformime të penisit",
+      "Personi është mbi 68 vjec"
+    ],
+    "correct": 0,
+    "explanation": "Sildenafili (frenues PDE5) kundërindikohet absolutisht me nitratet (rrezik hipotensioni të rëndë). Kardiopatia ishemike e qëndrueshme nuk është kundërindikacion absolut."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-186",
+    "question": "Kur mund të kundër indikohet sildenafil( grup me viagrën):",
+    "answers": [
+      "Pacienti ka bërë prostat ectomi totale.",
+      "Pacienti ka histori të sëmundjes ishemike të zemrës",
+      "Personi ka deformime të penisit",
+      "Personi është mbi 68 vjec"
+    ],
+    "correct": 0,
+    "explanation": "Pas prostatektomisë totale (me dëmtim të nervave kavernozë) sildenafili shpesh nuk është efektiv, ndaj konsiderohet i papërshtatshëm; nuk është kundërindikacion i vërtetë farmakologjik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-187",
+    "question": "Vetëm një nga meddikamentet e më poshtëme nuk bën pjesë në mjekimin e anafilaksisë",
+    "answers": [
+      "Adrenalina",
+      "Lanatosid c",
+      "Chlorpheniramina 10 mg iv",
+      "Hydrocortison 100-200 mg iv"
+    ],
+    "correct": 1,
+    "explanation": "Anafilaksia trajtohet me adrenalinë IM, antihistaminikë (klorfeniraminë), kortikosteroide (hidrokortizon), O2, lëngje IV, bronkodilatatorë. Lanatozidi C (glikozid digitalik) nuk ka vend."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-188",
+    "question": "Cila është doza korrekte e adrenalinës në mjekimin e anafilaksisë.",
+    "answers": [
+      "10 ml të 1:1000 im",
+      "1ml të 1:1000 iv",
+      "1 ml të 1:1000 im"
+    ],
+    "correct": 2,
+    "explanation": "Doza e adrenalinës në anafilaksi te i rrituri është 0,5–1 ml e tretësirës 1:1000 IM (0,5–1 mg); sot rekomandohet 0,5 ml (0,5 mg) IM në kofshë, e përsëritshme pas 5 minutash."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-189",
+    "question": "Sa është sasia e gjakut që duhet të humbasë për tu bërë diagnoza objektive e Menorhagjisë",
+    "answers": [
+      "80 ml",
+      "40 ml",
+      "100 ml",
+      "20ml"
+    ],
+    "correct": 0,
+    "explanation": "Menorragjia përkufizohet objektivisht si humbje gjaku >80 ml për cikël menstrual."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-190",
+    "question": "Cili nga medikamentet e më poshtëme përdoret me sukses në profilaksinë sekondare të insultit(TIA).",
+    "answers": [
+      "Aspirina me dozë të lartë",
+      "Warfarina edhe pa fibrilacion atrial",
+      "Aspirina me dozë të ulët",
+      "Heparina"
+    ],
+    "correct": 2,
+    "explanation": "Në profilaksinë sekondare pas TIA/iktusit ishemik përdoret aspirina me dozë të ulët (75–300 mg/ditë) ose klopidogreli; dozat e larta rrisin gjakderdhjet pa përfitim shtesë."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-191",
+    "question": "Cili nga medikamentet e më poshtëme përddoret me sukses në profilaksinë sekondare të insultit (TIA).",
+    "answers": [
+      "Aspirina me dozë të lartë",
+      "Warfarina edhe pa fibrilacion atrial",
+      "Sintron",
+      "ACE inhibitorët për të pasur një TA më të ulët"
+    ],
+    "correct": 3,
+    "explanation": "Ulja e presionit arterial (ACE-inhibitor ± diuretik, studimi PROGRESS) është një nga masat më efikase në profilaksinë sekondare të iktusit, edhe te normotensivët."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-192",
+    "question": "Cili nga medikamentet e më poshtëme mund të përddoret me sukses në profilaksinë sekondare të insultit (TIA).",
+    "answers": [
+      "Aspirina me dozë të lartë",
+      "Warfarina edhe pa fibrilacion atrial",
+      "Statinat",
+      "Heparina"
+    ],
+    "correct": 2,
+    "explanation": "Statinat (p.sh. atorvastatina, studimi SPARCL) ulin rrezikun e iktusit të ri pas TIA/iktusit ishemik."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-193",
+    "question": "Në qoftë se për profilaksinë sekondare të insultit përdorim njërin nga medikamentet e më poshtëme, rreziqet kalojnë përfitimet:",
+    "answers": [
+      "Aspirina me dozë të lartë",
+      "Statina",
+      "Aspirina me dozë të ulëta",
+      "ACE inhibitorët për TA më të ulët"
+    ],
+    "correct": 0,
+    "explanation": "Aspirina me doza të larta nuk jep përfitim më të madh, por rrit rrezikun e gjakderdhjeve gastrointestinale — rreziqet kalojnë përfitimet."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-194",
+    "question": "Në qoftë se për profilaksinë sekondare të insultit, përdorim njërin nga medikamentet e më poshtëme, rreziqet kalojnë përfitimet:",
+    "answers": [
+      "Aspirina me dozë të ulëta",
+      "Përdorimi i Warfarinës pa fibrilacion atrial",
+      "Një statinë",
+      "ACE inhibitor për TA më të ulët"
+    ],
+    "correct": 1,
+    "explanation": "Warfarina pa fibrilacion atrial (ose burim tjetër kardioembolik) nuk është më efikase se aspirina në profilaksinë sekondare të iktusit dhe rrit hemorragjitë — rreziqet kalojnë përfitimet."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-195",
+    "question": "Pacienti 63 vjecar, del nga spitali pasi u trajtua për IAM( infarkt akut miokardi). Cili nga 4 medikamentet e më poshtëme është pranuar të jetë esencial në profilaksinë sekondare të IAM:",
+    "answers": [
+      "Aspirina",
+      "Diltiazeni",
+      "Acidi folik",
+      "Isosorbide mononitrate"
+    ],
+    "correct": 0,
+    "explanation": "Pas infarktit, aspirina (antiagregant) është esenciale gjatë gjithë jetës në profilaksinë sekondare (krahas frenuesit P2Y12 për 12 muaj)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-196",
+    "question": "Pacienti 63 vjecar del nga spitali pasi u trajtua për IAM( infarkt akut miokardi). Cili nga 4 medikamentet e më poshtëme është pranuar të jetë esencial në profilaksinë sekondare të IAM:",
+    "answers": [
+      "Doxazosin",
+      "Diltiazeni",
+      "Atenololi",
+      "Isosorbide mononitrate"
+    ],
+    "correct": 2,
+    "explanation": "Betabllokuesit (atenolol, metoprolol, bisoprolol) pas infarktit ulin vdekshmërinë dhe vdekjen e papritur — pjesë esenciale e profilaksisë sekondare."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-197",
+    "question": "Pacienti 63 vjecar del nga spitali pasi u trajtua për IAM( infarkt akut miokardi). Cili nga 4 medikamentet e më poshtëme është pranuar të jetë esencial në profilaksinë sekondare të IAM:",
+    "answers": [
+      "Ramipril",
+      "Diltiazeni",
+      "Acidi folik",
+      "Isosorbide mononitrate"
+    ],
+    "correct": 0,
+    "explanation": "ACE-inhibitorët (ramipril) pas infarktit (sidomos me disfunksion ventrikular, diabet, hipertension) ulin vdekshmërinë dhe rimodelimin ventrikular."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-198",
+    "question": "Paciente 67 vjecare del nga spitali pasi u trajtua për IAM( infarkt akut miokardi). Cili nga 4 medikamentet e më poshtëme është pranuar të jetë esencial në profilaksinë sekondare të IAM:",
+    "answers": [
+      "Trinitrina",
+      "Diltiazeni",
+      "Acidi folik",
+      "Simvastatina"
+    ],
+    "correct": 3,
+    "explanation": "Statinat (simvastatina, atorvastatina) janë esenciale pas infarktit, pavarësisht nivelit të kolesterolit (ulin ngjarjet koronare dhe vdekshmërinë)."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-199",
+    "question": "Nga 4 mundësi, zgjidh antitrupin më specifik për vendosjen e diagnozës në aneminë pernicioze:",
+    "answers": [
+      "ANCA",
+      "Anti cardiolipinë",
+      "Anti qeliza parietale gastrike",
+      "dsDNA"
+    ],
+    "correct": 2,
+    "explanation": "Në aneminë perniçioze gjenden antitrupa anti-qeliza parietale gastrike (shumë të ndjeshëm) dhe anti-faktor intrinsek (shumë specifikë); ndër opsionet, anti-qelizat parietale."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-200",
+    "question": "Nga 4 mundësi, zgjidh antitrupin më specifik për vendosjen e diagnozës të lupusit eritematos sistemik :",
+    "answers": [
+      "ANCA",
+      "Anti cardiolipinë",
+      "Scl 70",
+      "dsDNA"
+    ],
+    "correct": 3,
+    "explanation": "Anti-dsADN janë antitrupat më specifikë për LES (së bashku me anti-Sm) dhe korrelojnë me aktivitetin e sëmundjes/nefritin."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-201",
+    "question": "Nga 4 mundësi, zgjidh antitrupin më specifik për vendosjen e diagnozës të sëmundjes së Celiakisë :",
+    "answers": [
+      "Anti- retikulinë",
+      "Anti cardiolipinë",
+      "RhF",
+      "dsDNA"
+    ],
+    "correct": 0,
+    "explanation": "Antitrupat anti-retikulinë (historikë) janë më specifikë për celiakinë ndër opsionet; sot përdoren anti-transglutaminazë tisulare (tTG IgA) dhe anti-endomisium."
+  },
+  {
+    "id": "licenca-mjekesi-e-familjes-202",
+    "question": "Nga 4 mundësi, zgjidh antitrupin më specifik në rastin e aborteve të përsëritura :",
+    "answers": [
+      "ANCA",
+      "Anti cardiolipinë",
+      "RhF",
+      "dsDN"
+    ],
+    "correct": 1,
+    "explanation": "Abortet e përsëritura lidhen me sindromën antifosfolipidike: antikardiolipina, antikoagulanti lupik dhe anti-beta2-glikoproteina I."
+  }
+]

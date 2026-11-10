@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "licenca-farmakologji-001",
+    "question": "Ne nje pneumoni nga Staphylococcus aureus meticiline-rezistent, antibiotiku i zgjedhur eshte:",
+    "answers": [
+      "vankomicina",
+      "oksacilina",
+      "gentamicina",
+      "piperacilina",
+      "klaritromicina"
+    ],
+    "correct": 0,
+    "explanation": "MRSA është rezistent ndaj të gjithë beta-laktamikëve (oksacilina, piperacilina). Vankomicina (glikopeptid) është zgjedhja standarde në pneumoninë nga MRSA (alternativë: linezolidi). Gentamicina dhe klaritromicina nuk janë të besueshme si monoterapi."
+  },
+  {
+    "id": "licenca-farmakologji-002",
+    "question": "Medikamentet hipoglicemiante orale te klases se sulfanilureve:",
+    "answers": [
+      "perdoren gjithmone si monoterapi",
+      "stimulojne sekretimine e insulines dhe mund te shkakojne hipoglicemi te rende",
+      "indikohen ne diabetim mellitus tip 1",
+      "ndryshe nga biguanidet, nuk kane nevoje per pranine e qelizave beta pankreatike funksionues",
+      "mund te antagonizojne efektin hipoglicemiant te biguanideve"
+    ],
+    "correct": 1,
+    "explanation": "Sulfanilurete mbyllin kanalet K-ATP të qelizave beta dhe rrisin sekretimin e insulinës, prandaj mund të japin hipoglicemi të rëndë e të zgjatur (sidomos te të moshuarit/insuficienca renale). Kërkojnë qeliza beta funksionale, prandaj s'përdoren në DM tip 1; kombinohen shpesh me metforminën."
+  },
+  {
+    "id": "licenca-farmakologji-003",
+    "question": "Te tere agjentet antidiabetike te meposhtem mund te shkaktojne drejteperdrejte hipoglicemi, me perjashtim te:",
+    "answers": [
+      "glipizidit",
+      "klorpropamidit",
+      "tolbutamidit",
+      "metformines",
+      "insulines Lantus"
+    ],
+    "correct": 3,
+    "explanation": "Metformina ul prodhimin hepatik të glukozës dhe rrit ndjeshmërinë periferike pa stimuluar sekretimin e insulinës, prandaj në monoterapi nuk jep hipoglicemi. Sulfanilurete (glipizidi, klorpropamidi, tolbutamidi) dhe insulina (edhe Lantus) mund ta shkaktojnë drejtpërdrejt."
+  },
+  {
+    "id": "licenca-farmakologji-004",
+    "question": "Tregoni se cili prej medikamenteve antitumorale te meposhtme nuk eshte antimetabolit:",
+    "answers": [
+      "cisplatini",
+      "metotreksati",
+      "5-fluorouracili",
+      "citarabina",
+      "6-merkaptopurina"
+    ],
+    "correct": 0,
+    "explanation": "Cisplatini është agjent alkilues (kompleks platini që lidh ADN-në me ura ndër-zinxhirore). Metotreksati (antifolat), 5-FU dhe 6-merkaptopurina, citarabina (analogë pirimidinash/purinash) janë antimetabolitë."
+  },
+  {
+    "id": "licenca-farmakologji-005",
+    "question": "Cili prej medikamenteve te meposhtme mund te shkaktojne agranulocitoze te rende:",
+    "answers": [
+      "klozapina",
+      "nizatidina",
+      "haloperidoli",
+      "karboksicisteina",
+      "kodeina"
+    ],
+    "correct": 0,
+    "explanation": "Klozapina jep agranulocitozë në ~1% të pacientëve, prandaj kërkon monitorim të rregullt të neutrofileve. Haloperidoli, nizatidina, karbocisteina e kodeina nuk e kanë këtë rrezik karakteristik."
+  },
+  {
+    "id": "licenca-farmakologji-006",
+    "question": "Cili prej medikamenteve te meposhtme mund te zhvilloje tolerance pas perdorimit te zgjatur:",
+    "answers": [
+      "betabllokuesit",
+      "statinat",
+      "antidiabetiket orale",
+      "benzodiazepina",
+      "antagonistet e kalciumit"
+    ],
+    "correct": 3,
+    "explanation": "Benzodiazepinat japin tolerancë (sidomos ndaj efektit hipnotik/sedativ) dhe varësi pas përdorimit të zgjatur, me sindromë tërheqjeje kur ndërpriten. Betabllokuesit, statinat, antidiabetikët oralë dhe antagonistët e Ca nuk humbasin efikasitet në këtë mënyrë."
+  },
+  {
+    "id": "licenca-farmakologji-007",
+    "question": "Salbutamoli eshte:",
+    "answers": [
+      "beta2-adrenergjik stimulues",
+      "beta-bllokues",
+      "antiserotoninik",
+      "antihistaminik",
+      "antikolinergjik"
+    ],
+    "correct": 0,
+    "explanation": "Salbutamoli është agonist selektiv i receptorëve beta2 → bronkodilatim i shpejtë; përdoret si bar \"shpëtimi\" në astmë/SPOK. Nuk është bllokues, antihistaminik apo antikolinergjik (si ipratropiumi)."
+  },
+  {
+    "id": "licenca-farmakologji-008",
+    "question": "Ne cilin rast mund te perdoret ne menyre te pershtatshme imipramina:",
+    "answers": [
+      "pagjumesi",
+      "epilepsi",
+      "enureze noktune te adoleshentit",
+      "glaukome",
+      "mani"
+    ],
+    "correct": 2,
+    "explanation": "Imipramina (antidepresiv triciklik) përdoret në enurezën noktune pas moshës 6–7 vjeç (efekt antikolinergjik + ndryshim i fazave të gjumit). Kundërindikohet në glaukomë me kënd të ngushtë, ul pragun konvulsiv (epilepsi) dhe mund të nxisë mani."
+  },
+  {
+    "id": "licenca-farmakologji-009",
+    "question": "Inhibimi enzimatik:",
+    "answers": [
+      "kerkon nje kontakt te perseritur ose te zgjatur te medikamentit me enzimen",
+      "eshte nje fenomen me interes toksikologjik por jo terapeutik",
+      "eshte nje fenomen pa asnje interes praktik",
+      "percakton efektet farmakologjike dhe terapeutike te shume medikamenteve",
+      "eshte gjithmone i parikthyeshem"
+    ],
+    "correct": 3,
+    "explanation": "Shumë barna veprojnë pikërisht duke frenuar enzima (ACE-inhibitorët, statinat, FANS, IMAO, alopurinoli), pra inhibimi enzimatik përcakton efektet terapeutike. Mund të jetë i kthyeshëm ose i pakthyeshëm dhe nuk kërkon kontakt të zgjatur."
+  },
+  {
+    "id": "licenca-farmakologji-010",
+    "question": "Cili prej antibiotikeve te meposhtem eshte aktiv kundrejt haemophilusit:",
+    "answers": [
+      "bacitracina",
+      "teikoplanina",
+      "cikloserina",
+      "ampicilina",
+      "penicilina G"
+    ],
+    "correct": 3,
+    "explanation": "Ampicilina (aminopenicilinë) ka spektër të zgjeruar ndaj Gram-negativëve si Haemophilus influenzae (për shtamet pa beta-laktamazë). Penicilina G, bacitracina e teikoplanina veprojnë kryesisht ndaj Gram-pozitivëve; cikloserina është antituberkular."
+  },
+  {
+    "id": "licenca-farmakologji-011",
+    "question": "Tregoni cili eshte avantazhi i rruges se administrimit sublingual:",
+    "answers": [
+      "ben te mundur nje kontroll te sakte te posologjise",
+      "absorbimi nuk eshte i shpejte",
+      "medikamentet nuk i nenshtrohen metabolizmit gjate kalimit te pare",
+      "ka risk te ulet per efekte te padeshiruara",
+      "lehteson absorbimin e medikamenteve shume pak liposolubel"
+    ],
+    "correct": 2,
+    "explanation": "Mukoza sublinguale drenon në venën kava të sipërme duke anashkaluar qarkullimin portal, pra bari shmang metabolizmin e kalimit të parë hepatik (p.sh. nitroglicerina). Absorbimi është i shpejtë dhe kërkon barna liposolubël."
+  },
+  {
+    "id": "licenca-farmakologji-012",
+    "question": "Mund te pritet nefrotoksicitet nga gjithe medikamentet e meposhtme, me perjashtim te:",
+    "answers": [
+      "amfotericines B",
+      "cisplatinit",
+      "gentamicines",
+      "amoksicilines",
+      "vankomicines"
+    ],
+    "correct": 3,
+    "explanation": "Amoksicilina rrallë jep dëm renal (vetëm nefrit intersticial idiosinkrazik). Amfotericina B, cisplatini, gentamicina (aminoglikozid) dhe vankomicina janë nefrotoksike të njohura që kërkojnë monitorim të kreatininës."
+  },
+  {
+    "id": "licenca-farmakologji-013",
+    "question": "Kortikosteroidet indikohen ne te tera patologjite e meposhtme, me perjashtim te:",
+    "answers": [
+      "herpes simplex okular",
+      "statusit astmatik",
+      "sindromes nefrosike",
+      "kolagjenopative",
+      "insuficience renale kronike"
+    ],
+    "correct": 0,
+    "explanation": "Kortikosteroidet kundërindikohen në keratitin herpetik (herpes simplex okular) sepse përkeqësojnë replikimin viral dhe rrezikojnë perforimin e kornesë. Përdoren në statusin astmatik, sindromën nefrotike dhe kolagjenopatitë."
+  },
+  {
+    "id": "licenca-farmakologji-014",
+    "question": "Cili eshte efekti i padeshiruara me i rende i klozapines:",
+    "answers": [
+      "diskinezia tardive",
+      "konstipacioni",
+      "shenja ektrapiramidale",
+      "agranulocitoza",
+      "aritmite"
+    ],
+    "correct": 3,
+    "explanation": "Efekti më i rrezikshëm i klozapinës është agranulocitoza (potencialisht vdekjeprurëse). Klozapina pothuajse nuk jep efekte ekstrapiramidale apo diskinezi tardive; konstipacioni dhe miokarditi janë efekte të tjera, por agranulocitoza është më e rënda."
+  },
+  {
+    "id": "licenca-farmakologji-015",
+    "question": "Te tere medikamentet e meposhtme jane agoniste beta-adrenergjike, me perjashtim te:",
+    "answers": [
+      "adrenalines",
+      "izoproterenolit",
+      "noradrenalines",
+      "fentolamines",
+      "dobutamines"
+    ],
+    "correct": 3,
+    "explanation": "Fentolamina është antagonist alfa-adrenergjik joselektiv (përdoret në krizat hipertensive nga feokromocitoma). Adrenalina, izoproterenoli, noradrenalina (beta1) dhe dobutamina janë agonistë beta."
+  },
+  {
+    "id": "licenca-farmakologji-016",
+    "question": "Aktualisht ne kardiopatine ishemike perdoren te tere medikamentet e meposhtme, me perjashtim te:",
+    "answers": [
+      "kortizonikeve",
+      "nitroderivateve",
+      "beta-bllokuesve",
+      "ACE-inhibitoreve",
+      "antiagreganteve trombocitare"
+    ],
+    "correct": 0,
+    "explanation": "Në kardiopatinë ishemike përdoren nitratet, betabllokuesit, ACE-inhibitorët dhe antiagregantët. Kortikosteroidet nuk kanë vend; përkundrazi mund të përkeqësojnë faktorët e rrezikut (hipertension, hiperglicemi, dislipidemi)."
+  },
+  {
+    "id": "licenca-farmakologji-017",
+    "question": "Tregoni se cili prej efekteve te meposhtme nuk induktohet nga glukokortikoidet:",
+    "answers": [
+      "shperndarja e alteruar e indit adipoz",
+      "rritja e sintezes se proteinave ne nivel kutan",
+      "inhibimi i sintezes se leukotrieneve",
+      "rritja e glicemise",
+      "imunosupresioni"
+    ],
+    "correct": 1,
+    "explanation": "Glukokortikoidet janë katabolikë për proteinat: ulin sintezën e kolagjenit dhe hollojnë lëkurën (strie, atrofi). Ata japin shpërndarje kushingoide të yndyrës, hiperglicemi, frenojnë fosfolipazën A2 (pra edhe leukotrienet) dhe japin imunosupresion."
+  },
+  {
+    "id": "licenca-farmakologji-018",
+    "question": "Cili prej diuretikeve te meposhtme eshte me i pershtatshmi per trajtimin e hiperkalciurise:",
+    "answers": [
+      "furosemidi",
+      "triamtereni",
+      "manitoli",
+      "acetazolamidi",
+      "hidroklortiazidi"
+    ],
+    "correct": 4,
+    "explanation": "Tiazidet (hidroklortiazidi) rrisin rithithjen e kalciumit në tubulin distal, prandaj ulin kalciurinë dhe parandalojnë gurët e kalciumit. Furosemidi bën të kundërtën — rrit ekskretimin e Ca."
+  },
+  {
+    "id": "licenca-farmakologji-019",
+    "question": "Cili prej medikamenteve te meposhtme eshte nje beta-bllokues selektiv:",
+    "answers": [
+      "praktololi",
+      "atenololi",
+      "sotaloli",
+      "propranololi",
+      "pindololi"
+    ],
+    "correct": 1,
+    "explanation": "Atenololi është betabllokues kardioselektiv (beta1). Propranololi, sotaloli, pindololi janë joselektivë; praktololi ishte beta1-selektiv por u tërhoq nga tregu për toksicitet (sindroma okulomukokutane), ndaj përgjigja klasike është atenololi."
+  },
+  {
+    "id": "licenca-farmakologji-020",
+    "question": "Farmakovigjilenca eshte:",
+    "answers": [
+      "observatori kombetar per monitorimin e shpenzimit farmaceutik",
+      "faza IV e eksperimentimit klinik te medikamenteve (faza post-marketing)",
+      "vleresimi i efikasitetit klinik te medikamenteve te reja",
+      "enti europian pergjegjes per autorizimin e perdorimit klinik te medikamenteve te reja",
+      "faza e fundit e eksperimentimit preklinik te medikamenteve"
+    ],
+    "correct": 1,
+    "explanation": "Farmakovigjilenca është mbikëqyrja e sigurisë së barnave pas hedhjes në treg (faza IV): mbledhja dhe vlerësimi i reaksioneve të padëshiruara. Nuk ka të bëjë me shpenzimet, me eksperimentimin preklinik apo me autorizimin e barnave."
+  },
+  {
+    "id": "licenca-farmakologji-021",
+    "question": "Cili prej medikamenteve te meposhtme eshte pergjegjes per toksicitet renal:",
+    "answers": [
+      "bikarbonati i natriumit",
+      "cimetidina",
+      "ciklosporina",
+      "azitromicina",
+      "diazepami"
+    ],
+    "correct": 2,
+    "explanation": "Ciklosporina (frenues i kalcineurinës) shkakton vazokonstriksion të arteriolës aferente dhe nefrotoksicitet akut e kronik — efekti i saj kryesor i padëshiruar. Bikarbonati, cimetidina, azitromicina e diazepami nuk janë nefrotoksikë karakteristikë."
+  },
+  {
+    "id": "licenca-farmakologji-022",
+    "question": "Suksinilkolina perdoret si:",
+    "answers": [
+      "ganglioplegjik",
+      "vagolitik",
+      "bllokues i receptoreve alfa-adrenergjike",
+      "bllokues neuromuskulor",
+      "bllokues i receptoreve beta-adrenergjike"
+    ],
+    "correct": 3,
+    "explanation": "Suksinilkolina është bllokues neuromuskulor depolarizues me fillim shumë të shpejtë e kohëzgjatje të shkurtër; përdoret për intubim. Nuk vepron në ganglione apo receptorë adrenergjikë."
+  },
+  {
+    "id": "licenca-farmakologji-023",
+    "question": "Amiloridi eshte:",
+    "answers": [
+      "nje diuretik i anses",
+      "nje kursyes i kaliumit",
+      "nje diuretik tiazidik",
+      "nje inhibitor i anidrazes karbonike",
+      "nje diuretik osmotik"
+    ],
+    "correct": 1,
+    "explanation": "Amiloridi bllokon kanalet ENaC të natriumit në tubulin kolektor, prandaj është diuretik kursyes i kaliumit (si triamtereni/spironolaktoni). Mund të japë hiperkalemi."
+  },
+  {
+    "id": "licenca-farmakologji-024",
+    "question": "Ne hipertiroidizem perdoren te tere medikamentet e meposhtme, me perjashtim te:",
+    "answers": [
+      "metimazolit",
+      "propiltiouracilit",
+      "karbamazepines",
+      "karbimazolit",
+      "jodit"
+    ],
+    "correct": 2,
+    "explanation": "Karbamazepina është antiepileptik, s'ka rol në hipertiroidizëm. Metimazoli, karbimazoli, PTU frenojnë sintezën e hormoneve, ndërsa jodi (Lugol) përdoret para kirurgjisë dhe në krizën tireotoksike."
+  },
+  {
+    "id": "licenca-farmakologji-025",
+    "question": "Gjysmejeta (t½) e nje medikamenti eshte:",
+    "answers": [
+      "ne perpjesetim te drejte me klirensin total",
+      "ne perpjesetim te zhdrejte me vellimin e shperndarjes",
+      "ne perpjesetim te drejte me vellimin e shperndarjes",
+      "varet nga biodisponueshmeria",
+      "mund te reduktohet ne dozat toksike"
+    ],
+    "correct": 2,
+    "explanation": "t½ = 0,693 × Vd / Cl: është në përpjesëtim të drejtë me vëllimin e shpërndarjes dhe në përpjesëtim të zhdrejtë me klirensin. Nuk varet nga biodisponueshmëria."
+  },
+  {
+    "id": "licenca-farmakologji-026",
+    "question": "Te nje pacient me hipoakusi dhe/ose vertigo nuk duhet te jepen:",
+    "answers": [
+      "penicilina",
+      "cefalosporina",
+      "aminoglukozide",
+      "karbapenike",
+      "makrolide"
+    ],
+    "correct": 2,
+    "explanation": "Aminoglikozidet janë ototoksikë (dëmtojnë qelizat me qime të kokleës dhe sistemin vestibular). Te pacienti me hipoakuzi/vertigo ato shmangen. Penicilinat, cefalosporinat, karbapenemet dhe makrolidet nuk kanë këtë toksicitet karakteristik."
+  },
+  {
+    "id": "licenca-farmakologji-027",
+    "question": "Te nje pacient qe merr simvastatine, marrja e njekohshme e klaritromicines mund te shkaktoje:",
+    "answers": [
+      "gastralgji",
+      "shfaqjen e miopatise dhe te rhabdomiolizes",
+      "çrregullime te akomodimit",
+      "cefale",
+      "vertigo"
+    ],
+    "correct": 1,
+    "explanation": "Klaritromicina frenon fuqishëm CYP3A4, që metabolizon simvastatinën → rritje e nivelit të statinës → miopati dhe rabdomiolizë. Kombinimi duhet shmangur (pezullohet statina gjatë antibiotikut)."
+  },
+  {
+    "id": "licenca-farmakologji-028",
+    "question": "Pacientit me astme nuk i jepet:",
+    "answers": [
+      "salbuterol",
+      "digoksine",
+      "propranolol",
+      "bretil",
+      "lidokaine"
+    ],
+    "correct": 2,
+    "explanation": "Propranololi bllokon joselektivisht edhe receptorët beta2 bronkialë → bronkospazëm. Prandaj kundërindikohet në astmë; salbutamoli përkundrazi është bronkodilatator."
+  },
+  {
+    "id": "licenca-farmakologji-029",
+    "question": "Nepermjet cilit prej mekanizmave vepron metformina:",
+    "answers": [
+      "rrit numrin e receptoreve te insulines",
+      "rrit kapjen e glukozes nga indet",
+      "rrit çlirimin e insulines nga pankreasi",
+      "rrit lipolizen dhe glikogjenolizen",
+      "rrit prodhimin e acidit laktik"
+    ],
+    "correct": 1,
+    "explanation": "Metformina ul glukoneogjenezën hepatike dhe rrit kapjen/përdorimin periferik të glukozës (rrit ndjeshmërinë ndaj insulinës). Nuk rrit çlirimin e insulinës (si sulfanilurete); acidoza laktike është efekt i padëshiruar i rrallë, jo mekanizëm."
+  },
+  {
+    "id": "licenca-farmakologji-030",
+    "question": "Propiltiouracili:",
+    "answers": [
+      "inhibon dejodizimin e T4",
+      "stimulon formimin e hormonit tiroidien",
+      "shkakton reduktimin e vellimit te tiroides",
+      "inhibon transportin aktiv te jodit",
+      "shkakton nje grumbullim jodi ne tireoglobuline"
+    ],
+    "correct": 0,
+    "explanation": "PTU frenon peroksidazën tiroidiane dhe, ndryshe nga metimazoli, frenon edhe dejodizimin periferik T4→T3; prandaj preferohet në krizën tireotoksike. Nuk stimulon sintezën dhe nuk bllokon transportin e jodit (si perkloratet)."
+  },
+  {
+    "id": "licenca-farmakologji-031",
+    "question": "Adrenalina shtohet ne anesteziket lokale per:",
+    "answers": [
+      "te nxitur hemostazen",
+      "te stimuluar riparimin lokal te indeve",
+      "te vonuar absorbimin e anestezikeve lokale",
+      "te lehtesuar penetrimin e tyre pergjate degeve nervore",
+      "te fuqizuar aksionin bllokues te kanaleve te Na+"
+    ],
+    "correct": 2,
+    "explanation": "Adrenalina shkakton vazokonstriksion lokal, ngadalëson absorbimin sistemik të anestetikut → zgjat efektin, ul toksicitetin sistemik dhe pakëson gjakderdhjen. Nuk shtohet për të fuqizuar bllokimin e kanaleve Na+."
+  },
+  {
+    "id": "licenca-farmakologji-032",
+    "question": "Cili prej medikamenteve te meposhtme perdoret ne menyre me te pershtatshme ne diabetin insipid:",
+    "answers": [
+      "furosemidi",
+      "triamtereni",
+      "manitoli",
+      "acetazolamidi",
+      "hidroklortiazidi"
+    ],
+    "correct": 4,
+    "explanation": "Në diabetin insipid nefrogjen tiazidet japin efekt paradoksal antidiuretik: hipovolemia e lehtë rrit rithithjen proksimale të Na dhe ujit → ulet vëllimi i urinës. (Në DI qendror zgjedhja është desmopresina.)"
+  },
+  {
+    "id": "licenca-farmakologji-033",
+    "question": "Cili prej FANS te meposhtem ka potencialin me te ulet gastrotoksik:",
+    "answers": [
+      "acidi acetil salicilik",
+      "diklofenaku",
+      "indometacina",
+      "paracetamoli",
+      "sulindaku"
+    ],
+    "correct": 3,
+    "explanation": "Paracetamoli frenon pak COX periferike, prandaj nuk dëmton mukozën gastrike dhe s'ka efekt antiinflamator të rëndësishëm. Aspirina, diklofenaku, indometacina, sulindaku janë FANS me rrezik gastrotoksik."
+  },
+  {
+    "id": "licenca-farmakologji-034",
+    "question": "Cili prej medikamenteve perdoret per profilaksine e semundjes se membranave hialine:",
+    "answers": [
+      "insulina",
+      "kortikosteroidet",
+      "hormonet e tiroides",
+      "androgjenet",
+      "beta2-stimuluesit"
+    ],
+    "correct": 1,
+    "explanation": "Kortikosteroidet antenatale (betametazon/deksametazon) në kërcënim lindjeje para javës 34 përshpejtojnë maturimin pulmonar dhe sintezën e surfaktantit → parandalojnë sëmundjen e membranave hialine."
+  },
+  {
+    "id": "licenca-farmakologji-035",
+    "question": "Neuroleptiket tipike (haloperidoli, klorpromazina) mund te provokojne efekte ekstrapiramidale si:",
+    "answers": [
+      "sindroma e ngjashme me Parkinsonin",
+      "distonite akute (spazme te gjuhes, grimasa, torticollis)",
+      "diskinezia tardive (levizje stereotipike dhe te pavullnetshme)",
+      "sindroma malinje nga neuroleptiket (e rralla, me katatoni, temperature te larte, hipertension)",
+      "te tera pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Neurolepikët tipikë bllokojnë D2 në rrugën nigrostriatale dhe japin: distoni akute (orë-ditë), parkinsonizëm, akatizi, diskinezi tardive (pas muajsh-vitesh) dhe sindromën malinje neuroleptike. Të gjitha janë të sakta."
+  },
+  {
+    "id": "licenca-farmakologji-036",
+    "question": "Te tera patologjite e meposhtme jane indikacion per dhenien e jodit, me perjashtim te:",
+    "answers": [
+      "kontaminimit aksidental me izotope radioaktive",
+      "krizes tireotoksike",
+      "tiroiditit Hashimoto",
+      "pergatitjes per nderhyrje kirurgjikale ne tiroide",
+      "strumes endemike"
+    ],
+    "correct": 2,
+    "explanation": "Në tiroiditin Hashimoto jodi në tepricë mund të përkeqësojë hipotiroidizmin (efekt Wolff-Chaikoff i pakompensuar). Jodi përdoret në kontaminim radioaktiv (bllokon kapjen e I-131), në krizën tireotoksike, para tiroidektomisë dhe në strumën endemike."
+  },
+  {
+    "id": "licenca-farmakologji-037",
+    "question": "Ne rast shoku anafilaktik duhet te jepet menjehere:",
+    "answers": [
+      "kardiotonike",
+      "adrenaline dhe kortizonike",
+      "diuretike",
+      "dopamine dhe antihistaminike",
+      "ansiolitike"
+    ],
+    "correct": 1,
+    "explanation": "Në anafilaksi bari i parë dhe jetëshpëtues është adrenalina IM (0,5 mg te i rrituri); kortikosteroidet dhe antihistaminikët janë shtesë për të parandaluar fazën e vonë. Dopamina, diuretikët, kardiotoniket nuk janë trajtim i linjës së parë."
+  },
+  {
+    "id": "licenca-farmakologji-038",
+    "question": "Shenjestra molekulare e nje medikamenti jane:",
+    "answers": [
+      "receptoret",
+      "enzimat",
+      "acidet nukleike",
+      "molekulat e transportit (kotransportuesit dhe antitransportuesit)",
+      "te gjitha pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Barnat veprojnë mbi receptorë, enzima, acide nukleike (p.sh. citostatikët) dhe transportues/kanale (p.sh. SSRI, digoksina, diuretikët). Të gjitha janë shënjestra molekulare."
+  },
+  {
+    "id": "licenca-farmakologji-039",
+    "question": "Mekanizmi i veprimit te medikamenteve antipsikotike konsiston ne bllokimin e siteve receptoriale te neurotransmetuesit:",
+    "answers": [
+      "histamine",
+      "dopamine",
+      "acetilkoline",
+      "adrenaline",
+      "GABA"
+    ],
+    "correct": 1,
+    "explanation": "Antipsikotikët veprojnë kryesisht duke bllokuar receptorët D2 të dopaminës në rrugën mezolimbike (atipikët bllokojnë edhe 5-HT2A). Bllokimi i histaminës/acetilkolinës jep vetëm efekte anësore."
+  },
+  {
+    "id": "licenca-farmakologji-040",
+    "question": "Cila cefalosporine ka gjysmejeten me te gjate:",
+    "answers": [
+      "cefamandoli",
+      "cefsulodina",
+      "ceftriaksoni",
+      "cefonicidi",
+      "cefatrizina"
+    ],
+    "correct": 2,
+    "explanation": "Ceftriaksoni ka gjysmëjetë ~6–8 orë (lidhje e lartë me proteinat), prandaj jepet një herë në ditë. Cefalosporinat e tjera të listuara kanë t½ më të shkurtër."
+  },
+  {
+    "id": "licenca-farmakologji-041",
+    "question": "Medikamentet e meposhtme jane antituberkulare, me perjashtim te:",
+    "answers": [
+      "izoniazidit",
+      "rifampicines",
+      "etambutolit",
+      "azitromicines",
+      "rifabutines"
+    ],
+    "correct": 3,
+    "explanation": "Azitromicina është makrolid, jo antituberkular i linjës së parë. Izoniazidi, rifampicina, etambutoli (dhe pirazinamidi) janë bazë e terapisë; rifabutina është rifamicinë alternative."
+  },
+  {
+    "id": "licenca-farmakologji-042",
+    "question": "Te nje pacient me astme bronkiale ose SPOK, per anginen pectoris duhet te perdoret:",
+    "answers": [
+      "nje beta-bllokues",
+      "verapamili",
+      "warfarina",
+      "aspirina",
+      "amlodipina"
+    ],
+    "correct": 1,
+    "explanation": "Te astmatiku/SPOK betabllokuesit kundërindikohen (bronkospazëm). Verapamili ul frekuencën dhe kërkesën për O2 si betabllokuesit, por pa efekt bronkial, prandaj është alternativa. Warfarina e aspirina nuk trajtojnë simptomat e anginës."
+  },
+  {
+    "id": "licenca-farmakologji-043",
+    "question": "Toksiciteti kardiak kufizon perdorimin klinik te:",
+    "answers": [
+      "aktinomicines D",
+      "doksorubicines",
+      "bleomicines",
+      "cisplatinit",
+      "amfetaminave"
+    ],
+    "correct": 1,
+    "explanation": "Doksorubicina (antraciklinë) jep kardiomiopati dilatative të varur nga doza kumulative (radikale të lira); kjo kufizon dozën totale. Bleomicina jep fibrozë pulmonare, cisplatini nefrotoksicitet."
+  },
+  {
+    "id": "licenca-farmakologji-044",
+    "question": "Cili prej medikamenteve antidiarreike te meposhtem shkakton me pak efekte kolaterale te lidhura me sistemin nervor qendror:",
+    "answers": [
+      "kodeina",
+      "loperamidi",
+      "morfina",
+      "difenoksilati",
+      "parakodeina"
+    ],
+    "correct": 1,
+    "explanation": "Loperamidi është opioid që nuk kalon barrierën hematoencefalike (pompohet nga P-glikoproteina), prandaj vepron në zorrë pa efekte qendrore. Kodeina, morfina, difenoksilati kanë efekte në SNQ."
+  },
+  {
+    "id": "licenca-farmakologji-045",
+    "question": "Cili antibiotik perdoret ne rast meningiti nga streptococcus pneumoniae:",
+    "answers": [
+      "oksitetraciklina",
+      "fosfomicina",
+      "gentamicina",
+      "cefotaksime",
+      "klindamicina"
+    ],
+    "correct": 3,
+    "explanation": "Në meningitin pneumokoksik përdoret cefalosporinë e gjeneratës III (cefotaksim/ceftriakson) që penetron mirë në LCR, shpesh + vankomicinë. Gentamicina e klindamicina nuk kalojnë mirë në LCR; tetraciklinat nuk janë baktericide."
+  },
+  {
+    "id": "licenca-farmakologji-046",
+    "question": "Te tere faktoret e meposhtem ndikojne mbi transportin placentar te nje medikamenti, me perjashtim te:",
+    "answers": [
+      "fluksi placentar te gjakut",
+      "peshes molekulare",
+      "hidrosolubilitetit te medikamentit",
+      "liposolubilitetit te medikamentit",
+      "pH fetal"
+    ],
+    "correct": 2,
+    "explanation": "Kalimi placentar varet nga fluksi i gjakut, pesha molekulare (<500 Da kalon lehtë), liposolubiliteti, lidhja me proteinat dhe pH fetal (bllokimi jonik). Hidrosolubiliteti nuk konsiderohet faktor më vete — determinanti është liposolubiliteti."
+  },
+  {
+    "id": "licenca-farmakologji-047",
+    "question": "Efekti kolateral kryesor i terapise me hekur eshte/jane:",
+    "answers": [
+      "çrregullimet gastrointestinale:",
+      "kolla",
+      "hipertensioni",
+      "pergjumja",
+      "alterimet e diurezes"
+    ],
+    "correct": 0,
+    "explanation": "Hekuri oral shkakton shpesh dispepsi, nauze, dhimbje epigastrike, konstipacion ose diarre dhe feçe të zeza. Kjo kufizon komplijancën; ndihmon marrja me ushqim ose doza alternative."
+  },
+  {
+    "id": "licenca-farmakologji-048",
+    "question": "Ne terapine e dhembjes kronike, udhezuesit indikojne:",
+    "answers": [
+      "morfine me rruge subkutane",
+      "morfine me rruge orale",
+      "buprenorfine",
+      "sekuencen FANS – opioide te dobeta – opioide te forta",
+      "nje FANS"
+    ],
+    "correct": 3,
+    "explanation": "Shkalla analgjezike e OBSH: FANS/paracetamol → opioidë të dobët (kodeinë, tramadol) → opioidë të fortë (morfinë), me adjuvantë sipas nevojës. Zgjedhja varet nga intensiteti i dhimbjes."
+  },
+  {
+    "id": "licenca-farmakologji-049",
+    "question": "Te tere medikamentet e meposhtme jane potencialisht nefrotoksike, me perjashtim te:",
+    "answers": [
+      "streptomicines",
+      "amfotericines B",
+      "cisplatinit",
+      "vankomicines",
+      "ciprofloksacines"
+    ],
+    "correct": 4,
+    "explanation": "Ciprofloksacina nuk konsiderohet nefrotoksike (rrallë kristaluri). Streptomicina (aminoglikozid), amfotericina B, cisplatini dhe vankomicina janë nefrotoksikë të njohur."
+  },
+  {
+    "id": "licenca-farmakologji-050",
+    "question": "Cili prej medikamenteve antihipertensive te meposhtme mund te shkaktoje kolle:",
+    "answers": [
+      "antagonistet alfa1-adrenergjike",
+      "sartanet",
+      "ACE-inhibitoret",
+      "antagonistet e kalciumit",
+      "nitroderivatet"
+    ],
+    "correct": 2,
+    "explanation": "ACE-inhibitorët frenojnë degradimin e bradikininës, që grumbullohet në rrugët ajrore dhe jep kollë të thatë (~10%). Sartanet nuk e bëjnë këtë — janë alternativa kur shfaqet kolla."
+  },
+  {
+    "id": "licenca-farmakologji-051",
+    "question": "Tregoni se cila prej patlogjive te meposhtme eshte kundrindikacion per perdorimin e metoklopramt:",
+    "answers": [
+      "diabeti",
+      "patologjite anksioze",
+      "nauzeja dhe te vjellat nga kemioterapia",
+      "morbus Parkinson",
+      "artriti reumatoid"
+    ],
+    "correct": 3,
+    "explanation": "Metoklopramidi është antagonist D2 që kalon në SNQ; përkeqëson Parkinsonin dhe jep efekte ekstrapiramidale. Në Parkinson për të vjellat preferohet domperidoni."
+  },
+  {
+    "id": "licenca-farmakologji-052",
+    "question": "Cili eshte antipiretiku i zgjedhur per nje sindrome febrile me natyre te mundshme virale te nje femije 5 vjeç:",
+    "answers": [
+      "acidi acetil salicilik",
+      "piroksikami",
+      "fenilbutazoni",
+      "celekoksibi",
+      "paracetamoli"
+    ],
+    "correct": 4,
+    "explanation": "Te fëmijët me sindromë virale antipiretiku i zgjedhur është paracetamoli (ose ibuprofeni). Aspirina kundërindikohet <16 vjeç për rrezikun e sindromës Reye; piroksikami, fenilbutazoni, celekoksibi nuk përdoren si antipiretikë pediatrikë."
+  },
+  {
+    "id": "licenca-farmakologji-053",
+    "question": "Nitroglicerina:",
+    "answers": [
+      "dilaton kryesisht arteriolat",
+      "dilaton kryesisht venat",
+      "rrit pasngarkesen",
+      "nuk provokon tolerance",
+      "nuk duhet te perdoret se bashku me nje beta-bllokues"
+    ],
+    "correct": 1,
+    "explanation": "Nitroglicerina në doza terapeutike dilaton kryesisht venat → ul parangarkesën dhe kërkesën për O2. Jep tolerancë (nevojitet interval pa nitrat) dhe kombinohet shpesh me betabllokues."
+  },
+  {
+    "id": "licenca-farmakologji-054",
+    "question": "Acidi klavulanik eshte i rendesishem sepse:",
+    "answers": [
+      "penetron lehtesisht te Gram+",
+      "eshte specifik per Gram+",
+      "eshte nje inhibitor i transpeptidazes se paretit qelizor",
+      "inaktivizon beta-laktamazat bakteriale",
+      "ka nje spekter veprimi te ngjashem me ate te penicilines"
+    ],
+    "correct": 3,
+    "explanation": "Acidi klavulanik është inhibitor i pakthyeshëm i beta-laktamazave; vetë ka aktivitet të dobët antibakterial, por mbron amoksicilinën nga hidroliza dhe zgjeron spektrin e saj."
+  },
+  {
+    "id": "licenca-farmakologji-055",
+    "question": "Cili efekt kolateral eshte karakteristik ne terapine me ampiciline:",
+    "answers": [
+      "konstipacioni",
+      "hiponatremia",
+      "ekzantema makulopapulare",
+      "anemia hemolitike",
+      "nefriti"
+    ],
+    "correct": 2,
+    "explanation": "Efekti karakteristik i ampicilinës është ekzantema makulopapulare jo-alergjike (shumë e shpeshtë në mononukleozën infektive). Anemia hemolitike është shumë e rrallë. Çelësi i PDF-së (D) duket gabim; përgjigja e saktë klinike është C."
+  },
+  {
+    "id": "licenca-farmakologji-056",
+    "question": "Qe te shfaqet efekti terapeutik i antidepresiveve triciklike, eshte e nevojshme qe nga fillimi i marrjes se medikamentit te kalojne:",
+    "answers": [
+      "3 minuta",
+      "3 ore",
+      "1 dite",
+      "2-3 jave",
+      "2 muaj"
+    ],
+    "correct": 3,
+    "explanation": "Antidepresivët (edhe triciklikët) kërkojnë 2–4 javë për efektin antidepresiv, sepse varen nga ndryshimet adaptive të receptorëve; efektet anësore shfaqen më herët."
+  },
+  {
+    "id": "licenca-farmakologji-057",
+    "question": "Nje i moshuar me diabet insulino-vartes duhet te marre nje trajtim me beta-bllokues per shkak te hipertensionit dhe te angines. Cili mund te jete medikamenti me i pranueshem:",
+    "answers": [
+      "propranololi",
+      "pindololi",
+      "atenololi",
+      "nadololi",
+      "timololi"
+    ],
+    "correct": 2,
+    "explanation": "Te diabetiku preferohet betabllokues kardioselektiv (atenolol) sepse maskon më pak simptomat e hipoglicemisë dhe nuk vonon rikuperimin prej saj. Propranololi, nadololi, timololi, pindololi janë joselektivë."
+  },
+  {
+    "id": "licenca-farmakologji-058",
+    "question": "Nje prej penicilinave te meposhtme eshte betalaktamaze-rezistent. Cila:",
+    "answers": [
+      "amoksicilina",
+      "meticilina",
+      "piperacilina",
+      "tikarcinilina",
+      "feneticilina"
+    ],
+    "correct": 1,
+    "explanation": "Meticilina (si oksacilina) ka zinxhir anësor që e mbron nga beta-laktamazat stafilokoksike. Amoksicilina, piperacilina, tikarcilina, feneticilina hidrolizohen nga beta-laktamazat."
+  },
+  {
+    "id": "licenca-farmakologji-059",
+    "question": "Cili prej medikamenteve te meposhtme eshte barbiturik qe perdoret si antiepileptik:",
+    "answers": [
+      "pentobarbitali",
+      "tiopentali",
+      "fenobarbitali",
+      "diazepami",
+      "sekobarbitali"
+    ],
+    "correct": 2,
+    "explanation": "Fenobarbitali është barbiturik me veprim të gjatë, përdoret si antiepileptik (edhe në konvulsionet neonatale). Tiopentali është anestetik i shkurtër; pentobarbitali/sekobarbitali sedativo-hipnotikë; diazepami benzodiazepinë."
+  },
+  {
+    "id": "licenca-farmakologji-060",
+    "question": "Medikamente me te efektshme per reduktimin e perqendrimeve plazmatike te triglicerideve jane:",
+    "answers": [
+      "statinat",
+      "probukoli",
+      "fibratet",
+      "rezinat sekuestruese te acideve biliare",
+      "inhibitoret e lipazes pankreatike"
+    ],
+    "correct": 2,
+    "explanation": "Fibratet (agonistë PPAR-alfa) rrisin lipoproteinlipazën dhe ulin trigliceridet 30–50%. Statinat ulin kryesisht LDL; rezinat mund të rrisin trigliceridet."
+  },
+  {
+    "id": "licenca-farmakologji-061",
+    "question": "Medikamenti me aktiv per nderprerjen e nje ataku hemikranie eshte:",
+    "answers": [
+      "propranololi",
+      "metisergidi",
+      "klonidina",
+      "triptanet",
+      "amitriptilina"
+    ],
+    "correct": 3,
+    "explanation": "Triptanet (agonistë 5-HT1B/1D) shkaktojnë vazokonstriksion kranial dhe frenojnë çlirimin e neuropeptideve → ndërpresin atakun e migrenës. Propranololi, amitriptilina, metisergidi, klonidina përdoren për profilaksi, jo për atakun."
+  },
+  {
+    "id": "licenca-farmakologji-062",
+    "question": "Induktimi enzimatik:",
+    "answers": [
+      "pershpejton metabolizmin e medikamenteve",
+      "ndodh brenda nje kohe te shkurter pas marrjes se substances induktuese",
+      "eshte nje efekt qe shkaktohet vetem pas marrjes se medikamenteve",
+      "nuk shkakton modifikime te dozes",
+      "asnjera"
+    ],
+    "correct": 0,
+    "explanation": "Induktimi enzimatik (p.sh. nga rifampicina, karbamazepina, fenitoina) rrit sintezën e CYP → përshpejton metabolizmin e barnave dhe ul nivelin e tyre; zhvillohet gradualisht (ditë–javë), mund ta shkaktojnë edhe alkooli/duhani dhe shpesh kërkon rregullim doze."
+  },
+  {
+    "id": "licenca-farmakologji-063",
+    "question": "Neuroleptiket jane medikamente qe indikohen ne trajtimin e:",
+    "answers": [
+      "pagjumesise",
+      "hipertensionit",
+      "manise akute",
+      "konvulsioneve",
+      "dhembjes"
+    ],
+    "correct": 2,
+    "explanation": "Neurolepikët (antipsikotikët) indikohen në psikozat, skizofreninë dhe manin akute (kontroll i agjitacionit dhe simptomave psikotike). Nuk janë terapi e zgjedhur për pagjumësinë, hipertensionin, konvulsionet apo dhimbjen."
+  },
+  {
+    "id": "licenca-farmakologji-064",
+    "question": "Pacientet me ulçere peptike duhet t’i evitojne te tere medikamentet e meposhtme, me perjashtim te:",
+    "answers": [
+      "kafeines",
+      "FANS",
+      "nikotines",
+      "prednizonit",
+      "metoklopramidit"
+    ],
+    "correct": 4,
+    "explanation": "Metoklopramidi është prokinetik/antiemetik që nuk dëmton mukozën gastrike. Kafeina e nikotina rrisin sekretimin acid, FANS frenojnë prostaglandinat mbrojtëse, prednizoni (sidomos me FANS) rrit rrezikun e ulçerës."
+  },
+  {
+    "id": "licenca-farmakologji-065",
+    "question": "Efekti maksimal (Emax) qe arrin nje medikament eshte nje matje e:",
+    "answers": [
+      "fuqise",
+      "efikasitetit",
+      "pergjigjes kuantale",
+      "madhesise se antagonistit",
+      "treguesit terapeutik"
+    ],
+    "correct": 1,
+    "explanation": "Emax është përgjigjja maksimale që jep një bar = efikasiteti. Fuqia (potenca) matet me EC50 — sasia e barit që jep 50% të efektit maksimal."
+  },
+  {
+    "id": "licenca-farmakologji-066",
+    "question": "Kontraceptivet hormonale femerore mund te provokojne zhvillimin e:",
+    "answers": [
+      "adenomes hepatike",
+      "kisteve te ovarit",
+      "karcinomes se ovarit",
+      "gastritit",
+      "glakomes"
+    ],
+    "correct": 0,
+    "explanation": "Kontraceptivët oralë (estrogjenet) rrisin rrezikun e adenomës hepatike (rrezik rupture/hemorragjie). Përkundrazi ulin rrezikun e kancerit të ovarit dhe të kisteve funksionale ovariane."
+  },
+  {
+    "id": "licenca-farmakologji-067",
+    "question": "Ne intoksikimin nga substancat opioide, pupilat jane:",
+    "answers": [
+      "miotike",
+      "midriatike",
+      "anizikorike",
+      "hiperfleksike",
+      "te ndermjetme"
+    ],
+    "correct": 0,
+    "explanation": "Intoksikimi me opioidë jep triadën: koma, depresion respirator, mioze (pupila \"majë gjilpëre\"). Midriaza sugjeron hipoksi të rëndë ose intoksikim tjetër (simpatomimetikë, antikolinergjikë)."
+  },
+  {
+    "id": "licenca-farmakologji-068",
+    "question": "Nje perdorim klinik i benzodiazepinave eshte:",
+    "answers": [
+      "morbus Parkinson",
+      "glaukoma",
+      "cefalea",
+      "pagjumesia",
+      "ulçera peptike"
+    ],
+    "correct": 3,
+    "explanation": "Benzodiazepinat përdoren për pagjumësinë, ankthin, konvulsionet dhe sindromën e tërheqjes nga alkooli. Nuk trajtojnë Parkinsonin, cefalenë apo ulçerën; në glaukomën me kënd të ngushtë duhen përdorur me kujdes."
+  },
+  {
+    "id": "licenca-farmakologji-069",
+    "question": "Medikamentet “gjenerike” kane keto karakteristika, me perjashtim te:",
+    "answers": [
+      "prodhohen me rruge industriale",
+      "jane te dobishme per patologji multiple pasi jane jospecifike",
+      "jane bioekuivalente per sa i perket specialitetit te caktuar",
+      "nuk jane te mbrojtura me patente",
+      "nuk jepen detyrimisht me recete"
+    ],
+    "correct": 1,
+    "explanation": "Gjenerikët janë kopje bioekuivalente të barit origjinal pas skadimit të patentës — kanë të njëjtin parim aktiv dhe të njëjtat indikacione specifike. Nuk janë \"jospecifikë\" apo të dobishëm për shumë patologji."
+  },
+  {
+    "id": "licenca-farmakologji-070",
+    "question": "Cili prej medikamenteve perdoret per trajtimin e infeksione fungale sistemike:",
+    "answers": [
+      "ciprofloksacina",
+      "anfotericina B",
+      "penicilina",
+      "amiodaroni",
+      "streptomicina"
+    ],
+    "correct": 1,
+    "explanation": "Amfotericina B (polien që lidh ergosterolin) është bari i infeksioneve fungale sistemike të rënda. Ciprofloksacina, penicilina, streptomicina janë antibakterialë; amiodaroni antiaritmik."
+  },
+  {
+    "id": "licenca-farmakologji-071",
+    "question": "Cili prej te meposhtmeve eshte nje indikacion klinik i medikamenteve antihistaminike H2?",
+    "answers": [
+      "astma bronkiale",
+      "ulçera peptike",
+      "ankthi",
+      "diarrea",
+      "riniti sezonal"
+    ],
+    "correct": 1,
+    "explanation": "Antagonistët H2 (ranitidina, famotidina) ulin sekretimin acid gastrik → përdoren në ulçerën peptike dhe RGE. Antihistaminikët H1 janë ata për rinitin alergjik."
+  },
+  {
+    "id": "licenca-farmakologji-072",
+    "question": "Studimi i faktoreve qe percaktojne luhatjet e perqendrimit plazmatik te nje medikamenti quhet:",
+    "answers": [
+      "farmakodinamika",
+      "mbikeqyrja farmakoceutike",
+      "farmakogjenetika",
+      "farmakokinetike",
+      "farmakovigjilenca"
+    ],
+    "correct": 3,
+    "explanation": "Farmakokinetika studion çfarë i bën organizmi barit: absorbimi, shpërndarja, metabolizmi, eliminimi → luhatjet e përqendrimit plazmatik. Farmakodinamika studion efektin e barit mbi organizmin."
+  },
+  {
+    "id": "licenca-farmakologji-073",
+    "question": "Cili prej te meposhtmeve eshte nje indikacion klinik i medikamenteve antihistaminike H1:",
+    "answers": [
+      "konvulsionet",
+      "ulçera gastrike",
+      "ankthi",
+      "diarrea",
+      "riniti sezonal"
+    ],
+    "correct": 4,
+    "explanation": "Antihistaminikët H1 (cetirizina, loratadina) janë terapi e rinitit alergjik sezonal, urtikaries, pruritit. Nuk janë indikacion për ulçerën (H2), konvulsionet apo diarrenë."
+  },
+  {
+    "id": "licenca-farmakologji-074",
+    "question": "Cili prej medikamenteve te meposhtme mund te perdoret per trajtimin e tumoreve te gjirit:",
+    "answers": [
+      "tamoksifeni",
+      "propranololi",
+      "prednizoloni",
+      "vitamina D",
+      "nizatidina"
+    ],
+    "correct": 0,
+    "explanation": "Tamoksifeni është modulator selektiv i receptorit të estrogjenit (SERM), antagonist në gji; përdoret në kancerin e gjirit me receptorë hormonalë pozitivë dhe si profilaksi."
+  },
+  {
+    "id": "licenca-farmakologji-075",
+    "question": "Metabolizmi i kalimit te pare:",
+    "answers": [
+      "rrit biodisponueshmerine e medikamentit",
+      "ka nje rendesi metabolike te pakte",
+      "rrit gjithmone toksicitetin e medikamentit",
+      "redukton biodisponueshmerin e medikamentit",
+      "redukton gjithmone toksicitetin e medikamentit"
+    ],
+    "correct": 3,
+    "explanation": "Metabolizmi i kalimit të parë në mëlçi/zorrë pas marrjes orale ul sasinë e barit që arrin qarkullimin sistemik, pra ul biodisponueshmërinë (p.sh. nitroglicerina, propranololi). Nuk rrit/ul gjithmonë toksicitetin."
+  },
+  {
+    "id": "licenca-farmakologji-076",
+    "question": "Cili prej medikamenteve te meposhtme eshte aktiv ne infeksionet nga pseudomonas aeruginosa, por mund te shkaktoje ototoksicitet dhe nefrotoksicitet:",
+    "answers": [
+      "karbenicilina",
+      "gentamicina",
+      "kloramfenikoli",
+      "rifampicina",
+      "eritromicina"
+    ],
+    "correct": 1,
+    "explanation": "Gentamicina (aminoglikozid) është aktive ndaj Pseudomonas, por është ototoksike dhe nefrotoksike — kërkon monitorim të niveleve dhe funksionit renal. Karbenicilina vepron ndaj Pseudomonas, por nuk është oto/nefrotoksike."
+  },
+  {
+    "id": "licenca-farmakologji-077",
+    "question": "Me çfare mund te antagonizohet depresioni respirator i induktuar nga morfina:",
+    "answers": [
+      "buprenorfine",
+      "pentazocine",
+      "nalokson",
+      "metadon",
+      "kodeine"
+    ],
+    "correct": 2,
+    "explanation": "Naloksoni është antagonist i plotë i receptorëve opioidë, kthen shpejt depresionin respirator nga morfina (IV/IM/intranazal). Buprenorfina, pentazocina janë agonistë parcialë; metadoni e kodeina janë agonistë."
+  },
+  {
+    "id": "licenca-farmakologji-078",
+    "question": "Cili prej efekteve kolaterale eshte i mundshem gjate terapise me karbeniciline:",
+    "answers": [
+      "nefrotoksiciteti",
+      "disfunksioni trombocitar",
+      "ototoksiciteti",
+      "mielodepresioni",
+      "hiperkalemia"
+    ],
+    "correct": 1,
+    "explanation": "Karbenicilina (karboksipenicilinë) në doza të larta pengon agregimin trombocitar → gjakderdhje; gjithashtu ngarkesa me Na jep hipokalemi (jo hiperkalemi). Nuk është oto- apo nefrotoksike tipike."
+  },
+  {
+    "id": "licenca-farmakologji-079",
+    "question": "Glukokortikoidet nderveprojne me:",
+    "answers": [
+      "kanalet jonike",
+      "tirozine kinazen",
+      "proteinat G",
+      "receptoret brendaqelizore",
+      "lipidet"
+    ],
+    "correct": 3,
+    "explanation": "Glukokortikoidet janë lipofilë, kalojnë membranën dhe lidhen me receptorë citoplazmatikë; kompleksi kalon në bërthamë dhe ndikon transkriptimin e gjeneve. Nuk veprojnë përmes proteinave G apo kanaleve jonike."
+  },
+  {
+    "id": "licenca-farmakologji-080",
+    "question": "Cili prej medikamenteve te meposhtme mund te shkaktoje vartesi:",
+    "answers": [
+      "kalcitonina",
+      "benzodiazepinat",
+      "betabllokuesit",
+      "antikoagulantet orale",
+      "antihistaminiket"
+    ],
+    "correct": 1,
+    "explanation": "Benzodiazepinat japin varësi fizike dhe psikike, me sindromë tërheqjeje (ankth, pagjumësi, konvulsione) nëse ndërpriten papritur. Barnat e tjera të listuara nuk shkaktojnë varësi."
+  },
+  {
+    "id": "licenca-farmakologji-081",
+    "question": "Imipenemi eshte:",
+    "answers": [
+      "nje inhibitor i beta-laktamazes",
+      "nje aminoglukozid",
+      "nje antifungal",
+      "nje makrolid",
+      "nje antibiotik beta-laktamik"
+    ],
+    "correct": 4,
+    "explanation": "Imipenemi është karbapenem — beta-laktamik me spektër shumë të gjerë, rezistent ndaj shumicës së beta-laktamazave; jepet me cilastatinë për të mos u inaktivuar në veshkë."
+  },
+  {
+    "id": "licenca-farmakologji-082",
+    "question": "Cili prej medikamenteve te meposhtme antagonizon efektin bronkodilatator dhe vazodilatator te izoproterenolit:",
+    "answers": [
+      "kokaina",
+      "feoksibenzamina",
+      "fentolamina",
+      "propranololi",
+      "reserpina"
+    ],
+    "correct": 3,
+    "explanation": "Izoproterenoli vepron mbi beta1 dhe beta2; propranololi (betabllokues joselektiv) antagonizon edhe bronkodilatimin (beta2) edhe vazodilatimin (beta2). Fenoksibenzamina/fentolamina bllokojnë alfa."
+  },
+  {
+    "id": "licenca-farmakologji-083",
+    "question": "Ne te tera semundjet e meposhtme ne te ardhmen mund te perdoret terapia gjenike me perjashtim te:",
+    "answers": [
+      "fibrozes kistike",
+      "hemofilise",
+      "ulçeres peptike",
+      "tumoreve",
+      "AIDS"
+    ],
+    "correct": 2,
+    "explanation": "Terapia gjenike synon sëmundje gjenetike (fibroza kistike, hemofilia), tumore dhe infeksione si HIV. Ulçera peptike është kryesisht nga H. pylori/FANS dhe trajtohet mirë farmakologjikisht."
+  },
+  {
+    "id": "licenca-farmakologji-084",
+    "question": "Cili prej medikamenteve te meposhtme eshte analgjezik:",
+    "answers": [
+      "haloperidoli",
+      "pentazocina",
+      "kanamicina",
+      "adrenalina",
+      "suksinilkolina"
+    ],
+    "correct": 1,
+    "explanation": "Pentazocina është analgjezik opioid (agonist kappa, agonist parcial/antagonist i dobët mu). Haloperidoli antipsikotik, kanamicina aminoglikozid, adrenalina simpatomimetik, suksinilkolina miorelaksant."
+  },
+  {
+    "id": "licenca-farmakologji-085",
+    "question": "Te gjithe medikamentet e meposhtme jane beta-stimulues, me perjashtim te:",
+    "answers": [
+      "salbutamolit",
+      "orciprenalines",
+      "izoprenalines",
+      "propranololit",
+      "formetorolit"
+    ],
+    "correct": 3,
+    "explanation": "Propranololi është betabllokues joselektiv. Salbutamoli, orciprenalina, izoprenalina dhe formoteroli janë agonistë beta (bronkodilatatorë)."
+  },
+  {
+    "id": "licenca-farmakologji-086",
+    "question": "Cili prej FANS perdoret si antiagregant trombocitar:",
+    "answers": [
+      "paracetamoli",
+      "nimesulidi",
+      "nabumetoni",
+      "aspirina",
+      "ibuprofeni"
+    ],
+    "correct": 3,
+    "explanation": "Aspirina acetilon në mënyrë të pakthyeshme COX-1 trombocitare → frenon tromboksanin A2 gjatë gjithë jetës së trombocitit (7–10 ditë). FANS e tjerë kanë efekt të kthyeshëm e të paqëndrueshëm; paracetamoli nuk ka efekt antiagregues."
+  },
+  {
+    "id": "licenca-farmakologji-087",
+    "question": "Kur deshirohet te arrihet dilatacioni pupilar por jo cikloplegjia, medikamenti i zgjedhur eshte:",
+    "answers": [
+      "omatropina",
+      "pilokarpina",
+      "izoproterenoli",
+      "tropikamidi",
+      "fenilefrina"
+    ],
+    "correct": 4,
+    "explanation": "Fenilefrina (alfa1-agonist) kontrakton muskulin dilatator të irisit → midriazë pa prekur muskulin ciliar (pa cikloplegji). Antimuskarinikët (homatropina, tropikamidi) japin midriazë + cikloplegji; pilokarpina jep mioze."
+  },
+  {
+    "id": "licenca-farmakologji-088",
+    "question": "Ne cilin prej indeve te meposhtme shperndahen pergjithesisht me ngadale medikamentet:",
+    "answers": [
+      "mushkeri",
+      "melçi",
+      "ind kockor",
+      "tiroide",
+      "muskul skeletik"
+    ],
+    "correct": 2,
+    "explanation": "Indi kockor ka perfuzion të ulët, prandaj barnat shpërndahen ngadalë (edhe pse disa, si tetraciklinat, akumulohen aty). Mushkëria, mëlçia, tiroidja janë shumë të perfuzuara."
+  },
+  {
+    "id": "licenca-farmakologji-089",
+    "question": "Cili prej te meposhtmeve nuk eshte nje neurotransmetues:",
+    "answers": [
+      "acetilkolina",
+      "noradrenalina",
+      "penicilina",
+      "dopamina",
+      "5-hidroksitriptamina"
+    ],
+    "correct": 2,
+    "explanation": "Penicilina është antibiotik. Acetilkolina, noradrenalina, dopamina dhe serotonina (5-HT) janë neurotransmetues."
+  },
+  {
+    "id": "licenca-farmakologji-090",
+    "question": "Amiodaroni eshte nje medikament:",
+    "answers": [
+      "hipnoinduktor",
+      "antiacidik",
+      "antiaritmik",
+      "beta-mimetik",
+      "beta-bllokues"
+    ],
+    "correct": 2,
+    "explanation": "Amiodaroni është antiaritmik i klasës III (zgjat potencialin e veprimit, bllokon K+, por edhe Na, Ca, beta) — përdoret në fibrilacion atrial dhe aritmi ventrikulare."
+  },
+  {
+    "id": "licenca-farmakologji-091",
+    "question": "Eliminimi i penicilines G ndodh:",
+    "answers": [
+      "kryesisht nepermjet sekretimit tubular",
+      "kryesisht nepermjet filtrimit glomerular",
+      "kryesisht me rruge biliare",
+      "me filtrim glomerular dhe sekretim tubular ne raport pothuajse te njejte",
+      "me rruge pulmonare"
+    ],
+    "correct": 0,
+    "explanation": "Penicilina G eliminohet ~90% me sekretim tubular aktiv (ndaj probenecidi zgjat veprimin e saj duke e bllokuar sekretimin), vetëm ~10% me filtrim glomerular."
+  },
+  {
+    "id": "licenca-farmakologji-092",
+    "question": "Nje reaksion alergjik ndaj nje medikamenti:",
+    "answers": [
+      "zakonisht eshte ne varesi te dozes",
+      "varet nga doza vetem kur medikamenti jepet me rruge sistemike por jo kur jepet me rruge lokale",
+      "ndermjetesohet gjithmone nga prodhimi i antitrupave",
+      "ka gjithmone gravitet te lehte ose te moderuar",
+      "induktohet betem nga medikamentet e sintezes"
+    ],
+    "correct": 0,
+    "explanation": "Në fakt reaksionet alergjike janë zakonisht të PAVARURA nga doza (mjafton sasi minimale pas sensibilizimit) — teksti duket i përkthyer gabim (\"zakonisht nuk varet nga doza\"). Alternativat e tjera janë qartazi të gabuara: jo gjithmonë me antitrupa (tipi IV qelizor), mund të jenë fatale (anafilaksi) dhe jo vetëm nga barnat sintetike."
+  },
+  {
+    "id": "licenca-farmakologji-093",
+    "question": "Sekretimi i acidit gastrik mund te ndikohet nga:",
+    "answers": [
+      "antagonistet e receptorit H2",
+      "inhibitoret e pompes protonike",
+      "antagonistet muskarinike, p.sh. pirenzepina",
+      "te tera pergjigjet jane te sakta",
+      "alkooli"
+    ],
+    "correct": 3,
+    "explanation": "Sekretimin acid e ulin antagonistët H2, IPP dhe antimuskarinikët (pirenzepina); e rrit alkooli. Të gjithë faktorët e listuar ndikojnë."
+  },
+  {
+    "id": "licenca-farmakologji-094",
+    "question": "Te tera efektet e meposhtme jane manifestime te mbidozimit te barbiturateve, me perjashtim te:",
+    "answers": [
+      "eksitimit",
+      "konfuzionit mendor",
+      "letargjise",
+      "hipotermise",
+      "hipotensionit"
+    ],
+    "correct": 0,
+    "explanation": "Mbidozimi i barbiturateve jep depresion të SNQ: konfuzion, letargji, komë, depresion respirator, hipotermi, hipotension. Eksitimi nuk është tipik (mund të shfaqet vetëm paradoksalisht te të moshuarit/fëmijët)."
+  },
+  {
+    "id": "licenca-farmakologji-095",
+    "question": "Te nje pacient me glaukome kundraindikohet perdorimi i:",
+    "answers": [
+      "barbiturateve:",
+      "antidepresiveve triciklike",
+      "antibiotikeve",
+      "benzodiazepinave hipnogjene",
+      "amfetaminave"
+    ],
+    "correct": 1,
+    "explanation": "Antidepresivët triciklikë kanë efekt antikolinergjik → midriazë → mund të precipitojnë glaukomën me kënd të ngushtë. Prandaj kundërindikohen."
+  },
+  {
+    "id": "licenca-farmakologji-096",
+    "question": "Cila prej klasave te meposhtme inhibon HMG-CoA reduktazen:",
+    "answers": [
+      "statinat",
+      "beta-bllokuesit",
+      "fibratet",
+      "estrogjenet",
+      "ACE-inhibitoret"
+    ],
+    "correct": 0,
+    "explanation": "Statinat janë frenues konkurrues të HMG-CoA reduktazës, enzimës kyçe të sintezës së kolesterolit → rrisin receptorët LDL dhe ulin LDL. Fibratet veprojnë përmes PPAR-alfa."
+  },
+  {
+    "id": "licenca-farmakologji-097",
+    "question": "Cila prej substancave mund te shkaktoje hepatit toksik:",
+    "answers": [
+      "trikloretileni",
+      "tetrakloruri i karbonit",
+      "halotani",
+      "izoniazidi",
+      "te gjitha pergjigjet jane te sakta"
+    ],
+    "correct": 4,
+    "explanation": "Të gjitha shkaktojnë hepatit toksik: tetrakloruri i karbonit dhe trikloretileni (tretës, nekrozë centrolobulare), halotani (hepatit imunoalergjik), izoniazidi (hepatit idiosinkrazik, sidomos me alkool/moshë)."
+  },
+  {
+    "id": "licenca-farmakologji-098",
+    "question": "Terapia me estrogjene shoqerohet me te tera efektet e meposhtme te padeshirueshme, me perjashtim te:",
+    "answers": [
+      "hiperplazise endometriale",
+      "nauzese",
+      "dhembjeve te gjinjve",
+      "hipoglicemise",
+      "hemikranias"
+    ],
+    "correct": 3,
+    "explanation": "Estrogjenet japin hiperplazi endometriale (nëse jepen pa progestinë), nauze, mastodini, cefale/migrenë, tromboembolizëm. Hipoglicemia nuk është efekt i tyre."
+  },
+  {
+    "id": "licenca-farmakologji-099",
+    "question": "Efektet e padeshirueshme me te rendesishme te fenotiazines jane:",
+    "answers": [
+      "cefalea",
+      "paraliza spastike",
+      "korea",
+      "fotofobia",
+      "çrregullimet ekstrapiramidale"
+    ],
+    "correct": 4,
+    "explanation": "Fenotiazinat (klorpromazina) bllokojnë D2 nigrostriatale → çrregullime ekstrapiramidale (parkinsonizëm, distoni, akatizi, diskinezi tardive), efektet më të rëndësishme të padëshiruara."
+  },
+  {
+    "id": "licenca-farmakologji-100",
+    "question": "Kokaina ka veprim te tipit:",
+    "answers": [
+      "simpatikolitik",
+      "miorelaksant",
+      "parasimpatikomimetik",
+      "anestetik lokal",
+      "spazmolitik"
+    ],
+    "correct": 3,
+    "explanation": "Kokaina është anestetik lokal (bllokon kanalet Na+) dhe njëkohësisht frenon rikapjen e noradrenalinës → vazokonstriksion. Përdoret ende si anestetik topik në ORL."
+  }
+]

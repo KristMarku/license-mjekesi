@@ -1,0 +1,67 @@
+[
+  {
+    "id": "licenca-organizim-menaxhim-shendetesor-001",
+    "question": "Plani Kombëtar i Shëndetësisë përfaqëson:",
+    "answers": [
+      "bashkësinë e ligjeve që rregullojnë aktivitetin mjekësor kombëtar",
+      "rregullat për organizimin e shërbimit shëndetësor",
+      "rregullat për aplikimin e terapive mjekësore",
+      "bashkësinë e ligjeve, normave, rregullave të nevojshme për realizimin korrekt të veprimtarisë mjekësore në të gjithë vendin",
+      "të gjitha pohimet më lart janë të vërteta"
+    ],
+    "correct": 3,
+    "explanation": "Plani Kombëtar i Shëndetësisë është dokumenti programatik që përcakton tërësinë e objektivave, ligjeve, normave dhe rregullave të nevojshme për realizimin korrekt të veprimtarisë shëndetësore në të gjithë vendin."
+  },
+  {
+    "id": "licenca-organizim-menaxhim-shendetesor-002",
+    "question": "Funksioni kryesor i Institutit të Shëndetit Publik është:",
+    "answers": [
+      "të mbështesi veprimtarinë mjeksore rajonale",
+      "të këshilloj qeverinë në lidhje me hartimin e linjave guidë të trajtimit",
+      "të këshilloj ministrinë e shëndetësisë në lidhje me mënyrat e përmirësimit të shëndetit të qytetarëve",
+      "të realizojë punë kërkimore të vazhdueshme në drejtim të vlerësimit dhe kontrollit të shëndetit publik",
+      "të bashkëpunoj me ministrinë në realizimin e kontrollit të barnave"
+    ],
+    "correct": 3,
+    "explanation": "Instituti i Shëndetit Publik është institucioni teknik-shkencor që kryen kërkim, mbikëqyrje epidemiologjike dhe vlerësim/kontroll të shëndetit publik (sëmundjet infektive, vaksinimi, shëndeti mjedisor), duke këshilluar Ministrinë."
+  },
+  {
+    "id": "licenca-organizim-menaxhim-shendetesor-003",
+    "question": "Ku është qendra e Organizatës Botërore të Shëndetësisë?",
+    "answers": [
+      "Strasburg",
+      "Bruksel",
+      "Londër",
+      "Gjenevë",
+      "Stokholm"
+    ],
+    "correct": 3,
+    "explanation": "Selia e Organizatës Botërore të Shëndetësisë (OBSH/WHO, themeluar më 1948) ndodhet në Gjenevë, Zvicër."
+  },
+  {
+    "id": "licenca-organizim-menaxhim-shendetesor-004",
+    "question": "Faktorët përcaktues të shëndetit përfshijnë:",
+    "answers": [
+      "faktorët biologjik dhe gjenetik",
+      "stilin e jetesës",
+      "faktorët social-ekonomik",
+      "shtrirjen dhe natyrën e shërbimeve shëndetësore",
+      "të gjitha pohimet më lart janë të vërteta"
+    ],
+    "correct": 4,
+    "explanation": "Përcaktuesit e shëndetit (modeli Dahlgren-Whitehead/Lalonde): faktorët biologjikë dhe gjenetikë, stili i jetesës, faktorët socio-ekonomikë dhe mjedisorë, dhe aksesi/cilësia e shërbimeve shëndetësore."
+  },
+  {
+    "id": "licenca-organizim-menaxhim-shendetesor-005",
+    "question": "Qëllimi i edukimit shëndetësor është:",
+    "answers": [
+      "të ndryshojë sjelljet shëndetësore",
+      "të përmirësojë gjendj en shëndetësore",
+      "A dhe B janë të sakta",
+      "të informojë në lidhje me shëndetin",
+      "të realizojë projekte shëndetësore"
+    ],
+    "correct": 2,
+    "explanation": "Edukimi shëndetësor synon të ndryshojë sjelljet shëndetësore (duke dhënë njohuri, qëndrime dhe aftësi) dhe, përmes tyre, të përmirësojë gjendjen shëndetësore të individit dhe komunitetit; informimi është vetëm mjeti."
+  }
+]

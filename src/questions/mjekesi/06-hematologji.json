@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "licenca-hematologji-001",
+    "question": "Nje djale 25 vjec veren, ndersa po rruhej, shfaqjen e nje zmadhimi linfonodal ne nivelin laterocervikal. Nuk ankon asnje simptome. Ne egzaminimin objektiv pervec linfonodulit qe ka pare djali jane prezent edhe linfonoduj te tjere ne te njejtin regjion. Realizohet nje biopsi dhe diagnoza histologjike flet per Morbus Hodgkin,tipi sklerose nodulare. Djali i nenshtrohet nje stadifikimi te thelluar te semundjes se tij perfshire edhe nje laparotomi, dhe nga te gjitha hetimet e kryera rezulton se ka linfonoduj prezente edhe ne nivel te mediastinit , por jo ne abdomen, dhe shpretka eshte normale. Cili eshte stadi i semundjes se pacientit?",
+    "answers": [
+      "I",
+      "IE",
+      "II",
+      "III",
+      "IV"
+    ],
+    "correct": 2,
+    "explanation": "Sipas Ann Arbor: stadi II = ≥2 rajone limfonodale në të njëjtën anë të diafragmës (laterocervikal + mediastinal, të dyja mbi diafragmë). Stadi III do të kërkonte prekje në të dyja anët e diafragmës, IV prekje ekstralimfatike difuze."
+  },
+  {
+    "id": "licenca-hematologji-002",
+    "question": "Kriter kryesor per diagnozen e krizes blastike gjate ecurise se leukozes mieloide kronike eshte prezenca e:",
+    "answers": [
+      "blastet ne palcen e kockes mbi 30%",
+      "hiperuricemia",
+      "reduktimi i numrit te rruazave te kuqe",
+      "limfoblastoza ne palcen e kockes",
+      "limfocitoza periferike"
+    ],
+    "correct": 0,
+    "explanation": "Kriza blastike e LMK përkufizohet klasikisht me ≥30% blaste në palcë ose gjak periferik (OBSH: ≥20%), ose infiltrim ekstramedular me blaste. Mund të jetë mieloide (2/3) ose limfoide (1/3)."
+  },
+  {
+    "id": "licenca-hematologji-003",
+    "question": "Nje pacient diabetic 50 vjec shtrohet per shkak te shfaqjes se nje krize hipoglicemike. Gjate ecurise evidentohet nje anemi e shkalles se moderuar me nje trombocitoze te lehte [527000/ micron/L]. Hemoglobina e tij eshte 10 g/dL, MCV [volume korpuskular mesatar] eshte 76fL, egzaminimi i lamave te gjakut periferik tregon pranine e rruazave te kuqe te vogla me citoplazem te zbehte [ anulocite]. Pervec kesaj eshte present nje sideremi e ulur dhe TIBC [ Total Binding Iron Capacity] i rritur dhe nje ferritinemi poshte vlerave normale. Cila eshte procedura me e mire per kete pacient?",
+    "answers": [
+      "te fillohet terapia me preparate te hekurit",
+      "te pritet 6 muaj dhe te rivleresohet",
+      "ta nxjerresh nga spitali pa I bere asgje",
+      "te kerkohet gjaku okult ne fece dhe te planifikohet per nje fibrogastroskopi dhe nje kolonoskopi te plote",
+      "te dergohet tek mjeku kurues qe te vazhdoje me analiza"
+    ],
+    "correct": 3,
+    "explanation": "Anemi mikrocitare me ferritinë të ulët, sideremi të ulët dhe TIBC të rritur = anemi sideropenike. Te i rrituri (sidomos mashkull, 50 vjeç) duhet gjetur burimi i humbjes së gjakut: gjak okult në feçe, gastroskopi dhe kolonoskopi për të përjashtuar neoplazi. Terapia me hekur vetëm do ta maskonte shkakun."
+  },
+  {
+    "id": "licenca-hematologji-004",
+    "question": "Ne prani te petekieve dhe te purpurave duhet vleresuar se pari nese eshte:",
+    "answers": [
+      "hiperkolesterolemia",
+      "mungesa e faktoreve te koagulimit",
+      "trombocitoza",
+      "trombocitopenia",
+      "alterimi i funksionit trobocitar"
+    ],
+    "correct": 3,
+    "explanation": "Petekiet dhe purpura (gjakderdhje e tipit mukokutan) sugjerojnë problem trombocitar; hapi i parë është numërimi i trombociteve (trombocitopenia). Defektet e koagulimit japin hematoma dhe hemartroza."
+  },
+  {
+    "id": "licenca-hematologji-005",
+    "question": "Faktori Hageman eshte:",
+    "answers": [
+      "faktori XII",
+      "faktori X",
+      "faktori trombocitar III",
+      "kalikreina",
+      "faktori ristocetinik"
+    ],
+    "correct": 0,
+    "explanation": "Faktori Hageman është faktori XII, që nis rrugën intrinseke të koagulimit (aktivizimi në kontakt me sipërfaqe). Deficiti i tij zgjat aPTT-në, por nuk jep gjakderdhje."
+  },
+  {
+    "id": "licenca-hematologji-006",
+    "question": "Trajtimi i perzgjedhur i leukemise mieloide kronike tek moshat e reja eshte:",
+    "answers": [
+      "radioterapia",
+      "monokimioterapia",
+      "polikimioterapia",
+      "terapia me interferon",
+      "transplanti allogjenik i palces se kockes"
+    ],
+    "correct": 4,
+    "explanation": "Bazuar në periudhën para frenuesve të tirozinkinazës: transplanti alogjen i palcës te të rinjtë ishte e vetmja terapi kuruese. Sot terapia e linjës së parë janë frenuesit e tirozinkinazës (imatinib), ndërsa transplanti rezervohet për rezistencën/fazat e avancuara."
+  },
+  {
+    "id": "licenca-hematologji-007",
+    "question": "Nje grua 56vjec me nje histori progresive te karcinomes se ovarit te trajtuar me kimioterapi disa vite me pare, referon shfaqjen koheve te fundit te astenise dhe te hemorragjive te vogla ne nivel te kraheve. Vlerat e hemogrames jane si me poshte: Hemoglobina 9,6g/dL, trombocitet 56000/micronL, leukocitet 2900/micronL. Ne mielograme , e cila paraqitet hipercelulare, jane present 10% elemente blastike me aspect megaloblastik te prekursoreve eritroide e megakariocite me anomali berthamore. Egzaminimi citogenetik tregon pranine e nje delecioni te krahut te gjate te kromozomit 7. cila eshte diagnoza me probable per kete paciente?",
+    "answers": [
+      "sindrom mielodisplazik",
+      "anemia megaloblastike",
+      "leukemia limfoblastike akute",
+      "leukemia mieloblastike akute",
+      "leukemia mieloide kronike"
+    ],
+    "correct": 0,
+    "explanation": "Pancitopeni me palcë hiperqelizore, displazi në disa linja, 10% blaste dhe del(7q) pas kimioterapisë = sindromë mielodisplastike e lidhur me terapinë. Leukemia akute kërkon ≥20% blaste."
+  },
+  {
+    "id": "licenca-hematologji-008",
+    "question": "Deformimi si draper i eritrociteve i detyrohet:",
+    "answers": [
+      "sinteza difektoze sasijore e hemoglobines",
+      "crregullimet elektrolitike",
+      "antikorpet",
+      "alterimet mitokondriale",
+      "alterimet cilesore te hemoglobines"
+    ],
+    "correct": 4,
+    "explanation": "Në drepanocitozë, mutacioni Glu6Val në zinxhirin beta prodhon HbS, që polimerizohet në gjendje deoksigjenimi dhe deformon eritrocitin si drapër — defekt cilësor i hemoglobinës. Talasemitë janë defekte sasiore."
+  },
+  {
+    "id": "licenca-hematologji-009",
+    "question": "Diagnoza e leukemise acute mund te vihet vetem ne baze te:",
+    "answers": [
+      "biopsise se linfonodulit",
+      "egzaminimit te formulas leukocitare",
+      "biopsies se palces se kockes ose mielogrames",
+      "biopsies splenike",
+      "hemogrames"
+    ],
+    "correct": 2,
+    "explanation": "Diagnoza e leukemisë akute vendoset me aspiratin/biopsinë e palcës (≥20% blaste), e plotësuar me imunofenotipizim dhe citogjenetikë. Hemograma dhe formula vetëm e sugjerojnë."
+  },
+  {
+    "id": "licenca-hematologji-010",
+    "question": "Pacienti me hemolize intravaskulare mund te paraqese te gjitha shenjat klinike dhe laboratorike te meposhtme , PERVEC:",
+    "answers": [
+      "niveleve te ulta te haptoglobines",
+      "shtimit te bilirubines indirekte",
+      "splenomegalise",
+      "hemoglobinurise e hemosiderurise",
+      "shtimit te Laktatdehidrogjenazes"
+    ],
+    "correct": 2,
+    "explanation": "Hemoliza intravaskulare jep haptoglobinë të ulët, LDH dhe bilirubinë indirekte të rritur, hemoglobinemi, hemoglobinuri dhe hemosiderinuri. Splenomegalia është tipike për hemolizën ekstravaskulare (në shpretkë)."
+  },
+  {
+    "id": "licenca-hematologji-011",
+    "question": "Ne remisionin komplet te leukemise akute numri I blasteve ne palcen e kockes nuk duhet e te jete me i larte sesa:",
+    "answers": [
+      "5%",
+      "20%",
+      "30%",
+      "40%",
+      "50%"
+    ],
+    "correct": 0,
+    "explanation": "Remisioni i plotë: <5% blaste në palcë, hemogramë periferike e rikuperuar (neutrofile >1000, trombocite >100.000) dhe mungesë sëmundjeje ekstramedulare."
+  },
+  {
+    "id": "licenca-hematologji-012",
+    "question": "Cfare eshte hiatus leucaemicus:",
+    "answers": [
+      "nje komplikacion i leukemise",
+      "mungesa e formave me maturim te ndermjetem ne gjakun periferik",
+      "nje vartiant i nendarjeve te leukemive",
+      "nje medikament antiblastik",
+      "mungesa e formave mature ne palcen e kockes"
+    ],
+    "correct": 1,
+    "explanation": "Hiatus leucaemicus: në gjakun periferik shihen blaste dhe granulocite mature, por mungojnë format e ndërmjetme (promielocitet, mielocitet) — tipike për leukeminë akute, ndryshe nga LMK ku ka të gjitha stadet."
+  },
+  {
+    "id": "licenca-hematologji-013",
+    "question": "Te gjithe pacientet me sindrom mielodisplazik paraqesin:",
+    "answers": [
+      "sideroblaste unazore",
+      "nje numer blastesh >5%",
+      "anomali kromozomike jo rastesore",
+      "transformim ne leukemia acute",
+      "displazi ne te gjitha linjat qelizore te palces se kockes"
+    ],
+    "correct": 4,
+    "explanation": "Elementi themelor i SMD-së është displazia (morfologji jonormale) e linjave qelizore të palcës, me hematopoiezë joefektive. Sipas klasifikimit, displazia mund të jetë në një ose më shumë linja; sideroblastet unazore, blastet >5% dhe anomalitë kromozomike nuk janë të pranishme te të gjithë."
+  },
+  {
+    "id": "licenca-hematologji-014",
+    "question": "Cila prej anemive te meposhtme ka mundsi me te medha t’i pergjigjet adminstrimit te eritropotns:",
+    "answers": [
+      "anemia sideropenike",
+      "anemia pernicioze",
+      "anemia hemolitike autoimmune",
+      "anemia nga insuficienca renale"
+    ],
+    "correct": 3,
+    "explanation": "Në insuficiencën renale kronike anemia vjen nga prodhimi i pamjaftueshëm i eritropoietinës nga veshka, prandaj përgjigjet shumë mirë ndaj eritropoietinës rekombinante (pas korrigjimit të hekurit)."
+  },
+  {
+    "id": "licenca-hematologji-015",
+    "question": "Trupzat Auer gjenden ne menyre karakteristike:",
+    "answers": [
+      "ne linfoblastet",
+      "ne mielocitet",
+      "ne mieloblastet",
+      "ne eritroblastet",
+      "ne linfocitet"
+    ],
+    "correct": 2,
+    "explanation": "Trupat e Auer (inkluzione në formë shkopi nga granulat azurofile) gjenden te mieloblastet e LMA (shumë në leukeminë promielocitare M3). Mungojnë te limfoblastet — ndihmojnë të dallohen LMA nga LLA."
+  },
+  {
+    "id": "licenca-hematologji-016",
+    "question": "Rritja e IgE serike mund te observohet me shpesh ne:",
+    "answers": [
+      "leukemine mieloide kronike",
+      "anemine hemolitike nga difekti i PK",
+      "favizem",
+      "parazitoze",
+      "saturnizem"
+    ],
+    "correct": 3,
+    "explanation": "IgE rriten në parazitozat (sidomos helmintet që migrojnë në inde) dhe në sëmundjet alergjike/atopike, zakonisht me eozinofili."
+  },
+  {
+    "id": "licenca-hematologji-017",
+    "question": "Anemite megaloblastike karakterizohen nga:",
+    "answers": [
+      "mikrocitoza e e elementeve te figuruar te gjakut e shoqeruar me deficit te folateve dhe /ose vitamins B12",
+      "mungesa e folateve dhe/ose vitamins B12",
+      "retikulocitoza",
+      "ikteri",
+      "megakoloni toksik"
+    ],
+    "correct": 1,
+    "explanation": "Anemitë megaloblastike shkaktohen nga mungesa e vitaminës B12 dhe/ose folateve, që pengon sintezën e ADN-së → makrocitozë (jo mikrocitozë) dhe megaloblaste në palcë."
+  },
+  {
+    "id": "licenca-hematologji-018",
+    "question": "Ne anemine nga mungesa e hekurit transferrina eshte:",
+    "answers": [
+      "normale",
+      "e rritur",
+      "e ulur",
+      "pothuajse mungon",
+      "pa rendesi"
+    ],
+    "correct": 1,
+    "explanation": "Në sideropeni mëlçia rrit sintezën e transferinës (TIBC e rritur) për të kapur sa më shumë hekur, ndërsa saturimi i transferinës bie (<15%) dhe ferritina ulet."
+  },
+  {
+    "id": "licenca-hematologji-019",
+    "question": "Morbus Cooley eshte:",
+    "answers": [
+      "nje alfa-talasemi",
+      "nje beta-talasemi",
+      "nje anemi enzimodeficitare",
+      "nje disprotidemi",
+      "deficit i vitamines B12"
+    ],
+    "correct": 1,
+    "explanation": "Morbus Cooley = beta-talasemi major (homozigote): anemi e rëndë që nga muaji i 6-të, hepatosplenomegali, deformime kockore (\"kafkë me furça\"), nevojë për transfuzione."
+  },
+  {
+    "id": "licenca-hematologji-020",
+    "question": "Hiperuricemia eshte e shpeshte ne:",
+    "answers": [
+      "leukemine mieloide kronike nen trajtim citoreduktues",
+      "mononukleozen infective",
+      "hemofili",
+      "sindromin Gilbert",
+      "aplazine medulare"
+    ],
+    "correct": 0,
+    "explanation": "Lizia masive e qelizave leukemike gjatë terapisë citoreduktive çliron purina → hiperuricemi (sindroma e lizës tumorale). Prandaj jepen alopurinol dhe hidratim."
+  },
+  {
+    "id": "licenca-hematologji-021",
+    "question": "Ne hemofili cilat prej testeve te meposhtme jane te alteruar ;",
+    "answers": [
+      "koha e hemorragjise",
+      "koha e koagulimit",
+      "koha e protrombines",
+      "fraxhiliteti kapilar",
+      "eritrosedimenti"
+    ],
+    "correct": 1,
+    "explanation": "Në hemofili (deficit i faktorit VIII ose IX) zgjatet koha e koagulimit / aPTT; koha e gjakderdhjes, PT dhe trombocitet janë normale."
+  },
+  {
+    "id": "licenca-hematologji-022",
+    "question": "Kontrolli i terapise heparinike realizohet me:",
+    "answers": [
+      "vleresimin e trombociteve",
+      "kohen e hemorragjise",
+      "proven e lakut",
+      "kohen e tromboplastines parciale",
+      "dozimin e fibrinogjenit"
+    ],
+    "correct": 3,
+    "explanation": "Heparina jofraksionuar monitorohet me aPTT (koha e tromboplastinës parciale aktivizuar), që mbahet 1,5–2,5 herë normalja. Heparinat me peshë të ulët (kur nevojitet) me anti-Xa; warfarina me PT/INR."
+  },
+  {
+    "id": "licenca-hematologji-023",
+    "question": "Ne egzaminimin objektiv, nje pacient me Purpur trombocitopenike idiopatike pervec petekieve dhe ekimozave mund te prezantoje edhe:",
+    "answers": [
+      "splenomegali",
+      "linfadenomegali",
+      "hepatomegali",
+      "nje egzaminim fizik normal",
+      "temperature te larte"
+    ],
+    "correct": 3,
+    "explanation": "Në PTI ekzaminimi fizik është normal përveç shenjave hemorragjike (petekie, ekimoza). Splenomegalia, limfadenopatia ose ethja sugjerojnë sëmundje tjetër (limfomë, leukemi)."
+  },
+  {
+    "id": "licenca-hematologji-024",
+    "question": "Cila nga situatat e meposhtme te ben te dyshosh per pranine e nje leukocitoze neutrofilike:",
+    "answers": [
+      "infeksioni viral",
+      "infeksioni bakterial",
+      "parazitoza",
+      "alergjia",
+      "asgje patologjike"
+    ],
+    "correct": 1,
+    "explanation": "Leukocitoza neutrofile sugjeron infeksion bakterial (sidomos piogjen). Infeksionet virale japin limfocitozë, parazitozat dhe alergjitë eozinofili."
+  },
+  {
+    "id": "licenca-hematologji-025",
+    "question": "Biosinteza e hemit nga ana e eritroblasteve ndodh:",
+    "answers": [
+      "ne mitokondria",
+      "ne ribosome",
+      "ne unazat Cabot",
+      "ne trupzat Heinz",
+      "ne nukleolat"
+    ],
+    "correct": 0,
+    "explanation": "Sinteza e hemit nis (ALA sintaza) dhe përfundon (ferokelataza) në mitokondri, me hapa të ndërmjetëm në citoplazmë. Ribosomet sintetizojnë globinën."
+  },
+  {
+    "id": "licenca-hematologji-026",
+    "question": "Hemofilia C vjen si pasoje e mungeses se:",
+    "answers": [
+      "faktorit II",
+      "faktorit V",
+      "faktorit VIII",
+      "faktorit IX",
+      "faktorit XI"
+    ],
+    "correct": 4,
+    "explanation": "Hemofilia C = deficit i faktorit XI (autosomale, e shpeshtë te hebrenjtë Ashkenazi). Hemofilia A = deficit i faktorit VIII, B = deficit i faktorit IX."
+  },
+  {
+    "id": "licenca-hematologji-027",
+    "question": "Ngrenia e batheve mund te provokoje nje anemi grave hemolitike ne pacientet te cilet kane nje deficit te ciles prej enzimave te meposhtme:",
+    "answers": [
+      "piruvatkinazes [PK]",
+      "glukoze-6-fosfat dehidrogjenazes [G6PDH]",
+      "glutation sintetazes",
+      "gamma glutamilcistein sintetazes",
+      "laktatdehidrogjenazes"
+    ],
+    "correct": 1,
+    "explanation": "Favizmi: te pacientët me deficit G6PD, bathët (fava) shkaktojnë stres oksidativ → hemolizë akute intravaskulare (me trupa Heinz). Deficit X-linked."
+  },
+  {
+    "id": "licenca-hematologji-028",
+    "question": "Nje pacient 18 vjec me nje hemofili A te lehte [ niveli i faktorit VIII=15%] ediagnostikuar nga nje histori familiare positive por qe nuk ka pasur asnjehere nevoje per trajtim meqenese nuk ka pasur fenomene hemorragjike,duhet ti nenshtrohet nje interventi dentar per te hequr dhemballen e pjekurise. Trajtimii zgjedhur eshte:",
+    "answers": [
+      "krioprecipitat",
+      "koncentrat I faktorit VIII",
+      "plazmee fresket e ngrire",
+      "desmopressina [ DDAVP]",
+      "asnje trajtim"
+    ],
+    "correct": 3,
+    "explanation": "Në hemofilinë A të lehtë (faktor VIII >5%) për procedura të vogla (ekstraksion dentar) zgjedhja është desmopresina (DDAVP), që çliron faktorin VIII dhe vWF nga endoteli, + antifibrinolitik (acid traneksamik). Koncentrati i faktorit VIII rezervohet kur DDAVP nuk mjafton. Çelësi (B) nuk është zgjedhja e parë."
+  },
+  {
+    "id": "licenca-hematologji-029",
+    "question": "Te gjitha komplikacionet e meposhtme mund te gjenden ne nje pancitopeni si pasoje e mosfunksionit te palces se kockes PERVEC:",
+    "answers": [
+      "sepsis",
+      "asthenia, te ndjerit keq ne pergjithesi",
+      "hemorragjite gingivale",
+      "tromboza",
+      "zbehja"
+    ],
+    "correct": 3,
+    "explanation": "Pancitopenia nga dështimi medular jep anemi (zbehje, asteni), neutropeni (infeksione, sepsë) dhe trombocitopeni (gjakderdhje gingivale). Tromboza nuk është komplikacion i pritshëm (përjashto HPN)."
+  },
+  {
+    "id": "licenca-hematologji-030",
+    "question": "Trombocitoza esenciale dhe policitemia vera jane:",
+    "answers": [
+      "sindroma mielodisplasike",
+      "sindroma mieloproliferative kronike",
+      "aplazi medulare",
+      "semundje sekondare nga inflamacioni kronik",
+      "shpesh te lidhura me imunodeficiencat"
+    ],
+    "correct": 1,
+    "explanation": "Trombocitemia esenciale dhe policitemia vera janë neoplazi mieloproliferative kronike (me LMK dhe mielofibrozën primare), shpesh me mutacionin JAK2."
+  },
+  {
+    "id": "licenca-hematologji-031",
+    "question": "Antitrupat antifosfolipidike gjenden shpesh gjate:",
+    "answers": [
+      "anemise aplastike",
+      "tumoreve gastrike",
+      "tumoreve ovariene",
+      "lupusit eritematoz sitemik",
+      "leukemise mieloide kronike"
+    ],
+    "correct": 3,
+    "explanation": "Antitrupat antifosfolipidikë (antikoagulanti lupik, antikardiolipina, anti-beta2GP1) gjenden shpesh në LES (30–40%) dhe japin tromboza dhe aborte të përsëritura."
+  },
+  {
+    "id": "licenca-hematologji-032",
+    "question": "Testi i Coombs indirect pozitiv tregon per:",
+    "answers": [
+      "pranine e antitrupave antieritrocitare jokomplete ne serum",
+      "reaksion imunologjik tip III",
+      "deficit te piruvat kinazes",
+      "ekspozim progresiv ndaj primaquines",
+      "reaksion te rende transfuzionine veprim"
+    ],
+    "correct": 0,
+    "explanation": "Coombs indirekt zbulon antitrupa antieritrocitarë të lirë (jokompletë) në serum (p.sh. aloantitrupa para transfuzionit, anti-D në shtatzëni). Coombs direkt zbulon antitrupa të lidhur në sipërfaqen e eritrociteve."
+  },
+  {
+    "id": "licenca-hematologji-033",
+    "question": "Retikulocitet jane:",
+    "answers": [
+      "qeliza te sistemit retikuloendotelial",
+      "qeliza me system retikuloendoplazmik shume te zhvilluar",
+      "eritrocite te vjeter",
+      "granulocite te vjeter",
+      "eritrocite te reja"
+    ],
+    "correct": 4,
+    "explanation": "Retikulocitet janë eritrocite të reja, që ende kanë mbetje ARN ribosomale; qarkullojnë 1–2 ditë para se të maturohen. Numri i tyre pasqyron aktivitetin eritropoietik të palcës."
+  },
+  {
+    "id": "licenca-hematologji-034",
+    "question": "Kriza retikulocitare verifikohet gjate:",
+    "answers": [
+      "anemise hemolitike",
+      "eritroleukemise",
+      "policitemise vera nen trajtim me hidroksiure",
+      "trombozes intravaskulare te diseminuar",
+      "anemise pernicioze ne trajtim me vitaminen B12"
+    ],
+    "correct": 4,
+    "explanation": "Kriza retikulocitare (rritje e shpejtë e retikulociteve pas 5–7 ditësh) vërehet kur fillohet terapia specifike në anemitë nga mungesa (B12 në anemi pernicioze, ose hekur në sideropeni) — tregon përgjigje të palcës."
+  },
+  {
+    "id": "licenca-hematologji-035",
+    "question": "Cila prej semundjeve te meposhtme nuk i perket te ashtuquajturave syndrome mieloproliferative kronike:",
+    "answers": [
+      "mielofibroza idiomatike",
+      "leukemia mieloide kronike",
+      "leukemia me qeliza me qime [ tricoleukemia]",
+      "policitemia vera",
+      "trombocitemia esenciale"
+    ],
+    "correct": 2,
+    "explanation": "Leukemia me qeliza me qime (hairy cell) është neoplazi limfoide B, jo mieloproliferative. Sindromat mieloproliferative: LMK, policitemia vera, trombocitemia esenciale, mielofibroza primare."
+  },
+  {
+    "id": "licenca-hematologji-036",
+    "question": "Cila nga situatat e meposhtme haset ne policitemi ?:",
+    "answers": [
+      "shtimi i serise se kuqe ne palcen e kockave",
+      "hemoviskozimetria normale",
+      "leucopenia",
+      "hypotensioni sitemik",
+      "poliuria"
+    ],
+    "correct": 0,
+    "explanation": "Policitemia vera: proliferim klonal i palcës (sidomos seria e kuqe, por edhe leukocite e trombocite), hiperviskozitet, hipertension, prurit pas dushit, eritromelalgji, tromboza."
+  },
+  {
+    "id": "licenca-hematologji-037",
+    "question": "Cila nga rezultatet e meposhtme tregon per nje anemi aregjenerative:",
+    "answers": [
+      "vellimi korpuskular mesatar [MCV] normal",
+      "shtimi i shperndaries se gjeresise se ruazave te kuqe [RDW]",
+      "numri i reduktuar i retikulociteve",
+      "niveli i ulur i hemoglobines",
+      "sideremia e rritur"
+    ],
+    "correct": 2,
+    "explanation": "Anemia aregjenerative (nga dëmtim i prodhimit) karakterizohet nga numër i ulët i retikulociteve, ndryshe nga anemitë regjenerative (hemolizë, hemorragji) ku retikulocitet rriten."
+  },
+  {
+    "id": "licenca-hematologji-038",
+    "question": "Makroglobulinemia Waldentrom eshte e karakterizuar nga nje shtim monoclonal i",
+    "answers": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgD",
+      "IgE"
+    ],
+    "correct": 2,
+    "explanation": "Makroglobulinemia Waldenström është limfomë limfoplazmocitare me sekretim të IgM monoklonale (pentamer) → hiperviskozitet, krioglobulinemi, neuropati."
+  },
+  {
+    "id": "licenca-hematologji-039",
+    "question": "Rezistenca globulare rritet ne:",
+    "answers": [
+      "anemine pernicioze",
+      "anemine hemolitike",
+      "mikrocitoze",
+      "sarkoidoze",
+      "sferocitozen hereditare"
+    ],
+    "correct": 2,
+    "explanation": "Rezistenca osmotike (globulare) rritet kur qelizat janë mikrocitare/të sheshta me raport sipërfaqe/vëllim të madh (talasemia, sideropenia). Në sferocitozë ulet (qelizat sferike lizohen lehtë)."
+  },
+  {
+    "id": "licenca-hematologji-040",
+    "question": "Leukemia lifoide kronike eshte:",
+    "answers": [
+      "nje semundje me akumulim te limfociteve B poliklonale",
+      "nje semundje me nje linfopeni te moderuar",
+      "nje semundje me akumulim te plazmociteve",
+      "nje semundje me akumulim te limfociteve B monoklonale",
+      "nje semundje e karakterizuar nga prania e kromozomit Philadelphia"
+    ],
+    "correct": 3,
+    "explanation": "LLK është akumulim i limfociteve B monoklonale mature (CD5+, CD19+, CD23+), me limfocitozë absolute >5000/mm³. Kromozomi Philadelphia është i LMK."
+  },
+  {
+    "id": "licenca-hematologji-041",
+    "question": "Transplanti palces se kockes indikohet ne:",
+    "answers": [
+      "aplazine medulare grave dhe ne leukemite akute",
+      "Pancitopenine periferike me palce te pasur",
+      "Anemine pernicioze",
+      "Anemine sideropenike",
+      "Leukemine linfoide kronike"
+    ],
+    "correct": 0,
+    "explanation": "Transplanti i palcës indikohet në aplazinë medulare të rëndë (te të rinjtë, me dhurues të përputhshëm) dhe në leukemitë akute me rrezik të lartë/recidivë. Anemitë nga mungesa trajtohen me suplementim."
+  },
+  {
+    "id": "licenca-hematologji-042",
+    "question": "Fillimi i leukemise acute mund te jete i karakterizuar nga:",
+    "answers": [
+      "prania ne serum e nje piku monoclonal",
+      "Hipergammaglobulinemia poliklonale",
+      "Infeksioni febril rezistent ndaj mjekimit",
+      "Hiperkalcemia",
+      "Hiperkolesterolemia shume e larte"
+    ],
+    "correct": 2,
+    "explanation": "Leukemia akute shpesh fillon me shenja të dështimit medular: infeksione febrile që nuk përgjigjen ndaj antibiotikëve (neutropeni), anemi, gjakderdhje. Piku monoklonal dhe hiperkalcemia janë të mielomës."
+  },
+  {
+    "id": "licenca-hematologji-043",
+    "question": "Endokrinopatite e meposhtme mund te jene tegjitha shkak direct i nje anemie aregjenerative, pervec:",
+    "answers": [
+      "diabeti mellitus",
+      "hipotiroidizmi",
+      "hipopituitarizmi",
+      "hiperparatiroidizmi",
+      "hipogonadizmi"
+    ],
+    "correct": 0,
+    "explanation": "Hipotiroidizmi, hipopituitarizmi, hipogonadizmi (mungesë testosteroni) dhe hiperparatiroidizmi (fibrozë medulare) mund të japin anemi hipoproliferative. Diabeti nuk e shkakton drejtpërdrejt (vetëm përmes nefropatisë)."
+  },
+  {
+    "id": "licenca-hematologji-044",
+    "question": "Ne cilen prej patologjive te meposhtme verifikohet me shpesh trombocitoza:",
+    "answers": [
+      "leukemine mieloide kronike",
+      "leukemine mieloblastike acute",
+      "leukemine limfoblastike acute",
+      "morbus Waldentrom",
+      "morbus Werlhof"
+    ],
+    "correct": 0,
+    "explanation": "LMK shoqërohet shpesh me trombocitozë (si neoplazi mieloproliferative), krahas leukocitozës me të gjitha stadet e maturimit. Në leukemitë akute dhe në morbus Werlhof (PTI) ka trombocitopeni."
+  },
+  {
+    "id": "licenca-hematologji-045",
+    "question": "Prezenca e artritit rheumatoid, splenomegalise, neutropenise eshte karakteristike gjate:",
+    "answers": [
+      "konektivitit miks",
+      "sindromit Felty",
+      "sindromit Goodpasture",
+      "semundjes Chediak-Higashi",
+      "LES"
+    ],
+    "correct": 1,
+    "explanation": "Sindroma Felty = artrit reumatoid (zakonisht i rëndë, seropozitiv) + splenomegali + neutropeni, me rrezik infeksionesh të përsëritura."
+  },
+  {
+    "id": "licenca-hematologji-046",
+    "question": "Heparina fuqizon veprimin e:",
+    "answers": [
+      "Fibrinogjenit",
+      "Antitrombines III",
+      "Faktorit VIII",
+      "Tromboplastines",
+      "Trombones"
+    ],
+    "correct": 1,
+    "explanation": "Heparina lidhet me antitrombinën III dhe përshpejton deri 1000 herë inaktivizimin e trombinës (IIa) dhe faktorit Xa. Pa antitrombinë heparina është joefektive."
+  },
+  {
+    "id": "licenca-hematologji-047",
+    "question": "Ne organet e meposhteme gjenden ne sasi te madhe limfocitet T , PERVEC:",
+    "answers": [
+      "Linfonodujve",
+      "Shpretkes",
+      "Timusit",
+      "Traktit gastrointestinal",
+      "Gjakut periferik"
+    ],
+    "correct": 3,
+    "explanation": "Trakti gastrointestinal nuk konsiderohet vend me përqendrim të madh limfocitesh T (sipas logjikës së pyetjes). Limfonodujt, shpretka, timusi dhe gjaku periferik janë vende klasike të limfociteve T; në fakt edhe mukoza intestinale ka shumë limfocite intraepiteliale."
+  },
+  {
+    "id": "licenca-hematologji-048",
+    "question": "Nje pacient me deficit te Glukoze-6fosfat dehidrogjenazes [G-6-PD] duhet te evitoje te gjitha keto me poshte , PERVEC:",
+    "answers": [
+      "Cefalotines",
+      "Chinines",
+      "Clorochines",
+      "Batheve",
+      "Sulfamidikeve"
+    ],
+    "correct": 0,
+    "explanation": "Pacienti me deficit G6PD duhet të shmangë barnat oksidante (sulfamidet, kinina, klorokina, primakina, nitrofurantoina) dhe bathët. Cefalotina (cefalosporinë) nuk shkakton hemolizë oksidative."
+  },
+  {
+    "id": "licenca-hematologji-049",
+    "question": "Cila nga pergjijet e meposhtme NUK SHOQEROHET me nje anemi hemolitike me atitrupa te ngrohte:",
+    "answers": [
+      "Linfomat jo hodgkiniane",
+      "Splenomegalie",
+      "Sferocitoza",
+      "Testi Coombs direct pozitiv",
+      "Fenomeni Raynaud"
+    ],
+    "correct": 4,
+    "explanation": "Anemia hemolitike me antitrupa të ngrohtë (IgG) shoqërohet me limfoma/LLK, LES, splenomegali, sferocite dhe Coombs direkt pozitiv. Fenomeni Raynaud lidhet me antitrupat e ftohtë (aglutinina të ftohta, krioglobulina)."
+  },
+  {
+    "id": "licenca-hematologji-050",
+    "question": "Cili nga situatat e meposhtme eshte ME PAK PROBABEL qe te shoqerohet me nje hipereozinofili ?",
+    "answers": [
+      "Sindomi hipereozinofilik",
+      "Leukemia mieloide kronika",
+      "Infeksionet parazitare",
+      "Infeksionet nga stafilokoku aureus",
+      "Astma"
+    ],
+    "correct": 3,
+    "explanation": "Hipereozinofili japin sindroma hipereozinofilike, LMK, parazitozat (helmintet), astma/alergjitë, Hodgkin. Infeksionet nga S. aureus (bakteriale piogjene) japin neutrofili, jo eozinofili."
+  },
+  {
+    "id": "licenca-hematologji-051",
+    "question": "Shizocitet jane elemente te figuruar te gjakut:",
+    "answers": [
+      "Hipokromike",
+      "Me dimensione te medha",
+      "Ne forme rrakete",
+      "Te fragmentuar",
+      "Target"
+    ],
+    "correct": 3,
+    "explanation": "Shizocitet janë fragmente eritrocitesh (qeliza \"helmetë\"), tipike në hemolizën mikroangiopatike (CID, PTT, SHU) dhe me valvula mekanike."
+  },
+  {
+    "id": "licenca-hematologji-052",
+    "question": "Sindromi i hiperviskozitetit observohet me shpesh gjate:",
+    "answers": [
+      "Anemive hemolitike autoimmune",
+      "Leukemise limfoblastike acute",
+      "Insuficiences respiratore kronike",
+      "Mielomes multiple",
+      "Hemoglobinopative"
+    ],
+    "correct": 3,
+    "explanation": "Sindroma e hiperviskozitetit shfaqet në gamapati monoklonale me sasi të mëdha proteinash: më shpesh në Waldenström (IgM), por edhe në mielomën multiple (sidomos IgA/IgG3). Ndër opsionet, mieloma."
+  },
+  {
+    "id": "licenca-hematologji-053",
+    "question": "Cila prej ketyre shenjave dhe simptomave shoqeron me shpesh mielomen multiple:",
+    "answers": [
+      "Dhimbjet kockore",
+      "Linfadenopatia",
+      "Rubeosis",
+      "Splenomegalia",
+      "Petekiet"
+    ],
+    "correct": 3,
+    "explanation": "Mieloma multiple shfaqet më shpesh me dhimbje kockore (sidomos lumbare), nga lezionet osteolitike dhe frakturat patologjike; plus anemi, hiperkalcemi, insuficiencë renale (CRAB)."
+  },
+  {
+    "id": "licenca-hematologji-054",
+    "question": "Koha e protrombines influencohet prej:",
+    "answers": [
+      "Uljes se numrit te trombociteve",
+      "Shtimit te faktorit antiheparinik",
+      "Deficiti I faktorit VII",
+      "Deficiti I faktorit VIII",
+      "Deficiti I faktorit IX"
+    ],
+    "correct": 2,
+    "explanation": "PT eksploron rrugën ekstrinseke dhe të përbashkët (faktorët VII, X, V, II, fibrinogjen) — zgjatet në deficitin e faktorit VII. Faktorët VIII dhe IX janë të rrugës intrinseke (aPTT)."
+  },
+  {
+    "id": "licenca-hematologji-055",
+    "question": "Zhdukja e nukleolave verehet ne:",
+    "answers": [
+      "Mieloblastet",
+      "Promielocitet",
+      "Mielocitet",
+      "Ne metamielocitet",
+      "Ne granulocitet e pasegmentuar"
+    ],
+    "correct": 2,
+    "explanation": "Gjatë maturimit të serisë granulocitare, nukleolat duken në mieloblast dhe promielocit, por zhduken në stadin e mielocitit (kur shfaqen granulat specifike)."
+  },
+  {
+    "id": "licenca-hematologji-056",
+    "question": "Hapi i pare per te diagnostikuar policitemine vera eshte:",
+    "answers": [
+      "Te percaktohet masa e rruazave te kuqe te gjakut dhe e volumit plazmatik*",
+      "Te percaktohet niveli serik I eritropoietines",
+      "Te behet nje ekografi renale",
+      "Te behet astrupograma",
+      "Te matet fosfatazaalkaline leukocitare"
+    ],
+    "correct": 0,
+    "explanation": "Hapi klasik për të vërtetuar policiteminë absolute ishte matja e masës eritrocitare dhe vëllimit plazmatik (dallon poliglobulinë e vërtetë nga ajo relative). Sot hapi i parë praktik është kërkimi i mutacionit JAK2 V617F dhe matja e eritropoietinës."
+  },
+  {
+    "id": "licenca-hematologji-057",
+    "question": "Varianti histologjik me malinj i M. Hodgkin eshte:",
+    "answers": [
+      "Me qeliza te klivuara",
+      "Me deplecion linfocitar",
+      "Me prevalence linfocitare",
+      "Skleroza nodulare",
+      "Si qiell me yje"
+    ],
+    "correct": 1,
+    "explanation": "Varianti me deplecion limfocitar ka prognozën më të keqe të Hodgkin-it (shpesh te të moshuarit/HIV, stade të avancuara). Me predominancë limfocitare ka prognozën më të mirë; skleroza nodulare është më e shpeshta."
+  },
+  {
+    "id": "licenca-hematologji-058",
+    "question": "Manifestimet klinike te nje anemie nga mungesa e vitamins B12 jane te gjitha reversible me administrimin e vitamins B12, PERVEC:",
+    "answers": [
+      "Demet ne palcen e kockes",
+      "Anemia",
+      "Neutropenia",
+      "Neuropatia periferike",
+      "Trombocitopenia"
+    ],
+    "correct": 3,
+    "explanation": "Pas B12, anemia, neutropenia, trombocitopenia dhe ndryshimet medulare kthehen plotësisht. Dëmtimet neurologjike (neuropatia, degjenerimi kombinuar subakut i palcës kurrizore) mund të mbeten të pakthyeshme nëse janë të vjetra."
+  },
+  {
+    "id": "licenca-hematologji-059",
+    "question": "Pacienti me hemolize akute mund te paraqese te gjitha te dhenat klinike e laboratorike ,PERVEC:",
+    "answers": [
+      "Litiazes biliare",
+      "Hiperplazise ne nivel medular",
+      "Shtim i MCV me polikromatofili",
+      "Hiperbilirubinemia indirekte",
+      "Shtimi i laktatdehidrogjenazes"
+    ],
+    "correct": 0,
+    "explanation": "Hemoliza akute jep LDH dhe bilirubinë indirekte të rritur, retikulocitozë (MCV i rritur, polikromatofili) dhe hiperplazi eritroide të palcës. Litiaza biliare pigmentare është komplikim i hemolizës kronike, jo akute."
+  },
+  {
+    "id": "licenca-hematologji-060",
+    "question": "Jane shkak i poliglobulise sekondare:",
+    "answers": [
+      "Hemofilite",
+      "Insuficienca respiratore kronike",
+      "Hemorragjia kronike",
+      "Leukemia mieloide kronike",
+      "Policitemia vera"
+    ],
+    "correct": 1,
+    "explanation": "Poliglobulia sekondare vjen nga hipoksia kronike (insuficienca respiratore, kardiopati cianogjene, lartësi) që rrit eritropoietinën, ose nga tumore që e sekretojnë. Policitemia vera është primare."
+  },
+  {
+    "id": "licenca-hematologji-061",
+    "question": "Organi madhor hematopoietik ne jeten embrionale eshte:",
+    "answers": [
+      "Palca e kockes hematopoietike",
+      "Melcia",
+      "Shpretka",
+      "Linfonodujt",
+      "Sakusi Vitelin"
+    ],
+    "correct": 4,
+    "explanation": "Në jetën embrionale të hershme hematopoieza nis në qeskën e verdhë (sakus vitelin, java 3); më pas kalon në mëlçi (organ kryesor fetal), shpretkë dhe në fund në palcën e kockave."
+  },
+  {
+    "id": "licenca-hematologji-062",
+    "question": "Probabiliteti qe nje femije mashkull i nje pacienti me hemofili grave te kete hemofili eshte:",
+    "answers": [
+      "0%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct": 0,
+    "explanation": "Hemofilia është X-linked recesive: babai i sëmurë i jep djalit kromozomin Y, jo X, ndaj djemtë e tij janë të gjithë të shëndoshë (0%), ndërsa vajzat janë të gjitha bartëse."
+  },
+  {
+    "id": "licenca-hematologji-063",
+    "question": "Kromozomi Philadelphia [Ph’] eshte nje marker citogenetik ne nje prej situatave te meposhtme:",
+    "answers": [
+      "Leukemia mieloide kronike",
+      "Hairy cell leukemia",
+      "Leukemia prolinfocitike",
+      "Kriza blastike me fenotip eritroid ne LMC",
+      "Eritroleukemia"
+    ],
+    "correct": 0,
+    "explanation": "Kromozomi Philadelphia (t(9;22), gjeni i fuzionit BCR-ABL) është markuesi citogjenetik i LMK (>95%); gjendet edhe në një pjesë të LLA-ve të të rriturve."
+  },
+  {
+    "id": "licenca-hematologji-064",
+    "question": "Deficit i vitamins K evidentohet nga nje prej analizave te meposhtme:",
+    "answers": [
+      "Numri i trombociteve",
+      "Koha e protrombines [PT]",
+      "Koha e tromboplastines parciale [PTT]",
+      "Koha e trombines",
+      "Koha e hemorragjise"
+    ],
+    "correct": 1,
+    "explanation": "Vitamina K nevojitet për faktorët II, VII, IX, X. Faktori VII ka gjysmëjetën më të shkurtër, prandaj deficiti i vitaminës K zgjat i pari PT/INR."
+  },
+  {
+    "id": "licenca-hematologji-065",
+    "question": "Gjate periudhes qe pason transplantin allogjenik e palces se kockes, komplikacionet e meposhtme i detyrohen gjendjes imunitare te marresit , PERVEC:",
+    "answers": [
+      "Infeksionet mykotike",
+      "Reaksionet e flakjes",
+      "Herpes – Zoster",
+      "Graft versus host disease",
+      "Pneumonia intersticiale"
+    ],
+    "correct": 3,
+    "explanation": "GVHD shkaktohet nga limfocitet T të dhuruesit që sulmojnë indet e marrësit — nuk varet nga imuniteti i marrësit. Infeksionet mikotike, herpes zoster, pneumonia intersticiale (CMV) dhe rrezikimi lidhen me imunodepresionin e marrësit."
+  },
+  {
+    "id": "licenca-hematologji-066",
+    "question": "Cila nga situatat e meposhtme NUK SHOQEROHET me nje zgjatje te kohes se hemorragjise:",
+    "answers": [
+      "Uremia",
+      "Trombocitopenia grave",
+      "Mieloma multiple",
+      "Hemofilia",
+      "Morbus vonWillebrandt"
+    ],
+    "correct": 3,
+    "explanation": "Në hemofili koha e gjakderdhjes është normale (trombocitet funksionojnë), ndërsa aPTT zgjatet. Uremia, trombocitopenia, mieloma (proteina mbulojnë trombocitet) dhe von Willebrand zgjasin kohën e gjakderdhjes."
+  },
+  {
+    "id": "licenca-hematologji-067",
+    "question": "Splenomegalia eshte nje hasje frekuente ne diagnose gjate:",
+    "answers": [
+      "Mielomes multiple",
+      "Mykozes fungoide",
+      "Anemise aplastike",
+      "Leukemise mieloide kronike",
+      "Hemofilise"
+    ],
+    "correct": 3,
+    "explanation": "LMK jep shpesh splenomegali masive (deri në legen), simptoma nga shpretka dhe leukocitozë të lartë. Mieloma, anemia aplastike dhe hemofilia zakonisht nuk japin splenomegali."
+  },
+  {
+    "id": "licenca-hematologji-068",
+    "question": "Cila nga situatat e me poshtme i perket sindromeve mieloproliferative kronike ?",
+    "answers": [
+      "Mielofibroz idiopatike",
+      "Leukemia mieloblastike",
+      "Leukemia me qeliza me qime",
+      "Leukemia plazmocelulare",
+      "Mieloma multiple"
+    ],
+    "correct": 0,
+    "explanation": "Mielofibroza idiopatike (primare) është neoplazi mieloproliferative kronike: fibrozë e palcës, metaplazi mieloide (splenomegali masive), eritrocite \"lot\", leukoeritroblastozë."
+  },
+  {
+    "id": "licenca-hematologji-069",
+    "question": "Probabiliteti qe vajza e nje pacienti me hemofili B te jete nje bartese e hemofilise eshte:",
+    "answers": [
+      "0%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct": 4,
+    "explanation": "Hemofilia B është X-linked: babai i sëmurë i jep çdo vajze kromozomin e tij X me mutacion, prandaj të gjitha vajzat (100%) janë bartëse."
+  },
+  {
+    "id": "licenca-hematologji-070",
+    "question": "Eozinofilia mund te haset me shpesh gjate:",
+    "answers": [
+      "Leukemise mielomonocitike",
+      "Mielomes multiple",
+      "Leukemise limfoide kronike",
+      "Morbus Hodgkin",
+      "Agranulocitozes"
+    ],
+    "correct": 3,
+    "explanation": "Eozinofilia shoqëron shpesh limfomën Hodgkin (sekretim IL-5 nga qelizat Reed-Sternberg) dhe shkakton prurit. Në agranulocitozë mungojnë granulocitet."
+  },
+  {
+    "id": "licenca-hematologji-071",
+    "question": "Sindromi Sezary eshte:",
+    "answers": [
+      "Nje linfome me linfocite T",
+      "Njeleukemi linfoide kronike me infiltrim kutan",
+      "Nje variant i talasemise",
+      "Nje difekt congenital i IgG",
+      "Nje variant i leukemise mieloide kronike"
+    ],
+    "correct": 0,
+    "explanation": "Sindroma Sézary është forma leukemike e limfomës kutane me qeliza T (mycosis fungoides): eritrodermi e gjeneralizuar, limfadenopati dhe qeliza Sézary (me bërthamë \"trunore\") në gjak. Çelësi (B) e quan gabimisht LLK; përgjigja e saktë është A."
+  },
+  {
+    "id": "licenca-hematologji-072",
+    "question": "Nder tumoret primitive te shpretkes, cilet prej tyre jane me te shpeshtet:",
+    "answers": [
+      "Fibroma",
+      "Miomat",
+      "Hemangiomat",
+      "Linfomat",
+      "Linfangiomat"
+    ],
+    "correct": 3,
+    "explanation": "Tumoret primitive më të shpeshta të shpretkës janë limfomat. Hemangioma është tumori beninj më i shpeshtë i shpretkës."
+  },
+  {
+    "id": "licenca-hematologji-073",
+    "question": "Nje situate e nje anemie te rende sideropenike mund te shkaktohet nga:",
+    "answers": [
+      "Menorragjite persistente",
+      "Bronkopneumonite recidivante",
+      "Dietat vegjetariane",
+      "Mosmarrje adekuatee folateve",
+      "Hepatopatia alkoolike"
+    ],
+    "correct": 0,
+    "explanation": "Anemia e rëndë sideropenike te gruaja shkaktohet më shpesh nga humbjet kronike të gjakut me menorragji të përsëritura (ose gjakderdhje gastrointestinale). Dieta vegjetariane rrallë jep anemi të rëndë."
+  },
+  {
+    "id": "licenca-hematologji-074",
+    "question": "Faktori kryesor qe rregullon aktivitetin eritropoietik eshte:",
+    "answers": [
+      "Veshka",
+      "Ferritina",
+      "Unitete formuese te kolonive eritroide",
+      "Oksigjeni",
+      "Palca hemopoietike"
+    ],
+    "correct": 3,
+    "explanation": "Sinjali kryesor që rregullon eritropoiezën është tensioni i oksigjenit në inde: hipoksia në veshkë stimulon sekretimin e eritropoietinës (përmes HIF). Veshka është vendi i prodhimit, jo faktori rregullues."
+  },
+  {
+    "id": "licenca-hematologji-075",
+    "question": "Cila prej ketyre anemive hemolitike eshte e shkaktuar prej difektit congenital te nje enzyme eritrocitare [G6PDH]:",
+    "answers": [
+      "Favizmi",
+      "Sferocitoza",
+      "Elipsocitoza",
+      "Stomatocitoza",
+      "Hemoglobinuria paroksisitike e te ftohtit"
+    ],
+    "correct": 0,
+    "explanation": "Favizmi është hemoliza akute nga deficiti kongjenital i G6PD pas ngrënies së bathëve. Sferocitoza, elipsocitoza dhe stomatocitoza janë defekte të membranës."
+  },
+  {
+    "id": "licenca-hematologji-076",
+    "question": "Vitamina K eshte e nevojshme per sisntezen e secilit prej faktoreve te me poshtem te koagulimit, PERVEC se per sintezen e faktorit:",
+    "answers": [
+      "II",
+      "V",
+      "IX",
+      "VII",
+      "X"
+    ],
+    "correct": 1,
+    "explanation": "Vitamina K nevojitet për karboksilimin e faktorëve II, VII, IX, X (dhe proteinave C, S). Faktori V (dhe VIII) nuk varen nga vitamina K."
+  },
+  {
+    "id": "licenca-hematologji-077",
+    "question": "Anemia nga mungesa e hekurit eshte:",
+    "answers": [
+      "Normocitare",
+      "Makrocitare",
+      "Mikrocitare"
+    ],
+    "correct": 2,
+    "explanation": "Anemia nga mungesa e hekurit është mikrocitare (MCV <80 fL), sepse pa hekur sintetizohet më pak hemoglobinë dhe qelizat ndahen më shumë herë."
+  },
+  {
+    "id": "licenca-hematologji-078",
+    "question": "Anemia nga mungesa e hekurit eshte:",
+    "answers": [
+      "Normokromo",
+      "Hipokrome",
+      "Hiperkrome"
+    ],
+    "correct": 1,
+    "explanation": "Anemia sideropenike është hipokrome (MCH dhe MCHC të ulëta) — eritrocite të zbehta me qendër të zgjeruar (anulocite)."
+  },
+  {
+    "id": "licenca-hematologji-079",
+    "question": "Anemia nga mungesa e hekurit shkatohet nga:",
+    "answers": [
+      "Infeksionet",
+      "Insuficienca kardiake",
+      "Gjakderdhiet kronike",
+      "Diabeti mellitus",
+      "Hepatiti kronik"
+    ],
+    "correct": 2,
+    "explanation": "Shkaku kryesor i anemisë sideropenike te të rriturit është humbja kronike e gjakut (menorragji, gjakderdhje gastrointestinale okulte). Infeksionet dhe hepatiti japin anemi të sëmundjes kronike."
+  },
+  {
+    "id": "licenca-hematologji-080",
+    "question": "Anemia nga mungesa e hekurit mjekohet me:",
+    "answers": [
+      "A.Transfuzione gjaku",
+      "B. Vitamine B12",
+      "C Acid Folik",
+      "Preparate te hekurit",
+      "Erytropoietine"
+    ],
+    "correct": 3,
+    "explanation": "Trajtimi i anemisë sideropenike: preparate hekuri oral (sulfat ferroz) për ~3–6 muaj pas normalizimit të Hb, për të rimbushur rezervat; hekur IV nëse ka intolerancë/malabsorbim. Gjithmonë kërkohet shkaku."
+  },
+  {
+    "id": "licenca-hematologji-081",
+    "question": "Megaloblastoza eshte pasoje e:",
+    "answers": [
+      "Mungeses se sintezes se ADN",
+      "Mungeses se sintezes se ARN",
+      "Bllokim i sintezes se ADN",
+      "Bllokim i sintezes se ARN"
+    ],
+    "correct": 2,
+    "explanation": "Mungesa e B12/folateve bllokon sintezën e timidinës → sinteza e ADN-së vonohet ndërsa ARN-ja vazhdon normalisht → asinkroni bërthamë-citoplazmë dhe qeliza gjigante (megaloblaste)."
+  },
+  {
+    "id": "licenca-hematologji-082",
+    "question": "Anemia megaloblastike eshte:",
+    "answers": [
+      "Normokrome – normocitare",
+      "Hipokrome – mikrocitare",
+      "Hipokrome – makrocitare",
+      "Normokrome - makrocitare"
+    ],
+    "correct": 3,
+    "explanation": "Anemia megaloblastike është makrocitare (MCV >100) dhe normokrome (qelizat janë të mëdha, por me përqendrim normal hemoglobine)."
+  },
+  {
+    "id": "licenca-hematologji-083",
+    "question": "Anemia megaloblastike mjekohet me:",
+    "answers": [
+      "Citostatike",
+      "Transfuzione gjaku",
+      "Vitamine B 12 dhe ac,folik",
+      "D.Antibiotike",
+      "Vitamine K"
+    ],
+    "correct": 2,
+    "explanation": "Anemia megaloblastike trajtohet me vitaminë B12 (IM) dhe/ose acid folik sipas deficitit. Mos jep vetëm acid folik në deficitin e B12 — mund të përkeqësojë dëmtimin neurologjik."
+  },
+  {
+    "id": "licenca-hematologji-084",
+    "question": "Cilat nga shenjat e meposhteme gjenden ne anemine aplastike idiopatike:",
+    "answers": [
+      "Subikter",
+      "Limfoadenopati",
+      "Hepatomegali",
+      "Splenomegali",
+      "Hemoragji"
+    ],
+    "correct": 4,
+    "explanation": "Anemia aplastike jep pancitopeni: hemorragji (trombocitopeni), infeksione (neutropeni) dhe anemi. Mungojnë splenomegalia, hepatomegalia, limfadenopatia — prania e tyre sugjeron diagnozë tjetër."
+  },
+  {
+    "id": "licenca-hematologji-085",
+    "question": "Cili ekzaminim do te duhej per vendosien e diagnozes te anemise aplastike:",
+    "answers": [
+      "gjaku periferik",
+      "citokimia",
+      "biopsia e palces se kuqe te kockave",
+      "biopsia e limfonodulit",
+      "skaner"
+    ],
+    "correct": 2,
+    "explanation": "Diagnoza e anemisë aplastike kërkon biopsinë osteomedulare që tregon palcë hipoqelizore e zëvendësuar nga yndyra, pa infiltrim malinj apo fibrozë. Aspirati shpesh është \"i thatë\" ose i varfër."
+  },
+  {
+    "id": "licenca-hematologji-086",
+    "question": "Sfercitoza eshte demtim i:",
+    "answers": [
+      "i hemoglobines",
+      "i palces se kuqe te kockave",
+      "i membranes eritrocitare",
+      "i limfondulave",
+      "i enzimave eritrocitare"
+    ],
+    "correct": 2,
+    "explanation": "Sferocitoza hereditare shkaktohet nga defekte të proteinave të citoskeletit të membranës eritrocitare (ankirina, spektrina, banda 3) → humbje membrane, sferocite që shkatërrohen në shpretkë."
+  },
+  {
+    "id": "licenca-hematologji-087",
+    "question": "Cili nga testet e mesposhteme eshte i domosdoshem per diagnozen e sferocitozes:",
+    "answers": [
+      "testi Combs",
+      "testi i rezistences globulare",
+      "testi i hipoksise"
+    ],
+    "correct": 1,
+    "explanation": "Në sferocitozë rezistenca osmotike (globulare) e eritrociteve është e ulët — lizohen në solucione më pak hipotonike. Testi i Coombs është negativ (përjashton hemolizën autoimune)."
+  },
+  {
+    "id": "licenca-hematologji-088",
+    "question": "Si jane retikulocitet ne anemine megaloblastike:",
+    "answers": [
+      "te ulura",
+      "te ritura"
+    ],
+    "correct": 0,
+    "explanation": "Në aneminë megaloblastike retikulocitet janë të ulëta (eritropoiezë joefektive — prekursorët vdesin në palcë). Rriten shpejt (kriza retikulocitare) pas fillimit të B12/folateve."
+  },
+  {
+    "id": "licenca-hematologji-089",
+    "question": "Anemite hemolitike autoimune jane:",
+    "answers": [
+      "anomali te hemoglobines",
+      "anomali te shpretkes",
+      "anomali imunologjike",
+      "anomali te membranes eritrocitare"
+    ],
+    "correct": 2,
+    "explanation": "Anemitë hemolitike autoimune janë çrregullime imunologjike: autoantitrupa (IgG të ngrohtë, IgM të ftohtë) lidhen me antigjenet e membranës eritrocitare dhe shkaktojnë shkatërrimin e tyre. Membrana vetë është normale — çelësi (D) është i pasaktë."
+  },
+  {
+    "id": "licenca-hematologji-090",
+    "question": "Anemia hemolitike autoimune mjekohet me:",
+    "answers": [
+      "vitamine B12",
+      "kortizonike",
+      "ferum sulfat",
+      "antibiotike",
+      "ac. folik"
+    ],
+    "correct": 1,
+    "explanation": "AHAI me antitrupa të ngrohtë trajtohet në radhë të parë me kortikosteroide (prednizon 1 mg/kg); në rezistencë: rituksimab, splenektomi, imunosupresorë."
+  },
+  {
+    "id": "licenca-hematologji-091",
+    "question": "Klasifikimi i FAB eshte perdorur per:",
+    "answers": [
+      "leucemine mieloide kronike",
+      "leucemine limfoide kronike",
+      "leucemite akute",
+      "mielomen multiple",
+      "semundien e Hodgin"
+    ],
+    "correct": 2,
+    "explanation": "Klasifikimi FAB (franko-amerikano-britanik) përdoret për leukemitë akute (LMA M0–M7, LLA L1–L3), bazuar në morfologji dhe citokimi; sot është zëvendësuar kryesisht nga klasifikimi i OBSH."
+  },
+  {
+    "id": "licenca-hematologji-092",
+    "question": "Cilat nga sindromet klinike takohen me shpesh ne leucemite akute",
+    "answers": [
+      "sindromi gastrointestinal",
+      "sindromi vertiginos",
+      "sindromi septik",
+      "sindromi respirator",
+      "hiperviskozitetit"
+    ],
+    "correct": 2,
+    "explanation": "Në leukemitë akute neutropenia shkakton shpesh sindromë septike/infeksione të rënda — paraqitja klinike më e shpeshtë së bashku me anemizimin dhe hemorragjitë."
+  },
+  {
+    "id": "licenca-hematologji-093",
+    "question": "Me cfare lloj mjekimi arrihet remisioni i plote ne lekozat akute:",
+    "answers": [
+      "mjekim mbajtes",
+      "mjekim godites",
+      "mjekim perforcues",
+      "mjekim paliativ",
+      "mjekim suportiv"
+    ],
+    "correct": 1,
+    "explanation": "Remisioni i plotë arrihet me terapinë e induksionit (\"goditëse\", polikimioterapi intensive). Pasojnë konsolidimi dhe mirëmbajtja për të parandaluar recidivën."
+  },
+  {
+    "id": "licenca-hematologji-094",
+    "question": "Cili eshte nderlikimi me i shpeshte gjate leukozave akute:",
+    "answers": [
+      "infeksionet",
+      "infarkti i miokardit",
+      "cirhoza hepatike",
+      "hermartrozat",
+      "demtimet kockore"
+    ],
+    "correct": 0,
+    "explanation": "Ndërlikimi më i shpeshtë (dhe shkaku kryesor i vdekjes) në leukemitë akute janë infeksionet (bakteriale, mikotike) nga neutropenia e sëmundjes dhe e kimioterapisë."
+  },
+  {
+    "id": "licenca-hematologji-095",
+    "question": "Geni bcr/abl eshte i pranishem ne:",
+    "answers": [
+      "Mielofibrozen idiaopatike",
+      "Trombocitemine paresore",
+      "Leukozen mieloide kronike",
+      "Policitemine vera",
+      "Mielodisplazi"
+    ],
+    "correct": 2,
+    "explanation": "Gjeni i fuzionit BCR-ABL (nga kromozomi Philadelphia) është karakteristik për LMK dhe kodon tirozinkinazë të aktivizuar vazhdimisht — objektivi i imatinibit."
+  },
+  {
+    "id": "licenca-hematologji-096",
+    "question": "Cili eshte nderlikimi me i shpeshte gjate ecurise se LMK:",
+    "answers": [
+      "anemia",
+      "infeksionet",
+      "hemoragjithe",
+      "adenopatia",
+      "transformimi akut"
+    ],
+    "correct": 4,
+    "explanation": "Evolucioni natyral i LMK është drejt fazës së përshpejtuar dhe krizës blastike (transformim akut), që ka prognozë të keqe — ndërlikimi më i rëndësishëm i sëmundjes."
+  },
+  {
+    "id": "licenca-hematologji-097",
+    "question": "Cili nga medikamentet e me poshteme perdoret ne mjekimin e LMK:",
+    "answers": [
+      "vinkristrine",
+      "adriamicine",
+      "endoxan",
+      "glivek",
+      "eritropoietine"
+    ],
+    "correct": 3,
+    "explanation": "Glivec (imatinib) është frenues i tirozinkinazës BCR-ABL, terapi e linjës së parë në LMK. Vinkristina, adriamicina, ciklofosfamidi (endoxan) përdoren në leukemi/limfoma të tjera."
+  },
+  {
+    "id": "licenca-hematologji-098",
+    "question": "Leukoza limfoide kronike nga ana imunologjike eshte:",
+    "answers": [
+      "95 % lmfocite T",
+      "95 % limfocite B",
+      "95 % limfocite jo B jo T"
+    ],
+    "correct": 1,
+    "explanation": "Në LLK >95% e rasteve janë proliferime të limfociteve B monoklonale (CD19+, CD5+, CD23+); format T janë të rralla."
+  },
+  {
+    "id": "licenca-hematologji-099",
+    "question": "Ne leukozen limfoide kronike kemi:",
+    "answers": [
+      "limfocitoze relative",
+      "limfocitoze absolute"
+    ],
+    "correct": 1,
+    "explanation": "LLK karakterizohet nga limfocitozë absolute (>5000 limfocite B klonale/mm³ në gjak periferik), shpesh me \"qeliza të shtypura\" (Gumprecht) në lamë."
+  },
+  {
+    "id": "licenca-hematologji-100",
+    "question": "Prania e qelizave Stermberg – Red flet per:",
+    "answers": [
+      "Tuberkuloz",
+      "Gaucher",
+      "Sarkoidoze",
+      "Hodgkin",
+      "Limfoma Malinje jo Hodgkin"
+    ],
+    "correct": 3,
+    "explanation": "Qelizat Reed-Sternberg (të mëdha, me bërthamë bilobate \"sy bufi\", CD15+ CD30+) janë karakteristike për limfomën Hodgkin."
+  },
+  {
+    "id": "licenca-hematologji-101",
+    "question": "Nga se varet me shume prognoza e semundies se Hodgkin:",
+    "answers": [
+      "Stadi klinik",
+      "Tipi histologjik",
+      "Shenjat evolutive"
+    ],
+    "correct": 0,
+    "explanation": "Prognoza e Hodgkin-it varet kryesisht nga stadi klinik (Ann Arbor) dhe prania e simptomave B; tipi histologjik ka rëndësi dytësore me terapitë moderne."
+  },
+  {
+    "id": "licenca-hematologji-102",
+    "question": "Cili nga ekzaminimet e me poshteme nevoitet per diagnozen e semundjes Hodgkin:",
+    "answers": [
+      "Mielograma",
+      "Citologjia",
+      "Biopsia e limfonodulit",
+      "Gjaku periferik",
+      "Biopsia e kockes"
+    ],
+    "correct": 2,
+    "explanation": "Diagnoza e Hodgkin-it bëhet me biopsi eksizionale të limfonodulit (histologji + imunohistokimi). Citologjia me gjilpërë nuk mjafton sepse nuk tregon arkitekturën."
+  },
+  {
+    "id": "licenca-hematologji-103",
+    "question": "Mieloma multiple eshte proliferim malinj:",
+    "answers": [
+      "Limfocitar",
+      "Leukocitar",
+      "Plazmocitar",
+      "Histiocitar"
+    ],
+    "correct": 2,
+    "explanation": "Mieloma multiple është proliferim malinj klonal i plazmociteve në palcë, që sekretojnë imunoglobulinë monoklonale (komponent M) dhe/ose zinxhirë të lehtë."
+  },
+  {
+    "id": "licenca-hematologji-104",
+    "question": "Hemofilia eshte patologji e:",
+    "answers": [
+      "Vazave",
+      "Trombociteve",
+      "Koagulimit"
+    ],
+    "correct": 2,
+    "explanation": "Hemofilia është çrregullim i koagulimit (deficit i faktorit VIII – A, ose IX – B), jo i enëve apo trombociteve."
+  },
+  {
+    "id": "licenca-hematologji-105",
+    "question": "Cili nga ekzaminimet e me poshteme duhet per vendosien e diagnozes se hemofilise:",
+    "answers": [
+      "numeri i trombociteve",
+      "koha e hemoragjise",
+      "prova e llastikut",
+      "koha e koagulimit",
+      "fibrinogjeni"
+    ],
+    "correct": 3,
+    "explanation": "Në hemofili zgjatet koha e koagulimit/aPTT, ndërsa trombocitet, koha e gjakderdhjes, prova e lakut dhe fibrinogjeni janë normale. Konfirmohet me dozimin e faktorëve VIII/IX."
+  },
+  {
+    "id": "licenca-hematologji-106",
+    "question": "Ne purpuren trombocitopenike idiopatike vendi i shkatrimit te trombociteve eshte:",
+    "answers": [
+      "hapsirat brenda vazave",
+      "shpretka",
+      "hepari",
+      "veshka",
+      "zemra"
+    ],
+    "correct": 1,
+    "explanation": "Në PTI trombocitet e mbuluara me autoantitrupa (anti-GPIIb/IIIa) shkatërrohen kryesisht në shpretkë nga makrofagët — prandaj splenektomia është opsion terapeutik."
+  },
+  {
+    "id": "licenca-hematologji-107",
+    "question": "Purpura trombocitopenike idiopatike mjekohet me:",
+    "answers": [
+      "plazem te fresket",
+      "hemotransfuzion",
+      "kortizonike",
+      "krioprecipitat",
+      "Antibiotike"
+    ],
+    "correct": 2,
+    "explanation": "PTI trajtohet në radhë të parë me kortikosteroide (prednizon) dhe/ose imunoglobulina IV; në rezistencë splenektomi, rituksimab, agonistë të receptorit të trombopoietinës."
+  },
+  {
+    "id": "licenca-hematologji-108",
+    "question": "Mutacioni JAK 2 V617F gjendet ne:",
+    "answers": [
+      "Leucemine mieloide kronike",
+      "Policitemine Vera",
+      "Leucemite Akute",
+      "Mielodisplasite",
+      "Myeloma Multiple"
+    ],
+    "correct": 1,
+    "explanation": "Mutacioni JAK2 V617F gjendet në >95% të policitemisë vera dhe në ~50–60% të trombocitemisë esenciale e mielofibrozës primare. Në mielodisplazitë është i rrallë. Çelësi (D) duket gabim; përgjigja e saktë është policitemia vera."
+  }
+]

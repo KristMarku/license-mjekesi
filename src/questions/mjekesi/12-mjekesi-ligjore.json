@@ -1,0 +1,653 @@
+[
+  {
+    "id": "licenca-mjekesi-ligjore-001",
+    "question": "Për qëllime anatomopatologjike dhe mjekoligjore, asnjë kufomë nuk mund ti nënshtrohet kryerjes së autopsisë pa kaluar të paktën:",
+    "answers": [
+      "4 orë nga vdekja",
+      "6 orë nga vdekja",
+      "12 orë nga vdekja",
+      "18 orë nga vdekja",
+      "24 orë nga vdekja"
+    ],
+    "correct": 2,
+    "explanation": "Sipas legjislacionit (ligji \"Për autopsitë\"), autopsia nuk kryhet para se të kenë kaluar të paktën 12 orë nga vdekja, kohë e nevojshme që të shfaqen shenjat e sigurta të vdekjes biologjike (njollat dhe shtangimi kufomor)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-002",
+    "question": "Cila nga shënjat e mëposhtme është patognomonike në vërtetimin e saktë dhe me vlerë ligjore të instalimit te vdekjes biologjike:",
+    "answers": [
+      "Humbja e ndërgjegjies",
+      "Ndalimi I frymëmarrjes dhe të qarkullimit të gjakut",
+      "Shfaqja e njollave hipostazike",
+      "Paraliza ndjesore dhe motore",
+      "Humbja e refleksit corneal"
+    ],
+    "correct": 2,
+    "explanation": "Njollat hipostatike (kufomore) janë shenjë e sigurt (patognomonike) e vdekjes biologjike, sepse vijnë nga ndalimi definitiv i qarkullimit dhe sedimentimi i gjakut. Humbja e vetëdijes, apnea dhe arefleksia mund të ndodhin edhe në vdekje të dukshme/klinike."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-003",
+    "question": "Kush ka të drejtë të plotesojë një skedë vdekjeje, në rast të një vdekje natyrore:",
+    "answers": [
+      "Vetëm mjeku ligjor",
+      "Vetëm mjeku kurues",
+      "Vetëm mjeku anatomopatolog",
+      "Çdo mjek I zakonshëm",
+      "Vetëm mjeku I familjes"
+    ],
+    "correct": 3,
+    "explanation": "Në vdekjen natyrore, skeda e vdekjes plotësohet nga çdo mjek që ka konstatuar vdekjen (mjeku kurues, i familjes, i spitalit); në vdekjet e dhunshme ose të dyshimta plotësohet nga mjeku ligjor."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-004",
+    "question": "Në plagët e shkaktuara nga armët e zjarrit, vrima e hyrjes ndryshon nga vrima e daljes :",
+    "answers": [
+      "Paraqet gjithmonë një rreth dërmishtjeje",
+      "Ka diametër të barabarte me kalibrin e predhës(plumbit)",
+      "Paraqet përmasa më të mëdha",
+      "Ka gjithmonë pamjen e një ylli"
+    ],
+    "correct": 0,
+    "explanation": "Vrima e hyrjes së plumbit ka gjithmonë një brez gërvishtjeje/kontuzioni (\"unaza e fshirjes/dërmishtjes\") nga fërkimi i predhës me lëkurën; vrima e daljes është zakonisht më e madhe, e çrregullt, pa këtë brez."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-005",
+    "question": "Forma e ekimozës:",
+    "answers": [
+      "Riprodhon gjithmonë në mënyre të saktë sipërfaqjen e mjetit goditës",
+      "Tregon intensitetin e forcës goditëse",
+      "Varet nga mosha e të dëmtuarit",
+      "Varet nga struktura e veçantë anatomike e regjionit dhe sasisë së gjakut të derdhur.",
+      "Varet nga seksi I të dëmtuarit"
+    ],
+    "correct": 3,
+    "explanation": "Forma dhe përmasat e ekimozës varen nga struktura anatomike e zonës (indi i butë, dendësia e enëve) dhe nga sasia e gjakut të derdhur; vetëm rrallë riprodhon formën e mjetit goditës."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-006",
+    "question": "Njollat kufomore:",
+    "answers": [
+      "Gjënden gjithmonë vetëm në pjesët e poshtme të trupit",
+      "Janë tregues të një vdekje nga dhuna",
+      "Paraqesin gjithmonë të njëjtën ngjyrë",
+      "Janë gjithmonë të domozdoshme për të kuptuar shkakun e vdekjes",
+      "Janë shënjë e sigurtë e vdekjes biologjike"
+    ],
+    "correct": 4,
+    "explanation": "Njollat kufomore janë shenjë e sigurt e vdekjes biologjike; lokalizohen në pjesët e pjerrëta sipas pozicionit të kufomës, ngjyra ndryshon sipas shkakut (p.sh. e kuqe e çelur në CO), dhe nuk tregojnë domosdoshmërisht vdekje të dhunshme."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-007",
+    "question": "Asnjë personel mjekësor nuk mund ti nënshtrohet një ndjekje penale, në se veprimi ose mosveprimi I tij në dëm të pacientëve nuk është I parashikuar në:",
+    "answers": [
+      "Kodin e Punës",
+      "Kodin Deontologjik",
+      "Kodin Penal",
+      "Kodin Civil"
+    ],
+    "correct": 2,
+    "explanation": "Parimi i ligjshmërisë (\"nullum crimen sine lege\"): askush, as personeli mjekësor, nuk ndiqet penalisht për një veprim/mosveprim që nuk parashikohet si vepër penale në Kodin Penal."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-008",
+    "question": "Shenjat e menjëhershme të vdekjes konsiderohen:",
+    "answers": [
+      "Njollat kufomore",
+      "Zbehja dhe humbja e elasticitetit të lëkurës.",
+      "Shtangësia kufomore",
+      "Ftohja kufomore PS (B)"
+    ],
+    "correct": 1,
+    "explanation": "Shenjat e hershme/menjëhershme të vdekjes janë zbehja e lëkurës dhe humbja e elasticitetit (tonusit) të saj, me humbje të reflekseve; njollat kufomore, shtangimi dhe ftohja janë shenja të mëvonshme (të sigurta)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-009",
+    "question": "Të ashtëquajturat “ plagë mbrojtëse “, janë karakteristike:",
+    "answers": [
+      "Për vrasjet.",
+      "Për vetvrasjet.",
+      "Për aksidentet.",
+      "Për rastet fatkeqe"
+    ],
+    "correct": 0,
+    "explanation": "Plagët mbrojtëse (në pëllëmbë, gishta, parakrah) lindin kur viktima përpiqet të mbrohet nga sulmuesi — karakteristike për vrasjet."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-010",
+    "question": "Plaga prerëse karakterizohet nga:",
+    "answers": [
+      "Buzë të rregullta.",
+      "Kënde të gjera.",
+      "Mbizotërim i thellësisë ndaj përmasave të gjatësisë.",
+      "Buzët të kontuzionuara"
+    ],
+    "correct": 0,
+    "explanation": "Plaga prerëse (nga mjet me teh) ka buzë të rregullta, të drejta, pa kontuzion, kënde të mprehta dhe gjatësi më të madhe se thellësia; hemorragji e bollshme."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-011",
+    "question": "Kufoma dekompozohet më shpejtë kur qëndron:",
+    "answers": [
+      "Në mjedis të jashtëm në siperfaqen e tokës.",
+      "I groposur nën tokë.",
+      "I zhytur në ujë.",
+      "Lundron në siperfaqen e ujit"
+    ],
+    "correct": 0,
+    "explanation": "Sipas rregullit të Casper-it, kufoma dekompozohet më shpejt në ajër të hapur (1 javë në ajër ≈ 2 javë në ujë ≈ 8 javë nën tokë), për shkak të temperaturës, oksigjenit dhe insekteve."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-012",
+    "question": "Në rastet e vdekjeve të dhunëshme, “Skeda e Vdekjes” plotesohet nga:",
+    "answers": [
+      "Mjeku i familjes.",
+      "Mjeku i poliklinikës.",
+      "Mjeku ligjor.",
+      "Prokurori."
+    ],
+    "correct": 2,
+    "explanation": "Në vdekjet e dhunshme (vrasje, vetëvrasje, aksidente) ose të dyshimta, skeda e vdekjes plotësohet nga mjeku ligjor pas ekspertimit/autopsisë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-013",
+    "question": "Zhvillimi i “proçesit të sapunifikimit” të një kufome të varrosur ndodh në mjedise :",
+    "answers": [
+      "Tokë me aciditet te lartë.",
+      "Tokë moçalore.",
+      "Tokë argjilore.",
+      "Tokë rënore"
+    ],
+    "correct": 1,
+    "explanation": "Sapunifikimi (adipocera) ndodh në mjedise të lagështa me pak oksigjen: tokë moçalore, ujë, varre të lagështa, ku yndyrnat e trupit hidrolizohen dhe kthehen në substancë dylli."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-014",
+    "question": "Të ashtëquajturat “ plagë hezituese “, janë karakteristike :",
+    "answers": [
+      "Për vrasjet",
+      "Për vetvrasje",
+      "Për aksidentet.",
+      "Për rastet fatkeqe"
+    ],
+    "correct": 1,
+    "explanation": "Plagët hezituese (prerje sipërfaqësore të shumta, paralele, pranë plagës vdekjeprurëse — p.sh. në kyçin e dorës ose qafë) janë karakteristike për vetëvrasjet."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-015",
+    "question": "Fraktura e kubesë së kafkes në trajtën e “ pëlhures së merimangës” është karakteristike në :",
+    "answers": [
+      "Goditje me mjet të fortë",
+      "Rrezimet prej së larti",
+      "Goditje me mjet çarës.",
+      "Qitjet me armë zjarri"
+    ],
+    "correct": 1,
+    "explanation": "Frakturat e kubesë së kafkës në formë \"rrjete merimange\" (fraktura rrezatuese dhe koncentrike) lindin nga goditje me sipërfaqe të gjerë dhe forcë të madhe, si në rëniet nga lartësia."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-016",
+    "question": "Vrima e daljes në qitjet me armë zjarri në largësi, karakterizohet :",
+    "answers": [
+      "Permasa të mëdha të plagës.",
+      "Depozitim i faktoreve plotësues të qitjes.",
+      "Prania e brezit të fshirjes .",
+      "Buzët e plagës janë të përveshura nga brënda"
+    ],
+    "correct": 0,
+    "explanation": "Në qitjet nga larg, vrima e daljes është zakonisht më e madhe dhe e çrregullt (plumbi i deformuar/i rrotulluar dhe fragmente kockore), me buzë të përveshura nga jashtë, pa brez fshirjeje dhe pa faktorë plotësues të qitjes."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-017",
+    "question": "E ashtuquajtura “ lekura e pates “ është shenjë karakteristike që shihet në siperfaqen e lëkurës së kufomës :",
+    "answers": [
+      "Në rastin e varrjes në litar",
+      "Në rastin e djegjes nga zjarri (djegiet)",
+      "Në rastin e mbytjes në lëngje",
+      "Në rastin e elektrotraumës"
+    ],
+    "correct": 2,
+    "explanation": "\"Lëkura e patës\" (cutis anserina — kontraktim i muskujve erektorë të qimeve) shihet në kufomat e mbytura në ujë (sidomos në ujë të ftohtë), si dhe në lëkurën e duarve \"lëkura e rrobalarëses\" pas qëndrimit të gjatë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-018",
+    "question": "Vepra penale e mjekimit të pakujdesshëm ka për bazë :",
+    "answers": [
+      "Gabimin mjekësor.",
+      "Vetëbesimin e tepruar mjekësor.",
+      "Fatkeqsinë mjekësore.",
+      "Jatrogjenitë."
+    ],
+    "correct": 1,
+    "explanation": "Mjekimi i pakujdesshëm si vepër penale ka për bazë vetëbesimin e tepruar (mjeku parashikon pasojën, por shpreson me mendjelehtësi se do ta shmangë), krahas neglizhencës, pakujdesisë dhe paaftësisë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-019",
+    "question": "Një kufomë e mbytur në një mjedis ujor( liqen,det ) ka mundësi të dalë në siperfaqje me shpejt kur është :",
+    "answers": [
+      "Një konstrukt trupor i dhjamosur,",
+      "Një konstrukt trupor i dobët,",
+      "Një konstrukt trupor mesatar ?",
+      "Një trup fëmije"
+    ],
+    "correct": 0,
+    "explanation": "Kufomat e dhjamosura dalin më shpejt në sipërfaqe të ujit (dendësi më e ulët dhe formim më i shpejtë i gazeve të kalbjes); fëmijët dhe të dobëtit qëndrojnë më gjatë në fund."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-020",
+    "question": "Prova materiale biologjike eshte :",
+    "answers": [
+      "Pështyma .",
+      "Predha",
+      "Gjurmët e gishtërinjve.",
+      "Teshat."
+    ],
+    "correct": 0,
+    "explanation": "Prova materiale biologjike është ajo me origjinë nga organizmi: pështyma, gjaku, sperma, qimet, indet (të dobishme për ADN). Predha, gjurmët e gishtave dhe teshat janë prova jo-biologjike."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-021",
+    "question": "Sa duhet të jetë përqëndrimi i karboksihemoglobinës në gjak (helmimet nga oksidi karbonit) që të japë vdekje :",
+    "answers": [
+      "deri ne 10%,",
+      "deri 20%,",
+      "deri 30%,",
+      "deri 40% ?"
+    ],
+    "correct": 3,
+    "explanation": "Përqendrimi i karboksihemoglobinës mbi ~40% (zakonisht >50–60%) jep vdekje; 10–20% jep cefale, 30–40% konfuzion, sinkopë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-022",
+    "question": "Asifiksia mekanike nga varrja haset në praktikë si rast :",
+    "answers": [
+      "Vrasjeje",
+      "Vetëvrasjeje",
+      "Aksidentale",
+      "Fatkeqësi"
+    ],
+    "correct": 1,
+    "explanation": "Varja (asfiksia mekanike me lak ku shtrëngon pesha e trupit) në praktikë është kryesisht formë vetëvrasjeje; vrasjet me varje janë shumë të rralla."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-023",
+    "question": "“Maska ekimotike “ në fytyrë shkaktohet nga traumat :",
+    "answers": [
+      "Mekanike",
+      "Kimike,",
+      "Termike",
+      "Asfiktike"
+    ],
+    "correct": 3,
+    "explanation": "Maska ekimotike (cianozë dhe petekie të shumta në fytyrë e qafë) lind nga asfiksia mekanike me kompresion toraco-abdominal ose shtrëngim të qafës (stazë venoze akute)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-024",
+    "question": "Brazda e strangulacionit në qafën e viktimës në varrjet gjendet :",
+    "answers": [
+      "Në nivelin e mollës së Adamit",
+      "Sipër këtij niveli",
+      "Poshtë këtij niveli",
+      "Asnjera"
+    ],
+    "correct": 1,
+    "explanation": "Në varje, brazda e strangulacionit gjendet zakonisht mbi nivelin e kërcit tiroid (\"mollës së Adamit\"), oblike, që ngjitet drejt nyjës; në mbytjen me lak është horizontale dhe zakonisht më poshtë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-025",
+    "question": "Flokët (qimet) merren si mostra për të përcaktuar llojin e helmit në rastet e helmimeve me :",
+    "answers": [
+      "Fostoksinë.",
+      "Arsenik.",
+      "Oksid karboni.",
+      "Cianide."
+    ],
+    "correct": 1,
+    "explanation": "Arseniku depozitohet në qime dhe thonj (lidhet me grupet sulfhidrile të keratinës), ndaj analiza e flokëve lejon diagnozën e helmimit kronik dhe datimin e ekspozimit."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-026",
+    "question": "E ashtuquqjtura “Lafsha hemoragjike “është shenjë karakteristike e :",
+    "answers": [
+      "Mbytjes me duar",
+      "Mbytjes me lak",
+      "Varjes",
+      "Mbytja në lëngje"
+    ],
+    "correct": 2,
+    "explanation": "\"lafsha hemoragjike\" (hemoragji në indet e buta dhe në buzët e brazdës, si \"jakë\" hemoragjike) është shenjë karakteristike e varjes, që tregon se ka ndodhur gjatë jetës."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-027",
+    "question": "Shenja e figurës së Lichtenbergut është karakteristike në vdekjet nga :",
+    "answers": [
+      "Helmimet.",
+      "Rrufeja.",
+      "Mbytja në lëngjet",
+      "Hipotermia"
+    ],
+    "correct": 1,
+    "explanation": "Figurat e Lichtenberg-ut (vija të kuqe në formë fieri/peme në lëkurë) janë patognomonike për goditjen nga rrufeja."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-028",
+    "question": "Ngjyra e kuqe e çelur e lëkurës së një kufome të helmuar është karakteristike për helmimet nga:",
+    "answers": [
+      "Heroina",
+      "Oksidi karbonit",
+      "Fostoksina",
+      "Zhiva"
+    ],
+    "correct": 1,
+    "explanation": "Ngjyra e kuqe e çelur (qershi) e lëkurës dhe njollave kufomore është karakteristike për helmimin me monoksid karboni (karboksihemoglobina); edhe cianuri e hipotermia mund të japin ngjyrë të kuqe."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-029",
+    "question": "Në varrjen e plotë, fytyra e viktimës paraqitet :",
+    "answers": [
+      "E zbehtë me pika hemoragjike,",
+      "E mavijosur",
+      "E zbehtë",
+      "E mavijosur me pika hemoragjike ?"
+    ],
+    "correct": 2,
+    "explanation": "Në varjen e plotë (typike), shtypja e arterieve karotide dhe vertebrale jep fytyrë të zbehtë; në varjen jo të plotë ose mbytjen me lak/duar, fytyra është cianotike me petekie."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-030",
+    "question": "E ashtuquajtura shenjë e “ çorapeve dhe dorezave te vdekjes” është karakteristike në vdekjet nga:",
+    "answers": [
+      "Elektriciteti",
+      "Mbytja në lëngjet",
+      "Helmimi",
+      "Rrufeja",
+      "Djegja"
+    ],
+    "correct": 1,
+    "explanation": "\"Doreza dhe çorape të vdekjes\" — shqitja e epidermës së duarve dhe këmbëve si dorashka — shihen në kufomat që kanë qëndruar gjatë në ujë (maceracion)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-031",
+    "question": "Konsiderohen helmet të gazta që merren me anën e frymëmarrjes:",
+    "answers": [
+      "Fostoksina",
+      "Arseniku",
+      "Parationi",
+      "Mërkuri"
+    ],
+    "correct": 0,
+    "explanation": "Fostoksina (fosfuri i aluminit) çliron në ajër/lagështi gazin fosfin (PH3), që merret me frymëmarrje dhe është shumë toksik. Arseniku, parationi dhe mërkuri merren zakonisht me rrugë të tjera (edhe pse mërkuri mund të avullojë)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-032",
+    "question": "Termi “bumper fracture”, në rastet e aksidenteve automobilistike është shenjë patognomonike në :",
+    "answers": [
+      "Thyerje të eshtrave të kokës.",
+      "Thyerje të brinjëve .",
+      "Thyerje të eshtrave të gjymtyrëve të sipërm .",
+      "Thyerje të eshtrave të gjymtyrëve të poshtëm"
+    ],
+    "correct": 3,
+    "explanation": "\"Bumper fracture\" (frakturë nga parakolpi i automjetit) është frakturë e kockave të gjymtyrëve të poshtme (tibia/fibula) te këmbësorët e goditur nga makina; lartësia e saj ndihmon në rindërtimin e aksidentit."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-033",
+    "question": "Në rastet e vdekjeve të dhunëshme, “Skeda e Vdekjes” plotesohet nga:",
+    "answers": [
+      "Mjeku i familjes.",
+      "Mjeku i poliklinikes.",
+      "Mjeku ligjor.",
+      "Prokurori."
+    ],
+    "correct": 2,
+    "explanation": "Në vdekjet e dhunshme, skeda e vdekjes plotësohet nga mjeku ligjor (pas ekspertimit/autopsisë)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-034",
+    "question": "“Maska ekimotike” e shkaktuar nga shtrëngimi i qafës krijohet nga shtypja :",
+    "answers": [
+      "Vetëm e arterieve",
+      "Vetëm e venave",
+      "Arterieve dhe venave njëkohësisht",
+      "Tubit të frymëmarrjes"
+    ],
+    "correct": 1,
+    "explanation": "Maska ekimotike në shtrëngimin e qafës lind kur shtypen vetëm venat (jugulare) ndërsa arteriet vazhdojnë të sjellin gjak → stazë dhe petekie mbi nivelin e shtrëngimit."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-035",
+    "question": "Brazda e strangulacionit në qafë në rastin e varrjes është :",
+    "answers": [
+      "Gjysëm rrethore vertikale",
+      "Gjysëm rrethore horizontale",
+      "Gjysëm rrethore oblike",
+      "Rrethore e plotë"
+    ],
+    "correct": 2,
+    "explanation": "Në varje brazda është gjysmërrethore (jo e plotë, ndërpritet në vendin e nyjës), oblike (ngjitet drejt nyjës), e vendosur lart; në mbytjen me lak është rrethore e plotë dhe horizontale."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-036",
+    "question": "Sindroma e ashtuquajtur “Vdekja blu” shihet në rastet e vdekjeve nga :",
+    "answers": [
+      "Rrufeja",
+      "Hipotermia",
+      "Mbytja në lëngje",
+      "Hipertermia"
+    ],
+    "correct": 2,
+    "explanation": "\"Vdekja blu\" (cianozë e theksuar) shihet në mbytjen në lëngje (asfiksia e vërtetë me aspirim uji), ndryshe nga \"vdekja e bardhë\" (sinkopale) pa aspirim."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-037",
+    "question": "Diatomet ( planktomet) janë të rëndësishme për të përcaktuar shkakun e vdekjes në rastet :",
+    "answers": [
+      "E hipotermisë",
+      "Të mbytjes në lëngje",
+      "E helmimit",
+      "Djegjes ?"
+    ],
+    "correct": 1,
+    "explanation": "Gjetja e diatomeve (planktonit) në palcën e kockave, veshka, mëlçi tregon se viktima ka marrë frymë në ujë kur ishte gjallë → konfirmon mbytjen në lëngje."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-038",
+    "question": "Përcaktohet si plagosje e lehte, humbja e aftësisë së përkohshme në punë :",
+    "answers": [
+      "Deri në 9 ditë.",
+      "Deri në 3 ditë",
+      "Mbi 9 ditë",
+      "Mbi 19 ditë"
+    ],
+    "correct": 2,
+    "explanation": "Sipas Kodit Penal shqiptar, plagosja e lehtë është ajo që shkakton paaftësi të përkohshme në punë mbi 9 ditë (deri në kufijtë e plagosjes së rëndë); nën 9 ditë konsiderohet dëmtim i lehtë pa pasoja penale të njëjta."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-039",
+    "question": "E ashtuquajtura “ Pozë e boksjerit në mbrojtje” është shenjë karakteristike në vdekjet nga :",
+    "answers": [
+      "Rrufeja",
+      "Mbytja në lëngje",
+      "Djegja",
+      "Helmimi",
+      "Droga"
+    ],
+    "correct": 2,
+    "explanation": "\"Poza e boksierit\" (fleksion i gjymtyrëve) në kufomat e djegura vjen nga koagulimi i proteinave dhe kontraktimi i muskujve fleksorë nga nxehtësia; nuk tregon nëse personi ishte gjallë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-040",
+    "question": "Dukuria e “ metalizimit “ në lëkurë është karakteristike në :",
+    "answers": [
+      "Traumat mekanike",
+      "Traumat kimike",
+      "Traumat elektrike",
+      "Traumat asfiktike"
+    ],
+    "correct": 2,
+    "explanation": "Metalizimi i lëkurës (depozitim i grimcave metalike nga përçuesi) është karakteristik për traumat elektrike, krahas shenjës elektrike në vendin e hyrjes së rrymës."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-041",
+    "question": "Nga pikëvështrimi demografik,në një skedë vdekje, cila nga të dhënat e më poshtme është më e rëndësishmja për të vlerësuar vërtetësinë e mekanizmit të ardhjes së vdekjes :",
+    "answers": [
+      "Shkaku përfundimtar I vdekjes",
+      "Shkaku I ndërmjetëm I vdekjes",
+      "Shkaku fillestar I vdekjes",
+      "Vendi I vdekjes",
+      "Mosha e pacientit"
+    ],
+    "correct": 2,
+    "explanation": "Nga pikëpamja demografike-epidemiologjike, në skedën e vdekjes e dhëna më e rëndësishme është shkaku fillestar (bazë) i vdekjes — sëmundja ose dëmtimi që nisi zinxhirin e ngjarjeve; mbi të bazohen statistikat e vdekshmërisë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-042",
+    "question": "Cila është detyra më parësore e një mjeku që kryen një autopsi mjekoligjore :",
+    "answers": [
+      "Të leshojë skedën e vdekjes",
+      "Të kryejë proçedura konservuese mbi kufomën",
+      "Të marrë pjesë në kqyrjen e kufomës në vendin e ngjarjes",
+      "Të përcaktojë shkakun e vdekjes",
+      "Të përcaktojë natyrën juridike të vdekjes"
+    ],
+    "correct": 3,
+    "explanation": "Detyra parësore e mjekut në autopsinë mjekoligjore është përcaktimi i shkakut të vdekjes (dhe mekanizmit); natyra juridike (vrasje, vetëvrasje, aksident) përcaktohet nga organet e drejtësisë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-043",
+    "question": "Tretja e plotë e përmbajtjes së stomakut si një e dhënë e rëndësishme në përcaktimin e kohës së vdekjes duke u orjentuar nga vakti i një ngrënie mesatare më të fundit para se personi të ketë vdekur ndodh :",
+    "answers": [
+      "Pas 2-3 orëve",
+      "Pas 4-6 orëve",
+      "Pas 10-12 orëve",
+      "Pas 24 orëve"
+    ],
+    "correct": 1,
+    "explanation": "Pas një vakti mesatar, stomaku zbrazet plotësisht rreth 4–6 orë më pas; gjendja e tretjes së përmbajtjes gastrike ndihmon në vlerësimin e kohës së vdekjes."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-044",
+    "question": "Bazuar në nenin nr.8 të ligjit “Për autopsitë” autopsia e një kufome duhet të kryhet :",
+    "answers": [
+      "Menjëherë pas vdekjes",
+      "2 orë pas vdekjes",
+      "8 orë pas vdekjes",
+      "12 orë pas vdekjes",
+      "24 orë pas vdekjes"
+    ],
+    "correct": 3,
+    "explanation": "Sipas nenit 8 të ligjit \"Për autopsitë\", autopsia kryhet jo më herët se 12 orë pas vdekjes (përveç rasteve të veçanta të përcaktuara me ligj)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-045",
+    "question": "45.Cila është pjesa më e rëndesishme e aktit mjekoligjor :",
+    "answers": [
+      "Hyrja",
+      "Përshkrimi",
+      "Diskutimi mjekoligjor",
+      "Konkluzioni"
+    ],
+    "correct": 1,
+    "explanation": "Pjesa më e rëndësishme e aktit mjekoligjor është përshkrimi (objektiv, i detajuar i gjetjeve), sepse mbi të mbështeten diskutimi dhe konkluzionet dhe ai mund të rishikohet nga ekspertë të tjerë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-046",
+    "question": "Kodi I ri i Etkës dhe Deontologjisë Mjekësore është miratuar :",
+    "answers": [
+      "Në vitin 1998",
+      "Në vitin 2002",
+      "Në vitin 2007",
+      "Në vitin 1994",
+      "Në vitin 2010"
+    ],
+    "correct": 1,
+    "explanation": "Kodi i ri i Etikës dhe Deontologjisë Mjekësore në Shqipëri është miratuar në vitin 2002."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-047",
+    "question": "Miratimi nga Kuvendi I Shqipërisë për krijimin e Urdhërit të Mjekut është bërë:",
+    "answers": [
+      "Në vitin 1996",
+      "Në vitin 2000",
+      "Në vitin 2005",
+      "Në vitin 2008",
+      "Në vitin 1994"
+    ],
+    "correct": 1,
+    "explanation": "Ligji për krijimin e Urdhrit të Mjekut në Shqipëri është miratuar nga Kuvendi në vitin 2000."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-048",
+    "question": "Etika Mjekësore është shkenca që studion :",
+    "answers": [
+      "Zbatimin e rregullave të protokolleve klinike të trajtimit të pacientit",
+      "Zbatimin e rregullave mjekësore të parandalimit të sëmundjeve",
+      "Parimet dhe normat e moralit mjekësor",
+      "Normat ligjore penale në fushën e mjekësisë."
+    ],
+    "correct": 2,
+    "explanation": "Etika mjekësore studion parimet dhe normat e moralit mjekësor (autonomia, dobishmëria, mosdëmtimi, drejtësia) që udhëheqin sjelljen e mjekut ndaj pacientit dhe shoqërisë."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-049",
+    "question": "Në cilin dokument ndërkombëtar përcaktohen kriteret lidhur me të Drejtat e Pacientit :",
+    "answers": [
+      "Në Deklaratën e Manilës",
+      "Në Deklaratën e Helsinkit",
+      "Në Deklaratën e Lisbonës",
+      "Në Deklaratën e Tokios"
+    ],
+    "correct": 2,
+    "explanation": "Deklarata e Lisbonës (Shoqata Botërore e Mjekëve, 1981) përcakton të drejtat e pacientit. Helsinki — kërkimi mbi njerëzit; Tokio — tortura; Manila — kërkimi në vendet në zhvillim."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-050",
+    "question": "Pakujdesia mjekësore e mjekut në trajtimin e pacientit ka për bazë :",
+    "answers": [
+      "Paaftësinë profesionale",
+      "Mungesën e etikës së sjelljes",
+      "Infrastrukturën mjekësore të pamjaftueshme",
+      "Vetëbesimin e tepruar",
+      "Mungesën e inisiativës"
+    ],
+    "correct": 3,
+    "explanation": "Pakujdesia mjekësore ka për bazë vetëbesimin e tepruar (mjeku parashikon rrezikun, por shpreson pa arsye se nuk do të ndodhë). Paaftësia profesionale është formë tjetër e fajit (imperitia)."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-051",
+    "question": "Në cilin rast personeli mjekësor duhet të rruajë sekretin mjekësor të pacientit ndaj opinionit publik:",
+    "answers": [
+      "Në sëmundjet psikike",
+      "Në sëmundjet tumorale",
+      "Në sëmundjet infektive",
+      "Në gravidancat ekstrauterine jashtëmartesore",
+      "Në sëmundjet e rënda dhe të pakurueshme"
+    ],
+    "correct": 3,
+    "explanation": "Sekreti mjekësor ndaj opinionit publik ruhet veçanërisht për gjendje intime që mund të dëmtojnë dinjitetin/jetën private të pacientes, si shtatzënia ekstrauterine jashtëmartesore. Sekreti mjekësor mbulon në përgjithësi të gjitha të dhënat shëndetësore."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-052",
+    "question": "Cila konsiderohet vdekje biologjike :",
+    "answers": [
+      "Vdekja klinike",
+      "Vdekja cerebrale",
+      "Vdekja letargjike",
+      "Vdekja celulare"
+    ],
+    "correct": 3,
+    "explanation": "Vdekja biologjike është vdekja qelizore — shkatërrimi i pakthyeshëm i qelizave dhe indeve (pas vdekjes klinike/cerebrale), kur shfaqen shenjat e sigurta të vdekjes."
+  },
+  {
+    "id": "licenca-mjekesi-ligjore-053",
+    "question": "Në ç’vënd dhe kur është kryer operacioni i parë transplantiv I zemrës:",
+    "answers": [
+      "Në Sh.B.A në vitin 1965",
+      "Në Angli në vitin 1970",
+      "Në Afrikën e Jugut në vitin 1967",
+      "Në Japoni në vitin 1971",
+      "Në Francë në vitin 1969"
+    ],
+    "correct": 2,
+    "explanation": "Transplanti i parë i zemrës te njeriu u krye nga Christiaan Barnard në Cape Town, Afrika e Jugut, më 3 dhjetor 1967."
+  }
+]
